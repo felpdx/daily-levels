@@ -1,5 +1,6 @@
 import { readFile } from 'node:fs/promises';
 import { pathToFileURL } from 'node:url';
+import { downloadWithCurl } from './read-article.mjs';
 import { readArticles } from './validate.mjs';
 
 const ENTITIES = { amp: '&', lt: '<', gt: '>', quot: '"', apos: "'" };
@@ -49,16 +50,20 @@ export function filterCandidates(items, publishedUrls) {
   });
 }
 
+// From the cloud, the BBC refuses this request but accepts curl, and CNBC does the opposite.
+export async function download(url) {
+  const response = await fetch(url, {
+    headers: { 'User-Agent': 'Mozilla/5.0 (compatible; DailyLevels/1.0)' },
+    signal: AbortSignal.timeout(20000),
+  }).catch(() => null);
+  return response?.ok ? response.text() : downloadWithCurl(url);
+}
+
 async function main() {
   const feeds = JSON.parse(await readFile('scripts/feeds.json', 'utf8'));
   const results = await Promise.all(feeds.map(async (feed) => {
     try {
-      const response = await fetch(feed.url, {
-        headers: { 'User-Agent': 'Mozilla/5.0 (compatible; DailyLevels/1.0)' },
-        signal: AbortSignal.timeout(20000),
-      });
-      if (!response.ok) throw new Error(`HTTP ${response.status}`);
-      return parseFeed(await response.text(), feed);
+      return parseFeed(await download(feed.url), feed);
     } catch (error) {
       console.error(`Feed com erro: ${feed.url}: ${error.message}`);
       return [];

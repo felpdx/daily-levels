@@ -33,10 +33,14 @@ export function extractText(html) {
   return best.length >= MIN_LENGTH ? best : paragraphsOf(html);
 }
 
+// curl, because The Hacker News answers 403 to Node's fetch but not to curl.
+export async function downloadWithCurl(url) {
+  const { stdout } = await run('curl', ['-sSLf', '-m', '20', '-A', USER_AGENT, url], { maxBuffer: 20e6 });
+  return stdout;
+}
+
 async function main() {
-  // curl, because The Hacker News answers 403 to Node's fetch but not to curl.
-  const { stdout } = await run('curl', ['-sSLf', '-m', '20', '-A', USER_AGENT, process.argv[2]], { maxBuffer: 20e6 });
-  const text = extractText(stdout);
+  const text = extractText(await downloadWithCurl(process.argv[2]));
   if (text.length < MIN_LENGTH) throw new Error('Texto insuficiente: provável paywall ou bloqueio');
   console.log(text);
 }

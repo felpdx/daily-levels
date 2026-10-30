@@ -1,8 +1,32 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { parseFeed, filterCandidates } from '../scripts/fetch-candidates.mjs';
+import { createServer } from 'node:http';
+import { parseFeed, filterCandidates, download } from '../scripts/fetch-candidates.mjs';
 
 const feed = { topic: 'hacking', source: 'The Hacker News' };
+
+async function withServer(handler, check) {
+  const server = createServer(handler);
+  await new Promise((resolve) => server.listen(0, '127.0.0.1', resolve));
+  try {
+    await check(`http://127.0.0.1:${server.address().port}/`);
+  } finally {
+    server.close();
+  }
+}
+
+test('download tries a browser User-Agent when the first request is refused', async () => {
+  const onlyBrowsers = (request, response) => {
+    const browser = request.headers['user-agent'].includes('Chrome');
+    response.writeHead(browser ? 200 : 403).end(browser ? 'feed' : 'no');
+  };
+  await withServer(onlyBrowsers, async (url) => assert.equal(await download(url), 'feed'));
+});
+
+test('download fails when every attempt is refused', async () => {
+  const refuseAll = (request, response) => response.writeHead(403).end();
+  await withServer(refuseAll, async (url) => assert.rejects(download(url)));
+});
 
 test('parseFeed reads CDATA and entities', () => {
   const xml = `<rss><channel><title>Feed</title>

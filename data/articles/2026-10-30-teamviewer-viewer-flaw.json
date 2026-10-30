@@ -1,0 +1,301 @@
+{
+  "id": "2026-10-30-teamviewer-viewer-flaw",
+  "topic": "hacking",
+  "source": {
+    "name": "The Hacker News",
+    "url": "https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html",
+    "publishedAt": "2026-10-30T15:17:28Z"
+  },
+  "levels": {
+    "1": {
+      "title": "A TeamViewer flaw can hurt the user",
+      "text": "TeamViewer is a program that lets one computer control another computer. A researcher found a flaw in it. A bad computer on the other side can crash the program of the person who controls it. On Windows, it can also run its own code. TeamViewer has fixed the flaw. People should update to version 15.83. No attacks are known."
+    },
+    "2": {
+      "title": "TeamViewer fixes a flaw that lets a remote computer attack its user",
+      "text": "TeamViewer has fixed a flaw that works in the opposite direction from what people expect. A computer that is being controlled can attack the computer that is controlling it. The flaw can crash the program, and on some systems it may also run code of the attacker's choice.\n\nA researcher named Omri Dar, from the company Remedio, showed that it can run code on Windows. The attacker only needs the user to start a remote session. No password is needed. The problem affects all versions before 15.83, including the September update.\n\nTeamViewer says it knows of no attacks, and the researcher did not release any attack code. The only fix is to update to version 15.83 or later."
+    },
+    "3": {
+      "title": "TeamViewer patches a flaw that lets a remote machine attack the person controlling it",
+      "text": "TeamViewer has fixed a high-severity flaw that turns a remote-control session upside down: the machine being controlled, known as the host, can attack the computer that connected to control it, known as the viewer. The bug, tracked as CVE-2026-111585, scored 8.8 out of 10.\n\nAccording to researcher Omri Dar of the security firm Remedio, the host tells the viewer the size of its screen image. The viewer uses that number to set aside memory, but the calculation can overflow and reserve too little space, so later screen data is written past the end. At the least, this crashes the session. On Windows, Remedio says it bypassed the system's built-in defences and ran its own code, although the demonstration used a stand-in for part of the attack data.\n\nThe attack needs no password and works in the default setup once the user accepts a session. It affects every version before 15.83, including the September security update. TeamViewer lists no workaround, so users must update. The company says it knew of no attacks when it published the fix, and Remedio did not release exploit code."
+    }
+  },
+  "glossary": {
+    "accept": {
+      "pt": "aceitar",
+      "forms": [
+        "accepts"
+      ]
+    },
+    "teamviewer": {
+      "pt": "TeamViewer, programa de acesso remoto"
+    },
+    "flaw": {
+      "pt": "falha",
+      "highlight": true
+    },
+    "hurt": {
+      "pt": "prejudicar; machucar"
+    },
+    "user": {
+      "pt": "usuário",
+      "forms": [
+        "users"
+      ]
+    },
+    "program": {
+      "pt": "programa"
+    },
+    "let": {
+      "pt": "deixar; permitir",
+      "forms": [
+        "lets"
+      ]
+    },
+    "computer": {
+      "pt": "computador"
+    },
+    "researcher": {
+      "pt": "pesquisador"
+    },
+    "side": {
+      "pt": "lado"
+    },
+    "crash": {
+      "pt": "travar; derrubar",
+      "forms": [
+        "crashes"
+      ],
+      "highlight": true
+    },
+    "windows": {
+      "pt": "Windows, sistema do computador"
+    },
+    "code": {
+      "pt": "código (de programa)"
+    },
+    "fix": {
+      "pt": "corrigir; correção",
+      "forms": [
+        "fixed",
+        "fixes"
+      ]
+    },
+    "update": {
+      "pt": "atualizar; atualização"
+    },
+    "version": {
+      "pt": "versão",
+      "forms": [
+        "versions"
+      ]
+    },
+    "attack": {
+      "pt": "ataque; atacar",
+      "forms": [
+        "attacks",
+        "attacker",
+        "attacker's"
+      ]
+    },
+    "remote": {
+      "pt": "remoto"
+    },
+    "opposite": {
+      "pt": "oposto"
+    },
+    "direction": {
+      "pt": "direção"
+    },
+    "expect": {
+      "pt": "esperar"
+    },
+    "system": {
+      "pt": "sistema",
+      "forms": [
+        "systems",
+        "system's"
+      ]
+    },
+    "choice": {
+      "pt": "escolha"
+    },
+    "omri": {
+      "pt": "Omri, nome próprio"
+    },
+    "dar": {
+      "pt": "Dar, sobrenome"
+    },
+    "remedio": {
+      "pt": "Remedio, empresa de segurança"
+    },
+    "session": {
+      "pt": "sessão"
+    },
+    "password": {
+      "pt": "senha"
+    },
+    "affect": {
+      "pt": "afetar",
+      "forms": [
+        "affects"
+      ]
+    },
+    "include": {
+      "pt": "incluir",
+      "forms": [
+        "including"
+      ]
+    },
+    "september": {
+      "pt": "setembro"
+    },
+    "release": {
+      "pt": "lançar; divulgar"
+    },
+    "patch": {
+      "pt": "corrigir (com atualização)",
+      "forms": [
+        "patches"
+      ],
+      "highlight": true
+    },
+    "machine": {
+      "pt": "máquina"
+    },
+    "severity": {
+      "pt": "gravidade"
+    },
+    "upside": {
+      "pt": "parte de cima"
+    },
+    "host": {
+      "pt": "anfitrião; máquina controlada"
+    },
+    "connect": {
+      "pt": "conectar",
+      "forms": [
+        "connected"
+      ]
+    },
+    "viewer": {
+      "pt": "quem visualiza; visualizador"
+    },
+    "bug": {
+      "pt": "erro de programa"
+    },
+    "track": {
+      "pt": "rastrear; catalogar",
+      "forms": [
+        "tracked"
+      ]
+    },
+    "score": {
+      "pt": "pontuar",
+      "forms": [
+        "scored"
+      ]
+    },
+    "according": {
+      "pt": "de acordo com"
+    },
+    "security": {
+      "pt": "segurança"
+    },
+    "firm": {
+      "pt": "empresa"
+    },
+    "size": {
+      "pt": "tamanho"
+    },
+    "screen": {
+      "pt": "tela"
+    },
+    "image": {
+      "pt": "imagem"
+    },
+    "set": {
+      "pt": "reservar; definir"
+    },
+    "aside": {
+      "pt": "de lado"
+    },
+    "memory": {
+      "pt": "memória"
+    },
+    "calculation": {
+      "pt": "cálculo"
+    },
+    "overflow": {
+      "pt": "estouro (de memória); transbordar",
+      "highlight": true
+    },
+    "reserve": {
+      "pt": "reservar"
+    },
+    "space": {
+      "pt": "espaço"
+    },
+    "data": {
+      "pt": "dados"
+    },
+    "past": {
+      "pt": "além de; passado"
+    },
+    "least": {
+      "pt": "menos"
+    },
+    "bypass": {
+      "pt": "contornar",
+      "forms": [
+        "bypassed"
+      ],
+      "highlight": true
+    },
+    "build": {
+      "pt": "construir",
+      "forms": [
+        "built"
+      ]
+    },
+    "defence": {
+      "pt": "defesa",
+      "forms": [
+        "defences"
+      ]
+    },
+    "demonstration": {
+      "pt": "demonstração"
+    },
+    "stand": {
+      "pt": "representante; substituto"
+    },
+    "setup": {
+      "pt": "configuração"
+    },
+    "default": {
+      "pt": "padrão"
+    },
+    "list": {
+      "pt": "listar",
+      "forms": [
+        "lists"
+      ]
+    },
+    "workaround": {
+      "pt": "solução alternativa",
+      "highlight": true
+    },
+    "publish": {
+      "pt": "publicar",
+      "forms": [
+        "published"
+      ]
+    },
+    "exploit": {
+      "pt": "código que explora uma falha",
+      "highlight": true
+    }
+  },
+  "date": "2026-10-30"
+}

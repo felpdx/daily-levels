@@ -15,6 +15,13 @@
       "source": "The Hacker News"
     },
     {
+      "id": "2026-10-30-teamviewer-viewer-flaw",
+      "date": "2026-10-30",
+      "topic": "hacking",
+      "title": "A TeamViewer flaw can hurt the user",
+      "source": "The Hacker News"
+    },
+    {
       "id": "2026-10-30-brazil-markets-lula-win",
       "date": "2026-10-30",
       "topic": "bolsa",
@@ -33,6 +40,13 @@
       "date": "2026-10-30",
       "topic": "mundo",
       "title": "China says a spy story is false",
+      "source": "BBC News"
+    },
+    {
+      "id": "2026-10-30-oleshky-ceasefire-evacuation",
+      "date": "2026-10-30",
+      "topic": "mundo",
+      "title": "People leave Oleshky during a ceasefire",
       "source": "BBC News"
     }
   ]

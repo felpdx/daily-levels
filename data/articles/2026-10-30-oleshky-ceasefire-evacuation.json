@@ -1,0 +1,351 @@
+{
+  "id": "2026-10-30-oleshky-ceasefire-evacuation",
+  "topic": "mundo",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-10-30T16:26:11Z"
+  },
+  "levels": {
+    "1": {
+      "title": "People leave Oleshky during a ceasefire",
+      "text": "Hundreds of people left the city of Oleshky on Friday. Russia holds the city, and life there is very hard. There is no gas, no electricity and no running water. A ceasefire made the trip safe. Melania Trump helped to arrange it. Buses took people out for four hours. Some people chose to stay. The ceasefire ends on Sunday."
+    },
+    "2": {
+      "title": "Hundreds leave Oleshky during a rare ceasefire",
+      "text": "Hundreds of people have left the city of Oleshky, which Russia controls, after a humanitarian ceasefire. Melania Trump, the US First Lady, helped to arrange it. The ceasefire began on Tuesday in the Kherson region, and it is the longest since the war began in 2022. It gave workers time to clear mines from the road out of the city.\n\nOn Friday, people had four hours to leave on 25 buses. The buses can carry up to 750 people. Several hundred people decided to stay, even though the city has no gas, electricity or running water. Officials say these people will receive aid.\n\nThe ceasefire ends on Sunday. The Kremlin says it does not plan to extend the truce to the rest of Ukraine."
+    },
+    "3": {
+      "title": "Hundreds evacuated from occupied Oleshky under a rare truce",
+      "text": "Hundreds of residents of Oleshky, a ruined city under Russian control, have been evacuated after a humanitarian ceasefire that Melania Trump, the US First Lady, helped to broker. The truce began on Tuesday across the Kherson region. It is the longest and widest ceasefire since Russia's invasion of Ukraine in 2022, and it allowed workers to clear mines from the road out of the city.\n\nOn Friday, residents had a four-hour window to board 25 buses, which could carry up to 750 people. Ukraine's human rights ombudsman, Dmytro Lubinets, and his Russian counterpart, Yana Lantratova, travelled to the city together. Lubinets is the first Ukrainian official to visit Russian-occupied areas since the war began. Many Ukrainians dislike seeing him next to a Russian official.\n\nSeveral hundred people chose to stay, although the city has no gas, electricity or running water. One woman told the BBC that her family would not leave because they could not take their animals. Russia says it has prepared dozens of tonnes of aid for them.\n\nThe ceasefire is due to end on Sunday. The Kremlin says the success of this truce does not mean it will accept a ceasefire in the rest of Ukraine."
+    }
+  },
+  "glossary": {
+    "oleshky": {
+      "pt": "Oleshky, cidade ocupada pela Rússia no sul da Ucrânia"
+    },
+    "ceasefire": {
+      "pt": "cessar-fogo",
+      "forms": [
+        "ceasefires"
+      ],
+      "highlight": true
+    },
+    "hundred": {
+      "pt": "centena; cem",
+      "forms": [
+        "hundreds"
+      ]
+    },
+    "friday": {
+      "pt": "sexta-feira"
+    },
+    "russia": {
+      "pt": "Rússia",
+      "forms": [
+        "russia's",
+        "russian"
+      ]
+    },
+    "hold": {
+      "pt": "controlar; manter",
+      "forms": [
+        "holds",
+        "held"
+      ]
+    },
+    "life": {
+      "pt": "vida"
+    },
+    "hard": {
+      "pt": "difícil"
+    },
+    "gas": {
+      "pt": "gás"
+    },
+    "electricity": {
+      "pt": "eletricidade"
+    },
+    "water": {
+      "pt": "água"
+    },
+    "trip": {
+      "pt": "viagem"
+    },
+    "safe": {
+      "pt": "seguro"
+    },
+    "melania": {
+      "pt": "Melania, nome próprio"
+    },
+    "trump": {
+      "pt": "Trump, sobrenome de Donald e Melania Trump"
+    },
+    "arrange": {
+      "pt": "organizar; combinar",
+      "forms": [
+        "arranged"
+      ],
+      "highlight": true
+    },
+    "bus": {
+      "pt": "ônibus",
+      "forms": [
+        "buses"
+      ]
+    },
+    "four": {
+      "pt": "quatro"
+    },
+    "hour": {
+      "pt": "hora",
+      "forms": [
+        "hours"
+      ]
+    },
+    "choose": {
+      "pt": "escolher",
+      "forms": [
+        "chose",
+        "chosen"
+      ]
+    },
+    "stay": {
+      "pt": "ficar"
+    },
+    "sunday": {
+      "pt": "domingo"
+    },
+    "rare": {
+      "pt": "raro"
+    },
+    "humanitarian": {
+      "pt": "humanitário",
+      "highlight": true
+    },
+    "lady": {
+      "pt": "senhora; primeira-dama (First Lady)"
+    },
+    "tuesday": {
+      "pt": "terça-feira"
+    },
+    "kherson": {
+      "pt": "Kherson, região do sul da Ucrânia"
+    },
+    "region": {
+      "pt": "região"
+    },
+    "long": {
+      "pt": "longo",
+      "forms": [
+        "longest"
+      ]
+    },
+    "war": {
+      "pt": "guerra"
+    },
+    "mine": {
+      "pt": "mina terrestre",
+      "forms": [
+        "mines"
+      ],
+      "highlight": true
+    },
+    "road": {
+      "pt": "estrada"
+    },
+    "carry": {
+      "pt": "levar; transportar"
+    },
+    "several": {
+      "pt": "vários"
+    },
+    "decide": {
+      "pt": "decidir",
+      "forms": [
+        "decided"
+      ]
+    },
+    "though": {
+      "pt": "embora"
+    },
+    "official": {
+      "pt": "autoridade; oficial",
+      "forms": [
+        "officials"
+      ]
+    },
+    "receive": {
+      "pt": "receber"
+    },
+    "aid": {
+      "pt": "ajuda humanitária",
+      "highlight": true
+    },
+    "kremlin": {
+      "pt": "Kremlin, governo da Rússia"
+    },
+    "extend": {
+      "pt": "estender; prolongar"
+    },
+    "truce": {
+      "pt": "trégua",
+      "highlight": true
+    },
+    "rest": {
+      "pt": "resto"
+    },
+    "ukraine": {
+      "pt": "Ucrânia",
+      "forms": [
+        "ukraine's",
+        "ukrainian",
+        "ukrainians"
+      ]
+    },
+    "evacuate": {
+      "pt": "evacuar; retirar",
+      "forms": [
+        "evacuated"
+      ],
+      "highlight": true
+    },
+    "occupy": {
+      "pt": "ocupar",
+      "forms": [
+        "occupied"
+      ]
+    },
+    "resident": {
+      "pt": "morador",
+      "forms": [
+        "residents"
+      ]
+    },
+    "ruin": {
+      "pt": "arruinar; destruir",
+      "forms": [
+        "ruined"
+      ]
+    },
+    "broker": {
+      "pt": "mediar um acordo",
+      "forms": [
+        "brokered"
+      ],
+      "highlight": true
+    },
+    "across": {
+      "pt": "por toda a extensão de"
+    },
+    "wide": {
+      "pt": "amplo",
+      "forms": [
+        "widest"
+      ]
+    },
+    "invasion": {
+      "pt": "invasão"
+    },
+    "allow": {
+      "pt": "permitir",
+      "forms": [
+        "allowed"
+      ]
+    },
+    "window": {
+      "pt": "janela; período de tempo"
+    },
+    "board": {
+      "pt": "embarcar"
+    },
+    "human": {
+      "pt": "humano"
+    },
+    "right": {
+      "pt": "direito",
+      "forms": [
+        "rights"
+      ]
+    },
+    "ombudsman": {
+      "pt": "ouvidor; defensor dos direitos humanos"
+    },
+    "dmytro": {
+      "pt": "Dmytro, nome próprio"
+    },
+    "lubinets": {
+      "pt": "Lubinets, defensor dos direitos humanos da Ucrânia"
+    },
+    "counterpart": {
+      "pt": "homólogo; equivalente"
+    },
+    "yana": {
+      "pt": "Yana, nome próprio"
+    },
+    "lantratova": {
+      "pt": "Lantratova, defensora dos direitos humanos da Rússia"
+    },
+    "travel": {
+      "pt": "viajar",
+      "forms": [
+        "travelled"
+      ]
+    },
+    "visit": {
+      "pt": "visitar"
+    },
+    "area": {
+      "pt": "área",
+      "forms": [
+        "areas"
+      ]
+    },
+    "dislike": {
+      "pt": "não gostar de"
+    },
+    "bbc": {
+      "pt": "BBC, empresa de notícias do Reino Unido"
+    },
+    "family": {
+      "pt": "família"
+    },
+    "animal": {
+      "pt": "animal",
+      "forms": [
+        "animals"
+      ]
+    },
+    "prepare": {
+      "pt": "preparar",
+      "forms": [
+        "prepared"
+      ]
+    },
+    "dozen": {
+      "pt": "dúzia",
+      "forms": [
+        "dozens"
+      ]
+    },
+    "tonne": {
+      "pt": "tonelada",
+      "forms": [
+        "tonnes"
+      ]
+    },
+    "due": {
+      "pt": "previsto"
+    },
+    "success": {
+      "pt": "sucesso"
+    },
+    "accept": {
+      "pt": "aceitar",
+      "forms": [
+        "accepts"
+      ]
+    }
+  },
+  "date": "2026-10-30"
+}

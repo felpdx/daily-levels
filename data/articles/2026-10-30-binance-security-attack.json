@@ -1,0 +1,363 @@
+{
+  "id": "2026-10-30-binance-security-attack",
+  "topic": "hacking",
+  "source": {
+    "name": "The Hacker News",
+    "url": "https://thehackernews.com/2026/10/binance-suffers-security-breach.html",
+    "publishedAt": "2026-10-30T04:14:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "A big attack on Binance",
+      "text": "Binance is the biggest cryptocurrency company in the world. Criminals attacked it this week. The attack touched about $6.3 billion in digital money. Binance says that nearly $3 billion is now frozen, so the criminals cannot move it. The company thinks that the attack started on the laptop of one engineer. Binance says it will pay for all the losses."
+    },
+    "2": {
+      "title": "Security attack hits $6.3 billion at Binance",
+      "text": "Binance, the world's biggest cryptocurrency exchange, said on Thursday that a security attack had affected about $6.3 billion of assets. Nearly $3 billion of that money has been frozen so far, which means that it cannot be moved. Two other crypto companies, Tether and Circle, helped to freeze part of it.\n\nThe first investigation suggests that the problem may have started with an engineer's laptop. The attacker used it to enter a Binance system and send withdrawals without permission. Binance says that it has found no sign that its private keys were stolen. It also promises to cover all the losses. The company expects customers to take out their money again in about 48 hours."
+    },
+    "3": {
+      "title": "Binance freezes nearly $3 billion after a $6.3 billion security breach",
+      "text": "Binance, the world's largest cryptocurrency exchange, revealed on Thursday that a security incident had affected roughly $6.3 billion in assets. Close to $3 billion has already been frozen on the blockchain, and the stablecoin issuers Tether and Circle said they had blocked more than 1.5 billion USDT and 800 million USDC linked to the case.\n\nAccording to an early investigation, the attacker may have compromised a laptop belonging to a DevOps engineer. That access reportedly opened a service container, which was then used to submit withdrawal requests that nobody had approved. Binance stressed that there is no evidence of a leak of wallet private keys.\n\nThe company has promised to cover every loss through its Secure Asset Fund for Users, known as SAFU, together with its own money. It is also working with law enforcement to identify those responsible. Binance expects withdrawals to return within 48 hours, once its team finishes improving the security of the service."
+    }
+  },
+  "date": "2026-10-30",
+  "glossary": {
+    "attack": {
+      "pt": "ataque; atacar",
+      "forms": [
+        "attacked",
+        "attacks"
+      ],
+      "highlight": true
+    },
+    "binance": {
+      "pt": "Binance, corretora de criptomoedas"
+    },
+    "cryptocurrency": {
+      "pt": "criptomoeda"
+    },
+    "criminal": {
+      "pt": "criminoso",
+      "forms": [
+        "criminals"
+      ]
+    },
+    "touch": {
+      "pt": "atingir, tocar",
+      "forms": [
+        "touched"
+      ]
+    },
+    "digital": {
+      "pt": "digital"
+    },
+    "nearly": {
+      "pt": "quase"
+    },
+    "freeze": {
+      "pt": "congelar, bloquear",
+      "forms": [
+        "freezes",
+        "frozen",
+        "froze"
+      ],
+      "highlight": true
+    },
+    "laptop": {
+      "pt": "notebook",
+      "highlight": true
+    },
+    "engineer": {
+      "pt": "engenheiro",
+      "highlight": true
+    },
+    "loss": {
+      "pt": "perda, prejuízo",
+      "forms": [
+        "losses"
+      ],
+      "highlight": true
+    },
+    "security": {
+      "pt": "segurança"
+    },
+    "hit": {
+      "pt": "atingir",
+      "forms": [
+        "hits"
+      ]
+    },
+    "exchange": {
+      "pt": "corretora; bolsa de valores",
+      "highlight": true
+    },
+    "thursday": {
+      "pt": "quinta-feira"
+    },
+    "affect": {
+      "pt": "afetar",
+      "forms": [
+        "affected",
+        "affects"
+      ]
+    },
+    "asset": {
+      "pt": "ativo, bem de valor",
+      "forms": [
+        "assets"
+      ],
+      "highlight": true
+    },
+    "crypto": {
+      "pt": "cripto, criptomoeda"
+    },
+    "tether": {
+      "pt": "Tether, empresa de criptomoedas"
+    },
+    "circle": {
+      "pt": "Circle, empresa de criptomoedas"
+    },
+    "investigation": {
+      "pt": "investigação"
+    },
+    "suggest": {
+      "pt": "sugerir",
+      "forms": [
+        "suggests"
+      ]
+    },
+    "attacker": {
+      "pt": "atacante, invasor"
+    },
+    "enter": {
+      "pt": "entrar"
+    },
+    "system": {
+      "pt": "sistema"
+    },
+    "withdrawal": {
+      "pt": "saque",
+      "forms": [
+        "withdrawals"
+      ],
+      "highlight": true
+    },
+    "permission": {
+      "pt": "permissão"
+    },
+    "sign": {
+      "pt": "sinal"
+    },
+    "private": {
+      "pt": "privado (private key: chave privada)"
+    },
+    "key": {
+      "pt": "chave",
+      "forms": [
+        "keys"
+      ]
+    },
+    "steal": {
+      "pt": "roubar",
+      "forms": [
+        "stole",
+        "stolen",
+        "steals"
+      ]
+    },
+    "promise": {
+      "pt": "prometer; promessa",
+      "forms": [
+        "promised",
+        "promises"
+      ]
+    },
+    "cover": {
+      "pt": "cobrir"
+    },
+    "expect": {
+      "pt": "esperar, prever",
+      "forms": [
+        "expected",
+        "expecting",
+        "expects"
+      ]
+    },
+    "customer": {
+      "pt": "cliente",
+      "forms": [
+        "customers"
+      ]
+    },
+    "hour": {
+      "pt": "hora",
+      "forms": [
+        "hours"
+      ]
+    },
+    "breach": {
+      "pt": "violação, invasão",
+      "highlight": true
+    },
+    "reveal": {
+      "pt": "revelar",
+      "forms": [
+        "revealed"
+      ]
+    },
+    "incident": {
+      "pt": "incidente"
+    },
+    "roughly": {
+      "pt": "aproximadamente"
+    },
+    "blockchain": {
+      "pt": "blockchain, registro digital das transações"
+    },
+    "stablecoin": {
+      "pt": "stablecoin, criptomoeda ligada ao dólar"
+    },
+    "issuer": {
+      "pt": "emissor",
+      "forms": [
+        "issuers"
+      ]
+    },
+    "block": {
+      "pt": "bloquear",
+      "forms": [
+        "blocked"
+      ]
+    },
+    "usdt": {
+      "pt": "USDT, criptomoeda da Tether ligada ao dólar"
+    },
+    "usdc": {
+      "pt": "USDC, criptomoeda da Circle ligada ao dólar"
+    },
+    "link": {
+      "pt": "ligar",
+      "forms": [
+        "linked"
+      ]
+    },
+    "case": {
+      "pt": "caso"
+    },
+    "according": {
+      "pt": "de acordo com (according to)"
+    },
+    "compromise": {
+      "pt": "invadir, comprometer",
+      "forms": [
+        "compromised"
+      ]
+    },
+    "belong": {
+      "pt": "pertencer",
+      "forms": [
+        "belonging"
+      ]
+    },
+    "devops": {
+      "pt": "DevOps, área que cuida de sistemas e servidores"
+    },
+    "access": {
+      "pt": "acesso"
+    },
+    "reportedly": {
+      "pt": "segundo relatos"
+    },
+    "open": {
+      "pt": "abrir",
+      "forms": [
+        "opened"
+      ]
+    },
+    "service": {
+      "pt": "serviço"
+    },
+    "container": {
+      "pt": "contêiner, ambiente isolado de software"
+    },
+    "submit": {
+      "pt": "enviar"
+    },
+    "request": {
+      "pt": "pedido",
+      "forms": [
+        "requests"
+      ]
+    },
+    "approve": {
+      "pt": "aprovar",
+      "forms": [
+        "approved"
+      ]
+    },
+    "stress": {
+      "pt": "destacar",
+      "forms": [
+        "stressed"
+      ]
+    },
+    "evidence": {
+      "pt": "evidência, prova"
+    },
+    "leak": {
+      "pt": "vazamento"
+    },
+    "wallet": {
+      "pt": "carteira digital"
+    },
+    "secure": {
+      "pt": "seguro"
+    },
+    "fund": {
+      "pt": "fundo"
+    },
+    "user": {
+      "pt": "usuário",
+      "forms": [
+        "users"
+      ]
+    },
+    "safu": {
+      "pt": "SAFU, fundo de proteção da Binance"
+    },
+    "law": {
+      "pt": "lei"
+    },
+    "enforcement": {
+      "pt": "aplicação (law enforcement: polícia e autoridades)"
+    },
+    "identify": {
+      "pt": "identificar",
+      "forms": [
+        "identified"
+      ]
+    },
+    "responsible": {
+      "pt": "responsável"
+    },
+    "return": {
+      "pt": "voltar"
+    },
+    "team": {
+      "pt": "equipe"
+    },
+    "finish": {
+      "pt": "terminar",
+      "forms": [
+        "finished",
+        "finishes"
+      ]
+    },
+    "improve": {
+      "pt": "melhorar",
+      "forms": [
+        "improving"
+      ]
+    }
+  }
+}

@@ -1,0 +1,10 @@
+[
+  { "topic": "hacking", "source": "The Hacker News", "url": "https://feeds.feedburner.com/TheHackersNews" },
+  { "topic": "hacking", "source": "Krebs on Security", "url": "https://krebsonsecurity.com/feed/" },
+  { "topic": "bolsa", "source": "Google News", "splitPublisher": true, "url": "https://news.google.com/rss/search?q=Brazil+stocks+Ibovespa+when:3d&hl=en-US&gl=US&ceid=US:en" },
+  { "topic": "bolsa", "source": "Google News", "splitPublisher": true, "url": "https://news.google.com/rss/search?q=Brazil+economy+analysts+when:3d&hl=en-US&gl=US&ceid=US:en" },
+  { "topic": "bolsa", "source": "MercoPress", "url": "https://en.mercopress.com/rss/" },
+  { "topic": "bolsa", "source": "BBC News", "url": "https://feeds.bbci.co.uk/news/business/rss.xml" },
+  { "topic": "bolsa", "source": "CNBC", "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html" },
+  { "topic": "mundo", "source": "BBC News", "url": "https://feeds.bbci.co.uk/news/world/rss.xml" }
+]

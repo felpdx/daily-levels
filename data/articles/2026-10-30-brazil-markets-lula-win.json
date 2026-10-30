@@ -1,0 +1,338 @@
+{
+  "id": "2026-10-30-brazil-markets-lula-win",
+  "topic": "bolsa",
+  "source": {
+    "name": "Gulf News",
+    "url": "https://gulfnews.com/world/americas/lula-win-rattles-brazil-markets-over-spending-spree-fears-1.500724749",
+    "publishedAt": "2026-10-26T22:00:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Brazil's stock market falls after Lula wins",
+      "text": "Lula won the election in Brazil. Many investors did not expect this. They wanted his rival, Flavio Bolsonaro, to win. On Monday, the Ibovespa, Brazil's main stock index, fell almost 14 percent. The real, Brazil's money, lost 8 percent against the US dollar. Investors are worried about how the government will spend its money."
+    },
+    "2": {
+      "title": "Lula's surprise win shakes Brazil's markets",
+      "text": "President Luiz Inacio Lula da Silva won Brazil's election with 52 percent of the votes, and the result surprised financial markets. Investors had expected a win for his conservative rival, Flavio Bolsonaro, who was seen as better for business.\n\nOn Monday, the Ibovespa, the main index of the Sao Paulo stock exchange, fell 17 percent at its lowest point. Trading stopped for 30 minutes, the first time this had happened since the Covid pandemic in 2020. The index ended the day down almost 14 percent.\n\nThe real also lost 8 percent against the US dollar. Investors are worried that the government will not control its spending."
+    },
+    "3": {
+      "title": "Brazilian markets tumble as Lula's comeback catches investors off guard",
+      "text": "Luiz Inacio Lula da Silva's victory in Brazil's presidential runoff shook the country's financial markets on Monday. Lula, who defied the polls to take 52 percent of the vote, beat Flavio Bolsonaro, the 45-year-old son of former president Jair Bolsonaro. Investors had been betting on Bolsonaro, whom they considered more market-friendly, and the Sao Paulo stock exchange had climbed to new highs after he won the most votes in the first round.\n\nThe reversal was severe. The benchmark Ibovespa index dropped as much as 17 percent, triggering the first 30-minute trading halt since the Covid pandemic in 2020. It recovered slightly to close almost 14 percent lower. The real, meanwhile, finished the day 8 percent weaker against the dollar after losing as much as 12 percent.\n\nLeandro Gabiati, of the Brasilia consultancy Dominium, told AFP that nobody had expected this outcome. Behind the fall lies fiscal discipline: investors fear the government will not keep its spending under control at a time of growing fiscal pressure."
+    }
+  },
+  "date": "2026-10-30",
+  "glossary": {
+    "brazil": {
+      "pt": "Brasil"
+    },
+    "stock": {
+      "pt": "ação de empresa; Bolsa (stock market)",
+      "forms": [
+        "stocks"
+      ],
+      "highlight": true
+    },
+    "market": {
+      "pt": "mercado",
+      "forms": [
+        "markets"
+      ],
+      "highlight": true
+    },
+    "lula": {
+      "pt": "Lula, presidente do Brasil"
+    },
+    "win": {
+      "pt": "vencer; vitória",
+      "forms": [
+        "wins",
+        "won"
+      ]
+    },
+    "election": {
+      "pt": "eleição",
+      "forms": [
+        "elections"
+      ],
+      "highlight": true
+    },
+    "investor": {
+      "pt": "investidor",
+      "forms": [
+        "investors"
+      ],
+      "highlight": true
+    },
+    "expect": {
+      "pt": "esperar, prever",
+      "forms": [
+        "expected",
+        "expecting",
+        "expects"
+      ]
+    },
+    "rival": {
+      "pt": "rival, adversário",
+      "highlight": true
+    },
+    "flavio": {
+      "pt": "Flávio, nome próprio"
+    },
+    "bolsonaro": {
+      "pt": "Bolsonaro, sobrenome"
+    },
+    "monday": {
+      "pt": "segunda-feira"
+    },
+    "ibovespa": {
+      "pt": "Ibovespa, principal índice da Bolsa brasileira"
+    },
+    "index": {
+      "pt": "índice",
+      "highlight": true
+    },
+    "dollar": {
+      "pt": "dólar"
+    },
+    "worried": {
+      "pt": "preocupado"
+    },
+    "spend": {
+      "pt": "gastar"
+    },
+    "surprise": {
+      "pt": "surpresa; surpreender",
+      "forms": [
+        "surprised"
+      ]
+    },
+    "shake": {
+      "pt": "abalar",
+      "forms": [
+        "shakes",
+        "shook"
+      ]
+    },
+    "luiz": {
+      "pt": "Luiz, nome de Lula"
+    },
+    "inacio": {
+      "pt": "Inácio, nome de Lula"
+    },
+    "da": {
+      "pt": "da, parte do nome Lula da Silva"
+    },
+    "silva": {
+      "pt": "Silva, sobrenome de Lula"
+    },
+    "vote": {
+      "pt": "voto",
+      "forms": [
+        "votes"
+      ]
+    },
+    "result": {
+      "pt": "resultado"
+    },
+    "financial": {
+      "pt": "financeiro"
+    },
+    "conservative": {
+      "pt": "conservador"
+    },
+    "sao": {
+      "pt": "São, parte de São Paulo"
+    },
+    "paulo": {
+      "pt": "Paulo, parte de São Paulo"
+    },
+    "exchange": {
+      "pt": "corretora; bolsa de valores",
+      "highlight": true
+    },
+    "point": {
+      "pt": "ponto"
+    },
+    "trading": {
+      "pt": "negociação na Bolsa"
+    },
+    "minute": {
+      "pt": "minuto",
+      "forms": [
+        "minutes"
+      ]
+    },
+    "covid": {
+      "pt": "covid"
+    },
+    "pandemic": {
+      "pt": "pandemia"
+    },
+    "spending": {
+      "pt": "gastos",
+      "highlight": true
+    },
+    "brazilian": {
+      "pt": "brasileiro"
+    },
+    "tumble": {
+      "pt": "despencar"
+    },
+    "comeback": {
+      "pt": "virada, retorno"
+    },
+    "catch": {
+      "pt": "pegar",
+      "forms": [
+        "catches",
+        "caught"
+      ]
+    },
+    "guard": {
+      "pt": "guarda (off guard: desprevenido)"
+    },
+    "victory": {
+      "pt": "vitória"
+    },
+    "runoff": {
+      "pt": "segundo turno",
+      "highlight": true
+    },
+    "defy": {
+      "pt": "desafiar",
+      "forms": [
+        "defied"
+      ]
+    },
+    "poll": {
+      "pt": "pesquisa eleitoral",
+      "forms": [
+        "polls"
+      ]
+    },
+    "beat": {
+      "pt": "vencer, derrotar"
+    },
+    "son": {
+      "pt": "filho"
+    },
+    "former": {
+      "pt": "ex-, antigo"
+    },
+    "jair": {
+      "pt": "Jair, nome próprio"
+    },
+    "bet": {
+      "pt": "apostar",
+      "forms": [
+        "betting",
+        "bets"
+      ]
+    },
+    "consider": {
+      "pt": "considerar",
+      "forms": [
+        "considered"
+      ]
+    },
+    "climb": {
+      "pt": "subir",
+      "forms": [
+        "climbed"
+      ]
+    },
+    "round": {
+      "pt": "turno, rodada"
+    },
+    "reversal": {
+      "pt": "reviravolta"
+    },
+    "severe": {
+      "pt": "grave, forte"
+    },
+    "benchmark": {
+      "pt": "referência"
+    },
+    "drop": {
+      "pt": "queda; cair",
+      "forms": [
+        "dropped",
+        "drops"
+      ]
+    },
+    "trigger": {
+      "pt": "provocar, disparar",
+      "forms": [
+        "triggering"
+      ]
+    },
+    "halt": {
+      "pt": "paralisação",
+      "highlight": true
+    },
+    "recover": {
+      "pt": "recuperar-se",
+      "forms": [
+        "recovered"
+      ]
+    },
+    "slightly": {
+      "pt": "levemente"
+    },
+    "meanwhile": {
+      "pt": "enquanto isso"
+    },
+    "finish": {
+      "pt": "terminar",
+      "forms": [
+        "finished",
+        "finishes"
+      ]
+    },
+    "weak": {
+      "pt": "fraco",
+      "forms": [
+        "weaker"
+      ]
+    },
+    "leandro": {
+      "pt": "Leandro, nome próprio"
+    },
+    "gabiati": {
+      "pt": "Gabiati, sobrenome"
+    },
+    "brasilia": {
+      "pt": "Brasília"
+    },
+    "consultancy": {
+      "pt": "consultoria"
+    },
+    "dominium": {
+      "pt": "Dominium, consultoria política"
+    },
+    "afp": {
+      "pt": "AFP, agência de notícias francesa"
+    },
+    "outcome": {
+      "pt": "resultado"
+    },
+    "lie": {
+      "pt": "estar, ficar",
+      "forms": [
+        "lies"
+      ]
+    },
+    "fiscal": {
+      "pt": "fiscal, das contas públicas"
+    },
+    "discipline": {
+      "pt": "disciplina"
+    },
+    "fear": {
+      "pt": "temer; medo"
+    },
+    "pressure": {
+      "pt": "pressão"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "articles": [
+    {
+      "id": "2026-10-30-binance-security-attack",
+      "date": "2026-10-30",
+      "topic": "hacking",
+      "title": "A big attack on Binance",
+      "source": "The Hacker News"
+    },
+    {
+      "id": "2026-10-30-fake-tweet-hacker-prison",
+      "date": "2026-10-30",
+      "topic": "hacking",
+      "title": "A fake tweet and a hacker in prison",
+      "source": "The Hacker News"
+    },
+    {
+      "id": "2026-10-30-brazil-markets-lula-win",
+      "date": "2026-10-30",
+      "topic": "bolsa",
+      "title": "Brazil's stock market falls after Lula wins",
+      "source": "Gulf News"
+    },
+    {
+      "id": "2026-10-30-commerzbank-lula-budget",
+      "date": "2026-10-30",
+      "topic": "bolsa",
+      "title": "A German bank talks about Brazil",
+      "source": "FXStreet"
+    },
+    {
+      "id": "2026-10-30-china-nvidia-spy-report",
+      "date": "2026-10-30",
+      "topic": "mundo",
+      "title": "China says a spy story is false",
+      "source": "BBC News"
+    }
+  ]
+}

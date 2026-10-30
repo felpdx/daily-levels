@@ -1,0 +1,73 @@
+name: Publicar site
+
+on:
+  push:
+    branches: [main, 'claude/**']
+  workflow_dispatch:
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+permissions:
+  actions: write
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  # Routines may only be allowed to push to claude/* branches, and Pages only deploys from main.
+  bring-to-main:
+    if: github.ref_name != 'main'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Testar e validar
+        run: |
+          node --test "tests/*.test.mjs"
+          node scripts/validate.mjs
+
+      - name: Levar as notícias para a main
+        run: git push origin HEAD:main
+
+      - name: Publicar a main
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run pages.yml --ref main
+
+  publish:
+    if: github.ref_name == 'main'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Testar e validar
+        run: |
+          node --test "tests/*.test.mjs"
+          node scripts/validate.mjs
+
+      - name: Montar o site
+        run: |
+          mkdir _site
+          cp -r index.html assets data _site/
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - id: deploy
+        uses: actions/deploy-pages@v4

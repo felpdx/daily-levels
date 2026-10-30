@@ -1,0 +1,361 @@
+{
+  "id": "2026-10-30-china-nvidia-spy-report",
+  "topic": "mundo",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/ckgj9plnlxdeo?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-10-30T12:20:04Z"
+  },
+  "levels": {
+    "1": {
+      "title": "China says a spy story is false",
+      "text": "A US newspaper wrote a story about Jensen Huang, the boss of the chip company Nvidia. The story says that a businesswoman was collecting information for China. The newspaper says that she got close to Huang. China says that this is not true. Nvidia says that their contact was normal business. She did not answer the newspaper."
+    },
+    "2": {
+      "title": "China rejects a story about a spy and Nvidia's boss",
+      "text": "China has rejected a report that it ran a spy operation against Jensen Huang, the chief executive of the US chip company Nvidia.\n\nThe New York Times reported that US intelligence officials believe a businesswoman called Alice Huang was collecting information for Beijing. She is linked to Megaspeed, a data centre company in Singapore, and she is not related to Jensen Huang. The report says she developed a close relationship with him.\n\nNvidia says that they only had normal business contact. A Chinese spokesman called the report groundless speculation. It is still not clear what information she may have passed to Beijing. She did not answer the newspaper."
+    },
+    "3": {
+      "title": "Beijing dismisses claims of an espionage operation targeting Nvidia's chief",
+      "text": "China has dismissed as groundless speculation a report that it ran an espionage operation aimed at Jensen Huang, the chief executive of the US chip giant Nvidia.\n\nAccording to The New York Times, which cited unnamed sources, US intelligence agencies concluded that Alice Huang, a Chinese businesswoman linked to the Singapore data centre firm Megaspeed, was acting for the Chinese government. She is no relation to Jensen Huang, but the paper said the two had grown close. She was also under investigation over the possible diversion of advanced Nvidia AI chips to China.\n\nSurveillance reportedly captured her communications with an American citizen, later identified as Jensen Huang through a process called unmasking. Nvidia described their contact as routine business, and Alice Huang did not respond to the newspaper. A Chinese foreign ministry spokesman, Guo Jiakun, said on Friday that the story was an attempt to smear China.\n\nIt is still unclear what information she may have passed to Beijing, how valuable it was or when she began. The report comes amid long-running American concerns about China's access to advanced computing technology."
+    }
+  },
+  "date": "2026-10-30",
+  "glossary": {
+    "china": {
+      "pt": "China"
+    },
+    "spy": {
+      "pt": "espião; espionar",
+      "highlight": true
+    },
+    "false": {
+      "pt": "falso"
+    },
+    "jensen": {
+      "pt": "Jensen, nome próprio"
+    },
+    "huang": {
+      "pt": "Huang, sobrenome"
+    },
+    "boss": {
+      "pt": "chefe"
+    },
+    "chip": {
+      "pt": "chip",
+      "forms": [
+        "chips"
+      ],
+      "highlight": true
+    },
+    "nvidia": {
+      "pt": "Nvidia, fabricante de chips dos EUA"
+    },
+    "businesswoman": {
+      "pt": "empresária",
+      "highlight": true
+    },
+    "collect": {
+      "pt": "coletar",
+      "forms": [
+        "collecting"
+      ]
+    },
+    "information": {
+      "pt": "informação"
+    },
+    "contact": {
+      "pt": "contato"
+    },
+    "normal": {
+      "pt": "normal"
+    },
+    "answer": {
+      "pt": "responder; resposta"
+    },
+    "reject": {
+      "pt": "rejeitar",
+      "forms": [
+        "rejected",
+        "rejects"
+      ],
+      "highlight": true
+    },
+    "report": {
+      "pt": "reportagem, relatório; relatar",
+      "forms": [
+        "reported",
+        "reports"
+      ],
+      "highlight": true
+    },
+    "operation": {
+      "pt": "operação"
+    },
+    "chief": {
+      "pt": "chefe; principal"
+    },
+    "executive": {
+      "pt": "executivo (chief executive: presidente da empresa)"
+    },
+    "york": {
+      "pt": "York, parte de Nova York"
+    },
+    "intelligence": {
+      "pt": "inteligência, serviço secreto",
+      "highlight": true
+    },
+    "official": {
+      "pt": "autoridade",
+      "forms": [
+        "officials"
+      ]
+    },
+    "alice": {
+      "pt": "Alice, nome próprio"
+    },
+    "beijing": {
+      "pt": "Pequim, capital da China"
+    },
+    "link": {
+      "pt": "ligar",
+      "forms": [
+        "linked"
+      ]
+    },
+    "megaspeed": {
+      "pt": "Megaspeed, empresa de data centers"
+    },
+    "data": {
+      "pt": "dados"
+    },
+    "centre": {
+      "pt": "centro"
+    },
+    "singapore": {
+      "pt": "Singapura"
+    },
+    "related": {
+      "pt": "parente; relacionado"
+    },
+    "develop": {
+      "pt": "desenvolver",
+      "forms": [
+        "developed"
+      ]
+    },
+    "relationship": {
+      "pt": "relação"
+    },
+    "chinese": {
+      "pt": "chinês"
+    },
+    "spokesman": {
+      "pt": "porta-voz"
+    },
+    "groundless": {
+      "pt": "sem fundamento"
+    },
+    "speculation": {
+      "pt": "especulação"
+    },
+    "pass": {
+      "pt": "passar",
+      "forms": [
+        "passed"
+      ]
+    },
+    "dismiss": {
+      "pt": "rejeitar, descartar",
+      "forms": [
+        "dismissed",
+        "dismisses"
+      ]
+    },
+    "claim": {
+      "pt": "afirmar; alegação",
+      "forms": [
+        "claimed",
+        "claims"
+      ]
+    },
+    "espionage": {
+      "pt": "espionagem",
+      "highlight": true
+    },
+    "target": {
+      "pt": "ter como alvo",
+      "forms": [
+        "targeted",
+        "targeting"
+      ]
+    },
+    "aim": {
+      "pt": "mirar",
+      "forms": [
+        "aimed",
+        "aims"
+      ]
+    },
+    "giant": {
+      "pt": "gigante"
+    },
+    "according": {
+      "pt": "de acordo com (according to)"
+    },
+    "cite": {
+      "pt": "citar",
+      "forms": [
+        "cited"
+      ]
+    },
+    "unnamed": {
+      "pt": "não identificado"
+    },
+    "source": {
+      "pt": "fonte",
+      "forms": [
+        "sources"
+      ]
+    },
+    "agency": {
+      "pt": "agência",
+      "forms": [
+        "agencies"
+      ]
+    },
+    "conclude": {
+      "pt": "concluir",
+      "forms": [
+        "concluded"
+      ]
+    },
+    "firm": {
+      "pt": "empresa"
+    },
+    "act": {
+      "pt": "agir",
+      "forms": [
+        "acting",
+        "acts",
+        "acted"
+      ]
+    },
+    "relation": {
+      "pt": "parente (no relation: sem parentesco)"
+    },
+    "paper": {
+      "pt": "jornal"
+    },
+    "investigation": {
+      "pt": "investigação"
+    },
+    "possible": {
+      "pt": "possível"
+    },
+    "diversion": {
+      "pt": "desvio"
+    },
+    "advanced": {
+      "pt": "avançado"
+    },
+    "ai": {
+      "pt": "IA, inteligência artificial"
+    },
+    "surveillance": {
+      "pt": "vigilância",
+      "highlight": true
+    },
+    "reportedly": {
+      "pt": "segundo relatos"
+    },
+    "capture": {
+      "pt": "capturar",
+      "forms": [
+        "captured"
+      ]
+    },
+    "communication": {
+      "pt": "comunicação",
+      "forms": [
+        "communications"
+      ]
+    },
+    "american": {
+      "pt": "americano"
+    },
+    "citizen": {
+      "pt": "cidadão"
+    },
+    "identify": {
+      "pt": "identificar",
+      "forms": [
+        "identified"
+      ]
+    },
+    "process": {
+      "pt": "processo"
+    },
+    "unmasking": {
+      "pt": "revelação da identidade de alguém"
+    },
+    "describe": {
+      "pt": "descrever",
+      "forms": [
+        "described"
+      ]
+    },
+    "routine": {
+      "pt": "de rotina"
+    },
+    "respond": {
+      "pt": "responder"
+    },
+    "foreign": {
+      "pt": "estrangeiro; exterior"
+    },
+    "ministry": {
+      "pt": "ministério"
+    },
+    "guo": {
+      "pt": "Guo, sobrenome chinês"
+    },
+    "jiakun": {
+      "pt": "Jiakun, nome chinês"
+    },
+    "friday": {
+      "pt": "sexta-feira"
+    },
+    "attempt": {
+      "pt": "tentativa"
+    },
+    "smear": {
+      "pt": "difamar, manchar",
+      "highlight": true
+    },
+    "unclear": {
+      "pt": "incerto, pouco claro"
+    },
+    "valuable": {
+      "pt": "valioso"
+    },
+    "amid": {
+      "pt": "em meio a"
+    },
+    "concern": {
+      "pt": "preocupação",
+      "forms": [
+        "concerns"
+      ]
+    },
+    "access": {
+      "pt": "acesso"
+    },
+    "computing": {
+      "pt": "computação"
+    },
+    "technology": {
+      "pt": "tecnologia"
+    }
+  }
+}

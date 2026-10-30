@@ -1,0 +1,404 @@
+{
+  "id": "2026-10-30-fake-tweet-hacker-prison",
+  "topic": "hacking",
+  "source": {
+    "name": "The Hacker News",
+    "url": "https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html",
+    "publishedAt": "2026-10-30T10:40:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "A fake tweet and a hacker in prison",
+      "text": "A court in the United States sent a Syrian hacker to prison for 42 months. His name is Ahmad Umar Agha. In 2013, his group took control of the Twitter account of a big news agency. They wrote a false story about an attack on the White House. Stock prices fell very fast. The drop was $136 billion, but it did not last."
+    },
+    "2": {
+      "title": "Hacker behind a fake tweet gets 42 months in prison",
+      "text": "A US court has sentenced Ahmad Umar Agha, a Syrian hacker known online as Th3Pr0, to 42 months in prison. Agha was a member of the Syrian Electronic Army, a group that supported Bashar al-Assad, the former president of Syria.\n\nThe group sent fake emails to workers at Western news companies to steal their passwords. In April 2013, it took over the Twitter account of the Associated Press. It then published a false report that President Barack Obama had been hurt in two explosions at the White House.\n\nThe Justice Department says the message caused a short drop of $136 billion in the value of US stocks. Agha later said that this was the goal."
+    },
+    "3": {
+      "title": "Syrian hacker jailed over the fake tweet that shook Wall Street",
+      "text": "A US federal court has sentenced Ahmad Umar Agha, a Syrian Electronic Army hacker who used the name Th3Pr0, to 42 months in prison. According to the Justice Department, the hacking conspiracy that targeted Western news outlets was led by people close to former Syrian President Bashar al-Assad, including the commander of the country's General Intelligence Directorate.\n\nThe pro-Assad group began its campaign in 2011. Its members sent phishing emails to collect employees' passwords and then used them to change websites, redirect traffic and hijack social media accounts, an FBI document from 2014 says.\n\nThe most famous attack came on April 23, 2013, when the group took over the Associated Press Twitter account and claimed that Barack Obama had been injured in two explosions at the White House. Investigators say a password reset message for the account went to a Gmail address mainly used by Agha. The false story caused a temporary $136 billion drop in the stocks of the Dow Jones Industrial Average. Agha later told Business Insider that the fall was the goal of the attack.\n\nHe was first charged in 2014, and the FBI offered a $100,000 reward in 2016."
+    }
+  },
+  "date": "2026-10-30",
+  "glossary": {
+    "fake": {
+      "pt": "falso",
+      "highlight": true
+    },
+    "tweet": {
+      "pt": "tuíte, post no Twitter"
+    },
+    "hacker": {
+      "pt": "hacker",
+      "forms": [
+        "hackers"
+      ]
+    },
+    "prison": {
+      "pt": "prisão",
+      "highlight": true
+    },
+    "court": {
+      "pt": "tribunal",
+      "highlight": true
+    },
+    "united": {
+      "pt": "unidos (United States: Estados Unidos)"
+    },
+    "state": {
+      "pt": "estado",
+      "forms": [
+        "states"
+      ]
+    },
+    "syrian": {
+      "pt": "sírio"
+    },
+    "ahmad": {
+      "pt": "Ahmad, nome próprio"
+    },
+    "umar": {
+      "pt": "Umar, nome próprio"
+    },
+    "agha": {
+      "pt": "Agha, sobrenome"
+    },
+    "twitter": {
+      "pt": "Twitter"
+    },
+    "account": {
+      "pt": "conta",
+      "forms": [
+        "accounts"
+      ]
+    },
+    "agency": {
+      "pt": "agência",
+      "forms": [
+        "agencies"
+      ]
+    },
+    "false": {
+      "pt": "falso"
+    },
+    "attack": {
+      "pt": "ataque; atacar",
+      "forms": [
+        "attacked",
+        "attacks"
+      ]
+    },
+    "white": {
+      "pt": "branco (White House: Casa Branca)"
+    },
+    "house": {
+      "pt": "casa (White House: Casa Branca)"
+    },
+    "stock": {
+      "pt": "ação de empresa; Bolsa (stock market)",
+      "forms": [
+        "stocks"
+      ],
+      "highlight": true
+    },
+    "drop": {
+      "pt": "queda; cair",
+      "forms": [
+        "dropped",
+        "drops"
+      ]
+    },
+    "sentence": {
+      "pt": "condenar; sentença",
+      "forms": [
+        "sentenced"
+      ],
+      "highlight": true
+    },
+    "electronic": {
+      "pt": "eletrônico"
+    },
+    "army": {
+      "pt": "exército"
+    },
+    "support": {
+      "pt": "apoiar",
+      "forms": [
+        "supported"
+      ]
+    },
+    "bashar": {
+      "pt": "Bashar, nome próprio"
+    },
+    "al": {
+      "pt": "al, parte do nome árabe"
+    },
+    "assad": {
+      "pt": "Assad, sobrenome do ex-presidente da Síria"
+    },
+    "former": {
+      "pt": "ex-, antigo"
+    },
+    "syria": {
+      "pt": "Síria"
+    },
+    "email": {
+      "pt": "e-mail",
+      "forms": [
+        "emails"
+      ]
+    },
+    "western": {
+      "pt": "ocidental"
+    },
+    "steal": {
+      "pt": "roubar",
+      "forms": [
+        "stole",
+        "stolen",
+        "steals"
+      ]
+    },
+    "password": {
+      "pt": "senha",
+      "forms": [
+        "passwords"
+      ],
+      "highlight": true
+    },
+    "april": {
+      "pt": "abril"
+    },
+    "associated": {
+      "pt": "associado (Associated Press, agência de notícias)"
+    },
+    "press": {
+      "pt": "imprensa"
+    },
+    "publish": {
+      "pt": "publicar",
+      "forms": [
+        "published"
+      ]
+    },
+    "report": {
+      "pt": "reportagem, relatório; relatar",
+      "forms": [
+        "reported",
+        "reports"
+      ]
+    },
+    "barack": {
+      "pt": "Barack, nome de Obama"
+    },
+    "obama": {
+      "pt": "Obama, ex-presidente dos EUA"
+    },
+    "hurt": {
+      "pt": "ferir; ferido"
+    },
+    "explosion": {
+      "pt": "explosão",
+      "forms": [
+        "explosions"
+      ]
+    },
+    "justice": {
+      "pt": "justiça"
+    },
+    "department": {
+      "pt": "departamento, ministério"
+    },
+    "message": {
+      "pt": "mensagem"
+    },
+    "cause": {
+      "pt": "causar",
+      "forms": [
+        "caused"
+      ]
+    },
+    "value": {
+      "pt": "valor"
+    },
+    "goal": {
+      "pt": "objetivo"
+    },
+    "jail": {
+      "pt": "prender",
+      "forms": [
+        "jailed"
+      ]
+    },
+    "shake": {
+      "pt": "abalar",
+      "forms": [
+        "shakes",
+        "shook"
+      ]
+    },
+    "wall": {
+      "pt": "muro (Wall Street: centro financeiro de Nova York)"
+    },
+    "street": {
+      "pt": "rua (Wall Street: centro financeiro de Nova York)"
+    },
+    "federal": {
+      "pt": "federal"
+    },
+    "according": {
+      "pt": "de acordo com (according to)"
+    },
+    "hacking": {
+      "pt": "invasão de sistemas"
+    },
+    "conspiracy": {
+      "pt": "conspiração",
+      "highlight": true
+    },
+    "target": {
+      "pt": "ter como alvo",
+      "forms": [
+        "targeted",
+        "targeting"
+      ]
+    },
+    "outlet": {
+      "pt": "veículo de imprensa",
+      "forms": [
+        "outlets"
+      ]
+    },
+    "including": {
+      "pt": "incluindo"
+    },
+    "commander": {
+      "pt": "comandante"
+    },
+    "general": {
+      "pt": "geral"
+    },
+    "intelligence": {
+      "pt": "inteligência, serviço secreto"
+    },
+    "directorate": {
+      "pt": "diretoria"
+    },
+    "pro": {
+      "pt": "a favor de"
+    },
+    "campaign": {
+      "pt": "campanha"
+    },
+    "phishing": {
+      "pt": "phishing, golpe por mensagem falsa para roubar dados",
+      "highlight": true
+    },
+    "collect": {
+      "pt": "coletar",
+      "forms": [
+        "collecting"
+      ]
+    },
+    "employee": {
+      "pt": "funcionário",
+      "forms": [
+        "employees"
+      ]
+    },
+    "website": {
+      "pt": "site",
+      "forms": [
+        "websites"
+      ]
+    },
+    "redirect": {
+      "pt": "redirecionar"
+    },
+    "traffic": {
+      "pt": "tráfego"
+    },
+    "hijack": {
+      "pt": "sequestrar, tomar o controle",
+      "highlight": true
+    },
+    "social": {
+      "pt": "social"
+    },
+    "media": {
+      "pt": "mídia"
+    },
+    "fbi": {
+      "pt": "FBI, polícia federal dos EUA"
+    },
+    "document": {
+      "pt": "documento"
+    },
+    "famous": {
+      "pt": "famoso"
+    },
+    "claim": {
+      "pt": "afirmar; alegação",
+      "forms": [
+        "claimed",
+        "claims"
+      ]
+    },
+    "injure": {
+      "pt": "ferir",
+      "forms": [
+        "injured"
+      ]
+    },
+    "investigator": {
+      "pt": "investigador",
+      "forms": [
+        "investigators"
+      ]
+    },
+    "reset": {
+      "pt": "redefinição"
+    },
+    "gmail": {
+      "pt": "Gmail"
+    },
+    "address": {
+      "pt": "endereço"
+    },
+    "temporary": {
+      "pt": "temporário"
+    },
+    "dow": {
+      "pt": "Dow, parte de Dow Jones, índice da Bolsa dos EUA"
+    },
+    "jones": {
+      "pt": "Jones, parte de Dow Jones"
+    },
+    "industrial": {
+      "pt": "industrial"
+    },
+    "average": {
+      "pt": "média"
+    },
+    "insider": {
+      "pt": "pessoa de dentro (Business Insider: site de notícias)"
+    },
+    "charge": {
+      "pt": "acusar formalmente",
+      "forms": [
+        "charged"
+      ]
+    },
+    "offer": {
+      "pt": "oferecer",
+      "forms": [
+        "offered"
+      ]
+    },
+    "reward": {
+      "pt": "recompensa",
+      "highlight": true
+    }
+  }
+}

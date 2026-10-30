@@ -1,0 +1,335 @@
+{
+  "id": "2026-10-30-commerzbank-lula-budget",
+  "topic": "bolsa",
+  "source": {
+    "name": "FXStreet",
+    "url": "https://www.fxstreet.com/news/brazilian-real-post-election-risks-as-lula-returns-commerzbank-202610261635",
+    "publishedAt": "2026-10-26T16:35:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "A German bank talks about Brazil",
+      "text": "Volkmar Baur works at Commerzbank, a big bank in Germany. He says that Lula does not have much room for mistakes. Brazil has a lot of debt: 83 percent of its GDP. Lula promised to control the budget. Now he must do it. This will not be easy, Baur says, because Congress is more conservative now."
+    },
+    "2": {
+      "title": "German bank expert: Lula has little room for mistakes",
+      "text": "Brazil's election result surprised the markets, says Volkmar Baur of Commerzbank, a German bank. After Lula won, the real fell about 10 percent, to around 5.50 against the US dollar, in Asian trading.\n\nBaur thinks that attention will now move to the government's budget. Brazil's public debt is 83 percent of GDP, and its budget deficit is around 10 percent. So Lula has little room to disappoint investors.\n\nLula has promised to improve the budget, but Baur says this will not be easy with a more conservative Congress. He also thinks the market's first fall may have been too strong, but this does not mean that it will quickly change direction."
+    },
+    "3": {
+      "title": "Why a Commerzbank analyst says Lula cannot afford to disappoint",
+      "text": "Foreign analysts are turning their attention from the election to the budget. In a note after the runoff, Volkmar Baur of Germany's Commerzbank said the result had caught investors on the wrong foot. The real had gained strength after the first round, but it dropped around 10 percent, towards 5.50 against the dollar, during thin trading in Asia.\n\nFor Baur, the numbers explain the problem. Brazil's public debt stands at 83 percent of gross domestic product, and the budget deficit is about 10 percent, which leaves Lula with little room to disappoint. The president has recently promised fiscal consolidation, partly because of pressure from the markets, and must now deliver. That task looks difficult because the October parliamentary elections produced a more conservative Congress.\n\nBaur also warned against expecting a fast recovery. The first sell-off may have been exaggerated, he said, but investors had prepared for a Bolsonaro victory and its reform plans, and those positions can change quickly. In his view, the future of the real depends on how soon Lula can persuade markets that his promises are credible."
+    }
+  },
+  "date": "2026-10-30",
+  "glossary": {
+    "german": {
+      "pt": "alemão"
+    },
+    "bank": {
+      "pt": "banco",
+      "forms": [
+        "banks"
+      ]
+    },
+    "brazil": {
+      "pt": "Brasil"
+    },
+    "volkmar": {
+      "pt": "Volkmar, nome próprio"
+    },
+    "baur": {
+      "pt": "Baur, sobrenome"
+    },
+    "commerzbank": {
+      "pt": "Commerzbank, banco alemão"
+    },
+    "germany": {
+      "pt": "Alemanha"
+    },
+    "lula": {
+      "pt": "Lula, presidente do Brasil"
+    },
+    "mistake": {
+      "pt": "erro",
+      "forms": [
+        "mistakes"
+      ],
+      "highlight": true
+    },
+    "debt": {
+      "pt": "dívida",
+      "highlight": true
+    },
+    "gdp": {
+      "pt": "PIB, produto interno bruto",
+      "highlight": true
+    },
+    "promise": {
+      "pt": "prometer; promessa",
+      "forms": [
+        "promised",
+        "promises"
+      ],
+      "highlight": true
+    },
+    "budget": {
+      "pt": "orçamento",
+      "highlight": true
+    },
+    "easy": {
+      "pt": "fácil"
+    },
+    "congress": {
+      "pt": "Congresso"
+    },
+    "conservative": {
+      "pt": "conservador"
+    },
+    "expert": {
+      "pt": "especialista"
+    },
+    "election": {
+      "pt": "eleição",
+      "forms": [
+        "elections"
+      ]
+    },
+    "result": {
+      "pt": "resultado"
+    },
+    "surprise": {
+      "pt": "surpresa; surpreender",
+      "forms": [
+        "surprised"
+      ]
+    },
+    "market": {
+      "pt": "mercado",
+      "forms": [
+        "markets"
+      ]
+    },
+    "win": {
+      "pt": "vencer; vitória",
+      "forms": [
+        "wins",
+        "won"
+      ]
+    },
+    "dollar": {
+      "pt": "dólar"
+    },
+    "asian": {
+      "pt": "asiático"
+    },
+    "trading": {
+      "pt": "negociação na Bolsa"
+    },
+    "attention": {
+      "pt": "atenção"
+    },
+    "public": {
+      "pt": "público"
+    },
+    "deficit": {
+      "pt": "déficit, quando se gasta mais do que se arrecada",
+      "highlight": true
+    },
+    "disappoint": {
+      "pt": "decepcionar",
+      "highlight": true
+    },
+    "investor": {
+      "pt": "investidor",
+      "forms": [
+        "investors"
+      ]
+    },
+    "improve": {
+      "pt": "melhorar",
+      "forms": [
+        "improving"
+      ]
+    },
+    "quickly": {
+      "pt": "rapidamente"
+    },
+    "direction": {
+      "pt": "direção"
+    },
+    "analyst": {
+      "pt": "analista",
+      "forms": [
+        "analysts"
+      ],
+      "highlight": true
+    },
+    "afford": {
+      "pt": "poder se dar ao luxo de"
+    },
+    "foreign": {
+      "pt": "estrangeiro; exterior"
+    },
+    "note": {
+      "pt": "nota, relatório"
+    },
+    "runoff": {
+      "pt": "segundo turno"
+    },
+    "catch": {
+      "pt": "pegar",
+      "forms": [
+        "catches",
+        "caught"
+      ]
+    },
+    "wrong": {
+      "pt": "errado"
+    },
+    "foot": {
+      "pt": "pé (on the wrong foot: de surpresa)"
+    },
+    "gain": {
+      "pt": "ganhar",
+      "forms": [
+        "gained"
+      ]
+    },
+    "strength": {
+      "pt": "força"
+    },
+    "round": {
+      "pt": "turno, rodada"
+    },
+    "drop": {
+      "pt": "queda; cair",
+      "forms": [
+        "dropped",
+        "drops"
+      ]
+    },
+    "towards": {
+      "pt": "em direção a"
+    },
+    "thin": {
+      "pt": "fraco; fino"
+    },
+    "asia": {
+      "pt": "Ásia"
+    },
+    "explain": {
+      "pt": "explicar"
+    },
+    "stand": {
+      "pt": "estar, ficar",
+      "forms": [
+        "stands"
+      ]
+    },
+    "gross": {
+      "pt": "bruto"
+    },
+    "domestic": {
+      "pt": "interno (gross domestic product: PIB)"
+    },
+    "product": {
+      "pt": "produto"
+    },
+    "recently": {
+      "pt": "recentemente"
+    },
+    "fiscal": {
+      "pt": "fiscal, das contas públicas"
+    },
+    "consolidation": {
+      "pt": "ajuste (fiscal consolidation: ajuste das contas públicas)"
+    },
+    "pressure": {
+      "pt": "pressão"
+    },
+    "deliver": {
+      "pt": "entregar, cumprir"
+    },
+    "task": {
+      "pt": "tarefa"
+    },
+    "difficult": {
+      "pt": "difícil"
+    },
+    "october": {
+      "pt": "outubro"
+    },
+    "parliamentary": {
+      "pt": "parlamentar"
+    },
+    "produce": {
+      "pt": "produzir",
+      "forms": [
+        "produced"
+      ]
+    },
+    "warn": {
+      "pt": "alertar",
+      "forms": [
+        "warned"
+      ]
+    },
+    "expect": {
+      "pt": "esperar, prever",
+      "forms": [
+        "expected",
+        "expecting",
+        "expects"
+      ]
+    },
+    "recovery": {
+      "pt": "recuperação"
+    },
+    "exaggerate": {
+      "pt": "exagerar",
+      "forms": [
+        "exaggerated"
+      ]
+    },
+    "prepare": {
+      "pt": "preparar",
+      "forms": [
+        "prepared"
+      ]
+    },
+    "bolsonaro": {
+      "pt": "Bolsonaro, sobrenome"
+    },
+    "victory": {
+      "pt": "vitória"
+    },
+    "reform": {
+      "pt": "reforma"
+    },
+    "position": {
+      "pt": "posição",
+      "forms": [
+        "positions"
+      ]
+    },
+    "view": {
+      "pt": "visão, opinião"
+    },
+    "future": {
+      "pt": "futuro"
+    },
+    "depend": {
+      "pt": "depender",
+      "forms": [
+        "depends"
+      ]
+    },
+    "persuade": {
+      "pt": "convencer"
+    },
+    "credible": {
+      "pt": "crível, confiável",
+      "highlight": true
+    }
+  }
+}

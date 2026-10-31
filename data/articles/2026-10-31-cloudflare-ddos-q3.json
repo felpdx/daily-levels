@@ -1,0 +1,547 @@
+{
+  "id": "2026-10-31-cloudflare-ddos-q3",
+  "date": "2026-10-31",
+  "topic": "hacking",
+  "source": {
+    "name": "The Hacker News",
+    "url": "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
+    "publishedAt": "2026-10-31T04:56:12Z"
+  },
+  "levels": {
+    "1": {
+      "title": "More DDoS attacks",
+      "text": "Cloudflare shared new numbers about DDoS attacks. In the third quarter of 2026, the company stopped 18.2 million attacks on networks. That is about 8,226 attacks every hour. The number is higher than in the second quarter. Many attacks are short and small. People can pay for services that make them."
+    },
+    "2": {
+      "title": "Cloudflare sees 18.2 million network DDoS attacks in Q3",
+      "text": "Cloudflare, a web security company, said it stopped 18.2 million network-layer DDoS attacks in the third quarter of 2026. That is about 8,226 attacks per hour, or one attack every 0.44 seconds. In the second quarter there were 13.2 million attacks, and in the first quarter there were 10.0 million.\n\nThe company links the increase to booter services, which people can pay to launch attacks. Short, small attacks grew by 208%. Very large attacks above 1 Tbps fell by 69%, from 805 to 251, probably after police actions in March. Cloudflare warns that new variants are still appearing. The most attacked countries were the United States, China, Indonesia, Britain and Turkey."
+    },
+    "3": {
+      "title": "Cloudflare reports a 38% rise in network-layer DDoS attacks",
+      "text": "Threat actors are launching about 8,226 network-layer DDoS attacks every hour, according to Cloudflare. In its report for the third quarter of 2026, the web infrastructure company said it mitigated 18.2 million such attacks and 14.4 trillion HTTP DDoS requests. That equals 197,400 attacks a day, or one every 0.44 seconds. The company recorded 13.2 million network-layer attacks in the second quarter and 10.0 million in the first. It links the rise to booter or stresser services that can be hired to carry out attacks.\n\nShort-burst attacks lasting under 10 minutes and 1 Gbps surged by 208%. By contrast, hyper-volumetric attacks above 1 Tbps declined by 69%, from 805 in the second quarter to 251 in the third, likely because of law enforcement actions in March against botnets including AISURU and KimWolf. Cloudflare warned that the threat is not neutralized, citing new variants such as Dysphoria and Evooo1Bot. DNS amplification attacks jumped 215%. The most targeted industries included media, information technology and gambling, and the most attacked countries were the United States, China, Indonesia, Britain and Turkey."
+    }
+  },
+  "glossary": {
+    "according": {
+      "pt": "segundo",
+      "forms": [
+        "according's"
+      ]
+    },
+    "reports": {
+      "pt": "relata (verbo report)",
+      "forms": [
+        "reports's"
+      ]
+    },
+    "ddos": {
+      "pt": "DDoS, ataque que derruba sites com excesso de tráfego",
+      "forms": [
+        "ddos's"
+      ],
+      "highlight": true
+    },
+    "attack": {
+      "pt": "ataque",
+      "forms": [
+        "attacks",
+        "attacked",
+        "attack's",
+        "attacks's",
+        "attacked's"
+      ]
+    },
+    "cloudflare": {
+      "pt": "Cloudflare, empresa de segurança na internet",
+      "forms": [
+        "cloudflare's"
+      ]
+    },
+    "share": {
+      "pt": "compartilhar",
+      "forms": [
+        "shared",
+        "share's",
+        "shared's"
+      ]
+    },
+    "quarter": {
+      "pt": "trimestre",
+      "forms": [
+        "quarter's"
+      ]
+    },
+    "network": {
+      "pt": "rede",
+      "forms": [
+        "networks",
+        "network's",
+        "networks's"
+      ]
+    },
+    "hour": {
+      "pt": "hora",
+      "forms": [
+        "hour's"
+      ]
+    },
+    "service": {
+      "pt": "serviço",
+      "forms": [
+        "services",
+        "service's",
+        "services's"
+      ]
+    },
+    "web": {
+      "pt": "web, internet",
+      "forms": [
+        "web's"
+      ]
+    },
+    "security": {
+      "pt": "segurança",
+      "forms": [
+        "security's"
+      ]
+    },
+    "layer": {
+      "pt": "camada",
+      "forms": [
+        "layer's"
+      ]
+    },
+    "per": {
+      "pt": "por",
+      "forms": [
+        "per's"
+      ]
+    },
+    "second": {
+      "pt": "segundo",
+      "forms": [
+        "seconds",
+        "second's",
+        "seconds's"
+      ]
+    },
+    "link": {
+      "pt": "ligar, associar",
+      "forms": [
+        "links",
+        "link's",
+        "links's"
+      ]
+    },
+    "increase": {
+      "pt": "aumento",
+      "forms": [
+        "increase's"
+      ]
+    },
+    "booter": {
+      "pt": "booter, serviço pago que faz ataques",
+      "forms": [
+        "booter's"
+      ]
+    },
+    "launch": {
+      "pt": "lançar, iniciar",
+      "forms": [
+        "launching",
+        "launch's",
+        "launching's"
+      ]
+    },
+    "above": {
+      "pt": "acima de",
+      "forms": [
+        "above's"
+      ]
+    },
+    "tbps": {
+      "pt": "Tbps, terabits por segundo (velocidade)",
+      "forms": [
+        "tbps's"
+      ]
+    },
+    "probably": {
+      "pt": "provavelmente",
+      "forms": [
+        "probably's"
+      ]
+    },
+    "action": {
+      "pt": "ação",
+      "forms": [
+        "actions",
+        "action's",
+        "actions's"
+      ]
+    },
+    "march": {
+      "pt": "março",
+      "forms": [
+        "march's"
+      ]
+    },
+    "warn": {
+      "pt": "avisar",
+      "forms": [
+        "warns",
+        "warned",
+        "warn's",
+        "warns's",
+        "warned's"
+      ],
+      "highlight": true
+    },
+    "variant": {
+      "pt": "variante",
+      "forms": [
+        "variants",
+        "variant's",
+        "variants's"
+      ]
+    },
+    "appear": {
+      "pt": "aparecer",
+      "forms": [
+        "appearing",
+        "appear's",
+        "appearing's"
+      ]
+    },
+    "china": {
+      "pt": "China",
+      "forms": [
+        "china's"
+      ]
+    },
+    "indonesia": {
+      "pt": "Indonésia",
+      "forms": [
+        "indonesia's"
+      ]
+    },
+    "britain": {
+      "pt": "Reino Unido",
+      "forms": [
+        "britain's"
+      ]
+    },
+    "turkey": {
+      "pt": "Turquia",
+      "forms": [
+        "turkey's"
+      ]
+    },
+    "united": {
+      "pt": "unido",
+      "forms": [
+        "united's"
+      ]
+    },
+    "states": {
+      "pt": "estados",
+      "forms": [
+        "states's"
+      ]
+    },
+    "report": {
+      "pt": "relatório",
+      "forms": [
+        "report's"
+      ],
+      "highlight": true
+    },
+    "rise": {
+      "pt": "aumento, subida",
+      "forms": [
+        "rise's"
+      ],
+      "highlight": true
+    },
+    "threat": {
+      "pt": "ameaça",
+      "forms": [
+        "threat's"
+      ],
+      "highlight": true
+    },
+    "actor": {
+      "pt": "ator, agente",
+      "forms": [
+        "actors",
+        "actor's",
+        "actors's"
+      ]
+    },
+    "infrastructure": {
+      "pt": "infraestrutura",
+      "forms": [
+        "infrastructure's"
+      ]
+    },
+    "mitigate": {
+      "pt": "reduzir, conter (um ataque)",
+      "forms": [
+        "mitigated",
+        "mitigate's",
+        "mitigated's"
+      ],
+      "highlight": true
+    },
+    "trillion": {
+      "pt": "trilhão",
+      "forms": [
+        "trillion's"
+      ]
+    },
+    "http": {
+      "pt": "HTTP, protocolo da web",
+      "forms": [
+        "http's"
+      ]
+    },
+    "request": {
+      "pt": "pedido, requisição",
+      "forms": [
+        "requests",
+        "request's",
+        "requests's"
+      ]
+    },
+    "equal": {
+      "pt": "igualar, ser igual a",
+      "forms": [
+        "equals",
+        "equal's",
+        "equals's"
+      ]
+    },
+    "record": {
+      "pt": "registrar",
+      "forms": [
+        "recorded",
+        "record's",
+        "recorded's"
+      ]
+    },
+    "stresser": {
+      "pt": "stresser, serviço pago de ataques",
+      "forms": [
+        "stresser's"
+      ]
+    },
+    "hire": {
+      "pt": "contratar",
+      "forms": [
+        "hired",
+        "hire's",
+        "hired's"
+      ]
+    },
+    "carry": {
+      "pt": "realizar, levar a cabo",
+      "forms": [
+        "carry's"
+      ]
+    },
+    "burst": {
+      "pt": "rajada, surto",
+      "forms": [
+        "burst's"
+      ]
+    },
+    "last": {
+      "pt": "durar",
+      "forms": [
+        "lasting",
+        "last's",
+        "lasting's"
+      ]
+    },
+    "minute": {
+      "pt": "minuto",
+      "forms": [
+        "minutes",
+        "minute's",
+        "minutes's"
+      ]
+    },
+    "gbps": {
+      "pt": "Gbps, gigabits por segundo",
+      "forms": [
+        "gbps's"
+      ]
+    },
+    "surge": {
+      "pt": "disparar, subir muito",
+      "forms": [
+        "surged",
+        "surge's",
+        "surged's"
+      ],
+      "highlight": true
+    },
+    "contrast": {
+      "pt": "contraste",
+      "forms": [
+        "contrast's"
+      ]
+    },
+    "hyper": {
+      "pt": "hiper, muito grande",
+      "forms": [
+        "hyper's"
+      ]
+    },
+    "volumetric": {
+      "pt": "volumétrico, de grande volume",
+      "forms": [
+        "volumetric's"
+      ]
+    },
+    "decline": {
+      "pt": "cair, diminuir",
+      "forms": [
+        "declined",
+        "decline's",
+        "declined's"
+      ],
+      "highlight": true
+    },
+    "likely": {
+      "pt": "provavelmente",
+      "forms": [
+        "likely's"
+      ]
+    },
+    "law": {
+      "pt": "lei",
+      "forms": [
+        "law's"
+      ]
+    },
+    "enforcement": {
+      "pt": "aplicação (da lei)",
+      "forms": [
+        "enforcement's"
+      ]
+    },
+    "botnet": {
+      "pt": "botnet, rede de computadores infectados",
+      "forms": [
+        "botnets",
+        "botnet's",
+        "botnets's"
+      ],
+      "highlight": true
+    },
+    "include": {
+      "pt": "incluir",
+      "forms": [
+        "including",
+        "included",
+        "include's",
+        "including's",
+        "included's"
+      ]
+    },
+    "aisuru": {
+      "pt": "AISURU, nome de uma botnet",
+      "forms": [
+        "aisuru's"
+      ]
+    },
+    "kimwolf": {
+      "pt": "KimWolf, nome de uma botnet",
+      "forms": [
+        "kimwolf's"
+      ]
+    },
+    "neutralize": {
+      "pt": "neutralizar",
+      "forms": [
+        "neutralized",
+        "neutralize's",
+        "neutralized's"
+      ]
+    },
+    "cite": {
+      "pt": "citar",
+      "forms": [
+        "citing",
+        "cite's",
+        "citing's"
+      ]
+    },
+    "dysphoria": {
+      "pt": "Dysphoria, nome de uma nova variante",
+      "forms": [
+        "dysphoria's"
+      ]
+    },
+    "dns": {
+      "pt": "DNS, sistema de nomes da internet",
+      "forms": [
+        "dns's"
+      ]
+    },
+    "amplification": {
+      "pt": "amplificação",
+      "forms": [
+        "amplification's"
+      ]
+    },
+    "jump": {
+      "pt": "pular, subir muito",
+      "forms": [
+        "jumped",
+        "jump's",
+        "jumped's"
+      ]
+    },
+    "target": {
+      "pt": "alvo; atacar",
+      "forms": [
+        "targeted",
+        "target's",
+        "targeted's"
+      ]
+    },
+    "industry": {
+      "pt": "setor, indústria",
+      "forms": [
+        "industries",
+        "industry's",
+        "industries's"
+      ]
+    },
+    "media": {
+      "pt": "mídia",
+      "forms": [
+        "media's"
+      ]
+    },
+    "information": {
+      "pt": "informação",
+      "forms": [
+        "information's"
+      ]
+    },
+    "technology": {
+      "pt": "tecnologia",
+      "forms": [
+        "technology's"
+      ]
+    },
+    "gambling": {
+      "pt": "apostas",
+      "forms": [
+        "gambling's"
+      ]
+    }
+  }
+}

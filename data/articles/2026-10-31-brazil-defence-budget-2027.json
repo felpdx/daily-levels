@@ -1,0 +1,533 @@
+{
+  "id": "2026-10-31-brazil-defence-budget-2027",
+  "date": "2026-10-31",
+  "topic": "bolsa",
+  "source": {
+    "name": "MercoPress",
+    "url": "https://en.mercopress.com/2026/10/30/brazil-to-spend-nearly-three-quarters-of-its-2027-defence-budget-on-personnel-and-pensions?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+    "publishedAt": "2026-10-30T01:09:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Brazil's defence money",
+      "text": "Brazil plans to spend 147.68 billion reais on defence in 2027. That is about 27 billion US dollars. Most of the money, 73%, is for salaries and pensions. Only 8.6% is for new equipment. The real also lost value after Lula won the election, so imported parts cost more. Congress must still approve the plan."
+    },
+    "2": {
+      "title": "Brazil plans a 2027 defence budget with little room to invest",
+      "text": "Brazil plans to spend 147.68 billion reais on defence in 2027, about US$27 billion, according to the budget bill sent to Congress. Of that, 73% will pay for salaries, retirement benefits and pensions. Only 8.6% is for investment, about 12.7 billion reais.\n\nThis leaves less money for big programmes, such as fighter jets, frigates and a nuclear-powered submarine. Analyst Andrei Serbin Pont says the submarine's launch has reportedly moved from 2034 to 2038 because of money problems. The real also lost more than 8% against the dollar after Lula won the election again, so imported parts cost more. Congress must still approve the budget."
+    },
+    "3": {
+      "title": "Brazil's 2027 defence budget leaves little room for new equipment",
+      "text": "Brazil plans to allocate 147.68 billion reais to defence in 2027, roughly US$27 billion, according to the budget bill sent to Congress. About 73% of that will go on salaries, retirement benefits and pensions, while only 8.6% is set aside for investment, around 12.7 billion reais. Another 21.7 billion is for operating costs.\n\nThe country will therefore have to decide the pace of programmes that include fighter jets, frigates, armoured vehicles and a nuclear-powered submarine. The recent fall of the real, which lost more than 8% against the dollar after Lula da Silva's win, makes imported components more expensive.\n\nDefence analyst Andrei Serbin Pont says the submarine is the hardest-hit programme, with its launch reportedly slipping from 2034 to 2038. He also notes that the Army has postponed the choice of new armoured vehicles again. In his view, no weapons system Brazil is buying today alters the regional balance of power. Many decisions will depend on the new Defence Ministry leadership after Lula's fourth term begins on January 5."
+    }
+  },
+  "glossary": {
+    "brazil": {
+      "pt": "Brasil",
+      "forms": [
+        "brazil's"
+      ]
+    },
+    "therefore": {
+      "pt": "portanto",
+      "forms": [
+        "therefore's"
+      ]
+    },
+    "fourth": {
+      "pt": "quarto",
+      "forms": [
+        "fourth's"
+      ]
+    },
+    "defence": {
+      "pt": "defesa",
+      "forms": [
+        "defence's"
+      ]
+    },
+    "spend": {
+      "pt": "gastar",
+      "forms": [
+        "spend's"
+      ]
+    },
+    "real": {
+      "pt": "real, moeda do Brasil",
+      "forms": [
+        "real's"
+      ]
+    },
+    "reais": {
+      "pt": "reais, moeda do Brasil",
+      "forms": [
+        "reais's"
+      ]
+    },
+    "dollar": {
+      "pt": "dólar",
+      "forms": [
+        "dollars",
+        "dollar's",
+        "dollars's"
+      ]
+    },
+    "salary": {
+      "pt": "salário",
+      "forms": [
+        "salaries",
+        "salary's",
+        "salaries's"
+      ]
+    },
+    "pension": {
+      "pt": "pensão, aposentadoria",
+      "forms": [
+        "pensions",
+        "pension's",
+        "pensions's"
+      ],
+      "highlight": true
+    },
+    "equipment": {
+      "pt": "equipamento",
+      "forms": [
+        "equipment's"
+      ]
+    },
+    "value": {
+      "pt": "valor",
+      "forms": [
+        "value's"
+      ]
+    },
+    "lula": {
+      "pt": "Lula, presidente do Brasil",
+      "forms": [
+        "lula's"
+      ]
+    },
+    "win": {
+      "pt": "ganhar",
+      "forms": [
+        "won",
+        "win's",
+        "won's"
+      ]
+    },
+    "election": {
+      "pt": "eleição",
+      "forms": [
+        "election's"
+      ]
+    },
+    "import": {
+      "pt": "importar",
+      "forms": [
+        "imported",
+        "import's",
+        "imported's"
+      ]
+    },
+    "cost": {
+      "pt": "custar",
+      "forms": [
+        "cost's"
+      ]
+    },
+    "congress": {
+      "pt": "Congresso",
+      "forms": [
+        "congress's"
+      ]
+    },
+    "approve": {
+      "pt": "aprovar",
+      "forms": [
+        "approve's"
+      ]
+    },
+    "budget": {
+      "pt": "orçamento",
+      "forms": [
+        "budget's"
+      ],
+      "highlight": true
+    },
+    "invest": {
+      "pt": "investir",
+      "forms": [
+        "invest's"
+      ]
+    },
+    "according": {
+      "pt": "segundo",
+      "forms": [
+        "according's"
+      ]
+    },
+    "bill": {
+      "pt": "projeto de lei",
+      "forms": [
+        "bill's"
+      ]
+    },
+    "retirement": {
+      "pt": "aposentadoria",
+      "forms": [
+        "retirement's"
+      ]
+    },
+    "benefit": {
+      "pt": "benefício",
+      "forms": [
+        "benefits",
+        "benefit's",
+        "benefits's"
+      ]
+    },
+    "investment": {
+      "pt": "investimento",
+      "forms": [
+        "investment's"
+      ],
+      "highlight": true
+    },
+    "programme": {
+      "pt": "programa",
+      "forms": [
+        "programmes",
+        "programme's",
+        "programmes's"
+      ]
+    },
+    "fighter": {
+      "pt": "caça (avião de combate)",
+      "forms": [
+        "fighter's"
+      ],
+      "highlight": true
+    },
+    "jet": {
+      "pt": "jato",
+      "forms": [
+        "jets",
+        "jet's",
+        "jets's"
+      ]
+    },
+    "frigate": {
+      "pt": "fragata (navio de guerra)",
+      "forms": [
+        "frigates",
+        "frigate's",
+        "frigates's"
+      ],
+      "highlight": true
+    },
+    "nuclear": {
+      "pt": "nuclear",
+      "forms": [
+        "nuclear's"
+      ]
+    },
+    "powered": {
+      "pt": "movido",
+      "forms": [
+        "powered's"
+      ]
+    },
+    "submarine": {
+      "pt": "submarino",
+      "forms": [
+        "submarine's"
+      ],
+      "highlight": true
+    },
+    "analyst": {
+      "pt": "analista",
+      "forms": [
+        "analyst's"
+      ]
+    },
+    "andrei": {
+      "pt": "Andrei, nome próprio",
+      "forms": [
+        "andrei's"
+      ]
+    },
+    "serbin": {
+      "pt": "Serbin, sobrenome",
+      "forms": [
+        "serbin's"
+      ]
+    },
+    "pont": {
+      "pt": "Pont, sobrenome",
+      "forms": [
+        "pont's"
+      ]
+    },
+    "launch": {
+      "pt": "lançamento",
+      "forms": [
+        "launch's"
+      ]
+    },
+    "reportedly": {
+      "pt": "segundo relatos",
+      "forms": [
+        "reportedly's"
+      ]
+    },
+    "allocate": {
+      "pt": "destinar",
+      "forms": [
+        "allocate's"
+      ]
+    },
+    "roughly": {
+      "pt": "aproximadamente",
+      "forms": [
+        "roughly's"
+      ]
+    },
+    "set": {
+      "pt": "colocar",
+      "forms": [
+        "aside",
+        "set's",
+        "aside's"
+      ]
+    },
+    "aside": {
+      "pt": "de lado, reservado",
+      "forms": [
+        "aside's"
+      ]
+    },
+    "operating": {
+      "pt": "de funcionamento, operacional",
+      "forms": [
+        "operating's"
+      ]
+    },
+    "costs": {
+      "pt": "custos",
+      "forms": [
+        "costs's"
+      ]
+    },
+    "decide": {
+      "pt": "decidir",
+      "forms": [
+        "decide's"
+      ]
+    },
+    "pace": {
+      "pt": "ritmo",
+      "forms": [
+        "pace's"
+      ]
+    },
+    "include": {
+      "pt": "incluir",
+      "forms": [
+        "include's"
+      ]
+    },
+    "armoured": {
+      "pt": "blindado",
+      "forms": [
+        "armoured's"
+      ]
+    },
+    "vehicle": {
+      "pt": "veículo",
+      "forms": [
+        "vehicles",
+        "vehicle's",
+        "vehicles's"
+      ]
+    },
+    "recent": {
+      "pt": "recente",
+      "forms": [
+        "recent's"
+      ]
+    },
+    "component": {
+      "pt": "componente",
+      "forms": [
+        "components",
+        "component's",
+        "components's"
+      ]
+    },
+    "expensive": {
+      "pt": "caro",
+      "forms": [
+        "expensive's"
+      ]
+    },
+    "hard": {
+      "pt": "duro",
+      "forms": [
+        "hardest",
+        "hard's",
+        "hardest's"
+      ]
+    },
+    "hit": {
+      "pt": "atingido",
+      "forms": [
+        "hit's"
+      ]
+    },
+    "slip": {
+      "pt": "atrasar, escorregar",
+      "forms": [
+        "slipping",
+        "slip's",
+        "slipping's"
+      ]
+    },
+    "note": {
+      "pt": "notar",
+      "forms": [
+        "notes",
+        "note's",
+        "notes's"
+      ]
+    },
+    "army": {
+      "pt": "Exército",
+      "forms": [
+        "army's"
+      ]
+    },
+    "postpone": {
+      "pt": "adiar",
+      "forms": [
+        "postponed",
+        "postpone's",
+        "postponed's"
+      ],
+      "highlight": true
+    },
+    "choice": {
+      "pt": "escolha",
+      "forms": [
+        "choice's"
+      ]
+    },
+    "view": {
+      "pt": "opinião, ponto de vista",
+      "forms": [
+        "view's"
+      ]
+    },
+    "weapon": {
+      "pt": "arma",
+      "forms": [
+        "weapons",
+        "weapon's",
+        "weapons's"
+      ]
+    },
+    "system": {
+      "pt": "sistema",
+      "forms": [
+        "system's"
+      ]
+    },
+    "alter": {
+      "pt": "mudar, alterar",
+      "forms": [
+        "alters",
+        "alter's",
+        "alters's"
+      ]
+    },
+    "regional": {
+      "pt": "regional",
+      "forms": [
+        "regional's"
+      ]
+    },
+    "balance": {
+      "pt": "equilíbrio",
+      "forms": [
+        "balance's"
+      ]
+    },
+    "power": {
+      "pt": "poder",
+      "forms": [
+        "power's"
+      ]
+    },
+    "decision": {
+      "pt": "decisão",
+      "forms": [
+        "decisions",
+        "decision's",
+        "decisions's"
+      ]
+    },
+    "depend": {
+      "pt": "depender",
+      "forms": [
+        "depend's"
+      ]
+    },
+    "ministry": {
+      "pt": "ministério",
+      "forms": [
+        "ministry's"
+      ]
+    },
+    "leadership": {
+      "pt": "liderança",
+      "forms": [
+        "leadership's"
+      ]
+    },
+    "term": {
+      "pt": "mandato",
+      "forms": [
+        "term's"
+      ]
+    },
+    "january": {
+      "pt": "janeiro",
+      "forms": [
+        "january's"
+      ]
+    },
+    "da": {
+      "pt": "da (parte do nome)",
+      "forms": [
+        "da's"
+      ]
+    },
+    "silva": {
+      "pt": "Silva, sobrenome de Lula",
+      "forms": [
+        "silva's"
+      ]
+    },
+    "luiz": {
+      "pt": "Luiz, nome próprio",
+      "forms": [
+        "luiz's"
+      ]
+    },
+    "fall": {
+      "pt": "queda",
+      "forms": [
+        "fall's"
+      ]
+    }
+  }
+}

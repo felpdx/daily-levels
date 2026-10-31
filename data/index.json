@@ -1,6 +1,41 @@
 {
   "articles": [
     {
+      "id": "2026-10-31-chatgpt-share-link-flaw",
+      "date": "2026-10-31",
+      "topic": "hacking",
+      "title": "A bad ChatGPT link",
+      "source": "The Hacker News"
+    },
+    {
+      "id": "2026-10-31-cloudflare-ddos-q3",
+      "date": "2026-10-31",
+      "topic": "hacking",
+      "title": "More DDoS attacks",
+      "source": "The Hacker News"
+    },
+    {
+      "id": "2026-10-31-brazil-defence-budget-2027",
+      "date": "2026-10-31",
+      "topic": "bolsa",
+      "title": "Brazil's defence money",
+      "source": "MercoPress"
+    },
+    {
+      "id": "2026-10-31-us-tech-stocks-ai-spending",
+      "date": "2026-10-31",
+      "topic": "bolsa",
+      "title": "Tech stocks fall again",
+      "source": "BBC News"
+    },
+    {
+      "id": "2026-10-31-us-patriot-missiles-ukraine",
+      "date": "2026-10-31",
+      "topic": "mundo",
+      "title": "Patriot missiles for Ukraine",
+      "source": "BBC News"
+    },
+    {
       "id": "2026-10-30-binance-security-attack",
       "date": "2026-10-30",
       "topic": "hacking",

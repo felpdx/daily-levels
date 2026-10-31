@@ -1,0 +1,520 @@
+{
+  "id": "2026-10-31-us-tech-stocks-ai-spending",
+  "date": "2026-10-31",
+  "topic": "bolsa",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-10-30T20:34:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Tech stocks fall again",
+      "text": "US tech stocks fell for a second day. Intel lost 28% on Friday. Google's owner, Alphabet, fell 1.4% after a big fall on Thursday. Companies are spending a lot of money on AI. Investors worry that they will not earn enough money back. Some people talk about an AI bubble."
+    },
+    "2": {
+      "title": "US tech stocks fall again as AI spending grows",
+      "text": "Tech stocks in the US fell for a second day in a row on Friday. Intel lost 28%, and Alphabet, the owner of Google, fell another 1.4% after a 12% drop on Thursday. Reddit fell 29%. The Nasdaq ended 2.8% lower and had its worst month since March 2025.\n\nInvestors are worried because big companies are spending huge amounts on AI, but their results do not always meet expectations. Alphabet expects to spend up to $205bn this year. Analyst Kathleen Brookes said investors want payback. Still, the Nasdaq is up 7.8% over the last year."
+    },
+    "3": {
+      "title": "US tech shares slide again as investors question AI spending",
+      "text": "Tech stocks tumbled for a second day on Friday as concerns grew over the hundreds of billions of dollars companies are investing in artificial intelligence. Shares in Intel plummeted 28%, losing more than $130bn in value, after it forecast lower-than-expected revenue and said the PC slowdown would continue through the first half of next year. Alphabet fell another 1.4% after a 12% plunge on Thursday, when it said AI summaries in search were hurting its advertising revenue. Reddit dropped 29% and Roblox 18%.\n\nThe Nasdaq closed 2.8% lower and ended October with its worst monthly slide since March 2025. Meta, Alphabet, Oracle, Amazon and Microsoft have committed to spending $800bn between them in 2026, fuelling fears of an AI bubble.\n\nKathleen Brookes of the trading firm XTB said investors have turned ruthless and want payback. Chris Low of FHN Financial said the companies were showing growing pains. However, the Nasdaq is still up 7.8% over the last year."
+    }
+  },
+  "glossary": {
+    "tech": {
+      "pt": "tecnologia",
+      "forms": [
+        "tech's"
+      ]
+    },
+    "stock": {
+      "pt": "ação (da bolsa)",
+      "forms": [
+        "stocks",
+        "stock's",
+        "stocks's"
+      ],
+      "highlight": true
+    },
+    "intel": {
+      "pt": "Intel, fabricante de chips dos EUA",
+      "forms": [
+        "intel's"
+      ]
+    },
+    "friday": {
+      "pt": "sexta-feira",
+      "forms": [
+        "friday's"
+      ]
+    },
+    "google": {
+      "pt": "Google",
+      "forms": [
+        "google's"
+      ]
+    },
+    "owner": {
+      "pt": "dono",
+      "forms": [
+        "owner's"
+      ]
+    },
+    "alphabet": {
+      "pt": "Alphabet, empresa dona do Google",
+      "forms": [
+        "alphabet's"
+      ]
+    },
+    "thursday": {
+      "pt": "quinta-feira",
+      "forms": [
+        "thursday's"
+      ]
+    },
+    "spending": {
+      "pt": "gastos",
+      "forms": [
+        "spending's"
+      ]
+    },
+    "ai": {
+      "pt": "IA, inteligência artificial",
+      "forms": [
+        "ai's"
+      ]
+    },
+    "investor": {
+      "pt": "investidor",
+      "forms": [
+        "investors",
+        "investor's",
+        "investors's"
+      ],
+      "highlight": true
+    },
+    "worry": {
+      "pt": "preocupar-se",
+      "forms": [
+        "worried",
+        "worry's",
+        "worried's"
+      ]
+    },
+    "earn": {
+      "pt": "ganhar (dinheiro)",
+      "forms": [
+        "earn's"
+      ]
+    },
+    "enough": {
+      "pt": "suficiente",
+      "forms": [
+        "enough's"
+      ]
+    },
+    "bubble": {
+      "pt": "bolha",
+      "forms": [
+        "bubble's"
+      ],
+      "highlight": true
+    },
+    "row": {
+      "pt": "sequência",
+      "forms": [
+        "row's"
+      ]
+    },
+    "drop": {
+      "pt": "queda; cair",
+      "forms": [
+        "drop's"
+      ]
+    },
+    "reddit": {
+      "pt": "Reddit, rede social",
+      "forms": [
+        "reddit's"
+      ]
+    },
+    "nasdaq": {
+      "pt": "Nasdaq, índice de ações de tecnologia dos EUA",
+      "forms": [
+        "nasdaq's"
+      ]
+    },
+    "march": {
+      "pt": "março",
+      "forms": [
+        "march's"
+      ]
+    },
+    "huge": {
+      "pt": "enorme",
+      "forms": [
+        "huge's"
+      ]
+    },
+    "amount": {
+      "pt": "quantia",
+      "forms": [
+        "amounts",
+        "amount's",
+        "amounts's"
+      ]
+    },
+    "result": {
+      "pt": "resultado",
+      "forms": [
+        "results",
+        "result's",
+        "results's"
+      ]
+    },
+    "expectation": {
+      "pt": "expectativa",
+      "forms": [
+        "expectations",
+        "expectation's",
+        "expectations's"
+      ],
+      "highlight": true
+    },
+    "expect": {
+      "pt": "esperar",
+      "forms": [
+        "expects",
+        "expected",
+        "expect's",
+        "expects's",
+        "expected's"
+      ]
+    },
+    "spend": {
+      "pt": "gastar",
+      "forms": [
+        "spend's"
+      ]
+    },
+    "analyst": {
+      "pt": "analista",
+      "forms": [
+        "analyst's"
+      ]
+    },
+    "kathleen": {
+      "pt": "Kathleen, nome próprio",
+      "forms": [
+        "kathleen's"
+      ]
+    },
+    "brookes": {
+      "pt": "Brookes, sobrenome",
+      "forms": [
+        "brookes's"
+      ]
+    },
+    "payback": {
+      "pt": "retorno, recompensa pelo investimento",
+      "forms": [
+        "payback's"
+      ],
+      "highlight": true
+    },
+    "share": {
+      "pt": "ação (parte de uma empresa)",
+      "forms": [
+        "shares",
+        "share's",
+        "shares's"
+      ]
+    },
+    "slide": {
+      "pt": "queda; deslizar",
+      "forms": [
+        "slide's"
+      ]
+    },
+    "question": {
+      "pt": "questionar",
+      "forms": [
+        "question's"
+      ]
+    },
+    "tumble": {
+      "pt": "despencar",
+      "forms": [
+        "tumbled",
+        "tumble's",
+        "tumbled's"
+      ],
+      "highlight": true
+    },
+    "concern": {
+      "pt": "preocupação",
+      "forms": [
+        "concerns",
+        "concern's",
+        "concerns's"
+      ]
+    },
+    "hundred": {
+      "pt": "centena",
+      "forms": [
+        "hundreds",
+        "hundred's",
+        "hundreds's"
+      ]
+    },
+    "dollar": {
+      "pt": "dólar",
+      "forms": [
+        "dollars",
+        "dollar's",
+        "dollars's"
+      ]
+    },
+    "invest": {
+      "pt": "investir",
+      "forms": [
+        "investing",
+        "invest's",
+        "investing's"
+      ]
+    },
+    "artificial": {
+      "pt": "artificial",
+      "forms": [
+        "artificial's"
+      ]
+    },
+    "intelligence": {
+      "pt": "inteligência",
+      "forms": [
+        "intelligence's"
+      ]
+    },
+    "plummet": {
+      "pt": "despencar",
+      "forms": [
+        "plummeted",
+        "plummet's",
+        "plummeted's"
+      ],
+      "highlight": true
+    },
+    "value": {
+      "pt": "valor",
+      "forms": [
+        "value's"
+      ]
+    },
+    "forecast": {
+      "pt": "prever, projetar",
+      "forms": [
+        "forecast's"
+      ]
+    },
+    "revenue": {
+      "pt": "receita",
+      "forms": [
+        "revenue's"
+      ]
+    },
+    "pc": {
+      "pt": "PC, computador pessoal",
+      "forms": [
+        "pc's"
+      ]
+    },
+    "slowdown": {
+      "pt": "desaceleração",
+      "forms": [
+        "slowdown's"
+      ]
+    },
+    "continue": {
+      "pt": "continuar",
+      "forms": [
+        "continue's"
+      ]
+    },
+    "half": {
+      "pt": "metade",
+      "forms": [
+        "half's"
+      ]
+    },
+    "plunge": {
+      "pt": "queda forte",
+      "forms": [
+        "plunge's"
+      ],
+      "highlight": true
+    },
+    "summary": {
+      "pt": "resumo",
+      "forms": [
+        "summaries",
+        "summary's",
+        "summaries's"
+      ]
+    },
+    "search": {
+      "pt": "busca",
+      "forms": [
+        "search's"
+      ]
+    },
+    "hurt": {
+      "pt": "prejudicar",
+      "forms": [
+        "hurting",
+        "hurt's",
+        "hurting's"
+      ]
+    },
+    "advertising": {
+      "pt": "publicidade",
+      "forms": [
+        "advertising's"
+      ]
+    },
+    "dropped": {
+      "pt": "caiu",
+      "forms": [
+        "dropped's"
+      ]
+    },
+    "roblox": {
+      "pt": "Roblox, plataforma de jogos",
+      "forms": [
+        "roblox's"
+      ]
+    },
+    "monthly": {
+      "pt": "mensal",
+      "forms": [
+        "monthly's"
+      ]
+    },
+    "october": {
+      "pt": "outubro",
+      "forms": [
+        "october's"
+      ]
+    },
+    "meta": {
+      "pt": "Meta, dona do Facebook",
+      "forms": [
+        "meta's"
+      ]
+    },
+    "oracle": {
+      "pt": "Oracle, empresa de software",
+      "forms": [
+        "oracle's"
+      ]
+    },
+    "amazon": {
+      "pt": "Amazon, empresa de comércio e nuvem",
+      "forms": [
+        "amazon's"
+      ]
+    },
+    "microsoft": {
+      "pt": "Microsoft, empresa de software",
+      "forms": [
+        "microsoft's"
+      ]
+    },
+    "commit": {
+      "pt": "comprometer-se",
+      "forms": [
+        "committed",
+        "commit's",
+        "committed's"
+      ]
+    },
+    "fuel": {
+      "pt": "alimentar, aumentar",
+      "forms": [
+        "fuelling",
+        "fuel's",
+        "fuelling's"
+      ]
+    },
+    "fear": {
+      "pt": "medo",
+      "forms": [
+        "fears",
+        "fear's",
+        "fears's"
+      ]
+    },
+    "trading": {
+      "pt": "de negociação",
+      "forms": [
+        "trading's"
+      ]
+    },
+    "firm": {
+      "pt": "empresa",
+      "forms": [
+        "firm's"
+      ]
+    },
+    "xtb": {
+      "pt": "XTB, corretora",
+      "forms": [
+        "xtb's"
+      ]
+    },
+    "ruthless": {
+      "pt": "impiedoso",
+      "forms": [
+        "ruthless's"
+      ]
+    },
+    "chris": {
+      "pt": "Chris, nome próprio",
+      "forms": [
+        "chris's"
+      ]
+    },
+    "low": {
+      "pt": "Low, sobrenome",
+      "forms": [
+        "low's"
+      ]
+    },
+    "fhn": {
+      "pt": "FHN, sigla de uma empresa",
+      "forms": [
+        "fhn's"
+      ]
+    },
+    "financial": {
+      "pt": "financeiro",
+      "forms": [
+        "financial's"
+      ]
+    },
+    "growing": {
+      "pt": "crescente",
+      "forms": [
+        "growing's"
+      ]
+    },
+    "pain": {
+      "pt": "dor",
+      "forms": [
+        "pains",
+        "pain's",
+        "pains's"
+      ]
+    }
+  }
+}

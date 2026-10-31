@@ -1,0 +1,502 @@
+{
+  "id": "2026-10-31-us-patriot-missiles-ukraine",
+  "date": "2026-10-31",
+  "topic": "mundo",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-10-31T00:40:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Patriot missiles for Ukraine",
+      "text": "The United States approved the sale of 500 Patriot missiles to Ukraine. The missiles help to stop Russian attacks from the air. They cost $2.1bn. Europe and Canada will pay for them. But Ukraine may wait several years for them. President Zelensky says Ukraine needs them now."
+    },
+    "2": {
+      "title": "US approves 500 Patriot missiles for Ukraine",
+      "text": "The United States has approved the sale of 500 Patriot missiles to Ukraine. Ukraine needs them to defend itself against Russian attacks from the air. The US State Department said the missiles will cost $2.1bn, and Kyiv's allies in Europe and Canada will pay for them. No US money is involved.\n\nPresident Volodymyr Zelensky welcomed the news, but he warned that deliveries could take several years. He said Ukraine needs the missiles right now. He also said Russia made more than 30 strikes on Ukraine's power grid in the past two weeks. There is a global shortage of these missiles, and the US makes only about 600 a year."
+    },
+    "3": {
+      "title": "US approves sale of 500 Patriot missiles to Ukraine, but delivery may take years",
+      "text": "The United States has approved the sale of 500 Patriot missiles to Ukraine, a munition Kyiv badly needs to defend against escalating Russian air attacks. The US State Department said the PAC-3 interceptors would cost $2.1bn and would be funded entirely by Ukraine's allies in Europe and Canada, with no US funds involved. Lockheed Martin would be the main contractor.\n\nPresident Volodymyr Zelensky welcomed the announcement but warned it could take several years for the missiles to arrive, repeating that Ukraine needs them right now. He said Russia had carried out more than 30 strikes on critical parts of the power grid over two weeks. The order is understood to be for new missiles, not existing stock, and the Department of Defense says only 600 are produced each year. The BBC also reports a global shortage, partly because of their use in the US war against Iran.\n\nSeparately, at a G20 foreign ministers' meeting in Atlanta, European diplomats refused to stand for an official photograph to protest the presence of Russia's Foreign Minister Sergei Lavrov."
+    }
+  },
+  "glossary": {
+    "patriot": {
+      "pt": "Patriot, sistema de mísseis dos EUA",
+      "forms": [
+        "patriot's"
+      ]
+    },
+    "missile": {
+      "pt": "míssil",
+      "forms": [
+        "missiles",
+        "missile's",
+        "missiles's"
+      ],
+      "highlight": true
+    },
+    "ukraine": {
+      "pt": "Ucrânia",
+      "forms": [
+        "ukraine's"
+      ]
+    },
+    "united": {
+      "pt": "unidos",
+      "forms": [
+        "united's"
+      ]
+    },
+    "states": {
+      "pt": "estados",
+      "forms": [
+        "states's"
+      ]
+    },
+    "approve": {
+      "pt": "aprovar",
+      "forms": [
+        "approved",
+        "approves",
+        "approve's",
+        "approved's",
+        "approves's"
+      ],
+      "highlight": true
+    },
+    "sale": {
+      "pt": "venda",
+      "forms": [
+        "sale's"
+      ]
+    },
+    "russian": {
+      "pt": "russo",
+      "forms": [
+        "russian's"
+      ]
+    },
+    "attack": {
+      "pt": "ataque",
+      "forms": [
+        "attacks",
+        "attack's",
+        "attacks's"
+      ]
+    },
+    "air": {
+      "pt": "ar",
+      "forms": [
+        "air's"
+      ]
+    },
+    "europe": {
+      "pt": "Europa",
+      "forms": [
+        "europe's"
+      ]
+    },
+    "canada": {
+      "pt": "Canadá",
+      "forms": [
+        "canada's"
+      ]
+    },
+    "wait": {
+      "pt": "esperar",
+      "forms": [
+        "wait's"
+      ]
+    },
+    "several": {
+      "pt": "vários",
+      "forms": [
+        "several's"
+      ]
+    },
+    "zelensky": {
+      "pt": "Zelensky, presidente da Ucrânia",
+      "forms": [
+        "zelensky's"
+      ]
+    },
+    "defend": {
+      "pt": "defender",
+      "forms": [
+        "defend's"
+      ]
+    },
+    "state": {
+      "pt": "Estado",
+      "forms": [
+        "state's"
+      ]
+    },
+    "department": {
+      "pt": "departamento",
+      "forms": [
+        "department's"
+      ]
+    },
+    "kyiv": {
+      "pt": "Kiev, capital da Ucrânia",
+      "forms": [
+        "kyiv's"
+      ]
+    },
+    "ally": {
+      "pt": "aliado",
+      "forms": [
+        "allies",
+        "ally's",
+        "allies's"
+      ]
+    },
+    "involve": {
+      "pt": "envolver",
+      "forms": [
+        "involved",
+        "involve's",
+        "involved's"
+      ]
+    },
+    "volodymyr": {
+      "pt": "Volodymyr, nome próprio",
+      "forms": [
+        "volodymyr's"
+      ]
+    },
+    "welcome": {
+      "pt": "receber bem",
+      "forms": [
+        "welcomed",
+        "welcome's",
+        "welcomed's"
+      ]
+    },
+    "warn": {
+      "pt": "avisar",
+      "forms": [
+        "warned",
+        "warn's",
+        "warned's"
+      ],
+      "highlight": true
+    },
+    "delivery": {
+      "pt": "entrega",
+      "forms": [
+        "deliveries",
+        "delivery's",
+        "deliveries's"
+      ],
+      "highlight": true
+    },
+    "russia": {
+      "pt": "Rússia",
+      "forms": [
+        "russia's"
+      ]
+    },
+    "strike": {
+      "pt": "ataque, bombardeio",
+      "forms": [
+        "strikes",
+        "strike's",
+        "strikes's"
+      ]
+    },
+    "power": {
+      "pt": "energia, poder",
+      "forms": [
+        "power's"
+      ]
+    },
+    "grid": {
+      "pt": "rede elétrica",
+      "forms": [
+        "grid's"
+      ]
+    },
+    "past": {
+      "pt": "passado",
+      "forms": [
+        "past's"
+      ]
+    },
+    "global": {
+      "pt": "global",
+      "forms": [
+        "global's"
+      ]
+    },
+    "shortage": {
+      "pt": "falta, escassez",
+      "forms": [
+        "shortage's"
+      ],
+      "highlight": true
+    },
+    "munition": {
+      "pt": "munição",
+      "forms": [
+        "munition's"
+      ]
+    },
+    "badly": {
+      "pt": "muito, gravemente",
+      "forms": [
+        "badly's"
+      ]
+    },
+    "escalate": {
+      "pt": "aumentar, intensificar",
+      "forms": [
+        "escalating",
+        "escalate's",
+        "escalating's"
+      ],
+      "highlight": true
+    },
+    "interceptor": {
+      "pt": "interceptador (míssil que derruba outros)",
+      "forms": [
+        "interceptors",
+        "interceptor's",
+        "interceptors's"
+      ]
+    },
+    "cost": {
+      "pt": "custar",
+      "forms": [
+        "cost's"
+      ]
+    },
+    "fund": {
+      "pt": "financiar",
+      "forms": [
+        "funded",
+        "funds",
+        "fund's",
+        "funded's",
+        "funds's"
+      ]
+    },
+    "entirely": {
+      "pt": "totalmente",
+      "forms": [
+        "entirely's"
+      ]
+    },
+    "lockheed": {
+      "pt": "Lockheed, empresa de armas dos EUA",
+      "forms": [
+        "lockheed's"
+      ]
+    },
+    "martin": {
+      "pt": "Martin, nome próprio",
+      "forms": [
+        "martin's"
+      ]
+    },
+    "contractor": {
+      "pt": "contratada, empresa responsável",
+      "forms": [
+        "contractor's"
+      ]
+    },
+    "announcement": {
+      "pt": "anúncio",
+      "forms": [
+        "announcement's"
+      ]
+    },
+    "arrive": {
+      "pt": "chegar",
+      "forms": [
+        "arrive's"
+      ]
+    },
+    "repeat": {
+      "pt": "repetir",
+      "forms": [
+        "repeating",
+        "repeat's",
+        "repeating's"
+      ]
+    },
+    "carry": {
+      "pt": "realizar",
+      "forms": [
+        "carried",
+        "carry's",
+        "carried's"
+      ]
+    },
+    "critical": {
+      "pt": "crítico",
+      "forms": [
+        "critical's"
+      ]
+    },
+    "order": {
+      "pt": "pedido, encomenda",
+      "forms": [
+        "order's"
+      ]
+    },
+    "understand": {
+      "pt": "entender",
+      "forms": [
+        "understood",
+        "understand's",
+        "understood's"
+      ]
+    },
+    "existing": {
+      "pt": "existente",
+      "forms": [
+        "existing's"
+      ]
+    },
+    "stock": {
+      "pt": "estoque",
+      "forms": [
+        "stock's"
+      ]
+    },
+    "defense": {
+      "pt": "defesa",
+      "forms": [
+        "defense's"
+      ]
+    },
+    "produce": {
+      "pt": "produzir",
+      "forms": [
+        "produced",
+        "produce's",
+        "produced's"
+      ]
+    },
+    "bbc": {
+      "pt": "BBC, emissora do Reino Unido",
+      "forms": [
+        "bbc's"
+      ]
+    },
+    "report": {
+      "pt": "relatar",
+      "forms": [
+        "reports",
+        "report's",
+        "reports's"
+      ]
+    },
+    "war": {
+      "pt": "guerra",
+      "forms": [
+        "war's"
+      ]
+    },
+    "iran": {
+      "pt": "Irã",
+      "forms": [
+        "iran's"
+      ]
+    },
+    "separately": {
+      "pt": "separadamente",
+      "forms": [
+        "separately's"
+      ]
+    },
+    "foreign": {
+      "pt": "estrangeiro",
+      "forms": [
+        "foreign's"
+      ]
+    },
+    "minister": {
+      "pt": "ministro",
+      "forms": [
+        "ministers",
+        "minister's",
+        "ministers's"
+      ]
+    },
+    "atlanta": {
+      "pt": "Atlanta, cidade dos EUA",
+      "forms": [
+        "atlanta's"
+      ]
+    },
+    "european": {
+      "pt": "europeu",
+      "forms": [
+        "european's"
+      ]
+    },
+    "diplomat": {
+      "pt": "diplomata",
+      "forms": [
+        "diplomats",
+        "diplomat's",
+        "diplomats's"
+      ]
+    },
+    "refuse": {
+      "pt": "recusar",
+      "forms": [
+        "refused",
+        "refuse's",
+        "refused's"
+      ]
+    },
+    "stand": {
+      "pt": "ficar de pé",
+      "forms": [
+        "stand's"
+      ]
+    },
+    "official": {
+      "pt": "oficial",
+      "forms": [
+        "official's"
+      ]
+    },
+    "photograph": {
+      "pt": "fotografia",
+      "forms": [
+        "photograph's"
+      ]
+    },
+    "protest": {
+      "pt": "protestar",
+      "forms": [
+        "protest's"
+      ]
+    },
+    "presence": {
+      "pt": "presença",
+      "forms": [
+        "presence's"
+      ]
+    },
+    "sergei": {
+      "pt": "Sergei, nome próprio",
+      "forms": [
+        "sergei's"
+      ]
+    },
+    "lavrov": {
+      "pt": "Lavrov, ministro das Relações Exteriores da Rússia",
+      "forms": [
+        "lavrov's"
+      ]
+    }
+  }
+}

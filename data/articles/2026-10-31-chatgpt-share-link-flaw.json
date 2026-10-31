@@ -1,0 +1,599 @@
+{
+  "id": "2026-10-31-chatgpt-share-link-flaw",
+  "date": "2026-10-31",
+  "topic": "hacking",
+  "source": {
+    "name": "The Hacker News",
+    "url": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
+    "publishedAt": "2026-10-31T05:33:41Z"
+  },
+  "levels": {
+    "1": {
+      "title": "A bad ChatGPT link",
+      "text": "Researchers found a bug in ChatGPT. A shared link could run an attacker's code. The code could read the private chats of a person who opened the link. The company Parameter found the bug. OpenAI fixed it in October. Users do not need to do anything. There is no sign that real people were attacked."
+    },
+    "2": {
+      "title": "A shared ChatGPT link could read private chats",
+      "text": "Researchers at the security firm Parameter found a serious bug in ChatGPT. A shared chat link could run an attacker's code inside the session of anyone who opened it. With that code, the attacker could read the victim's private conversations.\n\nThe victim did not need to install anything. In the most reliable version, the person opened the link and clicked the Preview button once. Later, the researchers made Preview open by itself.\n\nParameter reported the problem on October 18. OpenAI fixed it eight days later and called it P1, its most serious level. The researchers say they saw no real attacks, and they tested only between separate accounts. Users do not need to do anything. OpenAI paid $5,000 for the report."
+    },
+    "3": {
+      "title": "A malicious share link could expose private ChatGPT conversations",
+      "text": "A malicious ChatGPT share link could run an attacker's code in the signed-in session of anyone who opened it, according to researchers at the security firm Parameter. The code could list recent conversations, open a private chat and send part of it to a server controlled by the researchers.\n\nThe attack worked by chaining two features. ChatGPT can turn HTML in a chat into a small web page called Preview, which runs inside a locked-down frame. That sandbox held. But the shared chat also contained an interactive graph that loaded a math library called MathLive into the main page. The library left a listener that accepted keyboard messages from any sender, and those messages could carry raw HTML. The Preview could therefore pass attacker HTML to the trusted page. A script loaded from YouTube, which the content security policy allowed, then supplied the code.\n\nParameter reported the flaw on October 18. OpenAI reproduced it, raised the severity from P2 to P1 and fixed two versions of its web frontend by October 26. Parameter reports no real-world use, and its private-chat test was run between separate accounts. Users do not need to act. OpenAI paid $5,000."
+    }
+  },
+  "glossary": {
+    "according": {
+      "pt": "segundo",
+      "forms": [
+        "according's"
+      ]
+    },
+    "chatgpt": {
+      "pt": "ChatGPT, assistente de IA da OpenAI",
+      "forms": [
+        "chatgpt's"
+      ]
+    },
+    "link": {
+      "pt": "link",
+      "forms": [
+        "links",
+        "link's",
+        "links's"
+      ],
+      "highlight": true
+    },
+    "researcher": {
+      "pt": "pesquisador",
+      "forms": [
+        "researchers",
+        "researcher's",
+        "researchers's"
+      ]
+    },
+    "bug": {
+      "pt": "falha, erro de programa",
+      "forms": [
+        "bugs",
+        "bug's",
+        "bugs's"
+      ],
+      "highlight": true
+    },
+    "share": {
+      "pt": "compartilhar",
+      "forms": [
+        "shared",
+        "sharing",
+        "share's",
+        "shared's",
+        "sharing's"
+      ]
+    },
+    "attacker": {
+      "pt": "atacante",
+      "forms": [
+        "attackers",
+        "attacker's",
+        "attackers's"
+      ],
+      "highlight": true
+    },
+    "code": {
+      "pt": "código",
+      "forms": [
+        "code's"
+      ]
+    },
+    "private": {
+      "pt": "privado",
+      "forms": [
+        "private's"
+      ]
+    },
+    "chat": {
+      "pt": "conversa, chat",
+      "forms": [
+        "chats",
+        "chat's",
+        "chats's"
+      ]
+    },
+    "open": {
+      "pt": "abrir",
+      "forms": [
+        "opened",
+        "opens",
+        "open's",
+        "opened's",
+        "opens's"
+      ]
+    },
+    "company": {
+      "pt": "empresa",
+      "forms": [
+        "company's"
+      ]
+    },
+    "parameter": {
+      "pt": "Parameter, empresa de segurança",
+      "forms": [
+        "parameter's"
+      ]
+    },
+    "openai": {
+      "pt": "OpenAI, empresa que criou o ChatGPT",
+      "forms": [
+        "openai's"
+      ]
+    },
+    "fix": {
+      "pt": "consertar",
+      "forms": [
+        "fixed",
+        "fix's",
+        "fixed's"
+      ]
+    },
+    "october": {
+      "pt": "outubro",
+      "forms": [
+        "october's"
+      ]
+    },
+    "user": {
+      "pt": "usuário",
+      "forms": [
+        "users",
+        "user's",
+        "users's"
+      ]
+    },
+    "anything": {
+      "pt": "qualquer coisa",
+      "forms": [
+        "anything's"
+      ]
+    },
+    "sign": {
+      "pt": "sinal",
+      "forms": [
+        "sign's"
+      ]
+    },
+    "attack": {
+      "pt": "ataque; atacar",
+      "forms": [
+        "attacked",
+        "attacks",
+        "attack's",
+        "attacked's",
+        "attacks's"
+      ]
+    },
+    "security": {
+      "pt": "segurança",
+      "forms": [
+        "security's"
+      ]
+    },
+    "firm": {
+      "pt": "empresa",
+      "forms": [
+        "firm's"
+      ]
+    },
+    "serious": {
+      "pt": "grave",
+      "forms": [
+        "serious's"
+      ]
+    },
+    "session": {
+      "pt": "sessão (período em que você está conectado)",
+      "forms": [
+        "session's"
+      ]
+    },
+    "anyone": {
+      "pt": "qualquer pessoa",
+      "forms": [
+        "anyone's"
+      ]
+    },
+    "victim": {
+      "pt": "vítima",
+      "forms": [
+        "victims",
+        "victim's",
+        "victims's"
+      ],
+      "highlight": true
+    },
+    "conversation": {
+      "pt": "conversa",
+      "forms": [
+        "conversations",
+        "conversation's",
+        "conversations's"
+      ]
+    },
+    "install": {
+      "pt": "instalar",
+      "forms": [
+        "install's"
+      ]
+    },
+    "reliable": {
+      "pt": "confiável",
+      "forms": [
+        "reliable's"
+      ]
+    },
+    "version": {
+      "pt": "versão",
+      "forms": [
+        "versions",
+        "version's",
+        "versions's"
+      ]
+    },
+    "click": {
+      "pt": "clicar",
+      "forms": [
+        "clicked",
+        "click's",
+        "clicked's"
+      ]
+    },
+    "preview": {
+      "pt": "pré-visualização (recurso do ChatGPT)",
+      "forms": [
+        "preview's"
+      ]
+    },
+    "button": {
+      "pt": "botão",
+      "forms": [
+        "button's"
+      ]
+    },
+    "report": {
+      "pt": "relatar; relatório",
+      "forms": [
+        "reported",
+        "reports",
+        "report's",
+        "reported's",
+        "reports's"
+      ]
+    },
+    "eight": {
+      "pt": "oito",
+      "forms": [
+        "eight's"
+      ]
+    },
+    "level": {
+      "pt": "nível",
+      "forms": [
+        "level's"
+      ]
+    },
+    "test": {
+      "pt": "testar; teste",
+      "forms": [
+        "tested",
+        "test's",
+        "tested's"
+      ]
+    },
+    "separate": {
+      "pt": "separado",
+      "forms": [
+        "separate's"
+      ]
+    },
+    "account": {
+      "pt": "conta",
+      "forms": [
+        "accounts",
+        "account's",
+        "accounts's"
+      ]
+    },
+    "malicious": {
+      "pt": "malicioso",
+      "forms": [
+        "malicious's"
+      ],
+      "highlight": true
+    },
+    "expose": {
+      "pt": "expor",
+      "forms": [
+        "expose's"
+      ],
+      "highlight": true
+    },
+    "signed": {
+      "pt": "conectado com login (signed in)",
+      "forms": [
+        "signed's"
+      ]
+    },
+    "list": {
+      "pt": "listar",
+      "forms": [
+        "list's"
+      ]
+    },
+    "recent": {
+      "pt": "recente",
+      "forms": [
+        "recent's"
+      ]
+    },
+    "server": {
+      "pt": "servidor",
+      "forms": [
+        "server's"
+      ]
+    },
+    "chaining": {
+      "pt": "encadear, ligar um ao outro",
+      "forms": [
+        "chaining's"
+      ]
+    },
+    "feature": {
+      "pt": "recurso",
+      "forms": [
+        "features",
+        "feature's",
+        "features's"
+      ]
+    },
+    "html": {
+      "pt": "HTML, linguagem de páginas da web",
+      "forms": [
+        "html's"
+      ]
+    },
+    "web": {
+      "pt": "web, internet",
+      "forms": [
+        "web's"
+      ]
+    },
+    "page": {
+      "pt": "página",
+      "forms": [
+        "page's"
+      ]
+    },
+    "inside": {
+      "pt": "dentro de",
+      "forms": [
+        "inside's"
+      ]
+    },
+    "locked": {
+      "pt": "trancado",
+      "forms": [
+        "locked's"
+      ]
+    },
+    "frame": {
+      "pt": "moldura, área isolada da página",
+      "forms": [
+        "frame's"
+      ]
+    },
+    "sandbox": {
+      "pt": "sandbox, área isolada e segura",
+      "forms": [
+        "sandbox's"
+      ]
+    },
+    "hold": {
+      "pt": "aguentar, resistir",
+      "forms": [
+        "held",
+        "hold's",
+        "held's"
+      ]
+    },
+    "contain": {
+      "pt": "conter",
+      "forms": [
+        "contained",
+        "contain's",
+        "contained's"
+      ]
+    },
+    "interactive": {
+      "pt": "interativo",
+      "forms": [
+        "interactive's"
+      ]
+    },
+    "graph": {
+      "pt": "gráfico",
+      "forms": [
+        "graph's"
+      ]
+    },
+    "load": {
+      "pt": "carregar",
+      "forms": [
+        "loaded",
+        "load's",
+        "loaded's"
+      ]
+    },
+    "math": {
+      "pt": "matemática",
+      "forms": [
+        "math's"
+      ]
+    },
+    "mathlive": {
+      "pt": "MathLive, biblioteca de matemática",
+      "forms": [
+        "mathlive's"
+      ]
+    },
+    "library": {
+      "pt": "biblioteca (conjunto de código)",
+      "forms": [
+        "library's"
+      ]
+    },
+    "listener": {
+      "pt": "ouvinte (código que espera mensagens)",
+      "forms": [
+        "listener's"
+      ]
+    },
+    "accept": {
+      "pt": "aceitar",
+      "forms": [
+        "accepted",
+        "accept's",
+        "accepted's"
+      ]
+    },
+    "keyboard": {
+      "pt": "teclado",
+      "forms": [
+        "keyboard's"
+      ]
+    },
+    "message": {
+      "pt": "mensagem",
+      "forms": [
+        "messages",
+        "message's",
+        "messages's"
+      ]
+    },
+    "sender": {
+      "pt": "remetente",
+      "forms": [
+        "sender's"
+      ]
+    },
+    "carry": {
+      "pt": "carregar, levar",
+      "forms": [
+        "carry's"
+      ]
+    },
+    "raw": {
+      "pt": "bruto, sem tratamento",
+      "forms": [
+        "raw's"
+      ]
+    },
+    "therefore": {
+      "pt": "portanto",
+      "forms": [
+        "therefore's"
+      ]
+    },
+    "pass": {
+      "pt": "passar",
+      "forms": [
+        "pass's"
+      ]
+    },
+    "trusted": {
+      "pt": "confiável",
+      "forms": [
+        "trusted's"
+      ]
+    },
+    "script": {
+      "pt": "script, trecho de código",
+      "forms": [
+        "script's"
+      ]
+    },
+    "youtube": {
+      "pt": "YouTube, site de vídeos",
+      "forms": [
+        "youtube's"
+      ]
+    },
+    "content": {
+      "pt": "conteúdo",
+      "forms": [
+        "content's"
+      ]
+    },
+    "policy": {
+      "pt": "política, regra",
+      "forms": [
+        "policy's"
+      ]
+    },
+    "allow": {
+      "pt": "permitir",
+      "forms": [
+        "allowed",
+        "allow's",
+        "allowed's"
+      ]
+    },
+    "supply": {
+      "pt": "fornecer",
+      "forms": [
+        "supplied",
+        "supply's",
+        "supplied's"
+      ]
+    },
+    "flaw": {
+      "pt": "falha",
+      "forms": [
+        "flaw's"
+      ],
+      "highlight": true
+    },
+    "reproduce": {
+      "pt": "reproduzir",
+      "forms": [
+        "reproduced",
+        "reproduce's",
+        "reproduced's"
+      ]
+    },
+    "raise": {
+      "pt": "aumentar",
+      "forms": [
+        "raised",
+        "raise's",
+        "raised's"
+      ]
+    },
+    "severity": {
+      "pt": "gravidade",
+      "forms": [
+        "severity's"
+      ]
+    },
+    "frontend": {
+      "pt": "frontend, parte visível do site",
+      "forms": [
+        "frontend's"
+      ]
+    },
+    "act": {
+      "pt": "agir",
+      "forms": [
+        "act's"
+      ]
+    }
+  }
+}

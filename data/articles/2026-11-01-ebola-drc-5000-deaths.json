@@ -1,0 +1,255 @@
+{
+  "id": "2026-11-01-ebola-drc-5000-deaths",
+  "date": "2026-11-01",
+  "topic": "mundo",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-10-31T15:16:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Ebola deaths pass 5,000",
+      "text": "More than 5,000 people have died in an Ebola outbreak in DR Congo. More than 10,300 people got sick. It started in May. It is the worst outbreak in the country. There is no vaccine for this type of Ebola. Tests of vaccines have started. Some health workers were attacked."
+    },
+    "2": {
+      "title": "Ebola outbreak in DR Congo kills more than 5,000",
+      "text": "More than 5,000 people have died in an Ebola outbreak in the Democratic Republic of Congo, government data shows. There are more than 10,300 confirmed cases in eight of 26 provinces. The outbreak started in May and became the deadliest in the country's history in August. About 48.6% of patients die.\n\nThe center of the outbreak is Ituri province, a conflict zone, which makes it hard to stop the virus. There is no treatment or vaccine yet for this type of Ebola, called Bundibugyo, but trials are under way. Cases were also found in Kenya, Nigeria and Uganda. Health workers have been attacked, and a nurse was killed earlier this week."
+    },
+    "3": {
+      "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
+      "text": "More than 5,000 people have died from an ongoing Ebola outbreak in the Democratic Republic of Congo, government data shows. Eight of the country's 26 provinces are affected, with more than 10,300 confirmed cases and a case fatality rate of 48.6%. The outbreak began in May and became the country's deadliest in August. According to the United Nations, it is the 17th in the country's history and the second largest ever. The previous worst in Congo killed 2,299 people between 2018 and 2020.\n\nThe epicentre is Ituri, a conflict zone, which makes the virus harder to contain. The Bundibugyo species is behind the outbreak, and there is no treatment or vaccine for it yet, though clinical trials are under way. The World Health Organization says stronger control measures, better access and community outreach are needed.\n\nCases were also confirmed in Kenya, Nigeria and Uganda. Health workers face violence: a nurse was killed this week after local youths accused her team of spreading the virus, and a politician was beaten to death last month."
+    }
+  },
+  "glossary": {
+    "ebola": {
+      "pt": "Ebola, doença grave causada por vírus"
+    },
+    "deaths": {
+      "pt": "mortes"
+    },
+    "pass": {
+      "pt": "passam de"
+    },
+    "died": {
+      "pt": "morreram"
+    },
+    "outbreak": {
+      "pt": "surto",
+      "highlight": true
+    },
+    "dr": {
+      "pt": "RD (República Democrática)"
+    },
+    "congo": {
+      "pt": "Congo, país da África"
+    },
+    "sick": {
+      "pt": "doentes"
+    },
+    "vaccine": {
+      "pt": "vacina",
+      "highlight": true
+    },
+    "type": {
+      "pt": "tipo"
+    },
+    "tests": {
+      "pt": "testes"
+    },
+    "vaccines": {
+      "pt": "vacinas"
+    },
+    "health": {
+      "pt": "saúde"
+    },
+    "attacked": {
+      "pt": "atacados"
+    },
+    "kills": {
+      "pt": "mata"
+    },
+    "democratic": {
+      "pt": "democrática"
+    },
+    "republic": {
+      "pt": "república"
+    },
+    "data": {
+      "pt": "dados"
+    },
+    "confirmed": {
+      "pt": "confirmados"
+    },
+    "cases": {
+      "pt": "casos"
+    },
+    "eight": {
+      "pt": "oito"
+    },
+    "provinces": {
+      "pt": "províncias"
+    },
+    "deadliest": {
+      "pt": "mais mortal",
+      "highlight": true
+    },
+    "history": {
+      "pt": "história"
+    },
+    "august": {
+      "pt": "agosto"
+    },
+    "patients": {
+      "pt": "pacientes"
+    },
+    "die": {
+      "pt": "morrem"
+    },
+    "center": {
+      "pt": "centro"
+    },
+    "ituri": {
+      "pt": "Ituri, província do Congo"
+    },
+    "province": {
+      "pt": "província"
+    },
+    "conflict": {
+      "pt": "conflito"
+    },
+    "zone": {
+      "pt": "zona"
+    },
+    "hard": {
+      "pt": "difícil"
+    },
+    "virus": {
+      "pt": "vírus"
+    },
+    "treatment": {
+      "pt": "tratamento",
+      "highlight": true
+    },
+    "bundibugyo": {
+      "pt": "Bundibugyo, tipo de vírus Ebola"
+    },
+    "trials": {
+      "pt": "testes clínicos",
+      "highlight": true
+    },
+    "kenya": {
+      "pt": "Quênia"
+    },
+    "nigeria": {
+      "pt": "Nigéria"
+    },
+    "uganda": {
+      "pt": "Uganda"
+    },
+    "nurse": {
+      "pt": "enfermeira"
+    },
+    "killed": {
+      "pt": "morto"
+    },
+    "earlier": {
+      "pt": "antes"
+    },
+    "ongoing": {
+      "pt": "em andamento"
+    },
+    "affected": {
+      "pt": "afetadas"
+    },
+    "case": {
+      "pt": "caso"
+    },
+    "fatality": {
+      "pt": "mortalidade",
+      "highlight": true
+    },
+    "rate": {
+      "pt": "taxa"
+    },
+    "according": {
+      "pt": "segundo"
+    },
+    "united": {
+      "pt": "Unidas"
+    },
+    "nations": {
+      "pt": "Nações"
+    },
+    "ever": {
+      "pt": "já"
+    },
+    "previous": {
+      "pt": "anterior"
+    },
+    "epicentre": {
+      "pt": "epicentro",
+      "highlight": true
+    },
+    "harder": {
+      "pt": "mais difícil"
+    },
+    "contain": {
+      "pt": "conter"
+    },
+    "species": {
+      "pt": "espécie"
+    },
+    "though": {
+      "pt": "embora"
+    },
+    "clinical": {
+      "pt": "clínicos"
+    },
+    "organization": {
+      "pt": "organização"
+    },
+    "measures": {
+      "pt": "medidas, mede"
+    },
+    "access": {
+      "pt": "acesso"
+    },
+    "community": {
+      "pt": "comunidade"
+    },
+    "outreach": {
+      "pt": "trabalho com a comunidade"
+    },
+    "face": {
+      "pt": "enfrentam"
+    },
+    "violence": {
+      "pt": "violência"
+    },
+    "local": {
+      "pt": "locais"
+    },
+    "youths": {
+      "pt": "jovens"
+    },
+    "accused": {
+      "pt": "acusaram"
+    },
+    "team": {
+      "pt": "equipe"
+    },
+    "spreading": {
+      "pt": "espalhando"
+    },
+    "politician": {
+      "pt": "político"
+    },
+    "beaten": {
+      "pt": "espancado"
+    },
+    "death": {
+      "pt": "morte"
+    }
+  }
+}

@@ -1,6 +1,41 @@
 {
   "articles": [
     {
+      "id": "2026-11-01-ivanti-connect-secure-chain",
+      "date": "2026-11-01",
+      "topic": "hacking",
+      "title": "Ivanti flaws used in attacks",
+      "source": "The Hacker News"
+    },
+    {
+      "id": "2026-11-01-polymarket-debugbear-script",
+      "date": "2026-11-01",
+      "topic": "hacking",
+      "title": "Hackers steal money from Polymarket",
+      "source": "The Hacker News"
+    },
+    {
+      "id": "2026-11-01-binance-90-percent-covered",
+      "date": "2026-11-01",
+      "topic": "bolsa",
+      "title": "Binance covers most of its loss",
+      "source": "BBC News"
+    },
+    {
+      "id": "2026-11-01-imf-argentina-stay-the-course",
+      "date": "2026-11-01",
+      "topic": "bolsa",
+      "title": "The IMF talks about Argentina",
+      "source": "MercoPress"
+    },
+    {
+      "id": "2026-11-01-ebola-drc-5000-deaths",
+      "date": "2026-11-01",
+      "topic": "mundo",
+      "title": "Ebola deaths pass 5,000",
+      "source": "BBC News"
+    },
+    {
       "id": "2026-10-31-chatgpt-share-link-flaw",
       "date": "2026-10-31",
       "topic": "hacking",

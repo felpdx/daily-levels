@@ -1,0 +1,243 @@
+{
+  "id": "2026-11-01-binance-90-percent-covered",
+  "date": "2026-11-01",
+  "topic": "bolsa",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-10-31T22:11:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Binance covers most of its loss",
+      "text": "Binance is a big crypto exchange. Hackers stole $6.3 billion from it on Thursday. Now Binance says it has put back 90% of the money. It says users will not pay for the loss. The FBI says North Korea did the hack. North Korea says it did not. Binance wants to open withdrawals again on Sunday."
+    },
+    "2": {
+      "title": "Binance replaces 90% of the stolen money",
+      "text": "Binance, the world's largest crypto exchange, says it has replaced 90% of the $6.3 billion stolen in a hack on Thursday. The rest may take longer to find in the right amounts. The company says it will pay for the loss, not its users, and has set aside more than $6.34 billion.\n\nThe FBI said on Saturday that North Korea is responsible. North Korea has always denied these attacks. Binance plans to open withdrawals again on Sunday, November 1. It has also frozen about $3 billion of the stolen money with the help of the police."
+    },
+    "3": {
+      "title": "Binance says 90% of $6.3bn hack losses are now covered",
+      "text": "Binance, the world's largest cryptocurrency exchange, says it has covered 90% of the $6.3 billion in assets stolen in a hack on Thursday. The company says the remaining 10% may take longer to source in the required amounts. It has pledged to cover all losses and has set aside more than $6.34 billion, saying in a statement that Binance, not its users, will absorb the impact.\n\nThe FBI said on Saturday that North Korea was responsible, naming the Lazarus Group, also called TraderTraitor. Two analytics firms had earlier told the BBC the same. North Korea has always denied involvement in such attacks. If confirmed, this is the largest hack in history, ahead of the $1.5 billion Bybit theft in 2025.\n\nBinance's first findings pointed to an engineer's laptop, but later updates found more points of breach. Co-chief executive Richard Teng said more than one person was involved. The company froze about $3 billion of stolen assets and aims to reopen withdrawals on Sunday."
+    }
+  },
+  "glossary": {
+    "binance": {
+      "pt": "Binance, grande corretora de criptomoedas"
+    },
+    "covers": {
+      "pt": "cobre"
+    },
+    "loss": {
+      "pt": "perda"
+    },
+    "crypto": {
+      "pt": "cripto"
+    },
+    "exchange": {
+      "pt": "corretora",
+      "highlight": true
+    },
+    "hackers": {
+      "pt": "hackers"
+    },
+    "stole": {
+      "pt": "roubaram",
+      "highlight": true
+    },
+    "thursday": {
+      "pt": "quinta-feira"
+    },
+    "users": {
+      "pt": "usuários"
+    },
+    "fbi": {
+      "pt": "FBI, polícia federal dos EUA"
+    },
+    "north": {
+      "pt": "norte"
+    },
+    "korea": {
+      "pt": "Coreia"
+    },
+    "hack": {
+      "pt": "ataque hacker"
+    },
+    "open": {
+      "pt": "abrir"
+    },
+    "withdrawals": {
+      "pt": "saques",
+      "highlight": true
+    },
+    "sunday": {
+      "pt": "domingo"
+    },
+    "replaces": {
+      "pt": "repõe"
+    },
+    "stolen": {
+      "pt": "roubados"
+    },
+    "replaced": {
+      "pt": "trocou, repôs"
+    },
+    "rest": {
+      "pt": "resto"
+    },
+    "amounts": {
+      "pt": "quantias"
+    },
+    "set": {
+      "pt": "reservou"
+    },
+    "aside": {
+      "pt": "de lado, reservado"
+    },
+    "saturday": {
+      "pt": "sábado"
+    },
+    "responsible": {
+      "pt": "responsável"
+    },
+    "denied": {
+      "pt": "negou"
+    },
+    "attacks": {
+      "pt": "ataques"
+    },
+    "november": {
+      "pt": "novembro"
+    },
+    "frozen": {
+      "pt": "congelado"
+    },
+    "losses": {
+      "pt": "perdas"
+    },
+    "covered": {
+      "pt": "cobriu",
+      "highlight": true
+    },
+    "cryptocurrency": {
+      "pt": "criptomoeda"
+    },
+    "assets": {
+      "pt": "ativos (bens)"
+    },
+    "remaining": {
+      "pt": "restante"
+    },
+    "source": {
+      "pt": "encontrar"
+    },
+    "required": {
+      "pt": "necessárias"
+    },
+    "pledged": {
+      "pt": "prometeu",
+      "highlight": true
+    },
+    "cover": {
+      "pt": "cobrir"
+    },
+    "statement": {
+      "pt": "comunicado"
+    },
+    "absorb": {
+      "pt": "absorver (assumir o custo)"
+    },
+    "impact": {
+      "pt": "impacto"
+    },
+    "naming": {
+      "pt": "citando"
+    },
+    "lazarus": {
+      "pt": "Lazarus, grupo hacker ligado à Coreia do Norte"
+    },
+    "tradertraitor": {
+      "pt": "TraderTraitor, nome de grupo hacker norte-coreano"
+    },
+    "analytics": {
+      "pt": "de análise de dados"
+    },
+    "firms": {
+      "pt": "empresas"
+    },
+    "earlier": {
+      "pt": "antes"
+    },
+    "bbc": {
+      "pt": "BBC, emissora britânica de notícias"
+    },
+    "involvement": {
+      "pt": "envolvimento"
+    },
+    "confirmed": {
+      "pt": "confirmados"
+    },
+    "history": {
+      "pt": "história"
+    },
+    "ahead": {
+      "pt": "à frente de"
+    },
+    "bybit": {
+      "pt": "Bybit, corretora de criptomoedas"
+    },
+    "theft": {
+      "pt": "roubo",
+      "highlight": true
+    },
+    "findings": {
+      "pt": "descobertas"
+    },
+    "pointed": {
+      "pt": "apontaram"
+    },
+    "engineer": {
+      "pt": "engenheiro"
+    },
+    "laptop": {
+      "pt": "notebook"
+    },
+    "updates": {
+      "pt": "atualizações"
+    },
+    "points": {
+      "pt": "pontos"
+    },
+    "breach": {
+      "pt": "invasão"
+    },
+    "co": {
+      "pt": "co (junto)"
+    },
+    "chief": {
+      "pt": "chefe"
+    },
+    "executive": {
+      "pt": "executivo"
+    },
+    "richard": {
+      "pt": "Richard (Richard Teng, co-presidente da Binance)"
+    },
+    "teng": {
+      "pt": "Teng (Richard Teng, co-presidente da Binance)"
+    },
+    "involved": {
+      "pt": "envolvida"
+    },
+    "froze": {
+      "pt": "congelou",
+      "highlight": true
+    },
+    "aims": {
+      "pt": "pretende"
+    },
+    "reopen": {
+      "pt": "reabrir"
+    }
+  }
+}

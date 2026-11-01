@@ -1,0 +1,300 @@
+{
+  "id": "2026-11-01-imf-argentina-stay-the-course",
+  "date": "2026-11-01",
+  "topic": "bolsa",
+  "source": {
+    "name": "MercoPress",
+    "url": "https://en.mercopress.com/2026/10/29/the-imf-urges-argentina-to-stay-the-course-despite-doubts-over-growth-and-country-risk?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+    "publishedAt": "2026-10-29T16:26:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "The IMF talks about Argentina",
+      "text": "The IMF is a group that helps countries with money. It says Argentina should keep its plan. The IMF says this will lower the risk for investors. It also gives four ideas to help the economy grow and make jobs. The IMF and Argentina agreed on a review of the plan. Argentina may get about $900 million."
+    },
+    "2": {
+      "title": "IMF tells Argentina to keep its plan",
+      "text": "The International Monetary Fund (IMF) told Argentina on Thursday to keep following its economic plan. The IMF says this is the best way to lower the country's risk for investors. Some newspapers warn that the economy may fall into a small recession.\n\nThe IMF listed four ideas to bring more growth and jobs. They include stronger markets for loans and homes, more flexible work rules, new road and port projects, and investment in large projects. The IMF and Argentina agreed on a review of the plan, which could release about $900 million. In October the IMF lowered its 2026 growth forecast for Argentina from 3.5% to 2.1%."
+    },
+    "3": {
+      "title": "IMF urges Argentina to 'stay the course' despite growth doubts",
+      "text": "The International Monetary Fund on Thursday urged Argentina to stick with its economic programme as the best way to reduce country risk, while the press warns of a possible technical recession. Spokeswoman Julie Kozack said building up net international reserves is fundamental. Asked about two straight quarters of contraction, she said the Fund and the government agree that the gains of stabilisation should be turned into growth and jobs.\n\nShe listed four measures: deeper capital and mortgage markets, more flexible labour rules, new infrastructure concessions, and strategic investment under a regime for large projects, where approved projects already exceed $76 billion.\n\nOn Tuesday, IMF staff and Argentine officials agreed on the third review of the programme, which could allow a disbursement of about $900 million. Kozack said the board could consider it in early December. The IMF said net reserves beat the June target by about $4 billion. The programme keeps a primary surplus target of 1.4% of GDP for 2026. In October, the IMF cut its 2026 growth forecast from 3.5% to 2.1%."
+    }
+  },
+  "glossary": {
+    "imf": {
+      "pt": "FMI, fundo que ajuda países com dinheiro"
+    },
+    "argentina": {
+      "pt": "Argentina, país vizinho do Brasil"
+    },
+    "risk": {
+      "pt": "risco"
+    },
+    "investors": {
+      "pt": "investidores"
+    },
+    "four": {
+      "pt": "quatro"
+    },
+    "ideas": {
+      "pt": "ideias"
+    },
+    "economy": {
+      "pt": "economia"
+    },
+    "jobs": {
+      "pt": "empregos"
+    },
+    "agreed": {
+      "pt": "concordaram"
+    },
+    "review": {
+      "pt": "revisão"
+    },
+    "international": {
+      "pt": "internacional"
+    },
+    "monetary": {
+      "pt": "monetário"
+    },
+    "fund": {
+      "pt": "fundo"
+    },
+    "thursday": {
+      "pt": "quinta-feira"
+    },
+    "following": {
+      "pt": "seguir"
+    },
+    "economic": {
+      "pt": "econômico"
+    },
+    "best": {
+      "pt": "melhor"
+    },
+    "warn": {
+      "pt": "avisam"
+    },
+    "recession": {
+      "pt": "recessão",
+      "highlight": true
+    },
+    "listed": {
+      "pt": "listou"
+    },
+    "bring": {
+      "pt": "trazer"
+    },
+    "growth": {
+      "pt": "crescimento",
+      "highlight": true
+    },
+    "include": {
+      "pt": "incluem"
+    },
+    "markets": {
+      "pt": "mercados"
+    },
+    "loans": {
+      "pt": "empréstimos"
+    },
+    "homes": {
+      "pt": "casas"
+    },
+    "flexible": {
+      "pt": "flexíveis"
+    },
+    "rules": {
+      "pt": "regras"
+    },
+    "road": {
+      "pt": "estrada"
+    },
+    "port": {
+      "pt": "porto"
+    },
+    "projects": {
+      "pt": "projetos"
+    },
+    "investment": {
+      "pt": "investimento"
+    },
+    "release": {
+      "pt": "liberar"
+    },
+    "october": {
+      "pt": "outubro"
+    },
+    "lowered": {
+      "pt": "reduziu"
+    },
+    "forecast": {
+      "pt": "previsão",
+      "highlight": true
+    },
+    "urges": {
+      "pt": "pede"
+    },
+    "stay": {
+      "pt": "manter"
+    },
+    "course": {
+      "pt": "rumo"
+    },
+    "despite": {
+      "pt": "apesar de"
+    },
+    "doubts": {
+      "pt": "dúvidas"
+    },
+    "urged": {
+      "pt": "pediu"
+    },
+    "stick": {
+      "pt": "manter-se"
+    },
+    "programme": {
+      "pt": "programa"
+    },
+    "reduce": {
+      "pt": "reduzir"
+    },
+    "press": {
+      "pt": "imprensa"
+    },
+    "warns": {
+      "pt": "alerta"
+    },
+    "possible": {
+      "pt": "possível"
+    },
+    "technical": {
+      "pt": "técnica"
+    },
+    "spokeswoman": {
+      "pt": "porta-voz"
+    },
+    "julie": {
+      "pt": "Julie (Julie Kozack, porta-voz do FMI)"
+    },
+    "kozack": {
+      "pt": "Kozack, porta-voz do FMI"
+    },
+    "building": {
+      "pt": "acumular"
+    },
+    "net": {
+      "pt": "líquidas"
+    },
+    "reserves": {
+      "pt": "reservas",
+      "highlight": true
+    },
+    "fundamental": {
+      "pt": "fundamental"
+    },
+    "straight": {
+      "pt": "seguidos"
+    },
+    "quarters": {
+      "pt": "trimestres"
+    },
+    "contraction": {
+      "pt": "queda da economia",
+      "highlight": true
+    },
+    "agree": {
+      "pt": "concordam"
+    },
+    "gains": {
+      "pt": "ganhos"
+    },
+    "stabilisation": {
+      "pt": "estabilização"
+    },
+    "measures": {
+      "pt": "medidas, mede"
+    },
+    "deeper": {
+      "pt": "mais profundos"
+    },
+    "capital": {
+      "pt": "capital"
+    },
+    "mortgage": {
+      "pt": "financiamento de casa"
+    },
+    "labour": {
+      "pt": "trabalhista"
+    },
+    "infrastructure": {
+      "pt": "infraestrutura"
+    },
+    "concessions": {
+      "pt": "concessões"
+    },
+    "strategic": {
+      "pt": "estratégico"
+    },
+    "regime": {
+      "pt": "regime"
+    },
+    "approved": {
+      "pt": "aprovados"
+    },
+    "exceed": {
+      "pt": "superar"
+    },
+    "tuesday": {
+      "pt": "terça-feira"
+    },
+    "staff": {
+      "pt": "equipe"
+    },
+    "argentine": {
+      "pt": "argentinas"
+    },
+    "officials": {
+      "pt": "autoridades"
+    },
+    "allow": {
+      "pt": "permitir"
+    },
+    "disbursement": {
+      "pt": "liberação de dinheiro",
+      "highlight": true
+    },
+    "board": {
+      "pt": "conselho"
+    },
+    "consider": {
+      "pt": "analisar"
+    },
+    "december": {
+      "pt": "dezembro"
+    },
+    "beat": {
+      "pt": "superou"
+    },
+    "june": {
+      "pt": "junho"
+    },
+    "target": {
+      "pt": "meta"
+    },
+    "primary": {
+      "pt": "primário"
+    },
+    "surplus": {
+      "pt": "superávit",
+      "highlight": true
+    },
+    "gdp": {
+      "pt": "PIB"
+    },
+    "cut": {
+      "pt": "cortou"
+    }
+  }
+}

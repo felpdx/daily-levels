@@ -1,0 +1,298 @@
+{
+  "id": "2026-11-01-ivanti-connect-secure-chain",
+  "date": "2026-11-01",
+  "topic": "hacking",
+  "source": {
+    "name": "The Hacker News",
+    "url": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html",
+    "publishedAt": "2026-10-31T08:27:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Ivanti flaws used in attacks",
+      "text": "A US agency named two new flaws in Ivanti Connect Secure. Attackers are using them now. The flaws work together with a third one. With all three, an attacker can get full control without a password. Ivanti has now released fixes. US government offices must install them soon."
+    },
+    "2": {
+      "title": "Attackers combine three Ivanti flaws",
+      "text": "The US agency CISA added two more flaws in Ivanti Connect Secure to its list of known exploited bugs, because attackers are using them. They are part of a chain with a third flaw, CVE-2026-104935, that was added on October 13. The security company Volexity said the chain gives an attacker full control without logging in.\n\nA group called UTA0576 used the chain to steal passwords and information about company accounts. It also looked for administrator passwords and BitLocker recovery keys. Ivanti has released fixes for all the flaws. Government agencies must install the fixes by November 2 and November 13."
+    },
+    "3": {
+      "title": "CISA flags two more Ivanti Connect Secure flaws used in an attack chain",
+      "text": "The US Cybersecurity and Infrastructure Security Agency on Friday added two Ivanti Connect Secure flaws to its catalog of known exploited vulnerabilities, after attacks were seen in the wild. They are part of an exploit chain first documented earlier this month by Volexity, which paired them with an authentication bypass, CVE-2026-104935, added to the catalog on October 13. According to Volexity, the chain combines a bypass, remote code execution and privilege escalation to give an attacker root access without logging in.\n\nA previously unknown actor tracked as UTA0576 used the chain differently from most attackers. Instead of installing web shells or malware, it extracted credentials and limited Active Directory data, performed reconnaissance and searched for administrator passwords and BitLocker recovery keys.\n\nIvanti said it had a fix for the bypass in testing when the privilege flaw was found, and chose not to delay it. Patches for CVE-2026-111357 and CVE-2026-118527 are now available. Federal civilian agencies must apply them by November 2 and November 13, 2026."
+    }
+  },
+  "glossary": {
+    "ivanti": {
+      "pt": "Ivanti, empresa de software de segurança"
+    },
+    "flaws": {
+      "pt": "falhas"
+    },
+    "attacks": {
+      "pt": "ataques"
+    },
+    "agency": {
+      "pt": "agência"
+    },
+    "connect": {
+      "pt": "Connect (Ivanti Connect Secure, produto de acesso remoto)"
+    },
+    "secure": {
+      "pt": "seguro"
+    },
+    "attackers": {
+      "pt": "atacantes"
+    },
+    "three": {
+      "pt": "três"
+    },
+    "attacker": {
+      "pt": "atacante"
+    },
+    "full": {
+      "pt": "total"
+    },
+    "password": {
+      "pt": "senha"
+    },
+    "released": {
+      "pt": "lançou"
+    },
+    "fixes": {
+      "pt": "correções"
+    },
+    "offices": {
+      "pt": "órgãos"
+    },
+    "install": {
+      "pt": "instalar"
+    },
+    "combine": {
+      "pt": "combinar"
+    },
+    "cisa": {
+      "pt": "CISA, agência de segurança cibernética dos EUA"
+    },
+    "added": {
+      "pt": "adicionou"
+    },
+    "list": {
+      "pt": "lista"
+    },
+    "exploited": {
+      "pt": "explorados",
+      "highlight": true
+    },
+    "bugs": {
+      "pt": "falhas (bugs)"
+    },
+    "chain": {
+      "pt": "cadeia, sequência",
+      "highlight": true
+    },
+    "flaw": {
+      "pt": "falha",
+      "highlight": true
+    },
+    "october": {
+      "pt": "outubro"
+    },
+    "security": {
+      "pt": "segurança"
+    },
+    "volexity": {
+      "pt": "Volexity, empresa de segurança"
+    },
+    "logging": {
+      "pt": "fazendo login"
+    },
+    "steal": {
+      "pt": "roubar"
+    },
+    "passwords": {
+      "pt": "senhas"
+    },
+    "information": {
+      "pt": "informações"
+    },
+    "accounts": {
+      "pt": "contas"
+    },
+    "administrator": {
+      "pt": "administrador"
+    },
+    "bitlocker": {
+      "pt": "BitLocker, ferramenta de criptografia do Windows"
+    },
+    "recovery": {
+      "pt": "recuperação"
+    },
+    "keys": {
+      "pt": "chaves"
+    },
+    "agencies": {
+      "pt": "agências"
+    },
+    "november": {
+      "pt": "novembro"
+    },
+    "flags": {
+      "pt": "aponta"
+    },
+    "attack": {
+      "pt": "ataque"
+    },
+    "cybersecurity": {
+      "pt": "segurança cibernética"
+    },
+    "infrastructure": {
+      "pt": "infraestrutura"
+    },
+    "friday": {
+      "pt": "sexta-feira"
+    },
+    "catalog": {
+      "pt": "catálogo"
+    },
+    "vulnerabilities": {
+      "pt": "vulnerabilidades (falhas)",
+      "highlight": true
+    },
+    "wild": {
+      "pt": "mundo real"
+    },
+    "exploit": {
+      "pt": "exploração (ataque que usa uma falha)"
+    },
+    "documented": {
+      "pt": "documentou"
+    },
+    "earlier": {
+      "pt": "antes"
+    },
+    "paired": {
+      "pt": "combinou"
+    },
+    "authentication": {
+      "pt": "autenticação (login)"
+    },
+    "bypass": {
+      "pt": "burlar, desvio",
+      "highlight": true
+    },
+    "according": {
+      "pt": "segundo"
+    },
+    "combines": {
+      "pt": "combina"
+    },
+    "remote": {
+      "pt": "remoto"
+    },
+    "code": {
+      "pt": "código"
+    },
+    "execution": {
+      "pt": "execução"
+    },
+    "privilege": {
+      "pt": "privilégio (nível de acesso)",
+      "highlight": true
+    },
+    "escalation": {
+      "pt": "escalada"
+    },
+    "root": {
+      "pt": "acesso total (root)"
+    },
+    "access": {
+      "pt": "acesso"
+    },
+    "previously": {
+      "pt": "antes"
+    },
+    "unknown": {
+      "pt": "desconhecido"
+    },
+    "actor": {
+      "pt": "agente (grupo que ataca)"
+    },
+    "tracked": {
+      "pt": "rastreado"
+    },
+    "differently": {
+      "pt": "de forma diferente"
+    },
+    "instead": {
+      "pt": "em vez disso"
+    },
+    "installing": {
+      "pt": "instalando"
+    },
+    "web": {
+      "pt": "web"
+    },
+    "shells": {
+      "pt": "shells (acesso remoto escondido)"
+    },
+    "malware": {
+      "pt": "software malicioso"
+    },
+    "extracted": {
+      "pt": "extraiu"
+    },
+    "credentials": {
+      "pt": "credenciais (login e senha)",
+      "highlight": true
+    },
+    "limited": {
+      "pt": "limitados"
+    },
+    "active": {
+      "pt": "ativo"
+    },
+    "directory": {
+      "pt": "diretório"
+    },
+    "data": {
+      "pt": "dados"
+    },
+    "performed": {
+      "pt": "fez"
+    },
+    "reconnaissance": {
+      "pt": "reconhecimento (espionagem prévia)"
+    },
+    "searched": {
+      "pt": "procurou"
+    },
+    "fix": {
+      "pt": "correção"
+    },
+    "testing": {
+      "pt": "teste"
+    },
+    "chose": {
+      "pt": "escolheu"
+    },
+    "delay": {
+      "pt": "atrasar"
+    },
+    "patches": {
+      "pt": "correções (patches)",
+      "highlight": true
+    },
+    "available": {
+      "pt": "disponíveis"
+    },
+    "federal": {
+      "pt": "federais"
+    },
+    "civilian": {
+      "pt": "civis"
+    },
+    "apply": {
+      "pt": "aplicar"
+    }
+  }
+}

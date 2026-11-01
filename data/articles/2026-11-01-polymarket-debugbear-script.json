@@ -1,0 +1,319 @@
+{
+  "id": "2026-11-01-polymarket-debugbear-script",
+  "date": "2026-11-01",
+  "topic": "hacking",
+  "source": {
+    "name": "The Hacker News",
+    "url": "https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html",
+    "publishedAt": "2026-11-01T07:25:40Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Hackers steal money from Polymarket",
+      "text": "Hackers put bad code on the Polymarket website. The code was in a tool that checks how fast the site loads. It took money from some traders on October 29. Polymarket says it will pay back about $2.7 million to 726 wallets. The company removed the bad code and stopped trading for a short time. It also told the police."
+    },
+    "2": {
+      "title": "Bad code on Polymarket steals traders' money",
+      "text": "Polymarket, a website where people trade on future events, lost money to hackers on October 29. Bad code replaced a script from DebugBear, an outside company that measures how fast web pages load. The code sold some traders' positions and moved their money to the hackers' wallet.\n\nDebugBear said its DNS records were hacked through its domain registrar. Polymarket removed the script, reset all login sessions and paused trading until the site was clean. It is refunding about $2.7 million to 726 wallets and has told the police. In all, it is returning $3.9 million to traders, who do not need to file a claim."
+    },
+    "3": {
+      "title": "Hijacked DebugBear script drains Polymarket traders' wallets",
+      "text": "Hackers stole about $2.7 million from traders on Polymarket, a prediction market, on October 29 after a script from an outside company was replaced with malicious code. The script belonged to DebugBear, whose real user monitoring tool measures how quickly pages load for visitors. DebugBear said its DNS records were compromised through its domain registrar and that early findings suggest the attack targeted one customer.\n\nResearchers at Hudson Rock reviewed the file without running it. They found that it used the access of signed-in traders, searched the page for the part that places orders, and asked the account's own signer to approve requests. Accounts using their own crypto wallets had positions moved to the hackers directly, while email accounts had positions sold at worsening prices first. Blockchain tracing by Ohey showed the hackers' wallet collected 28.6 million POL tokens and positions from 33 wallets.\n\nPolymarket says it removed the script within the hour, cleared its caches, reset sessions and referred the case to law enforcement. It is refunding 726 wallets, and paying $1.19 million to about 5,500 more, for a total of $3.9 million. It will bring back third-party scripts with stronger checks."
+    }
+  },
+  "glossary": {
+    "hackers": {
+      "pt": "hackers"
+    },
+    "steal": {
+      "pt": "roubar"
+    },
+    "polymarket": {
+      "pt": "Polymarket, site de apostas sobre eventos futuros"
+    },
+    "code": {
+      "pt": "código"
+    },
+    "website": {
+      "pt": "site"
+    },
+    "tool": {
+      "pt": "ferramenta"
+    },
+    "checks": {
+      "pt": "verificações"
+    },
+    "site": {
+      "pt": "site"
+    },
+    "loads": {
+      "pt": "carrega"
+    },
+    "traders": {
+      "pt": "operadores (quem negocia)"
+    },
+    "october": {
+      "pt": "outubro"
+    },
+    "wallets": {
+      "pt": "carteiras digitais"
+    },
+    "removed": {
+      "pt": "removeu"
+    },
+    "trading": {
+      "pt": "negociação"
+    },
+    "steals": {
+      "pt": "rouba"
+    },
+    "trade": {
+      "pt": "negociar"
+    },
+    "future": {
+      "pt": "futuro"
+    },
+    "events": {
+      "pt": "eventos"
+    },
+    "replaced": {
+      "pt": "trocou, repôs"
+    },
+    "script": {
+      "pt": "script (programa pequeno de site)",
+      "highlight": true
+    },
+    "debugbear": {
+      "pt": "DebugBear, empresa que mede a velocidade de sites"
+    },
+    "outside": {
+      "pt": "de fora"
+    },
+    "measures": {
+      "pt": "medidas, mede"
+    },
+    "web": {
+      "pt": "web"
+    },
+    "pages": {
+      "pt": "páginas"
+    },
+    "load": {
+      "pt": "carregam"
+    },
+    "positions": {
+      "pt": "posições (apostas)",
+      "highlight": true
+    },
+    "wallet": {
+      "pt": "carteira digital",
+      "highlight": true
+    },
+    "dns": {
+      "pt": "DNS, sistema que liga nomes de sites a endereços"
+    },
+    "records": {
+      "pt": "registros"
+    },
+    "hacked": {
+      "pt": "hackeado"
+    },
+    "domain": {
+      "pt": "domínio (endereço de site)"
+    },
+    "registrar": {
+      "pt": "registrador (empresa que vende domínios)",
+      "highlight": true
+    },
+    "reset": {
+      "pt": "reiniciou"
+    },
+    "login": {
+      "pt": "login (entrada com senha)"
+    },
+    "sessions": {
+      "pt": "sessões de login"
+    },
+    "paused": {
+      "pt": "pausou"
+    },
+    "clean": {
+      "pt": "limpo"
+    },
+    "refunding": {
+      "pt": "devolvendo o dinheiro",
+      "highlight": true
+    },
+    "returning": {
+      "pt": "devolvendo"
+    },
+    "file": {
+      "pt": "arquivo"
+    },
+    "claim": {
+      "pt": "pedido de reembolso"
+    },
+    "hijacked": {
+      "pt": "sequestrado",
+      "highlight": true
+    },
+    "drains": {
+      "pt": "drena (esvazia)"
+    },
+    "stole": {
+      "pt": "roubaram"
+    },
+    "prediction": {
+      "pt": "de previsões"
+    },
+    "market": {
+      "pt": "mercado"
+    },
+    "malicious": {
+      "pt": "malicioso",
+      "highlight": true
+    },
+    "belonged": {
+      "pt": "pertencia"
+    },
+    "user": {
+      "pt": "usuário"
+    },
+    "monitoring": {
+      "pt": "monitoramento"
+    },
+    "quickly": {
+      "pt": "rapidamente"
+    },
+    "visitors": {
+      "pt": "visitantes"
+    },
+    "compromised": {
+      "pt": "comprometidos",
+      "highlight": true
+    },
+    "findings": {
+      "pt": "descobertas"
+    },
+    "suggest": {
+      "pt": "indicam"
+    },
+    "attack": {
+      "pt": "ataque"
+    },
+    "targeted": {
+      "pt": "teve como alvo"
+    },
+    "customer": {
+      "pt": "cliente"
+    },
+    "researchers": {
+      "pt": "pesquisadores"
+    },
+    "hudson": {
+      "pt": "Hudson (Hudson Rock, empresa de segurança)"
+    },
+    "rock": {
+      "pt": "Rock (Hudson Rock, empresa de segurança)"
+    },
+    "reviewed": {
+      "pt": "analisou"
+    },
+    "access": {
+      "pt": "acesso"
+    },
+    "signed": {
+      "pt": "conectados"
+    },
+    "searched": {
+      "pt": "procurou"
+    },
+    "page": {
+      "pt": "página"
+    },
+    "places": {
+      "pt": "faz"
+    },
+    "orders": {
+      "pt": "ordens de compra e venda"
+    },
+    "account": {
+      "pt": "conta"
+    },
+    "signer": {
+      "pt": "assinador (quem aprova transações)"
+    },
+    "approve": {
+      "pt": "aprovar"
+    },
+    "requests": {
+      "pt": "pedidos"
+    },
+    "accounts": {
+      "pt": "contas"
+    },
+    "crypto": {
+      "pt": "cripto"
+    },
+    "directly": {
+      "pt": "diretamente"
+    },
+    "email": {
+      "pt": "e-mail"
+    },
+    "worsening": {
+      "pt": "cada vez piores"
+    },
+    "blockchain": {
+      "pt": "blockchain, registro público de transações de cripto"
+    },
+    "tracing": {
+      "pt": "rastreamento"
+    },
+    "ohey": {
+      "pt": "Ohey, empresa que rastreia transações"
+    },
+    "collected": {
+      "pt": "reuniu"
+    },
+    "pol": {
+      "pt": "POL, moeda digital"
+    },
+    "tokens": {
+      "pt": "moedas digitais"
+    },
+    "hour": {
+      "pt": "hora"
+    },
+    "cleared": {
+      "pt": "limpou"
+    },
+    "caches": {
+      "pt": "caches (memórias temporárias)"
+    },
+    "referred": {
+      "pt": "encaminhou"
+    },
+    "case": {
+      "pt": "caso"
+    },
+    "law": {
+      "pt": "lei"
+    },
+    "enforcement": {
+      "pt": "aplicação da lei"
+    },
+    "total": {
+      "pt": "total"
+    },
+    "bring": {
+      "pt": "trazer"
+    },
+    "party": {
+      "pt": "terceiro"
+    },
+    "scripts": {
+      "pt": "scripts (programas pequenos de site)"
+    }
+  }
+}

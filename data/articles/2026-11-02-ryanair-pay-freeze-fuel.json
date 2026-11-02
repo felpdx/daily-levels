@@ -1,0 +1,229 @@
+{
+  "id": "2026-11-02-ryanair-pay-freeze-fuel",
+  "date": "2026-11-02",
+  "topic": "bolsa",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-11-02T08:33:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Ryanair may freeze pay",
+      "text": "Ryanair pays more for fuel because of the war with Iran. The airline may stop raising workers' pay for some time to save money. It also thinks ticket prices will go up next year. The company says the high fuel prices may last a long time. Its profit fell 16% in six months."
+    },
+    "2": {
+      "title": "Ryanair may freeze pay as fuel costs rise",
+      "text": "Ryanair is thinking about a temporary freeze on workers' pay. The airline says its fuel costs have jumped since the war between the US, Israel and Iran. It expects fuel prices to stay high well into 2027, unless the conflict ends quickly.\n\nThe company says its fuel bill will be about €2bn higher in the short term. Its profit before tax fell 16% to €2.4bn in the six months to the end of September. About 80% of its fuel was bought in advance at fixed prices, but the cost of the rest has doubled.\n\nRyanair expects airfares in Europe to rise. Its chief executive, Michael O'Leary, said last month that fares could go up by 15% to 20% next year."
+    },
+    "3": {
+      "title": "Ryanair considers pay freeze as fuel bill soars after Iran war",
+      "text": "Ryanair is considering a temporary wage freeze for staff to help pay for a sharp rise in fuel costs following the war between the US, Israel and Iran. The airline said it expects fuel prices to stay high \"well into 2027\" unless there is a swift resolution to the conflict.\n\nRyanair forecast that its fuel bill will be €2bn higher in the short term, and said it expects European airfares to increase to help cover the cost. It said that would probably not be enough, so it is also looking at other measures, including pay freezes. The BBC has asked the union Unite, which represents Ryanair staff, for comment.\n\nPre-tax profit fell 16% to €2.4bn in the six months to the end of September, mostly because of fuel. Ryanair said 80% of its fuel was hedged, meaning bought in advance at fixed prices, but the cost of the remaining part has doubled. Chief executive Michael O'Leary said last month that he expects the airline and others to raise fares by 15% to 20% next year."
+    }
+  },
+  "glossary": {
+    "ryanair": {
+      "pt": "Ryanair, companhia aérea europeia"
+    },
+    "freeze": {
+      "pt": "congelamento",
+      "highlight": true
+    },
+    "fuel": {
+      "pt": "combustível",
+      "highlight": true
+    },
+    "war": {
+      "pt": "guerra"
+    },
+    "iran": {
+      "pt": "Irã"
+    },
+    "airline": {
+      "pt": "companhia aérea"
+    },
+    "raising": {
+      "pt": "aumentando"
+    },
+    "save": {
+      "pt": "economizar"
+    },
+    "ticket": {
+      "pt": "passagem"
+    },
+    "profit": {
+      "pt": "lucro",
+      "highlight": true
+    },
+    "six": {
+      "pt": "seis"
+    },
+    "costs": {
+      "pt": "custos"
+    },
+    "rise": {
+      "pt": "aumento; subir"
+    },
+    "temporary": {
+      "pt": "temporário"
+    },
+    "jumped": {
+      "pt": "disparou"
+    },
+    "israel": {
+      "pt": "Israel"
+    },
+    "expects": {
+      "pt": "espera",
+      "highlight": true
+    },
+    "stay": {
+      "pt": "ficar"
+    },
+    "unless": {
+      "pt": "a menos que",
+      "highlight": true
+    },
+    "conflict": {
+      "pt": "conflito"
+    },
+    "quickly": {
+      "pt": "rapidamente"
+    },
+    "bill": {
+      "pt": "conta"
+    },
+    "term": {
+      "pt": "prazo"
+    },
+    "tax": {
+      "pt": "imposto"
+    },
+    "september": {
+      "pt": "setembro"
+    },
+    "advance": {
+      "pt": "antecipadamente"
+    },
+    "fixed": {
+      "pt": "corrigido; fixo"
+    },
+    "cost": {
+      "pt": "custo"
+    },
+    "rest": {
+      "pt": "resto"
+    },
+    "doubled": {
+      "pt": "dobrou",
+      "highlight": true
+    },
+    "airfares": {
+      "pt": "preços de passagens",
+      "highlight": true
+    },
+    "europe": {
+      "pt": "Europa"
+    },
+    "chief": {
+      "pt": "chefe"
+    },
+    "executive": {
+      "pt": "executivo"
+    },
+    "michael": {
+      "pt": "Michael"
+    },
+    "o'leary": {
+      "pt": "O'Leary, presidente da Ryanair"
+    },
+    "fares": {
+      "pt": "tarifas"
+    },
+    "considers": {
+      "pt": "considera"
+    },
+    "soars": {
+      "pt": "dispara"
+    },
+    "considering": {
+      "pt": "considerando"
+    },
+    "wage": {
+      "pt": "salário"
+    },
+    "staff": {
+      "pt": "funcionários"
+    },
+    "sharp": {
+      "pt": "forte"
+    },
+    "following": {
+      "pt": "após"
+    },
+    "swift": {
+      "pt": "rápida"
+    },
+    "resolution": {
+      "pt": "solução"
+    },
+    "forecast": {
+      "pt": "previu"
+    },
+    "european": {
+      "pt": "europeu"
+    },
+    "increase": {
+      "pt": "aumentar"
+    },
+    "cover": {
+      "pt": "cobrir"
+    },
+    "probably": {
+      "pt": "provavelmente"
+    },
+    "enough": {
+      "pt": "suficiente"
+    },
+    "measures": {
+      "pt": "medidas"
+    },
+    "including": {
+      "pt": "incluindo"
+    },
+    "freezes": {
+      "pt": "congelamentos"
+    },
+    "bbc": {
+      "pt": "BBC, emissora do Reino Unido"
+    },
+    "union": {
+      "pt": "sindicato"
+    },
+    "unite": {
+      "pt": "Unite, sindicato britânico"
+    },
+    "represents": {
+      "pt": "representa"
+    },
+    "comment": {
+      "pt": "comentário"
+    },
+    "pre": {
+      "pt": "antes de"
+    },
+    "mostly": {
+      "pt": "principalmente"
+    },
+    "hedged": {
+      "pt": "protegido com contratos",
+      "highlight": true
+    },
+    "remaining": {
+      "pt": "restante"
+    },
+    "raise": {
+      "pt": "aumentar"
+    }
+  }
+}

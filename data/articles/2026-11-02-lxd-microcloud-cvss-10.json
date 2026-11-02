@@ -1,0 +1,295 @@
+{
+  "id": "2026-11-02-lxd-microcloud-cvss-10",
+  "date": "2026-11-02",
+  "topic": "hacking",
+  "source": {
+    "name": "The Hacker News",
+    "url": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
+    "publishedAt": "2026-11-01T08:51:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "A serious flaw in LXD",
+      "text": "Canonical fixed a serious flaw in LXD and MicroCloud. An attacker could pretend to be a trusted user. The attacker did not need the private key. The attacker only needed network access and a public certificate from the trusted user. Users should update their software now to be safe."
+    },
+    "2": {
+      "title": "Critical flaw lets attackers pose as trusted clients",
+      "text": "Canonical has fixed a critical flaw in LXD and MicroCloud, two tools for running virtual machines. The flaw has the highest score, CVSS 10.0. An attacker could log in as a trusted client without having its private key.\n\nThe server checked the whole chain of certificates, but only the first one proves who is connecting. So an attacker could add a trusted client's public certificate to their own and be accepted. The attacker needs network access to the HTTPS API and that public certificate. If the account has high rights, the attacker could get root access to the host.\n\nThere is no public sign of attacks yet. Canonical says users should update with snap and limit who can reach the API."
+    },
+    "3": {
+      "title": "CVSS 10.0 flaw in LXD and MicroCloud lets attackers impersonate clients",
+      "text": "A critical flaw in Canonical's LXD and MicroCloud let an attacker log in as a trusted client without holding its private key. The flaw, tracked as CVE-2026-112816, has the maximum CVSS score of 10.0. Canonical has released fixed versions of both products.\n\nLXD uses mutual TLS, where a client shows a certificate to prove who it is. The server compared every certificate in the chain with its trust store, but a TLS connection only proves the client owns the key for the first one. An attacker could therefore attach a trusted client's public certificate, which is not secret, behind their own. The attack needs network access to the HTTPS API. A standalone LXD server does not expose that API by default. If the impersonated account is privileged, the attacker could gain root access to the host, Canonical said.\n\nThe Incus project reported the flaw and fixed it in version 7.6.0. There is no public sign of attacks, and CISA says it is not known to be exploited. Canonical advises updating the snap and restricting access to the API until then."
+    }
+  },
+  "glossary": {
+    "serious": {
+      "pt": "grave"
+    },
+    "flaw": {
+      "pt": "falha",
+      "highlight": true
+    },
+    "lxd": {
+      "pt": "LXD, software para rodar máquinas virtuais"
+    },
+    "canonical": {
+      "pt": "Canonical, empresa do Ubuntu"
+    },
+    "fixed": {
+      "pt": "corrigido; fixo"
+    },
+    "microcloud": {
+      "pt": "MicroCloud, software de nuvem da Canonical"
+    },
+    "attacker": {
+      "pt": "atacante",
+      "highlight": true
+    },
+    "pretend": {
+      "pt": "fingir"
+    },
+    "trusted": {
+      "pt": "confiável",
+      "highlight": true
+    },
+    "user": {
+      "pt": "usuário"
+    },
+    "private": {
+      "pt": "privada",
+      "highlight": true
+    },
+    "key": {
+      "pt": "chave"
+    },
+    "network": {
+      "pt": "rede"
+    },
+    "access": {
+      "pt": "acesso",
+      "highlight": true
+    },
+    "public": {
+      "pt": "pública"
+    },
+    "certificate": {
+      "pt": "certificado digital",
+      "highlight": true
+    },
+    "users": {
+      "pt": "usuários"
+    },
+    "update": {
+      "pt": "atualizar"
+    },
+    "software": {
+      "pt": "programa"
+    },
+    "safe": {
+      "pt": "seguro"
+    },
+    "critical": {
+      "pt": "crítica"
+    },
+    "lets": {
+      "pt": "permite"
+    },
+    "attackers": {
+      "pt": "atacantes"
+    },
+    "pose": {
+      "pt": "se passar por"
+    },
+    "clients": {
+      "pt": "clientes"
+    },
+    "tools": {
+      "pt": "ferramentas"
+    },
+    "virtual": {
+      "pt": "virtuais"
+    },
+    "machines": {
+      "pt": "máquinas"
+    },
+    "score": {
+      "pt": "nota"
+    },
+    "cvss": {
+      "pt": "CVSS, nota de gravidade de falhas"
+    },
+    "log": {
+      "pt": "entrar (fazer login)"
+    },
+    "client": {
+      "pt": "cliente"
+    },
+    "server": {
+      "pt": "servidor"
+    },
+    "checked": {
+      "pt": "verificou"
+    },
+    "whole": {
+      "pt": "inteira"
+    },
+    "chain": {
+      "pt": "cadeia"
+    },
+    "certificates": {
+      "pt": "certificados digitais"
+    },
+    "proves": {
+      "pt": "prova"
+    },
+    "connecting": {
+      "pt": "se conectando"
+    },
+    "add": {
+      "pt": "adicionar"
+    },
+    "accepted": {
+      "pt": "aceito"
+    },
+    "https": {
+      "pt": "HTTPS, conexão web segura"
+    },
+    "api": {
+      "pt": "API, interface de um programa"
+    },
+    "account": {
+      "pt": "conta"
+    },
+    "rights": {
+      "pt": "permissões"
+    },
+    "root": {
+      "pt": "acesso total (root)",
+      "highlight": true
+    },
+    "host": {
+      "pt": "máquina hospedeira"
+    },
+    "sign": {
+      "pt": "sinal"
+    },
+    "attacks": {
+      "pt": "ataques"
+    },
+    "snap": {
+      "pt": "Snap, formato de pacote de software"
+    },
+    "limit": {
+      "pt": "limitar"
+    },
+    "reach": {
+      "pt": "alcançar"
+    },
+    "impersonate": {
+      "pt": "se passar por",
+      "highlight": true
+    },
+    "let": {
+      "pt": "deixou"
+    },
+    "holding": {
+      "pt": "possuindo"
+    },
+    "tracked": {
+      "pt": "identificada como"
+    },
+    "maximum": {
+      "pt": "máximo"
+    },
+    "released": {
+      "pt": "lançou"
+    },
+    "versions": {
+      "pt": "versões"
+    },
+    "products": {
+      "pt": "produtos"
+    },
+    "mutual": {
+      "pt": "mútuo"
+    },
+    "tls": {
+      "pt": "TLS, protocolo de segurança"
+    },
+    "prove": {
+      "pt": "provar"
+    },
+    "compared": {
+      "pt": "comparou"
+    },
+    "trust": {
+      "pt": "confiança"
+    },
+    "store": {
+      "pt": "lista, armazém"
+    },
+    "connection": {
+      "pt": "conexão"
+    },
+    "owns": {
+      "pt": "possui"
+    },
+    "therefore": {
+      "pt": "portanto"
+    },
+    "attach": {
+      "pt": "anexar"
+    },
+    "secret": {
+      "pt": "secreto"
+    },
+    "attack": {
+      "pt": "ataque"
+    },
+    "standalone": {
+      "pt": "independente"
+    },
+    "expose": {
+      "pt": "expor"
+    },
+    "default": {
+      "pt": "padrão"
+    },
+    "impersonated": {
+      "pt": "imitada"
+    },
+    "privileged": {
+      "pt": "com altos privilégios"
+    },
+    "gain": {
+      "pt": "obter"
+    },
+    "incus": {
+      "pt": "Incus, projeto derivado do LXD"
+    },
+    "project": {
+      "pt": "projeto"
+    },
+    "reported": {
+      "pt": "relatou"
+    },
+    "version": {
+      "pt": "versão"
+    },
+    "cisa": {
+      "pt": "CISA, agência de segurança cibernética dos EUA"
+    },
+    "exploited": {
+      "pt": "explorada"
+    },
+    "advises": {
+      "pt": "recomenda"
+    },
+    "updating": {
+      "pt": "atualizando"
+    },
+    "restricting": {
+      "pt": "restringindo"
+    }
+  }
+}

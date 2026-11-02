@@ -1,0 +1,265 @@
+{
+  "id": "2026-11-02-virgin-media-o2-job-cuts",
+  "date": "2026-11-02",
+  "topic": "bolsa",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-11-01T16:57:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Virgin Media O2 plans job cuts",
+      "text": "Virgin Media O2 is a phone and internet company in the UK. It wants to cut thousands of jobs. It has a lot of debt. It also has strong rivals, and the company does not want to say more. The company has about 16,000 workers. Many of them could lose their jobs soon."
+    },
+    "2": {
+      "title": "Virgin Media O2 plans to cut thousands of jobs",
+      "text": "Virgin Media O2, a UK phone and broadband company, plans to cut thousands of jobs to save money. The BBC understands that the cuts will affect a large part of its 16,000 workers, but the final number is not decided. Most of the jobs are not in customer service.\n\nThe company has a lot of debt. At the end of June, its debt was £27.2bn and its assets were worth £45.9bn. It also faces competition from smaller companies such as Hyperoptic and Community Fibre, and from BT, which agreed to buy TalkTalk.\n\nThe union Prospect called the news \"disappointing and very unsettling\". The company did not comment."
+    },
+    "3": {
+      "title": "Virgin Media O2 set to cut thousands of jobs to reduce costs",
+      "text": "Thousands of Virgin Media O2 employees face redundancy as the telecoms company tries to cut costs under heavy debt and tougher competition. The number of roles has not been finalised, but the BBC understands it is likely to be a sizeable share of the 16,000-strong workforce, mostly in roles that are not customer-facing. The company declined to comment.\n\nAs of 30 June, its total debt was £27.2bn, against assets worth £45.9bn. It is under pressure from cheaper rivals such as Hyperoptic, Community Fibre and Gigaclear, and from BT, which has agreed a deal to acquire TalkTalk. Virgin Media O2 opposed that deal and called it a \"stitch-up\". Its attempt to buy the rival Netomnia for £2bn has also met provisional competition concerns from the regulator, with a final decision due in December.\n\nThe union Prospect called the cuts \"disappointing and very unsettling\" and said it would work to reduce redundancies. The BBC was also told the company is likely to announce on Tuesday that it will stop investing in fibre."
+    }
+  },
+  "glossary": {
+    "virgin": {
+      "pt": "Virgin"
+    },
+    "media": {
+      "pt": "Media"
+    },
+    "job": {
+      "pt": "emprego"
+    },
+    "cuts": {
+      "pt": "cortes",
+      "highlight": true
+    },
+    "phone": {
+      "pt": "telefone"
+    },
+    "internet": {
+      "pt": "internet"
+    },
+    "uk": {
+      "pt": "Reino Unido"
+    },
+    "cut": {
+      "pt": "cortar"
+    },
+    "thousands": {
+      "pt": "milhares"
+    },
+    "jobs": {
+      "pt": "empregos"
+    },
+    "debt": {
+      "pt": "dívida",
+      "highlight": true
+    },
+    "rivals": {
+      "pt": "rivais",
+      "highlight": true
+    },
+    "broadband": {
+      "pt": "internet de banda larga"
+    },
+    "save": {
+      "pt": "economizar"
+    },
+    "bbc": {
+      "pt": "BBC, emissora do Reino Unido"
+    },
+    "understands": {
+      "pt": "entende, apurou"
+    },
+    "affect": {
+      "pt": "afetar"
+    },
+    "final": {
+      "pt": "final"
+    },
+    "decided": {
+      "pt": "decidido"
+    },
+    "customer": {
+      "pt": "cliente"
+    },
+    "service": {
+      "pt": "atendimento; serviço"
+    },
+    "june": {
+      "pt": "junho"
+    },
+    "assets": {
+      "pt": "ativos, bens",
+      "highlight": true
+    },
+    "worth": {
+      "pt": "no valor de"
+    },
+    "faces": {
+      "pt": "enfrenta"
+    },
+    "competition": {
+      "pt": "concorrência",
+      "highlight": true
+    },
+    "smaller": {
+      "pt": "menores"
+    },
+    "hyperoptic": {
+      "pt": "Hyperoptic, provedor britânico"
+    },
+    "community": {
+      "pt": "comunidade"
+    },
+    "fibre": {
+      "pt": "fibra óptica"
+    },
+    "bt": {
+      "pt": "BT, operadora britânica"
+    },
+    "agreed": {
+      "pt": "concordou"
+    },
+    "talktalk": {
+      "pt": "TalkTalk, provedor britânico"
+    },
+    "union": {
+      "pt": "sindicato",
+      "highlight": true
+    },
+    "prospect": {
+      "pt": "Prospect, sindicato britânico"
+    },
+    "disappointing": {
+      "pt": "decepcionante"
+    },
+    "unsettling": {
+      "pt": "perturbador"
+    },
+    "comment": {
+      "pt": "comentário"
+    },
+    "set": {
+      "pt": "prestes a"
+    },
+    "reduce": {
+      "pt": "reduzir"
+    },
+    "costs": {
+      "pt": "custos"
+    },
+    "employees": {
+      "pt": "funcionários"
+    },
+    "face": {
+      "pt": "enfrentam"
+    },
+    "redundancy": {
+      "pt": "demissão",
+      "highlight": true
+    },
+    "telecoms": {
+      "pt": "telecomunicações"
+    },
+    "heavy": {
+      "pt": "pesada"
+    },
+    "tougher": {
+      "pt": "mais dura"
+    },
+    "roles": {
+      "pt": "cargos"
+    },
+    "finalised": {
+      "pt": "definido"
+    },
+    "likely": {
+      "pt": "provável"
+    },
+    "sizeable": {
+      "pt": "considerável"
+    },
+    "share": {
+      "pt": "parte"
+    },
+    "workforce": {
+      "pt": "quadro de funcionários",
+      "highlight": true
+    },
+    "mostly": {
+      "pt": "principalmente"
+    },
+    "facing": {
+      "pt": "enfrentando"
+    },
+    "declined": {
+      "pt": "recusou"
+    },
+    "total": {
+      "pt": "total"
+    },
+    "pressure": {
+      "pt": "pressão"
+    },
+    "cheaper": {
+      "pt": "mais baratos"
+    },
+    "gigaclear": {
+      "pt": "Gigaclear, provedor britânico"
+    },
+    "deal": {
+      "pt": "acordo"
+    },
+    "acquire": {
+      "pt": "comprar"
+    },
+    "opposed": {
+      "pt": "se opôs a"
+    },
+    "stitch": {
+      "pt": "armação (stitch-up)"
+    },
+    "attempt": {
+      "pt": "tentativa"
+    },
+    "rival": {
+      "pt": "rival"
+    },
+    "netomnia": {
+      "pt": "Netomnia, provedor britânico"
+    },
+    "provisional": {
+      "pt": "provisória"
+    },
+    "concerns": {
+      "pt": "preocupações"
+    },
+    "regulator": {
+      "pt": "órgão regulador"
+    },
+    "decision": {
+      "pt": "decisão"
+    },
+    "due": {
+      "pt": "prevista"
+    },
+    "december": {
+      "pt": "dezembro"
+    },
+    "redundancies": {
+      "pt": "demissões"
+    },
+    "announce": {
+      "pt": "anunciar"
+    },
+    "tuesday": {
+      "pt": "terça-feira"
+    },
+    "investing": {
+      "pt": "investir"
+    }
+  }
+}

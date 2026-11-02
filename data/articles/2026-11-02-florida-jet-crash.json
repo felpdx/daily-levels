@@ -1,0 +1,295 @@
+{
+  "id": "2026-11-02-florida-jet-crash",
+  "date": "2026-11-02",
+  "topic": "mundo",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-11-02T07:33:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Small jet crashes in Florida",
+      "text": "A small jet crashed on a street in Florida on Sunday. All nine people on the plane died. No one on the ground was hurt. The plane left Texas and was going to the Bahamas. Officials are now looking into the cause of the crash."
+    },
+    "2": {
+      "title": "Nine die as small jet crashes on a Florida street",
+      "text": "A small business jet crashed in a neighbourhood in Florida on Sunday. All nine people on board died, the US transport secretary said. Nobody on the ground was hurt. The crash left a large hole in a busy road near Palm Beach.\n\nThe plane, a Learjet 60, left Austin, Texas, and was going to the Bahamas. Audio from the cockpit shows the crew spoke about turbulence and ice, then said they needed to climb. They said the plane was falling very fast and declared an emergency.\n\nThe US safety board will investigate. About 600 residents were moved from a nearby trailer park, and the road will stay closed for at least 30 days."
+    },
+    "3": {
+      "title": "Nine killed as small jet crashes on Florida street",
+      "text": "A business jet crashed in a neighbourhood in Palm Beach County, Florida, on Sunday, killing all nine people on board, the US transport secretary said. The Learjet 60 had left Austin, Texas, and was heading to the Bahamas. Nobody on the ground was reported killed or injured. Images show a large crater in a multi-lane road, with fire and debris spread across it.\n\nIn air traffic control audio, someone in the cockpit mentions \"moderate turbulence\" and says the crew was \"managing the ice\", then says they need to climb. Moments later the voice reports a descent of 10,000ft per minute, declares an emergency and says the plane is in an overspeed condition. About 35 seconds after the first mayday call came the last words from the cockpit. It is not yet clear who was on board.\n\nThe FAA is sending a team to help an investigation by the National Transportation Safety Board. Officials said 600 residents of a nearby trailer park were being evacuated, water lines were damaged, and the road will not reopen for at least 30 days."
+    }
+  },
+  "glossary": {
+    "jet": {
+      "pt": "jato"
+    },
+    "crashes": {
+      "pt": "cai, bate"
+    },
+    "florida": {
+      "pt": "Florida, estado dos EUA"
+    },
+    "crashed": {
+      "pt": "caiu, bateu",
+      "highlight": true
+    },
+    "street": {
+      "pt": "rua"
+    },
+    "sunday": {
+      "pt": "domingo"
+    },
+    "nine": {
+      "pt": "nove"
+    },
+    "plane": {
+      "pt": "avião"
+    },
+    "died": {
+      "pt": "morreu"
+    },
+    "ground": {
+      "pt": "chão"
+    },
+    "hurt": {
+      "pt": "ferido"
+    },
+    "texas": {
+      "pt": "Texas, estado dos EUA"
+    },
+    "bahamas": {
+      "pt": "Bahamas, país do Caribe"
+    },
+    "officials": {
+      "pt": "autoridades"
+    },
+    "cause": {
+      "pt": "causa"
+    },
+    "crash": {
+      "pt": "queda, acidente"
+    },
+    "die": {
+      "pt": "morrer"
+    },
+    "neighbourhood": {
+      "pt": "bairro"
+    },
+    "board": {
+      "pt": "a bordo; conselho"
+    },
+    "transport": {
+      "pt": "transporte"
+    },
+    "secretary": {
+      "pt": "ministro, secretário"
+    },
+    "hole": {
+      "pt": "buraco"
+    },
+    "busy": {
+      "pt": "movimentado"
+    },
+    "road": {
+      "pt": "estrada, via"
+    },
+    "near": {
+      "pt": "perto de"
+    },
+    "palm": {
+      "pt": "Palm Beach, cidade da Flórida"
+    },
+    "beach": {
+      "pt": "praia"
+    },
+    "learjet": {
+      "pt": "Learjet, modelo de jato executivo"
+    },
+    "austin": {
+      "pt": "Austin, cidade do Texas"
+    },
+    "audio": {
+      "pt": "áudio"
+    },
+    "cockpit": {
+      "pt": "cabine do piloto"
+    },
+    "crew": {
+      "pt": "tripulação"
+    },
+    "spoke": {
+      "pt": "falou"
+    },
+    "turbulence": {
+      "pt": "turbulência",
+      "highlight": true
+    },
+    "ice": {
+      "pt": "gelo"
+    },
+    "climb": {
+      "pt": "subir"
+    },
+    "declared": {
+      "pt": "declarou"
+    },
+    "emergency": {
+      "pt": "emergência",
+      "highlight": true
+    },
+    "safety": {
+      "pt": "segurança"
+    },
+    "investigate": {
+      "pt": "investigar"
+    },
+    "residents": {
+      "pt": "moradores",
+      "highlight": true
+    },
+    "nearby": {
+      "pt": "próximo"
+    },
+    "trailer": {
+      "pt": "casa-trailer"
+    },
+    "park": {
+      "pt": "parque"
+    },
+    "stay": {
+      "pt": "ficar"
+    },
+    "least": {
+      "pt": "pelo menos"
+    },
+    "killed": {
+      "pt": "morto"
+    },
+    "county": {
+      "pt": "condado"
+    },
+    "killing": {
+      "pt": "matando"
+    },
+    "heading": {
+      "pt": "indo em direção a"
+    },
+    "reported": {
+      "pt": "relatou"
+    },
+    "injured": {
+      "pt": "ferido"
+    },
+    "images": {
+      "pt": "imagens"
+    },
+    "crater": {
+      "pt": "cratera"
+    },
+    "multi": {
+      "pt": "vários"
+    },
+    "lane": {
+      "pt": "faixa"
+    },
+    "fire": {
+      "pt": "fogo"
+    },
+    "debris": {
+      "pt": "destroços",
+      "highlight": true
+    },
+    "spread": {
+      "pt": "espalhado"
+    },
+    "across": {
+      "pt": "por toda"
+    },
+    "air": {
+      "pt": "ar"
+    },
+    "traffic": {
+      "pt": "tráfego"
+    },
+    "someone": {
+      "pt": "alguém"
+    },
+    "mentions": {
+      "pt": "menciona"
+    },
+    "moderate": {
+      "pt": "moderada"
+    },
+    "managing": {
+      "pt": "lidando com"
+    },
+    "moments": {
+      "pt": "momentos"
+    },
+    "voice": {
+      "pt": "voz"
+    },
+    "reports": {
+      "pt": "relata"
+    },
+    "descent": {
+      "pt": "descida",
+      "highlight": true
+    },
+    "per": {
+      "pt": "por"
+    },
+    "minute": {
+      "pt": "minuto"
+    },
+    "declares": {
+      "pt": "declara"
+    },
+    "overspeed": {
+      "pt": "excesso de velocidade"
+    },
+    "condition": {
+      "pt": "condição"
+    },
+    "seconds": {
+      "pt": "segundos"
+    },
+    "mayday": {
+      "pt": "pedido de socorro"
+    },
+    "faa": {
+      "pt": "FAA, autoridade de aviação dos EUA"
+    },
+    "team": {
+      "pt": "equipe"
+    },
+    "investigation": {
+      "pt": "investigação",
+      "highlight": true
+    },
+    "national": {
+      "pt": "nacional"
+    },
+    "transportation": {
+      "pt": "transporte"
+    },
+    "evacuated": {
+      "pt": "retirados",
+      "highlight": true
+    },
+    "water": {
+      "pt": "água"
+    },
+    "lines": {
+      "pt": "tubulações"
+    },
+    "damaged": {
+      "pt": "danificadas"
+    },
+    "reopen": {
+      "pt": "reabrir"
+    }
+  }
+}

@@ -1,6 +1,41 @@
 {
   "articles": [
     {
+      "id": "2026-11-02-lxd-microcloud-cvss-10",
+      "date": "2026-11-02",
+      "topic": "hacking",
+      "title": "A serious flaw in LXD",
+      "source": "The Hacker News"
+    },
+    {
+      "id": "2026-11-02-volta-infostealer-ai-ranking",
+      "date": "2026-11-02",
+      "topic": "hacking",
+      "title": "A new virus ranks stolen data",
+      "source": "The Hacker News"
+    },
+    {
+      "id": "2026-11-02-ryanair-pay-freeze-fuel",
+      "date": "2026-11-02",
+      "topic": "bolsa",
+      "title": "Ryanair may freeze pay",
+      "source": "BBC News"
+    },
+    {
+      "id": "2026-11-02-virgin-media-o2-job-cuts",
+      "date": "2026-11-02",
+      "topic": "bolsa",
+      "title": "Virgin Media O2 plans job cuts",
+      "source": "BBC News"
+    },
+    {
+      "id": "2026-11-02-florida-jet-crash",
+      "date": "2026-11-02",
+      "topic": "mundo",
+      "title": "Small jet crashes in Florida",
+      "source": "BBC News"
+    },
+    {
       "id": "2026-11-01-ivanti-connect-secure-chain",
       "date": "2026-11-01",
       "topic": "hacking",

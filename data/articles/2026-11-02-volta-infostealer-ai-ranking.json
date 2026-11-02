@@ -1,0 +1,334 @@
+{
+  "id": "2026-11-02-volta-infostealer-ai-ranking",
+  "date": "2026-11-02",
+  "topic": "hacking",
+  "source": {
+    "name": "The Hacker News",
+    "url": "https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html",
+    "publishedAt": "2026-11-02T05:51:07Z"
+  },
+  "levels": {
+    "1": {
+      "title": "A new virus ranks stolen data",
+      "text": "Researchers found a new virus called VOLTA. It runs on Windows computers and spies on the people who use them. It steals passwords, cookies and bank card details. Then it asks an AI model to rank the stolen data by money value. The report says the AI saves the criminal a lot of work."
+    },
+    "2": {
+      "title": "VOLTA virus uses AI to rank victims",
+      "text": "Cisco Talos, a security team, found a new Windows virus called VOLTA. Like other stealers, it takes passwords and cookies from web browsers. It also takes payment card details, crypto wallet phrases and access to apps such as Slack and Discord.\n\nThe new part is the AI. VOLTA collects the stolen data and sends it to an AI model through a service called OpenRouter. The model writes a report about the victim and ranks their valuable things as low, medium or high. If one model refuses to answer, the virus tries another one, up to three models.\n\nTalos says the AI does not make the attack faster. Its main use is to save the criminal from doing the analysis by hand."
+    },
+    "3": {
+      "title": "New infostealer VOLTA uses AI models to rank victims by value",
+      "text": "Cisco Talos researchers have described a Windows infostealer called VOLTA-AUTODOXER, or VOLTA, that uses a large language model to rank stolen data by how much money it could bring. Like other stealers, it takes browser passwords and cookies, payment cards, crypto wallet seed phrases, Outlook and Slack data, and cloud keys. It also checks the victim's Gmail for receipts to confirm a home address.\n\nThe malware then builds a bundle of evidence about the person and sends it through OpenRouter, a gateway to AI models. Requests go first to Anthropic's Claude Opus 4.6. If that model refuses, VOLTA falls back to Moonshot AI's Kimi K2 and then to Google's Gemini 2.5 Flash. The model returns a report that ranks valuables by tier and rates the victim's password habits.\n\nTalos said the stolen data is sent out through Telegram, and that the program may be sold as a kit. In its view, the AI layer does not bring speed or scale, but \"effort displacement\": it does the analysis the criminal would otherwise do."
+    }
+  },
+  "glossary": {
+    "virus": {
+      "pt": "vírus"
+    },
+    "ranks": {
+      "pt": "classifica"
+    },
+    "stolen": {
+      "pt": "roubados",
+      "highlight": true
+    },
+    "data": {
+      "pt": "dados"
+    },
+    "researchers": {
+      "pt": "pesquisadores"
+    },
+    "volta": {
+      "pt": "VOLTA, nome de um vírus"
+    },
+    "windows": {
+      "pt": "Windows, sistema da Microsoft"
+    },
+    "computers": {
+      "pt": "computadores"
+    },
+    "spies": {
+      "pt": "espiona"
+    },
+    "steals": {
+      "pt": "rouba",
+      "highlight": true
+    },
+    "passwords": {
+      "pt": "senhas"
+    },
+    "cookies": {
+      "pt": "cookies, arquivos de navegador",
+      "highlight": true
+    },
+    "bank": {
+      "pt": "banco"
+    },
+    "card": {
+      "pt": "cartão"
+    },
+    "details": {
+      "pt": "dados"
+    },
+    "ai": {
+      "pt": "IA"
+    },
+    "model": {
+      "pt": "modelo"
+    },
+    "rank": {
+      "pt": "classificar",
+      "highlight": true
+    },
+    "value": {
+      "pt": "valor"
+    },
+    "report": {
+      "pt": "relatório"
+    },
+    "saves": {
+      "pt": "poupa"
+    },
+    "criminal": {
+      "pt": "criminoso",
+      "highlight": true
+    },
+    "victims": {
+      "pt": "vítimas",
+      "highlight": true
+    },
+    "cisco": {
+      "pt": "Cisco, empresa de tecnologia"
+    },
+    "talos": {
+      "pt": "Talos, equipe de segurança da Cisco"
+    },
+    "security": {
+      "pt": "segurança"
+    },
+    "team": {
+      "pt": "equipe"
+    },
+    "stealers": {
+      "pt": "ladrões de dados (programas)"
+    },
+    "web": {
+      "pt": "web"
+    },
+    "browsers": {
+      "pt": "navegadores"
+    },
+    "payment": {
+      "pt": "pagamento"
+    },
+    "crypto": {
+      "pt": "cripto",
+      "highlight": true
+    },
+    "wallet": {
+      "pt": "carteira"
+    },
+    "phrases": {
+      "pt": "frases"
+    },
+    "access": {
+      "pt": "acesso"
+    },
+    "apps": {
+      "pt": "aplicativos"
+    },
+    "slack": {
+      "pt": "Slack, app de trabalho"
+    },
+    "discord": {
+      "pt": "Discord, app de conversa"
+    },
+    "collects": {
+      "pt": "coleta"
+    },
+    "service": {
+      "pt": "atendimento; serviço"
+    },
+    "openrouter": {
+      "pt": "OpenRouter, serviço que dá acesso a modelos de IA"
+    },
+    "victim": {
+      "pt": "vítima"
+    },
+    "valuable": {
+      "pt": "valioso"
+    },
+    "medium": {
+      "pt": "médio"
+    },
+    "refuses": {
+      "pt": "recusa",
+      "highlight": true
+    },
+    "answer": {
+      "pt": "responder"
+    },
+    "three": {
+      "pt": "três"
+    },
+    "models": {
+      "pt": "modelos"
+    },
+    "attack": {
+      "pt": "ataque"
+    },
+    "faster": {
+      "pt": "mais rápido"
+    },
+    "save": {
+      "pt": "economizar"
+    },
+    "analysis": {
+      "pt": "análise"
+    },
+    "hand": {
+      "pt": "mão"
+    },
+    "infostealer": {
+      "pt": "programa que rouba dados"
+    },
+    "described": {
+      "pt": "descreveu"
+    },
+    "autodoxer": {
+      "pt": "AUTODOXER, parte do nome do vírus"
+    },
+    "language": {
+      "pt": "linguagem"
+    },
+    "bring": {
+      "pt": "render"
+    },
+    "browser": {
+      "pt": "navegador"
+    },
+    "cards": {
+      "pt": "cartões"
+    },
+    "seed": {
+      "pt": "semente (seed)"
+    },
+    "outlook": {
+      "pt": "Outlook, e-mail da Microsoft"
+    },
+    "cloud": {
+      "pt": "nuvem"
+    },
+    "keys": {
+      "pt": "chaves"
+    },
+    "checks": {
+      "pt": "verifica"
+    },
+    "gmail": {
+      "pt": "Gmail, e-mail do Google"
+    },
+    "receipts": {
+      "pt": "recibos"
+    },
+    "confirm": {
+      "pt": "confirmar"
+    },
+    "home": {
+      "pt": "casa"
+    },
+    "address": {
+      "pt": "endereço"
+    },
+    "malware": {
+      "pt": "software malicioso"
+    },
+    "builds": {
+      "pt": "monta"
+    },
+    "bundle": {
+      "pt": "pacote"
+    },
+    "evidence": {
+      "pt": "provas"
+    },
+    "gateway": {
+      "pt": "portal"
+    },
+    "requests": {
+      "pt": "pedidos"
+    },
+    "anthropic's": {
+      "pt": "da Anthropic"
+    },
+    "claude": {
+      "pt": "Claude, modelo de IA"
+    },
+    "opus": {
+      "pt": "Opus"
+    },
+    "moonshot": {
+      "pt": "Moonshot AI, empresa chinesa de IA"
+    },
+    "kimi": {
+      "pt": "Kimi, modelo de IA"
+    },
+    "google's": {
+      "pt": "do Google"
+    },
+    "gemini": {
+      "pt": "Gemini, modelo de IA do Google"
+    },
+    "flash": {
+      "pt": "Flash"
+    },
+    "returns": {
+      "pt": "devolve"
+    },
+    "valuables": {
+      "pt": "itens de valor"
+    },
+    "tier": {
+      "pt": "nível"
+    },
+    "rates": {
+      "pt": "avalia"
+    },
+    "password": {
+      "pt": "senha"
+    },
+    "habits": {
+      "pt": "hábitos"
+    },
+    "telegram": {
+      "pt": "Telegram, app de mensagens"
+    },
+    "program": {
+      "pt": "programa"
+    },
+    "kit": {
+      "pt": "kit"
+    },
+    "view": {
+      "pt": "visão"
+    },
+    "layer": {
+      "pt": "camada"
+    },
+    "speed": {
+      "pt": "velocidade"
+    },
+    "scale": {
+      "pt": "escala"
+    },
+    "effort": {
+      "pt": "esforço"
+    },
+    "displacement": {
+      "pt": "transferência"
+    },
+    "otherwise": {
+      "pt": "de outro modo"
+    }
+  }
+}

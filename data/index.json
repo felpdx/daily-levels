@@ -1,6 +1,41 @@
 {
   "articles": [
     {
+      "id": "2026-11-03-google-android-tv-botnet",
+      "date": "2026-11-03",
+      "topic": "hacking",
+      "title": "Google stops a big TV box botnet",
+      "source": "The Hacker News"
+    },
+    {
+      "id": "2026-11-03-synology-nas-ransomware",
+      "date": "2026-11-03",
+      "topic": "hacking",
+      "title": "Hackers attack Synology storage devices",
+      "source": "The Hacker News"
+    },
+    {
+      "id": "2026-11-03-north-korea-denies-binance-hack",
+      "date": "2026-11-03",
+      "topic": "bolsa",
+      "title": "North Korea says it did not hack Binance",
+      "source": "BBC News"
+    },
+    {
+      "id": "2026-11-03-poundland-rescue-deadline",
+      "date": "2026-11-03",
+      "topic": "bolsa",
+      "title": "Poundland has until Thursday",
+      "source": "BBC News"
+    },
+    {
+      "id": "2026-11-03-uk-eu-food-deal-draft",
+      "date": "2026-11-03",
+      "topic": "mundo",
+      "title": "UK and EU agree a draft food deal",
+      "source": "BBC News"
+    },
+    {
       "id": "2026-11-02-lxd-microcloud-cvss-10",
       "date": "2026-11-02",
       "topic": "hacking",

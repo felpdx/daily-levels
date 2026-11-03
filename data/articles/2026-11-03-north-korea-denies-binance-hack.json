@@ -1,0 +1,241 @@
+{
+  "id": "2026-11-03-north-korea-denies-binance-hack",
+  "date": "2026-11-03",
+  "topic": "bolsa",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-11-03T08:00:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "North Korea says it did not hack Binance",
+      "text": "North Korea says it did not hack Binance. The hack took 6.3 billion dollars, the biggest crypto hack ever. The FBI and other experts say North Korea did it. Kim Yo Jong, the sister of the leader, called this idea absurd. Binance says it has paid back about 95 percent of the stolen money. Binance says people took money out after the hack, but that was a small part of the total."
+    },
+    "2": {
+      "title": "North Korea denies the biggest crypto hack in history",
+      "text": "North Korea has denied that it hacked Binance, the crypto exchange. The hack took 6.3 billion dollars, the biggest ever. The FBI, the Secret Service and other experts say a North Korean group called TraderTraitor did it. Kim Yo Jong, the sister of leader Kim Jong Un, called the claim absurd and said it was a US attempt to harm her country's image.\n\nBinance says it has covered about 95 percent of the stolen assets. A net 4.72 billion dollars left the exchange since trading started again on Sunday. The company says this is a small part of its 157 billion dollars in assets."
+    },
+    "3": {
+      "title": "North Korea rejects blame for record Binance hack",
+      "text": "North Korea has denied being behind the 6.3 billion dollar hack of the crypto exchange Binance, the largest in history. Kim Yo Jong, the sister of leader Kim Jong Un, said on Tuesday that the accusation was absurd and another attempt by the US to harm her country's image.\n\nThe FBI, the Secret Service and blockchain analysts say the attack was led by a state-backed group called TraderTraitor, also known as Lazarus. The group was blamed for a 1.5 billion dollar hack of the exchange Bybit in 2025. North Korea has always denied such claims. Binance did not answer BBC questions about its involvement.\n\nBinance said an engineer's laptop was compromised, which let an attacker make unauthorised withdrawals. It says it has covered about 95 percent of the stolen assets. A spokesperson said a net 4.72 billion dollars has left since transactions resumed on Sunday, a relatively limited part of its roughly 157 billion dollars in assets."
+    }
+  },
+  "glossary": {
+    "absurd": {
+      "pt": "absurdo"
+    },
+    "accusation": {
+      "pt": "acusação"
+    },
+    "analysts": {
+      "pt": "analistas"
+    },
+    "answer": {
+      "pt": "responder"
+    },
+    "assets": {
+      "pt": "ativos, bens",
+      "highlight": true
+    },
+    "attack": {
+      "pt": "atacar; ataque"
+    },
+    "attacker": {
+      "pt": "atacante"
+    },
+    "attempt": {
+      "pt": "tentativa"
+    },
+    "backed": {
+      "pt": "apoiado"
+    },
+    "bbc": {
+      "pt": "BBC, emissora do Reino Unido"
+    },
+    "binance": {
+      "pt": "Binance, grande corretora de criptomoedas"
+    },
+    "blame": {
+      "pt": "culpa"
+    },
+    "blamed": {
+      "pt": "culpou",
+      "highlight": true
+    },
+    "blockchain": {
+      "pt": "blockchain, registro digital de transações"
+    },
+    "bybit": {
+      "pt": "Bybit, corretora de criptomoedas"
+    },
+    "claim": {
+      "pt": "alegação"
+    },
+    "claims": {
+      "pt": "alegações"
+    },
+    "compromised": {
+      "pt": "comprometido, invadido",
+      "highlight": true
+    },
+    "covered": {
+      "pt": "cobriu",
+      "highlight": true
+    },
+    "crypto": {
+      "pt": "criptomoeda"
+    },
+    "denied": {
+      "pt": "negou",
+      "highlight": true
+    },
+    "denies": {
+      "pt": "nega"
+    },
+    "dollar": {
+      "pt": "dólar"
+    },
+    "dollars": {
+      "pt": "dólares"
+    },
+    "engineer's": {
+      "pt": "do engenheiro"
+    },
+    "ever": {
+      "pt": "já, jamais"
+    },
+    "exchange": {
+      "pt": "corretora"
+    },
+    "experts": {
+      "pt": "especialistas"
+    },
+    "fbi": {
+      "pt": "FBI, polícia federal dos EUA"
+    },
+    "hack": {
+      "pt": "ataque hacker",
+      "highlight": true
+    },
+    "hacked": {
+      "pt": "invadiu"
+    },
+    "harm": {
+      "pt": "prejudicar"
+    },
+    "history": {
+      "pt": "história"
+    },
+    "idea": {
+      "pt": "ideia"
+    },
+    "image": {
+      "pt": "imagem"
+    },
+    "involvement": {
+      "pt": "envolvimento"
+    },
+    "jong": {
+      "pt": "Jong, parte do nome Kim Yo Jong"
+    },
+    "kim": {
+      "pt": "Kim, sobrenome coreano"
+    },
+    "korea": {
+      "pt": "Coreia"
+    },
+    "korean": {
+      "pt": "coreano"
+    },
+    "laptop": {
+      "pt": "notebook"
+    },
+    "lazarus": {
+      "pt": "Lazarus, grupo de hackers da Coreia do Norte"
+    },
+    "leader": {
+      "pt": "líder"
+    },
+    "let": {
+      "pt": "permitiu"
+    },
+    "limited": {
+      "pt": "limitado"
+    },
+    "net": {
+      "pt": "líquido"
+    },
+    "north": {
+      "pt": "norte"
+    },
+    "questions": {
+      "pt": "perguntas"
+    },
+    "record": {
+      "pt": "recorde"
+    },
+    "rejects": {
+      "pt": "rejeita"
+    },
+    "relatively": {
+      "pt": "relativamente"
+    },
+    "resumed": {
+      "pt": "voltou"
+    },
+    "roughly": {
+      "pt": "aproximadamente"
+    },
+    "secret": {
+      "pt": "secreto"
+    },
+    "service": {
+      "pt": "serviço"
+    },
+    "sister": {
+      "pt": "irmã"
+    },
+    "spokesperson": {
+      "pt": "porta-voz"
+    },
+    "state": {
+      "pt": "Estado"
+    },
+    "stolen": {
+      "pt": "roubado",
+      "highlight": true
+    },
+    "sunday": {
+      "pt": "domingo"
+    },
+    "total": {
+      "pt": "total"
+    },
+    "tradertraitor": {
+      "pt": "TraderTraitor, grupo de hackers"
+    },
+    "trading": {
+      "pt": "negociação"
+    },
+    "transactions": {
+      "pt": "transações"
+    },
+    "tuesday": {
+      "pt": "terça-feira"
+    },
+    "un": {
+      "pt": "Un, parte do nome Kim Jong Un"
+    },
+    "unauthorised": {
+      "pt": "não autorizado"
+    },
+    "withdrawals": {
+      "pt": "saques",
+      "highlight": true
+    },
+    "yo": {
+      "pt": "Yo, parte do nome Kim Yo Jong"
+    }
+  }
+}

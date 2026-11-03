@@ -1,0 +1,277 @@
+{
+  "id": "2026-11-03-google-android-tv-botnet",
+  "date": "2026-11-03",
+  "topic": "hacking",
+  "source": {
+    "name": "The Hacker News",
+    "url": "https://thehackernews.com/2026/11/google-disrupts-13-million-device.html",
+    "publishedAt": "2026-11-02T15:50:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Google stops a big TV box botnet",
+      "text": "Google stopped a botnet of more than 1.3 million Android devices. Most of them were TV boxes. Google says the maker, a Chinese company called Videostrong, put a hidden door in the boxes. Then it sold access to criminals. Criminals used the boxes for fake ad views. They also used the home internet of the owners. Owners cannot remove the hidden door themselves."
+    },
+    "2": {
+      "title": "Google takes down a botnet of 1.3 million TV boxes",
+      "text": "Google led a takedown of a botnet that used more than 1.3 million Android devices, mostly TV boxes. Google says it is highly confident that the Chinese maker Videostrong put a backdoor in the boxes on purpose and sold access to criminals. The story does not include an answer from Videostrong.\n\nThe criminals used the boxes for ad fraud. They also sold the home internet connections of the owners to other people. The backdoor is still on the boxes, and the owners cannot remove it.\n\nGoogle has banned Videostrong from making certified Android devices. Experts say the safest choice is to replace the box."
+    },
+    "3": {
+      "title": "Google disrupts an Android botnet built into TV boxes",
+      "text": "A botnet of more than 1.3 million Android devices, mostly TV set-top boxes, lost control of its servers in late October after a takedown led by Google. Google says it is highly confident that Videostrong, a device maker based in Shenzhen, China, put a backdoor called x.cpe in its firmware on purpose and sold access to criminals. The reporting does not include a reply from Videostrong.\n\nThrough the backdoor, criminals could install apps without the owner knowing, take screenshots and run commands. Most of them turned the boxes into residential proxies, which sell a home internet connection to other customers, or faked views of online ads.\n\nTrendAI counted 1,472,554 infected devices across 206 models between June 3 and October 1. Google expects the action to cut criminals off from at least 10 million more infected devices. It has banned Videostrong from building certified Android devices.\n\nBecause the backdoor is part of the firmware, it comes back after a restart. Synthient, a firm that tracks botnets, tells owners to throw the boxes away."
+    }
+  },
+  "glossary": {
+    "access": {
+      "pt": "acesso"
+    },
+    "across": {
+      "pt": "em, por todo"
+    },
+    "action": {
+      "pt": "ação"
+    },
+    "ad": {
+      "pt": "anúncio"
+    },
+    "android": {
+      "pt": "Android, sistema de celulares e TVs do Google"
+    },
+    "answer": {
+      "pt": "responder"
+    },
+    "apps": {
+      "pt": "aplicativos"
+    },
+    "backdoor": {
+      "pt": "porta dos fundos (acesso secreto)",
+      "highlight": true
+    },
+    "banned": {
+      "pt": "proibiu",
+      "highlight": true
+    },
+    "based": {
+      "pt": "com sede"
+    },
+    "botnet": {
+      "pt": "botnet, rede de aparelhos infectados",
+      "highlight": true
+    },
+    "botnets": {
+      "pt": "botnets, redes de aparelhos infectados"
+    },
+    "box": {
+      "pt": "caixa; aparelho"
+    },
+    "boxes": {
+      "pt": "aparelhos, caixas"
+    },
+    "building": {
+      "pt": "construir"
+    },
+    "built": {
+      "pt": "construído"
+    },
+    "certified": {
+      "pt": "certificado"
+    },
+    "china": {
+      "pt": "China"
+    },
+    "chinese": {
+      "pt": "chinês"
+    },
+    "choice": {
+      "pt": "escolha"
+    },
+    "commands": {
+      "pt": "comandos"
+    },
+    "confident": {
+      "pt": "confiante",
+      "highlight": true
+    },
+    "connection": {
+      "pt": "conexão"
+    },
+    "connections": {
+      "pt": "conexões"
+    },
+    "counted": {
+      "pt": "contou"
+    },
+    "cpe": {
+      "pt": "cpe, parte do nome da porta dos fundos"
+    },
+    "criminals": {
+      "pt": "criminosos"
+    },
+    "customers": {
+      "pt": "clientes"
+    },
+    "cut": {
+      "pt": "cortar"
+    },
+    "device": {
+      "pt": "aparelho"
+    },
+    "devices": {
+      "pt": "aparelhos"
+    },
+    "disrupts": {
+      "pt": "interrompe"
+    },
+    "door": {
+      "pt": "porta"
+    },
+    "expects": {
+      "pt": "espera"
+    },
+    "experts": {
+      "pt": "especialistas"
+    },
+    "fake": {
+      "pt": "falso"
+    },
+    "faked": {
+      "pt": "falsificou"
+    },
+    "firm": {
+      "pt": "empresa"
+    },
+    "firmware": {
+      "pt": "firmware, programa dentro do aparelho",
+      "highlight": true
+    },
+    "fraud": {
+      "pt": "fraude",
+      "highlight": true
+    },
+    "google": {
+      "pt": "Google, empresa de tecnologia"
+    },
+    "hidden": {
+      "pt": "escondido"
+    },
+    "highly": {
+      "pt": "muito"
+    },
+    "home": {
+      "pt": "casa"
+    },
+    "include": {
+      "pt": "incluir"
+    },
+    "infected": {
+      "pt": "infectado",
+      "highlight": true
+    },
+    "install": {
+      "pt": "instalar"
+    },
+    "internet": {
+      "pt": "internet"
+    },
+    "june": {
+      "pt": "junho"
+    },
+    "late": {
+      "pt": "final de"
+    },
+    "least": {
+      "pt": "pelo menos"
+    },
+    "maker": {
+      "pt": "fabricante"
+    },
+    "models": {
+      "pt": "modelos"
+    },
+    "mostly": {
+      "pt": "na maioria"
+    },
+    "october": {
+      "pt": "outubro"
+    },
+    "owner": {
+      "pt": "dono"
+    },
+    "owners": {
+      "pt": "donos"
+    },
+    "proxies": {
+      "pt": "proxies, intermediários de internet"
+    },
+    "purpose": {
+      "pt": "propósito"
+    },
+    "remove": {
+      "pt": "remover"
+    },
+    "replace": {
+      "pt": "trocar"
+    },
+    "reply": {
+      "pt": "resposta"
+    },
+    "reporting": {
+      "pt": "reportagem"
+    },
+    "residential": {
+      "pt": "residencial"
+    },
+    "restart": {
+      "pt": "reinício"
+    },
+    "safest": {
+      "pt": "mais seguro"
+    },
+    "screenshots": {
+      "pt": "capturas de tela"
+    },
+    "servers": {
+      "pt": "servidores"
+    },
+    "set": {
+      "pt": "conjunto"
+    },
+    "shenzhen": {
+      "pt": "Shenzhen, cidade da China"
+    },
+    "synthient": {
+      "pt": "Synthient, empresa de segurança"
+    },
+    "takedown": {
+      "pt": "derrubada",
+      "highlight": true
+    },
+    "throw": {
+      "pt": "jogar fora"
+    },
+    "top": {
+      "pt": "topo"
+    },
+    "tracks": {
+      "pt": "acompanha"
+    },
+    "trendai": {
+      "pt": "TrendAI, empresa de segurança"
+    },
+    "tv": {
+      "pt": "TV"
+    },
+    "videostrong": {
+      "pt": "Videostrong, fabricante chinesa"
+    },
+    "views": {
+      "pt": "visualizações"
+    },
+    "ads": {
+      "pt": "anúncios"
+    },
+    "x": {
+      "pt": "x, parte do nome da porta dos fundos"
+    }
+  }
+}

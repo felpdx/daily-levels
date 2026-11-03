@@ -1,0 +1,283 @@
+{
+  "id": "2026-11-03-uk-eu-food-deal-draft",
+  "date": "2026-11-03",
+  "topic": "mundo",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-11-03T07:00:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "UK and EU agree a draft food deal",
+      "text": "The UK and the European Union have a draft deal on food exports. It would remove many checks and papers that began after Brexit. A summit will happen later this month. The UK government says the deal will bring 5.1 billion pounds a year to the economy. Some people who wanted Brexit do not like it. EU countries will discuss the draft on Wednesday."
+    },
+    "2": {
+      "title": "UK and EU agree a draft deal to cut Brexit food checks",
+      "text": "The UK and the European Union have agreed a draft deal to remove Brexit checks on food and farm exports. Leaders will meet at a summit later this month. The text has 200 pages, and EU countries will discuss it on Wednesday.\n\nThe deal would end the need for papers that cost 200 pounds each, and for other checks and fees. The UK government says it will bring 5.1 billion pounds a year to the economy.\n\nIn return, the UK will follow EU rules on food, plants and animals. Some people who supported Brexit do not like this. Business groups say it is a price worth paying."
+    },
+    "3": {
+      "title": "UK and EU agree draft deal to scrap Brexit red tape on food exports",
+      "text": "The UK and the European Union have agreed a draft deal to remove post-Brexit checks on food and farming exports ahead of a summit later this month, the BBC understands. The 200-page text has been sent to EU countries, and ambassadors will discuss it on Wednesday. Drafts on carbon trading and a youth travel and work scheme were also sent.\n\nThe deal should end the need for 200-pound health certificates, 25-pound plant certificates and several fees. The UK government says it will bring 5.1 billion pounds in yearly benefits. In return, the UK will follow EU rules on food and farming, a process called dynamic alignment. It would also greatly reduce checks at the Irish Sea border in Northern Ireland.\n\nSome pro-Brexit campaigners criticise the return of EU rules. William Bain, of the British Chambers of Commerce, said business sees it as a price worth paying. Fifty-six percent of exporters in a survey by that group want customs paperwork and delays removed."
+    }
+  },
+  "glossary": {
+    "agree": {
+      "pt": "concordar"
+    },
+    "agreed": {
+      "pt": "concordou"
+    },
+    "ahead": {
+      "pt": "antes de"
+    },
+    "alignment": {
+      "pt": "alinhamento",
+      "highlight": true
+    },
+    "ambassadors": {
+      "pt": "embaixadores"
+    },
+    "animals": {
+      "pt": "animais"
+    },
+    "bain": {
+      "pt": "Bain, nome de uma pessoa"
+    },
+    "bbc": {
+      "pt": "BBC, emissora do Reino Unido"
+    },
+    "benefits": {
+      "pt": "benefícios"
+    },
+    "border": {
+      "pt": "fronteira"
+    },
+    "brexit": {
+      "pt": "Brexit, saída do Reino Unido da União Europeia"
+    },
+    "bring": {
+      "pt": "trazer"
+    },
+    "british": {
+      "pt": "britânico"
+    },
+    "campaigners": {
+      "pt": "ativistas"
+    },
+    "carbon": {
+      "pt": "carbono"
+    },
+    "certificates": {
+      "pt": "certificados"
+    },
+    "chambers": {
+      "pt": "câmaras (de comércio)"
+    },
+    "checks": {
+      "pt": "verificações",
+      "highlight": true
+    },
+    "commerce": {
+      "pt": "comércio"
+    },
+    "cost": {
+      "pt": "custar"
+    },
+    "criticise": {
+      "pt": "criticar"
+    },
+    "customs": {
+      "pt": "alfândega",
+      "highlight": true
+    },
+    "cut": {
+      "pt": "cortar"
+    },
+    "deal": {
+      "pt": "acordo"
+    },
+    "delays": {
+      "pt": "atrasos"
+    },
+    "discuss": {
+      "pt": "discutir"
+    },
+    "draft": {
+      "pt": "rascunho",
+      "highlight": true
+    },
+    "drafts": {
+      "pt": "rascunhos"
+    },
+    "dynamic": {
+      "pt": "dinâmico"
+    },
+    "economy": {
+      "pt": "economia"
+    },
+    "eu": {
+      "pt": "UE, União Europeia"
+    },
+    "european": {
+      "pt": "europeu"
+    },
+    "exporters": {
+      "pt": "exportadores"
+    },
+    "exports": {
+      "pt": "exportações",
+      "highlight": true
+    },
+    "farm": {
+      "pt": "fazenda"
+    },
+    "farming": {
+      "pt": "agricultura"
+    },
+    "fees": {
+      "pt": "taxas",
+      "highlight": true
+    },
+    "fifty": {
+      "pt": "cinquenta"
+    },
+    "follow": {
+      "pt": "seguir"
+    },
+    "food": {
+      "pt": "comida"
+    },
+    "greatly": {
+      "pt": "muito"
+    },
+    "health": {
+      "pt": "saúde"
+    },
+    "ireland": {
+      "pt": "Irlanda"
+    },
+    "irish": {
+      "pt": "irlandês"
+    },
+    "leaders": {
+      "pt": "líderes"
+    },
+    "northern": {
+      "pt": "do norte"
+    },
+    "page": {
+      "pt": "página"
+    },
+    "pages": {
+      "pt": "páginas"
+    },
+    "papers": {
+      "pt": "documentos"
+    },
+    "paperwork": {
+      "pt": "papelada"
+    },
+    "plant": {
+      "pt": "planta"
+    },
+    "plants": {
+      "pt": "plantas"
+    },
+    "post": {
+      "pt": "depois de"
+    },
+    "pound": {
+      "pt": "libra"
+    },
+    "pounds": {
+      "pt": "libras"
+    },
+    "pro": {
+      "pt": "a favor do"
+    },
+    "process": {
+      "pt": "processo"
+    },
+    "red": {
+      "pt": "vermelho"
+    },
+    "reduce": {
+      "pt": "reduzir"
+    },
+    "remove": {
+      "pt": "remover"
+    },
+    "removed": {
+      "pt": "removido"
+    },
+    "return": {
+      "pt": "retorno"
+    },
+    "rules": {
+      "pt": "regras"
+    },
+    "scheme": {
+      "pt": "programa"
+    },
+    "scrap": {
+      "pt": "acabar com",
+      "highlight": true
+    },
+    "sea": {
+      "pt": "mar"
+    },
+    "several": {
+      "pt": "vários"
+    },
+    "six": {
+      "pt": "seis"
+    },
+    "summit": {
+      "pt": "cúpula, reunião de líderes",
+      "highlight": true
+    },
+    "supported": {
+      "pt": "apoiou"
+    },
+    "survey": {
+      "pt": "pesquisa"
+    },
+    "tape": {
+      "pt": "fita"
+    },
+    "text": {
+      "pt": "texto"
+    },
+    "trading": {
+      "pt": "negociação"
+    },
+    "travel": {
+      "pt": "viagem"
+    },
+    "uk": {
+      "pt": "Reino Unido"
+    },
+    "understands": {
+      "pt": "entende, apurou"
+    },
+    "union": {
+      "pt": "união"
+    },
+    "wednesday": {
+      "pt": "quarta-feira"
+    },
+    "william": {
+      "pt": "William, nome de homem"
+    },
+    "worth": {
+      "pt": "que vale"
+    },
+    "yearly": {
+      "pt": "por ano"
+    },
+    "youth": {
+      "pt": "jovens"
+    }
+  }
+}

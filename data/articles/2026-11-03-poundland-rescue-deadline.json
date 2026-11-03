@@ -1,0 +1,208 @@
+{
+  "id": "2026-11-03-poundland-rescue-deadline",
+  "date": "2026-11-03",
+  "topic": "bolsa",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/ck1wv1j0xgywo?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-11-02T13:00:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Poundland has until Thursday",
+      "text": "Poundland is a store chain in the UK. It may close. Its owner, a US company called Gordon Brothers, stopped paying for the business. The store has until Thursday to find a rescue deal. Up to 12,000 workers could lose their jobs. The man who started Poundland says he wants to invest. A government minister will meet the company."
+    },
+    "2": {
+      "title": "Poundland has until Thursday to find a rescue deal",
+      "text": "Poundland, a UK store chain with 600 shops, has until Thursday to find a rescue deal. Up to 12,000 workers could lose their jobs.\n\nThe US owner, Gordon Brothers, bought the chain last year for one pound. It has stopped paying for the business and said no to a takeover offer from an Irish company. The company board says it did not find an acceptable offer for the whole business.\n\nSteve Smith, who started Poundland in 1990, says he wants to invest. A business minister, Kate Dearden, will meet company leaders this week."
+    },
+    "3": {
+      "title": "Poundland races to find a rescue deal as founder offers to invest",
+      "text": "Poundland has until Thursday to find a rescue deal, which puts up to 12,000 jobs at risk. The retailer, which has 600 shops in the UK and Ireland, is owned by the US firm Gordon Brothers, which bought it from the Polish group Pepco last year for one pound. Gordon Brothers has stopped funding the business and turned down an offer from the Irish company Martin Property Group. The Poundland board says that, despite great efforts, it found no acceptable offer for the whole business.\n\nThe founder, Steve Smith, said he would invest and was surprised by the news because sales were up 11 percent on last year. He warned that suppliers would also suffer.\n\nBusiness Minister Kate Dearden will meet the company's executives, though government sources admit they have little room to act. Labour MP Liam Byrne said the deal looked wrong to him and asked for action now, not at the last minute."
+    }
+  },
+  "glossary": {
+    "acceptable": {
+      "pt": "aceitável",
+      "highlight": true
+    },
+    "act": {
+      "pt": "agir"
+    },
+    "action": {
+      "pt": "ação"
+    },
+    "admit": {
+      "pt": "admitem"
+    },
+    "board": {
+      "pt": "conselho de administração",
+      "highlight": true
+    },
+    "brothers": {
+      "pt": "irmãos"
+    },
+    "byrne": {
+      "pt": "Byrne, deputado britânico"
+    },
+    "chain": {
+      "pt": "rede de lojas"
+    },
+    "deal": {
+      "pt": "acordo"
+    },
+    "dearden": {
+      "pt": "Dearden, ministra britânica"
+    },
+    "despite": {
+      "pt": "apesar de"
+    },
+    "efforts": {
+      "pt": "esforços"
+    },
+    "executives": {
+      "pt": "executivos"
+    },
+    "firm": {
+      "pt": "empresa"
+    },
+    "founder": {
+      "pt": "fundador",
+      "highlight": true
+    },
+    "funding": {
+      "pt": "financiamento"
+    },
+    "gordon": {
+      "pt": "Gordon, nome da empresa Gordon Brothers"
+    },
+    "invest": {
+      "pt": "investir",
+      "highlight": true
+    },
+    "ireland": {
+      "pt": "Irlanda"
+    },
+    "irish": {
+      "pt": "irlandês"
+    },
+    "jobs": {
+      "pt": "empregos"
+    },
+    "kate": {
+      "pt": "Kate, nome de mulher"
+    },
+    "labour": {
+      "pt": "Partido Trabalhista, no governo do Reino Unido"
+    },
+    "leaders": {
+      "pt": "líderes"
+    },
+    "liam": {
+      "pt": "Liam, nome de homem"
+    },
+    "martin": {
+      "pt": "Martin, nome da empresa Martin Property Group"
+    },
+    "minister": {
+      "pt": "ministro"
+    },
+    "minute": {
+      "pt": "minuto"
+    },
+    "mp": {
+      "pt": "deputado"
+    },
+    "offer": {
+      "pt": "oferta"
+    },
+    "offers": {
+      "pt": "oferece"
+    },
+    "owned": {
+      "pt": "pertencente"
+    },
+    "owner": {
+      "pt": "dono"
+    },
+    "pepco": {
+      "pt": "Pepco, rede de lojas da Polônia"
+    },
+    "polish": {
+      "pt": "polonês"
+    },
+    "pound": {
+      "pt": "libra"
+    },
+    "poundland": {
+      "pt": "Poundland, rede de lojas baratas do Reino Unido"
+    },
+    "property": {
+      "pt": "propriedade"
+    },
+    "races": {
+      "pt": "corre"
+    },
+    "rescue": {
+      "pt": "resgate, salvação",
+      "highlight": true
+    },
+    "retailer": {
+      "pt": "varejista",
+      "highlight": true
+    },
+    "risk": {
+      "pt": "risco"
+    },
+    "sales": {
+      "pt": "vendas"
+    },
+    "shops": {
+      "pt": "lojas"
+    },
+    "smith": {
+      "pt": "Smith, sobrenome"
+    },
+    "sources": {
+      "pt": "fontes"
+    },
+    "steve": {
+      "pt": "Steve, nome de homem"
+    },
+    "store": {
+      "pt": "loja; guardar"
+    },
+    "suffer": {
+      "pt": "sofrer"
+    },
+    "suppliers": {
+      "pt": "fornecedores",
+      "highlight": true
+    },
+    "surprised": {
+      "pt": "surpreso"
+    },
+    "takeover": {
+      "pt": "compra da empresa",
+      "highlight": true
+    },
+    "though": {
+      "pt": "embora"
+    },
+    "thursday": {
+      "pt": "quinta-feira"
+    },
+    "uk": {
+      "pt": "Reino Unido"
+    },
+    "warned": {
+      "pt": "avisou"
+    },
+    "whole": {
+      "pt": "inteiro"
+    },
+    "wrong": {
+      "pt": "errado"
+    }
+  }
+}

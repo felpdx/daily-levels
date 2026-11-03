@@ -1,0 +1,229 @@
+{
+  "id": "2026-11-03-synology-nas-ransomware",
+  "date": "2026-11-03",
+  "topic": "hacking",
+  "source": {
+    "name": "The Hacker News",
+    "url": "https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html",
+    "publishedAt": "2026-11-03T07:43:07Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Hackers attack Synology storage devices",
+      "text": "Synology makes devices that store files at home and at work. Now hackers are attacking some of them. They use a weakness that Synology fixed in December 2024. Many people did not update their devices. The hackers lock the files. Then they ask for money. This is called ransomware. Synology says users must update the software now."
+    },
+    "2": {
+      "title": "Ransomware hits old Synology storage devices",
+      "text": "Synology, a company from Taiwan, says hackers are attacking its storage devices, called NAS. The hackers use a security problem that the company fixed in December 2024. Devices with old software are still in danger.\n\nSome customers say a ransomware called C3RB3R locked their files. The locked files get the ending .L0CK3D. Synology says the hackers want to lock data and ask for money.\n\nThe company asks all users to update their DSM software now. It also says users should turn on automatic updates. Old devices that never get updates are the easy targets for criminals."
+    },
+    "3": {
+      "title": "Synology warns of ransomware attacks on devices with old software",
+      "text": "Synology has asked customers to update the software on their network storage devices, known as NAS, after a wave of ransomware attacks. The Taiwanese company said criminals are using a flaw that it patched in December 2024, so only devices running outdated versions of its DSM system are at risk. It did not say which flaw is being used, but it linked to a security notice from November 2024 that lists three problems.\n\nCustomers say their files were locked by a ransomware called C3RB3R, which adds the ending .L0CK3D to each file. Synology said the attackers want to encrypt data and demand a ransom.\n\nThis is not new for the industry. In 2019, devices from another Taiwanese maker, QNAP, were hit by a ransomware called QNAPCrypt. In August 2021, Synology itself warned about attacks that guessed common administrator passwords.\n\nThe company urges users to update right away and to turn on automatic updates."
+    }
+  },
+  "glossary": {
+    "adds": {
+      "pt": "acrescenta"
+    },
+    "administrator": {
+      "pt": "administrador"
+    },
+    "attack": {
+      "pt": "atacar; ataque"
+    },
+    "attackers": {
+      "pt": "atacantes"
+    },
+    "attacking": {
+      "pt": "atacando"
+    },
+    "attacks": {
+      "pt": "ataques"
+    },
+    "august": {
+      "pt": "agosto"
+    },
+    "automatic": {
+      "pt": "automático"
+    },
+    "common": {
+      "pt": "comum"
+    },
+    "criminals": {
+      "pt": "criminosos",
+      "highlight": true
+    },
+    "customers": {
+      "pt": "clientes"
+    },
+    "danger": {
+      "pt": "perigo"
+    },
+    "data": {
+      "pt": "dados"
+    },
+    "december": {
+      "pt": "dezembro"
+    },
+    "demand": {
+      "pt": "exigir"
+    },
+    "devices": {
+      "pt": "aparelhos"
+    },
+    "dsm": {
+      "pt": "DSM, sistema dos aparelhos da Synology"
+    },
+    "easy": {
+      "pt": "fácil"
+    },
+    "encrypt": {
+      "pt": "criptografar, trancar",
+      "highlight": true
+    },
+    "file": {
+      "pt": "arquivo"
+    },
+    "files": {
+      "pt": "arquivos"
+    },
+    "fixed": {
+      "pt": "consertou"
+    },
+    "flaw": {
+      "pt": "falha",
+      "highlight": true
+    },
+    "guessed": {
+      "pt": "adivinhou"
+    },
+    "hackers": {
+      "pt": "hackers"
+    },
+    "hit": {
+      "pt": "atingido"
+    },
+    "hits": {
+      "pt": "atinge"
+    },
+    "home": {
+      "pt": "casa"
+    },
+    "industry": {
+      "pt": "setor"
+    },
+    "linked": {
+      "pt": "ligou"
+    },
+    "lists": {
+      "pt": "lista"
+    },
+    "lock": {
+      "pt": "trancar"
+    },
+    "locked": {
+      "pt": "trancado"
+    },
+    "maker": {
+      "pt": "fabricante"
+    },
+    "nas": {
+      "pt": "NAS, aparelho que guarda arquivos em rede"
+    },
+    "network": {
+      "pt": "rede"
+    },
+    "notice": {
+      "pt": "aviso"
+    },
+    "november": {
+      "pt": "novembro"
+    },
+    "outdated": {
+      "pt": "desatualizado",
+      "highlight": true
+    },
+    "passwords": {
+      "pt": "senhas"
+    },
+    "patched": {
+      "pt": "corrigido",
+      "highlight": true
+    },
+    "qnap": {
+      "pt": "QNAP, fabricante de Taiwan"
+    },
+    "qnapcrypt": {
+      "pt": "QNAPCrypt, um ransomware"
+    },
+    "ransom": {
+      "pt": "resgate",
+      "highlight": true
+    },
+    "ransomware": {
+      "pt": "ransomware, vírus que sequestra arquivos",
+      "highlight": true
+    },
+    "risk": {
+      "pt": "risco"
+    },
+    "security": {
+      "pt": "segurança"
+    },
+    "software": {
+      "pt": "programa de computador"
+    },
+    "storage": {
+      "pt": "armazenamento"
+    },
+    "store": {
+      "pt": "loja; guardar"
+    },
+    "synology": {
+      "pt": "Synology, empresa de Taiwan"
+    },
+    "system": {
+      "pt": "sistema"
+    },
+    "taiwan": {
+      "pt": "Taiwan"
+    },
+    "taiwanese": {
+      "pt": "de Taiwan"
+    },
+    "targets": {
+      "pt": "alvos"
+    },
+    "three": {
+      "pt": "três"
+    },
+    "update": {
+      "pt": "atualizar"
+    },
+    "updates": {
+      "pt": "atualizações"
+    },
+    "urges": {
+      "pt": "pede com insistência",
+      "highlight": true
+    },
+    "users": {
+      "pt": "usuários"
+    },
+    "versions": {
+      "pt": "versões"
+    },
+    "warned": {
+      "pt": "avisou"
+    },
+    "warns": {
+      "pt": "avisa"
+    },
+    "wave": {
+      "pt": "onda"
+    },
+    "weakness": {
+      "pt": "ponto fraco"
+    }
+  }
+}

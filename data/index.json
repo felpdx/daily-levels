@@ -1,6 +1,41 @@
 {
   "articles": [
     {
+      "id": "2026-11-04-llmjacking-google-warning",
+      "date": "2026-11-04",
+      "topic": "hacking",
+      "title": "Hackers steal AI access",
+      "source": "The Hacker News"
+    },
+    {
+      "id": "2026-11-04-wordpress-core-flaw-exploited",
+      "date": "2026-11-04",
+      "topic": "hacking",
+      "title": "Hackers attack WordPress",
+      "source": "The Hacker News"
+    },
+    {
+      "id": "2026-11-04-markets-react-us-midterms",
+      "date": "2026-11-04",
+      "topic": "bolsa",
+      "title": "Markets react to US elections",
+      "source": "MercoPress"
+    },
+    {
+      "id": "2026-11-04-ueno-bank-paraguay",
+      "date": "2026-11-04",
+      "topic": "bolsa",
+      "title": "Paraguay closes a big bank",
+      "source": "MercoPress"
+    },
+    {
+      "id": "2026-11-04-spain-transport-minister-resigns",
+      "date": "2026-11-04",
+      "topic": "mundo",
+      "title": "Spain's transport minister quits",
+      "source": "BBC News"
+    },
+    {
       "id": "2026-11-03-google-android-tv-botnet",
       "date": "2026-11-03",
       "topic": "hacking",

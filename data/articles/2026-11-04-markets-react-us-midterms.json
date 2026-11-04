@@ -1,0 +1,334 @@
+{
+  "id": "2026-11-04-markets-react-us-midterms",
+  "date": "2026-11-04",
+  "topic": "bolsa",
+  "source": {
+    "name": "MercoPress",
+    "url": "https://en.mercopress.com/2026/11/04/markets-react-to-the-us-midterms-the-dollar-falls-and-gold-rises?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+    "publishedAt": "2026-11-04T08:00:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Markets react to US elections",
+      "text": "The Democrats won the US elections for Congress. Markets moved on Wednesday morning. The dollar went down. Gold went up more than 2 percent. It is now above 4,000 dollars for an ounce. The yield on US government bonds also fell. Experts at a German bank say tech stocks may fall today."
+    },
+    "2": {
+      "title": "Dollar falls and gold rises after US vote",
+      "text": "The Democratic win in the US midterm elections moved the markets on Wednesday morning. The party now controls both chambers of Congress for the last two years of the presidency of Donald Trump.\n\nThe dollar became weaker against the main currencies. The dollar index was near 101.50. The yield on the 10-year US Treasury note fell below 4.95%. Gold rose more than 2% and went above 4,000 dollars an ounce. The euro rose briefly above 1.1250 dollars.\n\nAnalysts at the German bank Commerzbank said US stocks, especially the tech-heavy Nasdaq, are likely to fall today. Trump told The Wall Street Journal that the war with Iran was partly to blame for his party's defeat."
+    },
+    "3": {
+      "title": "Markets react to the US midterms: the dollar slips and gold climbs",
+      "text": "The US dollar weakened against major currencies on Wednesday morning, and gold rose more than 2% to above $4,000 an ounce, as markets assessed the Democratic victory in the midterm elections. Democrats will now control both chambers of Congress for the final two years of Donald Trump's term.\n\nThe dollar index stayed in negative territory near 101.50, and the yield on the 10-year Treasury note fell below 4.95%, according to FXStreet. Wall Street futures were mixed. The euro briefly rose above $1.1250, its highest level in two weeks, and sterling extended a winning streak to a sixth day above $1.3450, ahead of an expected Bank of England rate rise on Thursday.\n\nAnalysts at Germany's Commerzbank warned that US equities, particularly the tech-heavy Nasdaq, are likely to come under pressure. They added that the dollar's recent strength had been helped by equity-related inflows, so weakness could continue in the coming hours.\n\nTrump told The Wall Street Journal that the Iran war was \"partially to blame\" for the Republican defeat."
+    }
+  },
+  "glossary": {
+    "markets": {
+      "pt": "mercados"
+    },
+    "react": {
+      "pt": "reagir"
+    },
+    "elections": {
+      "pt": "eleições"
+    },
+    "democrats": {
+      "pt": "Democratas, partido dos EUA"
+    },
+    "won": {
+      "pt": "ganhou"
+    },
+    "congress": {
+      "pt": "Congresso"
+    },
+    "wednesday": {
+      "pt": "quarta-feira"
+    },
+    "morning": {
+      "pt": "manhã"
+    },
+    "dollar": {
+      "pt": "dólar"
+    },
+    "gold": {
+      "pt": "ouro"
+    },
+    "above": {
+      "pt": "acima de"
+    },
+    "dollars": {
+      "pt": "dólares"
+    },
+    "ounce": {
+      "pt": "onça, medida de peso do ouro"
+    },
+    "yield": {
+      "pt": "rendimento dos títulos",
+      "highlight": true
+    },
+    "bonds": {
+      "pt": "títulos de dívida",
+      "highlight": true
+    },
+    "experts": {
+      "pt": "especialistas"
+    },
+    "german": {
+      "pt": "alemão"
+    },
+    "bank": {
+      "pt": "banco"
+    },
+    "tech": {
+      "pt": "tecnologia"
+    },
+    "stocks": {
+      "pt": "ações",
+      "highlight": true
+    },
+    "rises": {
+      "pt": "sobe"
+    },
+    "vote": {
+      "pt": "voto"
+    },
+    "democratic": {
+      "pt": "democrata"
+    },
+    "win": {
+      "pt": "vitória"
+    },
+    "midterm": {
+      "pt": "de meio de mandato"
+    },
+    "party": {
+      "pt": "partido"
+    },
+    "chambers": {
+      "pt": "câmaras"
+    },
+    "presidency": {
+      "pt": "presidência"
+    },
+    "donald": {
+      "pt": "Donald"
+    },
+    "trump": {
+      "pt": "Trump, presidente dos EUA"
+    },
+    "weaker": {
+      "pt": "mais fraco"
+    },
+    "currencies": {
+      "pt": "moedas",
+      "highlight": true
+    },
+    "index": {
+      "pt": "índice",
+      "highlight": true
+    },
+    "near": {
+      "pt": "perto de"
+    },
+    "treasury": {
+      "pt": "Tesouro dos EUA"
+    },
+    "note": {
+      "pt": "título"
+    },
+    "below": {
+      "pt": "abaixo de"
+    },
+    "rose": {
+      "pt": "subiu"
+    },
+    "euro": {
+      "pt": "euro"
+    },
+    "briefly": {
+      "pt": "por pouco tempo"
+    },
+    "analysts": {
+      "pt": "analistas"
+    },
+    "commerzbank": {
+      "pt": "Commerzbank, banco alemão"
+    },
+    "especially": {
+      "pt": "especialmente"
+    },
+    "heavy": {
+      "pt": "pesado"
+    },
+    "nasdaq": {
+      "pt": "Nasdaq, bolsa de empresas de tecnologia dos EUA"
+    },
+    "likely": {
+      "pt": "provável"
+    },
+    "wall": {
+      "pt": "Wall"
+    },
+    "street": {
+      "pt": "Street, centro financeiro dos EUA"
+    },
+    "journal": {
+      "pt": "jornal"
+    },
+    "war": {
+      "pt": "guerra"
+    },
+    "iran": {
+      "pt": "Irã"
+    },
+    "blame": {
+      "pt": "culpa"
+    },
+    "party's": {
+      "pt": "do partido"
+    },
+    "defeat": {
+      "pt": "derrota"
+    },
+    "midterms": {
+      "pt": "eleições de meio de mandato"
+    },
+    "slips": {
+      "pt": "cai um pouco"
+    },
+    "climbs": {
+      "pt": "sobe"
+    },
+    "weakened": {
+      "pt": "enfraqueceu",
+      "highlight": true
+    },
+    "major": {
+      "pt": "principais"
+    },
+    "assessed": {
+      "pt": "avaliaram"
+    },
+    "victory": {
+      "pt": "vitória"
+    },
+    "final": {
+      "pt": "últimos"
+    },
+    "trump's": {
+      "pt": "do Trump"
+    },
+    "term": {
+      "pt": "mandato"
+    },
+    "stayed": {
+      "pt": "ficou"
+    },
+    "negative": {
+      "pt": "negativo"
+    },
+    "territory": {
+      "pt": "território"
+    },
+    "according": {
+      "pt": "segundo"
+    },
+    "fxstreet": {
+      "pt": "FXStreet, site de notícias financeiras"
+    },
+    "futures": {
+      "pt": "contratos futuros"
+    },
+    "mixed": {
+      "pt": "misto"
+    },
+    "level": {
+      "pt": "nível"
+    },
+    "sterling": {
+      "pt": "libra esterlina"
+    },
+    "extended": {
+      "pt": "prolongou"
+    },
+    "winning": {
+      "pt": "de vitórias"
+    },
+    "streak": {
+      "pt": "sequência"
+    },
+    "sixth": {
+      "pt": "sexto"
+    },
+    "ahead": {
+      "pt": "antes de"
+    },
+    "expected": {
+      "pt": "esperado"
+    },
+    "england": {
+      "pt": "Inglaterra"
+    },
+    "rate": {
+      "pt": "taxa de juros"
+    },
+    "rise": {
+      "pt": "subir"
+    },
+    "thursday": {
+      "pt": "quinta-feira"
+    },
+    "germany's": {
+      "pt": "da Alemanha"
+    },
+    "warned": {
+      "pt": "avisou"
+    },
+    "equities": {
+      "pt": "ações",
+      "highlight": true
+    },
+    "particularly": {
+      "pt": "principalmente"
+    },
+    "pressure": {
+      "pt": "pressão"
+    },
+    "added": {
+      "pt": "acrescentou"
+    },
+    "dollar's": {
+      "pt": "do dólar"
+    },
+    "recent": {
+      "pt": "recente"
+    },
+    "strength": {
+      "pt": "força"
+    },
+    "equity": {
+      "pt": "ação"
+    },
+    "related": {
+      "pt": "relacionado"
+    },
+    "inflows": {
+      "pt": "entrada de dinheiro",
+      "highlight": true
+    },
+    "weakness": {
+      "pt": "fraqueza"
+    },
+    "continue": {
+      "pt": "continuar"
+    },
+    "hours": {
+      "pt": "horas"
+    },
+    "partially": {
+      "pt": "em parte"
+    },
+    "republican": {
+      "pt": "republicano"
+    }
+  }
+}

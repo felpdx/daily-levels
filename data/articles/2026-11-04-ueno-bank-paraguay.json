@@ -1,0 +1,319 @@
+{
+  "id": "2026-11-04-ueno-bank-paraguay",
+  "date": "2026-11-04",
+  "topic": "bolsa",
+  "source": {
+    "name": "MercoPress",
+    "url": "https://en.mercopress.com/2026/11/04/paraguay-takes-over-ueno-bank-with-3-million-customers-and-freezes-its-deposits?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+    "publishedAt": "2026-11-04T08:27:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Paraguay closes a big bank",
+      "text": "On Tuesday, the central bank of Paraguay took over Ueno Bank. The bank had a big money problem. It has about 3 million clients. The central bank froze all the accounts. The app and the cards do not work now. A guarantee fund pays savings up to about 38,200 dollars for each person. The central bank says the rest of the banks are healthy."
+    },
+    "2": {
+      "title": "Paraguay takes over Ueno Bank",
+      "text": "On Tuesday, the central bank of Paraguay took over Ueno Bank, one of the largest banks in the country. The bank's solvency ratio fell below half of the legal minimum. The central bank froze all its assets and debts, including the savings of about 3 million clients. The app, the cards and all services stopped.\n\nA guarantee fund covers savings up to about 38,200 dollars for each person. People with more money must wait for the final count. The central bank president, Carlos Carvallo, said this is an isolated event and that the banking system is still healthy.\n\nHe said the bank gave loans to companies linked to its owners. He also said he signed his resignation, but he will stay until the case ends. Some of the bank's executives were reportedly detained."
+    },
+    "3": {
+      "title": "Paraguay's central bank takes over Ueno Bank and freezes deposits",
+      "text": "Paraguay's central bank on Tuesday took over Ueno Bank, one of the country's largest lenders, after its solvency ratio fell below 50% of the legal minimum. The board froze all assets and liabilities, including the savings of about 3 million customers, which the bank says equals 60% of the adult population, and more than $800 million in public funds. The bank suspended all services.\n\nThe deposit guarantee fund covers up to 75 minimum wages, roughly $38,200 per person. Savers with larger balances must wait for the final accounting. Central bank president Carlos Carvallo called the case \"an isolated, one-off event\" and said the financial system \"remains sound and healthy\".\n\nHe said months of investigation found loans to companies linked to the bank's owners. Carvallo, who once ran Ueno, said he has signed his resignation but will stay until the resolution is complete. Paraguayan press reported that several executives were detained.\n\nThe crisis has had political effects. Vice President Pedro Alliana paused his campaign for the ruling party's nomination, and the opposition said it would seek impeachment proceedings against President Santiago Peña."
+    }
+  },
+  "glossary": {
+    "paraguay": {
+      "pt": "Paraguai"
+    },
+    "bank": {
+      "pt": "banco"
+    },
+    "tuesday": {
+      "pt": "terça-feira"
+    },
+    "central": {
+      "pt": "central"
+    },
+    "ueno": {
+      "pt": "Ueno, banco do Paraguai"
+    },
+    "clients": {
+      "pt": "clientes"
+    },
+    "froze": {
+      "pt": "congelou",
+      "highlight": true
+    },
+    "accounts": {
+      "pt": "contas"
+    },
+    "app": {
+      "pt": "aplicativo"
+    },
+    "cards": {
+      "pt": "cartões"
+    },
+    "guarantee": {
+      "pt": "garantia"
+    },
+    "fund": {
+      "pt": "fundo"
+    },
+    "savings": {
+      "pt": "economias, dinheiro guardado",
+      "highlight": true
+    },
+    "dollars": {
+      "pt": "dólares"
+    },
+    "rest": {
+      "pt": "resto"
+    },
+    "banks": {
+      "pt": "bancos"
+    },
+    "healthy": {
+      "pt": "saudável"
+    },
+    "bank's": {
+      "pt": "do banco"
+    },
+    "solvency": {
+      "pt": "capacidade de pagar as dívidas",
+      "highlight": true
+    },
+    "ratio": {
+      "pt": "índice"
+    },
+    "below": {
+      "pt": "abaixo de"
+    },
+    "half": {
+      "pt": "metade"
+    },
+    "legal": {
+      "pt": "legal"
+    },
+    "minimum": {
+      "pt": "mínimo"
+    },
+    "assets": {
+      "pt": "bens",
+      "highlight": true
+    },
+    "debts": {
+      "pt": "dívidas"
+    },
+    "including": {
+      "pt": "incluindo"
+    },
+    "services": {
+      "pt": "serviços"
+    },
+    "covers": {
+      "pt": "cobre"
+    },
+    "wait": {
+      "pt": "esperar"
+    },
+    "final": {
+      "pt": "últimos"
+    },
+    "count": {
+      "pt": "contagem"
+    },
+    "carlos": {
+      "pt": "Carlos"
+    },
+    "carvallo": {
+      "pt": "Carvallo, presidente do banco central do Paraguai"
+    },
+    "isolated": {
+      "pt": "isolado"
+    },
+    "event": {
+      "pt": "evento"
+    },
+    "banking": {
+      "pt": "bancário"
+    },
+    "system": {
+      "pt": "sistema"
+    },
+    "loans": {
+      "pt": "empréstimos",
+      "highlight": true
+    },
+    "linked": {
+      "pt": "ligado"
+    },
+    "owners": {
+      "pt": "donos"
+    },
+    "signed": {
+      "pt": "assinou"
+    },
+    "resignation": {
+      "pt": "demissão"
+    },
+    "stay": {
+      "pt": "ficar"
+    },
+    "case": {
+      "pt": "caso"
+    },
+    "executives": {
+      "pt": "diretores"
+    },
+    "reportedly": {
+      "pt": "segundo relatos"
+    },
+    "detained": {
+      "pt": "detido",
+      "highlight": true
+    },
+    "paraguay's": {
+      "pt": "do Paraguai"
+    },
+    "freezes": {
+      "pt": "congela"
+    },
+    "deposits": {
+      "pt": "depósitos"
+    },
+    "lenders": {
+      "pt": "bancos que emprestam"
+    },
+    "board": {
+      "pt": "diretoria"
+    },
+    "liabilities": {
+      "pt": "dívidas",
+      "highlight": true
+    },
+    "customers": {
+      "pt": "clientes"
+    },
+    "equals": {
+      "pt": "é igual a"
+    },
+    "adult": {
+      "pt": "adulto"
+    },
+    "population": {
+      "pt": "população"
+    },
+    "public": {
+      "pt": "público"
+    },
+    "funds": {
+      "pt": "fundos"
+    },
+    "suspended": {
+      "pt": "suspendeu"
+    },
+    "deposit": {
+      "pt": "depósito"
+    },
+    "wages": {
+      "pt": "salários"
+    },
+    "roughly": {
+      "pt": "cerca de"
+    },
+    "per": {
+      "pt": "por"
+    },
+    "savers": {
+      "pt": "pessoas que guardam dinheiro"
+    },
+    "balances": {
+      "pt": "saldos"
+    },
+    "accounting": {
+      "pt": "contabilidade"
+    },
+    "financial": {
+      "pt": "financeiro"
+    },
+    "remains": {
+      "pt": "continua"
+    },
+    "sound": {
+      "pt": "sólido"
+    },
+    "investigation": {
+      "pt": "investigação"
+    },
+    "resolution": {
+      "pt": "solução"
+    },
+    "complete": {
+      "pt": "terminar"
+    },
+    "paraguayan": {
+      "pt": "paraguaio"
+    },
+    "press": {
+      "pt": "imprensa"
+    },
+    "reported": {
+      "pt": "informou"
+    },
+    "several": {
+      "pt": "vários"
+    },
+    "crisis": {
+      "pt": "crise"
+    },
+    "political": {
+      "pt": "político"
+    },
+    "effects": {
+      "pt": "efeitos"
+    },
+    "vice": {
+      "pt": "vice"
+    },
+    "pedro": {
+      "pt": "Pedro"
+    },
+    "alliana": {
+      "pt": "Alliana, vice-presidente do Paraguai"
+    },
+    "paused": {
+      "pt": "pausou"
+    },
+    "campaign": {
+      "pt": "campanha"
+    },
+    "ruling": {
+      "pt": "governista"
+    },
+    "party's": {
+      "pt": "do partido"
+    },
+    "nomination": {
+      "pt": "indicação como candidato"
+    },
+    "opposition": {
+      "pt": "oposição"
+    },
+    "seek": {
+      "pt": "buscar"
+    },
+    "impeachment": {
+      "pt": "impeachment, processo para tirar o presidente",
+      "highlight": true
+    },
+    "proceedings": {
+      "pt": "processo"
+    },
+    "santiago": {
+      "pt": "Santiago"
+    },
+    "pe": {
+      "pt": "Peña (sobrenome)"
+    }
+  }
+}

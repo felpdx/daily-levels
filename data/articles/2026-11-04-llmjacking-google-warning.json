@@ -1,0 +1,352 @@
+{
+  "id": "2026-11-04-llmjacking-google-warning",
+  "date": "2026-11-04",
+  "topic": "hacking",
+  "source": {
+    "name": "The Hacker News",
+    "url": "https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html",
+    "publishedAt": "2026-11-03T15:41:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Hackers steal AI access",
+      "text": "Google has a new warning. Hackers steal the keys that give a company access to AI tools. Then they use the AI and the company pays the bill. This is called LLMjacking. In one day, the cost can pass 100,000 dollars. At some companies, the total reached 1 million dollars. Companies must protect their keys."
+    },
+    "2": {
+      "title": "Google warns about LLMjacking",
+      "text": "Google warned on Monday about a growing crime called LLMjacking. Criminals steal the keys or tokens that a company uses to reach AI models. Then they use the expensive computers of the company, and the company pays.\n\nThe keys are stolen through phishing, leaked source code or bad settings. Google says the charges can rise very fast. In some cases, the cost passed 100,000 dollars in one day. At some companies, the total reached 1 million dollars before the access was closed.\n\nSome criminals also sell this stolen access to other criminals. One service called Jet Night offers unlimited use of an AI model for about 60 dollars a month. The victims were in North America, South America and Asia Pacific."
+    },
+    "3": {
+      "title": "Google warns that LLMjacking can cost companies up to $1 million",
+      "text": "Google has warned that attackers are hijacking corporate access to large language models to use expensive computing power while the real owner pays the bill. The tactic, called LLMjacking, starts when a criminal gets an API key through phishing, leaked source code, misconfigured systems or exposed code.\n\nIn a report, Google Threat Intelligence Group and Mandiant said that, unlike cryptojacking, these attacks can create big spikes in charges within hours. In single incidents the fraudulent charges passed $100,000 in a day, and at some organizations the total reached $1 million before access was revoked. Victims were in North America, South America and Asia Pacific, in finance, retail, technology and transportation.\n\nThe most common way in was stolen cloud identity tokens, such as service account keys and GitHub access tokens. One group, tracked as UNC6993, used a misconfigured key and a fake portal that tricked users into pasting an active token, which let it bypass passwords and multi-factor authentication.\n\nGoogle also described \"LLM Mixers\", services that resell stolen access. One of them, Jet Night, offers an unlimited plan for about $60 per month."
+    }
+  },
+  "glossary": {
+    "hackers": {
+      "pt": "hackers, invasores de computadores"
+    },
+    "steal": {
+      "pt": "roubar"
+    },
+    "ai": {
+      "pt": "inteligência artificial"
+    },
+    "access": {
+      "pt": "acesso"
+    },
+    "google": {
+      "pt": "Google, empresa de tecnologia"
+    },
+    "warning": {
+      "pt": "aviso"
+    },
+    "keys": {
+      "pt": "chaves"
+    },
+    "tools": {
+      "pt": "ferramentas"
+    },
+    "bill": {
+      "pt": "conta a pagar"
+    },
+    "llmjacking": {
+      "pt": "LLMjacking, roubo de acesso a IA"
+    },
+    "cost": {
+      "pt": "custo; custar"
+    },
+    "pass": {
+      "pt": "passar de"
+    },
+    "dollars": {
+      "pt": "dólares"
+    },
+    "total": {
+      "pt": "total"
+    },
+    "reached": {
+      "pt": "chegou a; alcançou"
+    },
+    "protect": {
+      "pt": "proteger"
+    },
+    "warns": {
+      "pt": "avisa"
+    },
+    "warned": {
+      "pt": "avisou"
+    },
+    "monday": {
+      "pt": "segunda-feira"
+    },
+    "crime": {
+      "pt": "crime"
+    },
+    "criminals": {
+      "pt": "criminosos"
+    },
+    "tokens": {
+      "pt": "chaves digitais de acesso",
+      "highlight": true
+    },
+    "reach": {
+      "pt": "alcançar"
+    },
+    "models": {
+      "pt": "modelos"
+    },
+    "expensive": {
+      "pt": "caro"
+    },
+    "computers": {
+      "pt": "computadores"
+    },
+    "stolen": {
+      "pt": "roubado"
+    },
+    "phishing": {
+      "pt": "golpe para roubar senhas",
+      "highlight": true
+    },
+    "leaked": {
+      "pt": "vazado",
+      "highlight": true
+    },
+    "source": {
+      "pt": "fonte; origem"
+    },
+    "code": {
+      "pt": "código de programa"
+    },
+    "settings": {
+      "pt": "configurações"
+    },
+    "charges": {
+      "pt": "cobranças"
+    },
+    "rise": {
+      "pt": "subir"
+    },
+    "cases": {
+      "pt": "casos"
+    },
+    "passed": {
+      "pt": "passou de"
+    },
+    "service": {
+      "pt": "serviço"
+    },
+    "jet": {
+      "pt": "Jet (nome)"
+    },
+    "night": {
+      "pt": "noite"
+    },
+    "offers": {
+      "pt": "oferece"
+    },
+    "unlimited": {
+      "pt": "ilimitado"
+    },
+    "model": {
+      "pt": "modelo"
+    },
+    "victims": {
+      "pt": "vítimas"
+    },
+    "north": {
+      "pt": "norte"
+    },
+    "america": {
+      "pt": "América"
+    },
+    "south": {
+      "pt": "sul"
+    },
+    "asia": {
+      "pt": "Ásia"
+    },
+    "pacific": {
+      "pt": "Pacífico"
+    },
+    "attackers": {
+      "pt": "atacantes"
+    },
+    "hijacking": {
+      "pt": "sequestro",
+      "highlight": true
+    },
+    "corporate": {
+      "pt": "de empresas"
+    },
+    "language": {
+      "pt": "linguagem"
+    },
+    "computing": {
+      "pt": "computação"
+    },
+    "power": {
+      "pt": "poder"
+    },
+    "owner": {
+      "pt": "dono"
+    },
+    "tactic": {
+      "pt": "tática"
+    },
+    "criminal": {
+      "pt": "criminoso"
+    },
+    "api": {
+      "pt": "API, ponto de acesso de um programa"
+    },
+    "key": {
+      "pt": "chave"
+    },
+    "misconfigured": {
+      "pt": "mal configurado"
+    },
+    "systems": {
+      "pt": "sistemas"
+    },
+    "exposed": {
+      "pt": "exposto"
+    },
+    "report": {
+      "pt": "relatório"
+    },
+    "threat": {
+      "pt": "ameaça"
+    },
+    "intelligence": {
+      "pt": "inteligência"
+    },
+    "mandiant": {
+      "pt": "Mandiant, empresa de segurança digital"
+    },
+    "unlike": {
+      "pt": "diferente de"
+    },
+    "cryptojacking": {
+      "pt": "uso escondido do computador alheio para minerar criptomoedas"
+    },
+    "attacks": {
+      "pt": "ataques"
+    },
+    "create": {
+      "pt": "criar"
+    },
+    "spikes": {
+      "pt": "picos"
+    },
+    "hours": {
+      "pt": "horas"
+    },
+    "single": {
+      "pt": "único"
+    },
+    "incidents": {
+      "pt": "incidentes"
+    },
+    "fraudulent": {
+      "pt": "fraudulento",
+      "highlight": true
+    },
+    "organizations": {
+      "pt": "organizações"
+    },
+    "revoked": {
+      "pt": "cancelado",
+      "highlight": true
+    },
+    "finance": {
+      "pt": "finanças"
+    },
+    "retail": {
+      "pt": "varejo"
+    },
+    "technology": {
+      "pt": "tecnologia"
+    },
+    "transportation": {
+      "pt": "transporte"
+    },
+    "common": {
+      "pt": "comum"
+    },
+    "cloud": {
+      "pt": "nuvem"
+    },
+    "identity": {
+      "pt": "identidade"
+    },
+    "account": {
+      "pt": "conta"
+    },
+    "github": {
+      "pt": "GitHub, site para guardar código"
+    },
+    "tracked": {
+      "pt": "registrado"
+    },
+    "fake": {
+      "pt": "falso"
+    },
+    "portal": {
+      "pt": "portal, site de entrada"
+    },
+    "tricked": {
+      "pt": "enganou"
+    },
+    "users": {
+      "pt": "usuários"
+    },
+    "pasting": {
+      "pt": "colando"
+    },
+    "active": {
+      "pt": "ativo"
+    },
+    "token": {
+      "pt": "chave digital de acesso"
+    },
+    "let": {
+      "pt": "deixou"
+    },
+    "bypass": {
+      "pt": "burlar",
+      "highlight": true
+    },
+    "passwords": {
+      "pt": "senhas"
+    },
+    "multi": {
+      "pt": "vários"
+    },
+    "factor": {
+      "pt": "fator"
+    },
+    "authentication": {
+      "pt": "autenticação, prova de identidade"
+    },
+    "described": {
+      "pt": "descreveu"
+    },
+    "llm": {
+      "pt": "LLM, modelo de linguagem de IA"
+    },
+    "mixers": {
+      "pt": "misturadores"
+    },
+    "services": {
+      "pt": "serviços"
+    },
+    "resell": {
+      "pt": "revender",
+      "highlight": true
+    },
+    "per": {
+      "pt": "por"
+    }
+  }
+}

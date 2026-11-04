@@ -1,0 +1,301 @@
+{
+  "id": "2026-11-04-spain-transport-minister-resigns",
+  "date": "2026-11-04",
+  "topic": "mundo",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo",
+    "publishedAt": "2026-11-03T22:45:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Spain's transport minister quits",
+      "text": "Spain's transport minister has resigned. His name is Óscar Puente. Six days ago, two trains crashed in Spain. At least 69 people died. Many people were angry with him. He said a minister cannot stay after two bad accidents in one year. Spain will have an election on November 29."
+    },
+    "2": {
+      "title": "Spanish minister resigns after the train crash",
+      "text": "Spain's transport minister, Óscar Puente, has resigned six days after a high-speed train crash. At least 69 people died and many were hurt. One train hit the back of another train that was stopped near the town of Urda.\n\nPuente said a minister cannot stay in office after two accidents this serious in less than a year. In January, a crash on the same line killed 46 people. Opposition parties and some allies of the government asked him to leave.\n\nHe also said he will not be a candidate in the early election on November 29. Prime Minister Pedro Sánchez praised him. Leaked audio recordings seem to show that the control center let one train continue while the other was stopped."
+    },
+    "3": {
+      "title": "Spain's transport minister resigns after deadly train crash",
+      "text": "Spain's Transport Minister Óscar Puente has resigned six days after a high-speed train collision near the town of Urda in which at least 69 people were killed. He announced the decision in Congress after hours of questions about the accident, saying a minister \"cannot remain in office after two accidents of this seriousness in less than a year\". In January, a crash on the same line killed 46 people.\n\nThe main opposition, the People's Party and the far-right Vox, had demanded his resignation, as had some government allies. They also criticised him for appearing to blame human error. Puente said he is withdrawing his name from the lists for the early election on November 29, and described his decision as one of \"political dignity\".\n\nThe crash involved a Renfe train carrying 397 passengers and a stationary train of the private operator Iryo with 147 passengers. Leaked recordings published in Spanish media appear to show the Renfe train was cleared to continue even though the other train had stopped on the track. Prime Minister Pedro Sánchez praised Puente for stepping aside."
+    }
+  },
+  "glossary": {
+    "spain's": {
+      "pt": "da Espanha"
+    },
+    "transport": {
+      "pt": "transporte"
+    },
+    "minister": {
+      "pt": "ministro"
+    },
+    "quits": {
+      "pt": "sai do cargo"
+    },
+    "resigned": {
+      "pt": "pediu demissão"
+    },
+    "scar": {
+      "pt": "Óscar (nome)"
+    },
+    "puente": {
+      "pt": "Puente, ministro espanhol dos Transportes"
+    },
+    "six": {
+      "pt": "seis"
+    },
+    "ago": {
+      "pt": "atrás"
+    },
+    "trains": {
+      "pt": "trens"
+    },
+    "crashed": {
+      "pt": "bateu"
+    },
+    "spain": {
+      "pt": "Espanha"
+    },
+    "least": {
+      "pt": "pelo menos"
+    },
+    "died": {
+      "pt": "morreu"
+    },
+    "angry": {
+      "pt": "com raiva"
+    },
+    "stay": {
+      "pt": "ficar"
+    },
+    "accidents": {
+      "pt": "acidentes"
+    },
+    "election": {
+      "pt": "eleição"
+    },
+    "november": {
+      "pt": "novembro"
+    },
+    "spanish": {
+      "pt": "espanhol"
+    },
+    "resigns": {
+      "pt": "pede demissão",
+      "highlight": true
+    },
+    "train": {
+      "pt": "trem"
+    },
+    "crash": {
+      "pt": "acidente; bater"
+    },
+    "speed": {
+      "pt": "velocidade"
+    },
+    "hurt": {
+      "pt": "ferido"
+    },
+    "hit": {
+      "pt": "bateu em"
+    },
+    "near": {
+      "pt": "perto de"
+    },
+    "town": {
+      "pt": "cidade pequena"
+    },
+    "urda": {
+      "pt": "Urda, cidade da Espanha"
+    },
+    "office": {
+      "pt": "cargo"
+    },
+    "serious": {
+      "pt": "grave"
+    },
+    "january": {
+      "pt": "janeiro"
+    },
+    "line": {
+      "pt": "linha"
+    },
+    "killed": {
+      "pt": "matou"
+    },
+    "opposition": {
+      "pt": "oposição",
+      "highlight": true
+    },
+    "parties": {
+      "pt": "partidos"
+    },
+    "allies": {
+      "pt": "aliados",
+      "highlight": true
+    },
+    "candidate": {
+      "pt": "candidato"
+    },
+    "prime": {
+      "pt": "primeiro"
+    },
+    "pedro": {
+      "pt": "Pedro"
+    },
+    "s": {
+      "pt": "Sánchez (sobrenome, parte do nome)"
+    },
+    "nchez": {
+      "pt": "Sánchez (sobrenome)"
+    },
+    "praised": {
+      "pt": "elogiou"
+    },
+    "leaked": {
+      "pt": "vazado",
+      "highlight": true
+    },
+    "audio": {
+      "pt": "áudio"
+    },
+    "recordings": {
+      "pt": "gravações"
+    },
+    "center": {
+      "pt": "centro"
+    },
+    "let": {
+      "pt": "deixou"
+    },
+    "continue": {
+      "pt": "continuar"
+    },
+    "deadly": {
+      "pt": "mortal"
+    },
+    "collision": {
+      "pt": "colisão",
+      "highlight": true
+    },
+    "announced": {
+      "pt": "anunciou"
+    },
+    "decision": {
+      "pt": "decisão"
+    },
+    "congress": {
+      "pt": "Congresso"
+    },
+    "hours": {
+      "pt": "horas"
+    },
+    "questions": {
+      "pt": "perguntas"
+    },
+    "accident": {
+      "pt": "acidente"
+    },
+    "remain": {
+      "pt": "continuar"
+    },
+    "seriousness": {
+      "pt": "gravidade"
+    },
+    "party": {
+      "pt": "partido"
+    },
+    "vox": {
+      "pt": "Vox, partido espanhol de extrema direita"
+    },
+    "demanded": {
+      "pt": "exigiu",
+      "highlight": true
+    },
+    "resignation": {
+      "pt": "demissão"
+    },
+    "criticised": {
+      "pt": "criticou"
+    },
+    "appearing": {
+      "pt": "parecer"
+    },
+    "blame": {
+      "pt": "culpa",
+      "highlight": true
+    },
+    "human": {
+      "pt": "humano"
+    },
+    "error": {
+      "pt": "erro"
+    },
+    "withdrawing": {
+      "pt": "retirando"
+    },
+    "lists": {
+      "pt": "listas"
+    },
+    "described": {
+      "pt": "descreveu"
+    },
+    "political": {
+      "pt": "político"
+    },
+    "dignity": {
+      "pt": "dignidade"
+    },
+    "involved": {
+      "pt": "envolveu"
+    },
+    "renfe": {
+      "pt": "Renfe, empresa estatal de trens da Espanha"
+    },
+    "carrying": {
+      "pt": "levando"
+    },
+    "passengers": {
+      "pt": "passageiros"
+    },
+    "stationary": {
+      "pt": "parado",
+      "highlight": true
+    },
+    "private": {
+      "pt": "privado"
+    },
+    "operator": {
+      "pt": "operadora"
+    },
+    "iryo": {
+      "pt": "Iryo, empresa privada de trens da Espanha"
+    },
+    "published": {
+      "pt": "publicou"
+    },
+    "media": {
+      "pt": "imprensa"
+    },
+    "appear": {
+      "pt": "parecem"
+    },
+    "cleared": {
+      "pt": "autorizado"
+    },
+    "though": {
+      "pt": "embora"
+    },
+    "track": {
+      "pt": "trilho"
+    },
+    "stepping": {
+      "pt": "saindo"
+    },
+    "aside": {
+      "pt": "de lado"
+    }
+  }
+}

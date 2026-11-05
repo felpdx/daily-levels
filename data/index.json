@@ -1,6 +1,41 @@
 {
   "articles": [
     {
+      "id": "2026-11-05-apple-flaw-apt29-cisa",
+      "date": "2026-11-05",
+      "topic": "hacking",
+      "title": "Hackers use an old Apple flaw",
+      "source": "The Hacker News"
+    },
+    {
+      "id": "2026-11-05-debian-ubuntu-apt-flaw",
+      "date": "2026-11-05",
+      "topic": "hacking",
+      "title": "A flaw in APT is dangerous",
+      "source": "The Hacker News"
+    },
+    {
+      "id": "2026-11-05-boe-expected-rate-rise",
+      "date": "2026-11-05",
+      "topic": "bolsa",
+      "title": "UK rates may go up",
+      "source": "BBC News"
+    },
+    {
+      "id": "2026-11-05-pound-highest-since-brexit",
+      "date": "2026-11-05",
+      "topic": "bolsa",
+      "title": "The pound is strong",
+      "source": "BBC News"
+    },
+    {
+      "id": "2026-11-05-us-speaker-johnson-steps-aside",
+      "date": "2026-11-05",
+      "topic": "mundo",
+      "title": "The Speaker will step aside",
+      "source": "MercoPress"
+    },
+    {
       "id": "2026-11-04-llmjacking-google-warning",
       "date": "2026-11-04",
       "topic": "hacking",

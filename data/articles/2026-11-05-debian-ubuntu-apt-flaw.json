@@ -1,0 +1,318 @@
+{
+  "id": "2026-11-05-debian-ubuntu-apt-flaw",
+  "date": "2026-11-05",
+  "topic": "hacking",
+  "source": {
+    "name": "The Hacker News",
+    "url": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
+    "publishedAt": "2026-11-04T17:00:46Z"
+  },
+  "levels": {
+    "1": {
+      "title": "A flaw in APT is dangerous",
+      "text": "APT is a tool for Debian and Ubuntu. It installs programs. A new flaw was found in it. An attacker can change the downloads. Then the attacker can put in a different program. The program runs as root. Debian has a fix. Ubuntu is making fixes too. A man named Max Justicz found the flaw. Update APT soon."
+    },
+    "2": {
+      "title": "APT flaw lets attackers swap safe packages",
+      "text": "A flaw in APT, the package manager for Debian and Ubuntu, can let an attacker replace a checked package with a bad one. The bad code then runs as root. The flaw is called CVE-2026-109518, and APT's developers say it is critical.\n\nThe attack works when APT tries a download again after an error. Since Debian 12 and Ubuntu 22.04, APT does this by default. The attacker must be able to change the web traffic, for example with a bad mirror or proxy. Debian has released fixed versions. Ubuntu is releasing updates, but on November 4 it still listed all eight of its releases as at risk. Max Justicz reported the flaw. The advisories do not say that hackers are using it already."
+    },
+    "3": {
+      "title": "Flaw in APT lets attackers swap verified packages and run code as root",
+      "text": "A serious flaw in APT, the package manager used by Debian and Ubuntu, lets an attacker replace a verified package with their own. The attacker's code then runs as root, according to advisories published on November 4 by Debian, Ubuntu and the APT developers. The flaw is tracked as CVE-2026-109518, and the developers call it critical.\n\nThe attack needs APT to retry a failed download, which it does by default from Debian 12 and Ubuntu 22.04. The attacker only has to be able to change the HTTP traffic between APT and the package server, for example through a malicious mirror or proxy. They use redirects and ordinary temporary server errors to force the retries. The code runs when the computer installs a package.\n\nDebian has released fixed versions. Ubuntu rates the flaw as high priority, with a CVSS 4.0 score of 7.7, and published new builds for four releases. Even so, at 15:46 UTC all eight releases it tracks were still marked as vulnerable. Older systems such as Debian 11 and Ubuntu 20.04 are not exposed by default, but scripts may have turned on the retry setting anyway. Max Justicz reported the flaw. The advisories describe no attacks and no workaround, and they do not say whether HTTPS sources are affected."
+    }
+  },
+  "glossary": {
+    "able": {
+      "pt": "capaz"
+    },
+    "according": {
+      "pt": "segundo"
+    },
+    "affected": {
+      "pt": "afetado"
+    },
+    "anyway": {
+      "pt": "mesmo assim"
+    },
+    "attack": {
+      "pt": "ataque; atacar"
+    },
+    "attacker": {
+      "pt": "atacante, invasor",
+      "forms": [
+        "attackers"
+      ],
+      "highlight": true
+    },
+    "attackers": {
+      "pt": "atacantes"
+    },
+    "attacks": {
+      "pt": "ataques"
+    },
+    "checked": {
+      "pt": "verificado"
+    },
+    "computer": {
+      "pt": "computador"
+    },
+    "default": {
+      "pt": "padrão"
+    },
+    "describe": {
+      "pt": "descrevem"
+    },
+    "eight": {
+      "pt": "oito"
+    },
+    "error": {
+      "pt": "erro"
+    },
+    "errors": {
+      "pt": "erros"
+    },
+    "example": {
+      "pt": "exemplo"
+    },
+    "failed": {
+      "pt": "falhou"
+    },
+    "fix": {
+      "pt": "correção; consertar",
+      "forms": [
+        "fixes"
+      ],
+      "highlight": true
+    },
+    "fixed": {
+      "pt": "corrigido"
+    },
+    "force": {
+      "pt": "forçar"
+    },
+    "four": {
+      "pt": "quatro"
+    },
+    "hackers": {
+      "pt": "hackers, invasores"
+    },
+    "let": {
+      "pt": "deixar; permitir"
+    },
+    "lets": {
+      "pt": "permite"
+    },
+    "listed": {
+      "pt": "listou"
+    },
+    "marked": {
+      "pt": "marcou"
+    },
+    "november": {
+      "pt": "novembro"
+    },
+    "ordinary": {
+      "pt": "comum"
+    },
+    "priority": {
+      "pt": "prioridade"
+    },
+    "published": {
+      "pt": "publicou"
+    },
+    "rates": {
+      "pt": "taxas"
+    },
+    "releases": {
+      "pt": "versões; lança"
+    },
+    "releasing": {
+      "pt": "lançando"
+    },
+    "replace": {
+      "pt": "substituir"
+    },
+    "reported": {
+      "pt": "informou"
+    },
+    "risk": {
+      "pt": "risco"
+    },
+    "safe": {
+      "pt": "seguro"
+    },
+    "score": {
+      "pt": "nota"
+    },
+    "scripts": {
+      "pt": "scripts, pequenos programas"
+    },
+    "serious": {
+      "pt": "grave"
+    },
+    "setting": {
+      "pt": "configuração"
+    },
+    "sources": {
+      "pt": "fontes"
+    },
+    "swap": {
+      "pt": "trocar"
+    },
+    "systems": {
+      "pt": "sistemas"
+    },
+    "temporary": {
+      "pt": "temporário"
+    },
+    "tool": {
+      "pt": "ferramenta"
+    },
+    "tracks": {
+      "pt": "acompanha"
+    },
+    "updates": {
+      "pt": "atualizações"
+    },
+    "versions": {
+      "pt": "versões"
+    },
+    "web": {
+      "pt": "internet"
+    },
+    "whether": {
+      "pt": "se"
+    },
+    "dangerous": {
+      "pt": "perigoso"
+    },
+    "apt": {
+      "pt": "APT, programa que instala pacotes no Debian e Ubuntu"
+    },
+    "debian": {
+      "pt": "Debian, sistema Linux"
+    },
+    "ubuntu": {
+      "pt": "Ubuntu, sistema Linux"
+    },
+    "flaw": {
+      "pt": "falha",
+      "highlight": true
+    },
+    "root": {
+      "pt": "acesso total ao sistema",
+      "highlight": true
+    },
+    "download": {
+      "pt": "baixar; arquivo baixado",
+      "forms": [
+        "downloads"
+      ],
+      "highlight": true
+    },
+    "max": {
+      "pt": "Max, nome de homem"
+    },
+    "justicz": {
+      "pt": "Justicz, sobrenome do pesquisador"
+    },
+    "package": {
+      "pt": "pacote de software",
+      "forms": [
+        "packages"
+      ],
+      "highlight": true
+    },
+    "manager": {
+      "pt": "gerenciador"
+    },
+    "developers": {
+      "pt": "programadores"
+    },
+    "critical": {
+      "pt": "crítico, muito grave",
+      "highlight": true
+    },
+    "retry": {
+      "pt": "tentar de novo",
+      "forms": [
+        "retries"
+      ],
+      "highlight": true
+    },
+    "proxy": {
+      "pt": "proxy, servidor intermediário"
+    },
+    "mirror": {
+      "pt": "espelho; cópia de servidor"
+    },
+    "redirects": {
+      "pt": "redirecionamentos"
+    },
+    "advisories": {
+      "pt": "avisos de segurança"
+    },
+    "vulnerable": {
+      "pt": "vulnerável, exposto a ataque",
+      "highlight": true
+    },
+    "workaround": {
+      "pt": "solução provisória",
+      "highlight": true
+    },
+    "http": {
+      "pt": "HTTP, protocolo de sites"
+    },
+    "https": {
+      "pt": "HTTPS, protocolo seguro de sites"
+    },
+    "cvss": {
+      "pt": "CVSS, nota de gravidade de falhas"
+    },
+    "utc": {
+      "pt": "UTC, hora mundial"
+    },
+    "cve": {
+      "pt": "CVE, código de uma falha"
+    },
+    "server": {
+      "pt": "servidor"
+    },
+    "traffic": {
+      "pt": "tráfego"
+    },
+    "verified": {
+      "pt": "verificado"
+    },
+    "malicious": {
+      "pt": "mal-intencionado"
+    },
+    "builds": {
+      "pt": "versões de programa"
+    },
+    "released": {
+      "pt": "lançou"
+    },
+    "exposed": {
+      "pt": "exposto"
+    },
+    "tracked": {
+      "pt": "registrado"
+    },
+    "update": {
+      "pt": "atualizar"
+    },
+    "code": {
+      "pt": "código"
+    },
+    "installs": {
+      "pt": "instala"
+    },
+    "programs": {
+      "pt": "programas"
+    },
+    "program": {
+      "pt": "programa"
+    }
+  }
+}

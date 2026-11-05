@@ -1,0 +1,311 @@
+{
+  "id": "2026-11-05-pound-highest-since-brexit",
+  "date": "2026-11-05",
+  "topic": "bolsa",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-11-05T04:21:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "The pound is strong",
+      "text": "The British pound is now very strong. It is at its highest level since the Brexit vote in 2016. It has risen against the euro and the dollar. Traders say the UK looks stable. They also see good growth. A strong pound can lower prices. Imports and holidays cost less."
+    },
+    "2": {
+      "title": "The pound reaches its highest level since Brexit",
+      "text": "The British pound has reached its highest overall level since the Brexit vote in June 2016. Bank of England figures show that a measure of the pound against 18 other currencies reached 86.4 this week. The Bank will confirm the number on Thursday.\n\nSome traders say the UK now looks different to investors. They point to political stability, solid growth and closer ties with the European Union. Economist Jim O'Neill said he is not surprised. A strong pound can help control inflation and make imports and holidays cheaper. But higher energy and fuel prices have hurt consumer confidence. On Thursday morning the pound was at $1.3495 and €1.1979."
+    },
+    "3": {
+      "title": "Pound rises to its highest level since the Brexit referendum",
+      "text": "The pound has risen to its highest overall level since the Brexit referendum more than a decade ago. Sterling has gained against both the euro and the dollar in recent weeks, ahead of an expected rise in interest rates.\n\nThe most-watched measure, which compares the pound with a basket of 18 major currencies, reached 86.4 this week, on an index where 100 equals the value in 2005. That matches the highest level since June 2016, according to Bank of England figures. The Bank will officially confirm the calculation on Thursday.\n\nSome traders say investors now see the UK differently, thanks to relative political stability, solid growth and closer relations with the European Union. \"People were, and to a lesser extent, are, underestimating the improving momentum in the UK,\" said Jim O'Neill, an economist and former Treasury minister.\n\nA stronger pound can help to reduce inflation and increases the buying power of consumers on imports and holidays. UK growth this year has beaten all forecasts, but there are signs that higher energy and fuel prices have hurt consumer confidence. The Monetary Policy Committee decides on interest rates on Thursday. At 04:15 GMT the pound was up 0.13% against the dollar at $1.3495 and down 0.16% against the euro at €1.1979."
+    }
+  },
+  "glossary": {
+    "according": {
+      "pt": "segundo"
+    },
+    "ago": {
+      "pt": "atrás"
+    },
+    "cheaper": {
+      "pt": "mais barato"
+    },
+    "compares": {
+      "pt": "compara"
+    },
+    "consumers": {
+      "pt": "consumidores"
+    },
+    "cost": {
+      "pt": "custo; custar"
+    },
+    "decade": {
+      "pt": "década"
+    },
+    "decides": {
+      "pt": "decide"
+    },
+    "differently": {
+      "pt": "de outro jeito"
+    },
+    "energy": {
+      "pt": "energia"
+    },
+    "equals": {
+      "pt": "é igual a"
+    },
+    "expected": {
+      "pt": "esperado"
+    },
+    "fuel": {
+      "pt": "combustível"
+    },
+    "growth": {
+      "pt": "crescimento"
+    },
+    "increases": {
+      "pt": "aumenta"
+    },
+    "june": {
+      "pt": "junho"
+    },
+    "major": {
+      "pt": "principal"
+    },
+    "morning": {
+      "pt": "manhã"
+    },
+    "o'neill": {
+      "pt": "Jim O'Neill, economista britânico"
+    },
+    "point": {
+      "pt": "ponto; apontar"
+    },
+    "political": {
+      "pt": "político"
+    },
+    "rates": {
+      "pt": "taxas"
+    },
+    "reaches": {
+      "pt": "alcança"
+    },
+    "recent": {
+      "pt": "recente"
+    },
+    "rise": {
+      "pt": "subida"
+    },
+    "risen": {
+      "pt": "subiu"
+    },
+    "rises": {
+      "pt": "sobe"
+    },
+    "surprised": {
+      "pt": "surpreso"
+    },
+    "thanks": {
+      "pt": "graças a"
+    },
+    "thursday": {
+      "pt": "quinta-feira"
+    },
+    "value": {
+      "pt": "valor"
+    },
+    "vote": {
+      "pt": "voto; votação"
+    },
+    "watched": {
+      "pt": "observado"
+    },
+    "pound": {
+      "pt": "libra esterlina",
+      "highlight": true
+    },
+    "british": {
+      "pt": "britânico"
+    },
+    "brexit": {
+      "pt": "Brexit, saída do Reino Unido da União Europeia",
+      "highlight": true
+    },
+    "euro": {
+      "pt": "euro"
+    },
+    "dollar": {
+      "pt": "dólar"
+    },
+    "traders": {
+      "pt": "operadores do mercado"
+    },
+    "uk": {
+      "pt": "UK, Reino Unido"
+    },
+    "stable": {
+      "pt": "estável"
+    },
+    "imports": {
+      "pt": "importações"
+    },
+    "holidays": {
+      "pt": "férias"
+    },
+    "level": {
+      "pt": "nível"
+    },
+    "sterling": {
+      "pt": "libra esterlina"
+    },
+    "currencies": {
+      "pt": "moedas",
+      "highlight": true
+    },
+    "basket": {
+      "pt": "cesta"
+    },
+    "index": {
+      "pt": "índice"
+    },
+    "referendum": {
+      "pt": "referendo"
+    },
+    "economist": {
+      "pt": "economista"
+    },
+    "treasury": {
+      "pt": "Tesouro, ministério da economia do Reino Unido"
+    },
+    "jim": {
+      "pt": "Jim, nome de homem"
+    },
+    "inflation": {
+      "pt": "inflação"
+    },
+    "consumer": {
+      "pt": "consumidor"
+    },
+    "confidence": {
+      "pt": "confiança"
+    },
+    "momentum": {
+      "pt": "impulso",
+      "highlight": true
+    },
+    "underestimating": {
+      "pt": "subestimando",
+      "highlight": true
+    },
+    "forecasts": {
+      "pt": "previsões"
+    },
+    "stability": {
+      "pt": "estabilidade",
+      "highlight": true
+    },
+    "solid": {
+      "pt": "sólido"
+    },
+    "ties": {
+      "pt": "laços"
+    },
+    "relations": {
+      "pt": "relações"
+    },
+    "investors": {
+      "pt": "investidores"
+    },
+    "figures": {
+      "pt": "números"
+    },
+    "measure": {
+      "pt": "medida; indicador"
+    },
+    "calculation": {
+      "pt": "cálculo"
+    },
+    "confirm": {
+      "pt": "confirmar"
+    },
+    "officially": {
+      "pt": "oficialmente"
+    },
+    "gmt": {
+      "pt": "GMT, hora de Londres"
+    },
+    "monetary": {
+      "pt": "monetário"
+    },
+    "policy": {
+      "pt": "política"
+    },
+    "committee": {
+      "pt": "comitê"
+    },
+    "interest": {
+      "pt": "juros"
+    },
+    "bank": {
+      "pt": "banco"
+    },
+    "england": {
+      "pt": "Inglaterra"
+    },
+    "european": {
+      "pt": "europeu"
+    },
+    "union": {
+      "pt": "união"
+    },
+    "gained": {
+      "pt": "subiu"
+    },
+    "matches": {
+      "pt": "iguala"
+    },
+    "overall": {
+      "pt": "geral"
+    },
+    "ahead": {
+      "pt": "antes de"
+    },
+    "power": {
+      "pt": "poder"
+    },
+    "reduce": {
+      "pt": "reduzir"
+    },
+    "reached": {
+      "pt": "chegou"
+    },
+    "hurt": {
+      "pt": "prejudicou"
+    },
+    "signs": {
+      "pt": "sinais"
+    },
+    "beaten": {
+      "pt": "superou"
+    },
+    "relative": {
+      "pt": "relativo"
+    },
+    "former": {
+      "pt": "ex-"
+    },
+    "minister": {
+      "pt": "ministro"
+    },
+    "lesser": {
+      "pt": "menor"
+    },
+    "extent": {
+      "pt": "medida"
+    },
+    "improving": {
+      "pt": "melhorando"
+    }
+  }
+}

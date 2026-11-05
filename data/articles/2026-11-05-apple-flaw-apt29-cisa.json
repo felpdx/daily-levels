@@ -1,0 +1,377 @@
+{
+  "id": "2026-11-05-apple-flaw-apt29-cisa",
+  "date": "2026-11-05",
+  "topic": "hacking",
+  "source": {
+    "name": "The Hacker News",
+    "url": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
+    "publishedAt": "2026-11-05T05:17:04Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Hackers use an old Apple flaw",
+      "text": "A US agency named CISA has a new warning. Hackers are using an old flaw in Apple devices. Apple fixed it in May 2024. But many people did not update. A Russian spy group may be behind the attacks. They use websites to steal data from phones and computers. Update your Apple devices now."
+    },
+    "2": {
+      "title": "CISA warns about an old Apple flaw used by hackers",
+      "text": "The US agency CISA added an Apple flaw to its list of known exploited problems. It is called CVE-2024-27834. Apple fixed it in May 2024, and it was first shown at a hacking contest in March of that year. But hackers are using it now.\n\nThe security company Sekoia says a hacking group linked to Russia, called APT29, is behind the attacks. Sekoia is fairly sure of this. The group uses real websites that were hacked, fake websites, and an attack on a tool named Plerdy SEO Tracker. A bad script checks the visitor's device and then steals browser data, such as cookies. US government agencies must fix their devices by November 18, 2026."
+    },
+    "3": {
+      "title": "CISA says hackers are exploiting a patched Apple flaw to steal data",
+      "text": "The US Cybersecurity and Infrastructure Security Agency (CISA) has added a medium-severity Apple flaw to its Known Exploited Vulnerabilities catalog after reports of active attacks. The flaw, CVE-2024-27834, has a score of 5.5 and lets an attacker who can already read and write memory bypass Pointer Authentication. Apple fixed it in May 2024 in iOS, macOS, Safari and other products. It was first demonstrated at the Pwn2Own contest in Vancouver in March of that year.\n\nThe move follows a report from Sekoia, which says hackers possibly linked to Russia used old, patched flaws in Safari and Google Chrome to deliver malware that collects data from browsers and devices. Sekoia attributes the activity to APT29, also known as Cozy Bear and Midnight Blizzard, a group tied to Russia's foreign intelligence service, with moderate to high confidence.\n\nThe attackers reach victims in three ways: hacked legitimate websites, fake sites that copy popular ones, and a supply chain attack on Plerdy SEO Tracker. Malicious JavaScript profiles the visitor's device and then triggers the flaw. The payload steals browser cookies. CISA recommends that federal civilian agencies apply the patches by November 18, 2026."
+    }
+  },
+  "glossary": {
+    "added": {
+      "pt": "acrescentou"
+    },
+    "agencies": {
+      "pt": "agências"
+    },
+    "apply": {
+      "pt": "aplicar"
+    },
+    "attack": {
+      "pt": "ataque"
+    },
+    "attacker": {
+      "pt": "atacante, invasor"
+    },
+    "attackers": {
+      "pt": "atacantes"
+    },
+    "attacks": {
+      "pt": "ataques"
+    },
+    "browsers": {
+      "pt": "navegadores"
+    },
+    "checks": {
+      "pt": "verifica"
+    },
+    "computers": {
+      "pt": "computadores"
+    },
+    "copy": {
+      "pt": "copiar"
+    },
+    "device": {
+      "pt": "aparelho"
+    },
+    "exploiting": {
+      "pt": "explorando, usando"
+    },
+    "fairly": {
+      "pt": "bastante"
+    },
+    "fix": {
+      "pt": "correção; consertar"
+    },
+    "fixed": {
+      "pt": "corrigiu",
+      "highlight": true
+    },
+    "flaws": {
+      "pt": "falhas"
+    },
+    "follows": {
+      "pt": "vem depois de"
+    },
+    "hackers": {
+      "pt": "hackers, invasores de computadores"
+    },
+    "hacking": {
+      "pt": "invasão de computadores"
+    },
+    "lets": {
+      "pt": "permite"
+    },
+    "linked": {
+      "pt": "ligado"
+    },
+    "list": {
+      "pt": "lista"
+    },
+    "march": {
+      "pt": "março"
+    },
+    "november": {
+      "pt": "novembro"
+    },
+    "phones": {
+      "pt": "celulares"
+    },
+    "popular": {
+      "pt": "popular"
+    },
+    "possibly": {
+      "pt": "possivelmente"
+    },
+    "reach": {
+      "pt": "alcançar"
+    },
+    "recommends": {
+      "pt": "recomenda"
+    },
+    "russia": {
+      "pt": "Rússia"
+    },
+    "russia's": {
+      "pt": "da Rússia"
+    },
+    "score": {
+      "pt": "nota"
+    },
+    "security": {
+      "pt": "segurança"
+    },
+    "service": {
+      "pt": "serviço"
+    },
+    "sites": {
+      "pt": "sites"
+    },
+    "steals": {
+      "pt": "rouba"
+    },
+    "sure": {
+      "pt": "certo"
+    },
+    "three": {
+      "pt": "três"
+    },
+    "tied": {
+      "pt": "ligado"
+    },
+    "tool": {
+      "pt": "ferramenta"
+    },
+    "warns": {
+      "pt": "avisa"
+    },
+    "cisa": {
+      "pt": "CISA, agência de segurança digital dos EUA"
+    },
+    "apple": {
+      "pt": "Apple, fabricante do iPhone"
+    },
+    "flaw": {
+      "pt": "falha",
+      "highlight": true
+    },
+    "update": {
+      "pt": "atualizar"
+    },
+    "russian": {
+      "pt": "russo"
+    },
+    "spy": {
+      "pt": "espião"
+    },
+    "steal": {
+      "pt": "roubar",
+      "highlight": true
+    },
+    "data": {
+      "pt": "dados"
+    },
+    "devices": {
+      "pt": "aparelhos"
+    },
+    "warning": {
+      "pt": "aviso"
+    },
+    "agency": {
+      "pt": "agência"
+    },
+    "cve": {
+      "pt": "CVE, código de uma falha"
+    },
+    "exploited": {
+      "pt": "explorado, usado em ataques",
+      "highlight": true
+    },
+    "contest": {
+      "pt": "competição"
+    },
+    "sekoia": {
+      "pt": "Sekoia, empresa de segurança digital"
+    },
+    "plerdy": {
+      "pt": "Plerdy, empresa de ferramentas para sites"
+    },
+    "seo": {
+      "pt": "SEO, otimização para buscadores"
+    },
+    "tracker": {
+      "pt": "rastreador"
+    },
+    "script": {
+      "pt": "script, pequeno programa"
+    },
+    "visitor": {
+      "pt": "visitante"
+    },
+    "cookies": {
+      "pt": "cookies, dados salvos pelo navegador"
+    },
+    "browser": {
+      "pt": "navegador de internet"
+    },
+    "websites": {
+      "pt": "sites"
+    },
+    "hacked": {
+      "pt": "invadido"
+    },
+    "vulnerabilities": {
+      "pt": "falhas de segurança"
+    },
+    "catalog": {
+      "pt": "catálogo, lista"
+    },
+    "severity": {
+      "pt": "gravidade"
+    },
+    "bypass": {
+      "pt": "contornar",
+      "highlight": true
+    },
+    "authentication": {
+      "pt": "autenticação, prova de identidade"
+    },
+    "pointer": {
+      "pt": "ponteiro, parte da memória do programa"
+    },
+    "memory": {
+      "pt": "memória"
+    },
+    "demonstrated": {
+      "pt": "mostrado"
+    },
+    "pwn2own": {
+      "pt": "Pwn2Own, competição de hackers"
+    },
+    "vancouver": {
+      "pt": "Vancouver, cidade do Canadá"
+    },
+    "ios": {
+      "pt": "iOS, sistema do iPhone"
+    },
+    "macos": {
+      "pt": "macOS, sistema do Mac"
+    },
+    "safari": {
+      "pt": "Safari, navegador da Apple"
+    },
+    "chrome": {
+      "pt": "Chrome, navegador do Google"
+    },
+    "google": {
+      "pt": "Google, empresa de tecnologia"
+    },
+    "malware": {
+      "pt": "programa mal-intencionado",
+      "highlight": true
+    },
+    "cozy": {
+      "pt": "Cozy, parte do nome Cozy Bear"
+    },
+    "bear": {
+      "pt": "urso"
+    },
+    "midnight": {
+      "pt": "meia-noite"
+    },
+    "blizzard": {
+      "pt": "nevasca"
+    },
+    "intelligence": {
+      "pt": "inteligência, serviço secreto"
+    },
+    "foreign": {
+      "pt": "estrangeiro"
+    },
+    "attributes": {
+      "pt": "atribui"
+    },
+    "confidence": {
+      "pt": "confiança"
+    },
+    "moderate": {
+      "pt": "moderada"
+    },
+    "victims": {
+      "pt": "vítimas"
+    },
+    "legitimate": {
+      "pt": "legítimos"
+    },
+    "fake": {
+      "pt": "falso"
+    },
+    "supply": {
+      "pt": "fornecimento"
+    },
+    "chain": {
+      "pt": "cadeia"
+    },
+    "malicious": {
+      "pt": "mal-intencionado"
+    },
+    "javascript": {
+      "pt": "JavaScript, linguagem de programação de sites"
+    },
+    "profiles": {
+      "pt": "analisa o perfil de"
+    },
+    "triggers": {
+      "pt": "ativa"
+    },
+    "payload": {
+      "pt": "carga, parte do ataque que age"
+    },
+    "federal": {
+      "pt": "federal, do governo central dos EUA"
+    },
+    "civilian": {
+      "pt": "civil"
+    },
+    "patches": {
+      "pt": "correções"
+    },
+    "cybersecurity": {
+      "pt": "segurança digital"
+    },
+    "infrastructure": {
+      "pt": "infraestrutura"
+    },
+    "active": {
+      "pt": "ativo"
+    },
+    "medium": {
+      "pt": "médio"
+    },
+    "reports": {
+      "pt": "relatos"
+    },
+    "report": {
+      "pt": "relato"
+    },
+    "products": {
+      "pt": "produtos"
+    },
+    "activity": {
+      "pt": "atividade"
+    },
+    "collects": {
+      "pt": "coleta"
+    },
+    "deliver": {
+      "pt": "entregar"
+    },
+    "patched": {
+      "pt": "já corrigido"
+    }
+  }
+}

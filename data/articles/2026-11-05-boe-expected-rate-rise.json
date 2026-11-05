@@ -1,0 +1,277 @@
+{
+  "id": "2026-11-05-boe-expected-rate-rise",
+  "date": "2026-11-05",
+  "topic": "bolsa",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo",
+    "publishedAt": "2026-11-05T00:00:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "UK rates may go up",
+      "text": "The Bank of England meets on Thursday. Many experts think it will raise the interest rate. The rate is now 3.75%. They think it will go to 4%. It would be the first rise in more than three years. Prices are going up, mostly because of petrol and diesel. Loans would cost more. Savers could get more money."
+    },
+    "2": {
+      "title": "The Bank of England may raise rates",
+      "text": "The Bank of England is expected to raise its interest rate on Thursday. It would be the first rise in more than three years. Most experts think the rate will go from 3.75% to 4%. The Bank has kept the rate the same at its last six meetings.\n\nThe main reason is inflation. It was 3.5% in the year to September 2026, and the target is 2%. Higher prices for petrol and diesel, linked to the war with Iran, are a big cause. A rise would make borrowing more expensive. People with tracker mortgages would pay about £31 more each month. Savers, however, could get better rates."
+    },
+    "3": {
+      "title": "Bank of England expected to raise interest rates for the first time in over three years",
+      "text": "Policymakers at the Bank of England are expected to raise interest rates on Thursday, the first increase in more than three years. Most analysts predict a rise from 3.75% to 4%. The Bank's Monetary Policy Committee has left the rate unchanged at its last six meetings, after it fell from a peak of 5.25%.\n\nAnalysts say rising inflation, driven mainly by the cost of petrol and diesel, will push the committee to act. Consumer price inflation was 3.5% in the year to September 2026, up from 3.1% a month earlier and well above the 2% target. The impact of the war with Iran on energy and fuel prices has reached the UK.\n\n\"A quarter-point rise is already widely expected, but the Bank now has to balance inflation that is still too high against an economy where the growth outlook has weakened sharply,\" said Chris Cheverall of the trading platform CMC Markets.\n\nA 0.25 percentage point rise would add about £31 a month for a typical tracker mortgage, according to UK Finance. Fixed deals are not affected right away, but lenders have already priced in the expected rise. The average two-year fixed rate was 5.96% on November 4, according to Moneyfacts. Savers could see better rates."
+    }
+  },
+  "glossary": {
+    "above": {
+      "pt": "acima de"
+    },
+    "according": {
+      "pt": "segundo"
+    },
+    "act": {
+      "pt": "agir"
+    },
+    "add": {
+      "pt": "somar; acrescentar"
+    },
+    "affected": {
+      "pt": "afetado"
+    },
+    "average": {
+      "pt": "média"
+    },
+    "balance": {
+      "pt": "equilibrar"
+    },
+    "cause": {
+      "pt": "causa; causar"
+    },
+    "cost": {
+      "pt": "custo; custar"
+    },
+    "earlier": {
+      "pt": "antes"
+    },
+    "economy": {
+      "pt": "economia"
+    },
+    "energy": {
+      "pt": "energia"
+    },
+    "expected": {
+      "pt": "esperado"
+    },
+    "expensive": {
+      "pt": "caro"
+    },
+    "fixed": {
+      "pt": "fixo"
+    },
+    "fuel": {
+      "pt": "combustível"
+    },
+    "growth": {
+      "pt": "crescimento"
+    },
+    "increase": {
+      "pt": "aumento"
+    },
+    "linked": {
+      "pt": "ligado"
+    },
+    "meetings": {
+      "pt": "reuniões"
+    },
+    "mostly": {
+      "pt": "principalmente"
+    },
+    "november": {
+      "pt": "novembro"
+    },
+    "point": {
+      "pt": "ponto; apontar"
+    },
+    "push": {
+      "pt": "empurrar"
+    },
+    "rates": {
+      "pt": "taxas"
+    },
+    "rise": {
+      "pt": "aumento; subir"
+    },
+    "rising": {
+      "pt": "crescente"
+    },
+    "september": {
+      "pt": "setembro"
+    },
+    "sharply": {
+      "pt": "bruscamente"
+    },
+    "six": {
+      "pt": "seis"
+    },
+    "three": {
+      "pt": "três"
+    },
+    "thursday": {
+      "pt": "quinta-feira"
+    },
+    "typical": {
+      "pt": "típico"
+    },
+    "war": {
+      "pt": "guerra"
+    },
+    "widely": {
+      "pt": "amplamente"
+    },
+    "bank": {
+      "pt": "banco"
+    },
+    "england": {
+      "pt": "Inglaterra"
+    },
+    "rate": {
+      "pt": "taxa",
+      "forms": [
+        "rates"
+      ],
+      "highlight": true
+    },
+    "interest": {
+      "pt": "juros",
+      "highlight": true
+    },
+    "experts": {
+      "pt": "especialistas"
+    },
+    "petrol": {
+      "pt": "gasolina",
+      "highlight": true
+    },
+    "diesel": {
+      "pt": "diesel"
+    },
+    "loans": {
+      "pt": "empréstimos"
+    },
+    "savers": {
+      "pt": "quem poupa dinheiro",
+      "highlight": true
+    },
+    "inflation": {
+      "pt": "inflação",
+      "highlight": true
+    },
+    "target": {
+      "pt": "meta"
+    },
+    "iran": {
+      "pt": "Irã"
+    },
+    "borrowing": {
+      "pt": "tomar dinheiro emprestado",
+      "highlight": true
+    },
+    "tracker": {
+      "pt": "tipo de financiamento ligado à taxa do banco",
+      "highlight": true
+    },
+    "mortgages": {
+      "pt": "financiamentos de casa"
+    },
+    "mortgage": {
+      "pt": "financiamento de casa"
+    },
+    "policymakers": {
+      "pt": "autoridades que definem a política econômica"
+    },
+    "analysts": {
+      "pt": "analistas"
+    },
+    "monetary": {
+      "pt": "monetário"
+    },
+    "policy": {
+      "pt": "política"
+    },
+    "committee": {
+      "pt": "comitê"
+    },
+    "peak": {
+      "pt": "pico"
+    },
+    "unchanged": {
+      "pt": "sem mudança"
+    },
+    "consumer": {
+      "pt": "consumidor"
+    },
+    "cheverall": {
+      "pt": "Chris Cheverall, executivo da CMC Markets"
+    },
+    "chris": {
+      "pt": "Chris, nome de homem"
+    },
+    "cmc": {
+      "pt": "CMC, empresa de investimentos"
+    },
+    "markets": {
+      "pt": "mercados"
+    },
+    "trading": {
+      "pt": "negociação de ativos"
+    },
+    "platform": {
+      "pt": "plataforma"
+    },
+    "outlook": {
+      "pt": "perspectiva"
+    },
+    "weakened": {
+      "pt": "enfraqueceu"
+    },
+    "quarter": {
+      "pt": "quarto, 0,25"
+    },
+    "percentage": {
+      "pt": "porcentagem"
+    },
+    "uk": {
+      "pt": "UK, Reino Unido"
+    },
+    "finance": {
+      "pt": "finanças"
+    },
+    "lenders": {
+      "pt": "bancos que emprestam"
+    },
+    "priced": {
+      "pt": "incluído no preço"
+    },
+    "moneyfacts": {
+      "pt": "Moneyfacts, site de comparação de taxas"
+    },
+    "deals": {
+      "pt": "contratos"
+    },
+    "raise": {
+      "pt": "aumentar",
+      "highlight": true
+    },
+    "impact": {
+      "pt": "impacto"
+    },
+    "driven": {
+      "pt": "causado"
+    },
+    "reached": {
+      "pt": "chegou"
+    },
+    "predict": {
+      "pt": "prever"
+    }
+  }
+}

@@ -1,0 +1,307 @@
+{
+  "id": "2026-11-05-us-speaker-johnson-steps-aside",
+  "date": "2026-11-05",
+  "topic": "mundo",
+  "source": {
+    "name": "MercoPress",
+    "url": "https://en.mercopress.com/2026/11/05/republicans-look-for-culprits-after-defeat-speaker-of-congress-steps-aside-and-vance-points-to-iran?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+    "publishedAt": "2026-11-05T07:05:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "The Speaker will step aside",
+      "text": "The Republicans lost the US election on Tuesday. Mike Johnson is the Speaker of the House. He will not lead his party in the new Congress. He says the job was hard for his family. Vice President JD Vance says the war with Iran caused the loss. Trump says this is largely true."
+    },
+    "2": {
+      "title": "Republicans look for reasons after losing the election",
+      "text": "After the Republican defeat in Tuesday's election, Mike Johnson, the Speaker of the US House, said he will not try to lead his party in the new Congress. He wrote that three years in the job were hard for his family. He will lose the post on January 3, when Republicans become the minority. Jim Jordan and Steve Scalise want to take his place, and a vote is expected next week.\n\nVice President JD Vance said the Iran war and high gasoline prices caused the defeat. President Trump said this was \"largely true\" because the war raised gasoline prices a little, but he defended the war. Republicans have lost at least seven Senate seats."
+    },
+    "3": {
+      "title": "Speaker Johnson steps aside as Republicans debate who is to blame for the midterm defeat",
+      "text": "Mike Johnson, the Republican Speaker of the US House of Representatives, said he will not seek to lead his party in the new Congress, while Vice President JD Vance blamed the Iran war for Tuesday's midterm defeat.\n\nJohnson, 54, has been Speaker since October 2023. With the Democratic victory, he will lose the post when the new House convenes on January 3. In a letter to colleagues he cited the toll of three years in the job on his family. Jim Jordan, who chairs the Judiciary Committee, and Steve Scalise, the majority leader, have announced bids to succeed him, with a vote expected next week. President Donald Trump called Johnson \"fantastic\" and said he had not asked him to step aside.\n\nVance, seen as a contender for the 2028 Republican nomination, wrote on X that everyone knows why the party lost, pointing to the war and rising gasoline prices. Asked about the post, Trump said it was \"largely true\" because the war pushed gasoline up a little in the short term, but he defended the conflict, now more than eight months old.\n\nAccording to El Pais, Republicans have lost at least seven Senate seats and could lose nine if results in Mississippi and Alaska are confirmed. Dozens of House seats are still undecided, although Democrats have already passed the majority."
+    }
+  },
+  "glossary": {
+    "according": {
+      "pt": "segundo"
+    },
+    "announced": {
+      "pt": "anunciou"
+    },
+    "chairs": {
+      "pt": "preside"
+    },
+    "eight": {
+      "pt": "oito"
+    },
+    "everyone": {
+      "pt": "todos"
+    },
+    "expected": {
+      "pt": "esperado"
+    },
+    "family": {
+      "pt": "família"
+    },
+    "hard": {
+      "pt": "difícil"
+    },
+    "january": {
+      "pt": "janeiro"
+    },
+    "job": {
+      "pt": "cargo; emprego"
+    },
+    "least": {
+      "pt": "pelo menos"
+    },
+    "loss": {
+      "pt": "perda; derrota"
+    },
+    "nine": {
+      "pt": "nove"
+    },
+    "october": {
+      "pt": "outubro"
+    },
+    "place": {
+      "pt": "lugar; posto"
+    },
+    "representatives": {
+      "pt": "representantes"
+    },
+    "results": {
+      "pt": "resultados"
+    },
+    "rising": {
+      "pt": "crescente"
+    },
+    "seven": {
+      "pt": "sete"
+    },
+    "steps": {
+      "pt": "dá passos"
+    },
+    "three": {
+      "pt": "três"
+    },
+    "tuesday": {
+      "pt": "terça-feira"
+    },
+    "tuesday's": {
+      "pt": "de terça-feira"
+    },
+    "victory": {
+      "pt": "vitória"
+    },
+    "vote": {
+      "pt": "voto; votação"
+    },
+    "war": {
+      "pt": "guerra"
+    },
+    "republicans": {
+      "pt": "republicanos, partido do presidente Trump",
+      "highlight": true
+    },
+    "republican": {
+      "pt": "republicano"
+    },
+    "speaker": {
+      "pt": "presidente da Câmara dos EUA",
+      "highlight": true
+    },
+    "mike": {
+      "pt": "Mike, nome de homem"
+    },
+    "johnson": {
+      "pt": "Mike Johnson, presidente da Câmara dos EUA"
+    },
+    "congress": {
+      "pt": "Congresso dos EUA"
+    },
+    "house": {
+      "pt": "Câmara dos Deputados dos EUA"
+    },
+    "party": {
+      "pt": "partido"
+    },
+    "vice": {
+      "pt": "vice"
+    },
+    "jd": {
+      "pt": "JD, nome abreviado"
+    },
+    "vance": {
+      "pt": "JD Vance, vice-presidente dos EUA"
+    },
+    "iran": {
+      "pt": "Irã"
+    },
+    "trump": {
+      "pt": "Donald Trump, presidente dos EUA"
+    },
+    "gasoline": {
+      "pt": "gasolina"
+    },
+    "largely": {
+      "pt": "em grande parte"
+    },
+    "defeat": {
+      "pt": "derrota",
+      "highlight": true
+    },
+    "minority": {
+      "pt": "minoria"
+    },
+    "jim": {
+      "pt": "Jim, nome de homem"
+    },
+    "jordan": {
+      "pt": "Jim Jordan, deputado republicano"
+    },
+    "steve": {
+      "pt": "Steve, nome de homem"
+    },
+    "scalise": {
+      "pt": "Steve Scalise, líder da maioria republicana"
+    },
+    "senate": {
+      "pt": "Senado"
+    },
+    "seats": {
+      "pt": "cadeiras"
+    },
+    "midterm": {
+      "pt": "eleição de meio de mandato",
+      "highlight": true
+    },
+    "democratic": {
+      "pt": "democrata"
+    },
+    "democrats": {
+      "pt": "democratas"
+    },
+    "convenes": {
+      "pt": "se reúne"
+    },
+    "toll": {
+      "pt": "custo; desgaste",
+      "highlight": true
+    },
+    "judiciary": {
+      "pt": "Justiça"
+    },
+    "committee": {
+      "pt": "comitê"
+    },
+    "majority": {
+      "pt": "maioria"
+    },
+    "leader": {
+      "pt": "líder"
+    },
+    "bids": {
+      "pt": "candidaturas"
+    },
+    "succeed": {
+      "pt": "substituir",
+      "highlight": true
+    },
+    "nomination": {
+      "pt": "indicação como candidato"
+    },
+    "contender": {
+      "pt": "concorrente",
+      "highlight": true
+    },
+    "fantastic": {
+      "pt": "fantástico"
+    },
+    "aside": {
+      "pt": "de lado"
+    },
+    "step": {
+      "pt": "passo"
+    },
+    "blame": {
+      "pt": "culpa; culpar",
+      "highlight": true
+    },
+    "blamed": {
+      "pt": "culpou"
+    },
+    "conflict": {
+      "pt": "conflito"
+    },
+    "defended": {
+      "pt": "defendeu"
+    },
+    "debate": {
+      "pt": "debatem"
+    },
+    "election": {
+      "pt": "eleição"
+    },
+    "letter": {
+      "pt": "carta"
+    },
+    "colleagues": {
+      "pt": "colegas"
+    },
+    "cited": {
+      "pt": "citou"
+    },
+    "seek": {
+      "pt": "buscar"
+    },
+    "el": {
+      "pt": "El País, jornal espanhol"
+    },
+    "pais": {
+      "pt": "El País, jornal espanhol"
+    },
+    "mississippi": {
+      "pt": "Mississippi, estado dos EUA"
+    },
+    "alaska": {
+      "pt": "Alasca, estado dos EUA"
+    },
+    "undecided": {
+      "pt": "indefinido"
+    },
+    "dozens": {
+      "pt": "dezenas"
+    },
+    "passed": {
+      "pt": "passou"
+    },
+    "confirmed": {
+      "pt": "confirmados"
+    },
+    "post": {
+      "pt": "cargo; publicação"
+    },
+    "x": {
+      "pt": "X, rede social"
+    },
+    "donald": {
+      "pt": "Donald, nome de homem"
+    },
+    "pointing": {
+      "pt": "apontando"
+    },
+    "term": {
+      "pt": "prazo"
+    },
+    "pushed": {
+      "pt": "empurrou"
+    },
+    "raised": {
+      "pt": "aumentou"
+    },
+    "caused": {
+      "pt": "causou"
+    }
+  }
+}

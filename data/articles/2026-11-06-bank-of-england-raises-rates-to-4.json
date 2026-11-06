@@ -1,0 +1,280 @@
+{
+  "id": "2026-11-06-bank-of-england-raises-rates-to-4",
+  "date": "2026-11-06",
+  "topic": "bolsa",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-11-05T17:09:55Z"
+  },
+  "levels": {
+    "1": {
+      "title": "UK interest rates go up",
+      "text": "The Bank of England raised interest rates to 4%. They were 3.75% before. This is the first rise in more than three years. Prices are going up because oil is expensive after the war between the US and Iran. Loans and mortgages will cost more. Savings may earn more. Another rise may come."
+    },
+    "2": {
+      "title": "The Bank of England raises interest rates for the first time in three years",
+      "text": "The Bank of England raised its main interest rate from 3.75% to 4%. It is the first rise in more than three years. The bank wants to slow inflation, which is mostly caused by higher oil prices because of the war between the US and Iran.\n\nEight of the nine members of the rate-setting committee voted for the rise, and one wanted 4.25%. Governor Andrew Bailey said this should not be seen as the start of a long series of rises, but another one is likely unless the conflict in the Middle East is solved. Prices rose 3.5% in the year to September. The bank now expects inflation to peak at 4.9% in the middle of next year. Borrowing will cost more, but savers may get more."
+    },
+    "3": {
+      "title": "Interest rates rise to 4% in the first increase in more than three years",
+      "text": "The Bank of England raised its base rate from 3.75% to 4%, the first increase since August 2023, and said a further rise is likely unless the war between the US and Iran is resolved. The aim is to stop higher energy prices from pushing up prices across the economy.\n\nEight of the nine members of the rate-setting committee backed the rise, while one wanted 4.25%. Governor Andrew Bailey said it should not be seen as the first of an inevitable long sequence of increases, but that it did not look like the last one unless the conflict is settled. Committee members differed: Clare Lombardelli saw a case for another rise soon, Megan Greene said more hikes might follow, and Alan Taylor called it a one-for-now insurance hike.\n\nInflation reached 3.5% in the year to September, and the bank now expects a peak of 4.9% next year, with a return to 2% only in 2028. In a worse scenario with higher oil prices, it could reach 6.2% in 2027. Mortgages, loans and credit cards will cost more, while savings should pay more. About 510,000 tracker mortgage holders will see their payments change."
+    }
+  },
+  "glossary": {
+    "uk": {
+      "pt": "Reino Unido"
+    },
+    "interest": {
+      "pt": "juros",
+      "highlight": true
+    },
+    "rates": {
+      "pt": "taxas"
+    },
+    "bank": {
+      "pt": "banco"
+    },
+    "england": {
+      "pt": "Inglaterra"
+    },
+    "raised": {
+      "pt": "aumentou"
+    },
+    "rise": {
+      "pt": "aumento"
+    },
+    "three": {
+      "pt": "três"
+    },
+    "oil": {
+      "pt": "petróleo"
+    },
+    "expensive": {
+      "pt": "caro"
+    },
+    "war": {
+      "pt": "guerra"
+    },
+    "iran": {
+      "pt": "Irã"
+    },
+    "loans": {
+      "pt": "empréstimos"
+    },
+    "mortgages": {
+      "pt": "financiamentos de casa",
+      "highlight": true
+    },
+    "cost": {
+      "pt": "custar"
+    },
+    "savings": {
+      "pt": "poupança"
+    },
+    "earn": {
+      "pt": "render"
+    },
+    "raises": {
+      "pt": "aumenta"
+    },
+    "rate": {
+      "pt": "taxa"
+    },
+    "slow": {
+      "pt": "reduzir a velocidade de"
+    },
+    "inflation": {
+      "pt": "inflação",
+      "highlight": true
+    },
+    "mostly": {
+      "pt": "principalmente"
+    },
+    "caused": {
+      "pt": "causada"
+    },
+    "eight": {
+      "pt": "oito"
+    },
+    "nine": {
+      "pt": "nove"
+    },
+    "setting": {
+      "pt": "que define"
+    },
+    "committee": {
+      "pt": "comitê"
+    },
+    "voted": {
+      "pt": "votou"
+    },
+    "governor": {
+      "pt": "presidente do banco (governador)"
+    },
+    "andrew": {
+      "pt": "Andrew"
+    },
+    "bailey": {
+      "pt": "Bailey, presidente do Banco da Inglaterra"
+    },
+    "series": {
+      "pt": "série"
+    },
+    "rises": {
+      "pt": "aumentos"
+    },
+    "likely": {
+      "pt": "provável"
+    },
+    "unless": {
+      "pt": "a menos que"
+    },
+    "conflict": {
+      "pt": "conflito"
+    },
+    "middle": {
+      "pt": "meio"
+    },
+    "east": {
+      "pt": "leste"
+    },
+    "solved": {
+      "pt": "resolvido"
+    },
+    "rose": {
+      "pt": "subiu"
+    },
+    "september": {
+      "pt": "setembro"
+    },
+    "expects": {
+      "pt": "espera"
+    },
+    "peak": {
+      "pt": "pico",
+      "highlight": true
+    },
+    "borrowing": {
+      "pt": "pegar dinheiro emprestado",
+      "highlight": true
+    },
+    "savers": {
+      "pt": "quem poupa",
+      "highlight": true
+    },
+    "increase": {
+      "pt": "aumento"
+    },
+    "base": {
+      "pt": "básica"
+    },
+    "august": {
+      "pt": "agosto"
+    },
+    "further": {
+      "pt": "mais um"
+    },
+    "resolved": {
+      "pt": "resolvido"
+    },
+    "aim": {
+      "pt": "objetivo"
+    },
+    "energy": {
+      "pt": "energia"
+    },
+    "pushing": {
+      "pt": "empurrando"
+    },
+    "across": {
+      "pt": "em toda a"
+    },
+    "economy": {
+      "pt": "economia"
+    },
+    "backed": {
+      "pt": "apoiou"
+    },
+    "inevitable": {
+      "pt": "inevitável"
+    },
+    "sequence": {
+      "pt": "sequência"
+    },
+    "increases": {
+      "pt": "aumentos"
+    },
+    "settled": {
+      "pt": "resolvido"
+    },
+    "differed": {
+      "pt": "discordaram"
+    },
+    "clare": {
+      "pt": "Clare"
+    },
+    "lombardelli": {
+      "pt": "Lombardelli, membra do comitê do banco"
+    },
+    "case": {
+      "pt": "caso"
+    },
+    "megan": {
+      "pt": "Megan"
+    },
+    "greene": {
+      "pt": "Greene, membra do comitê do banco"
+    },
+    "hikes": {
+      "pt": "aumentos de juros"
+    },
+    "follow": {
+      "pt": "vir depois"
+    },
+    "alan": {
+      "pt": "Alan"
+    },
+    "taylor": {
+      "pt": "Taylor, membro do comitê do banco"
+    },
+    "insurance": {
+      "pt": "seguro"
+    },
+    "hike": {
+      "pt": "aumento de juros",
+      "highlight": true
+    },
+    "reached": {
+      "pt": "chegou a"
+    },
+    "return": {
+      "pt": "voltar"
+    },
+    "scenario": {
+      "pt": "cenário",
+      "highlight": true
+    },
+    "reach": {
+      "pt": "chegar a"
+    },
+    "credit": {
+      "pt": "crédito"
+    },
+    "cards": {
+      "pt": "cartões"
+    },
+    "tracker": {
+      "pt": "atrelado à taxa básica"
+    },
+    "mortgage": {
+      "pt": "financiamento de casa"
+    },
+    "holders": {
+      "pt": "titulares"
+    },
+    "payments": {
+      "pt": "pagamentos"
+    }
+  }
+}

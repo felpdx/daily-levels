@@ -1,6 +1,41 @@
 {
   "articles": [
     {
+      "id": "2026-11-06-chainalysis-breach-all-users",
+      "date": "2026-11-06",
+      "topic": "hacking",
+      "title": "Hackers took data from Chainalysis",
+      "source": "The Hacker News"
+    },
+    {
+      "id": "2026-11-06-openssh-alpine-passwordless-login-flaw",
+      "date": "2026-11-06",
+      "topic": "hacking",
+      "title": "A serious flaw hits some Alpine servers",
+      "source": "The Hacker News"
+    },
+    {
+      "id": "2026-11-06-bank-of-england-raises-rates-to-4",
+      "date": "2026-11-06",
+      "topic": "bolsa",
+      "title": "UK interest rates go up",
+      "source": "BBC News"
+    },
+    {
+      "id": "2026-11-06-global-tech-stocks-plunge-midterms",
+      "date": "2026-11-06",
+      "topic": "bolsa",
+      "title": "Tech stocks fall around the world",
+      "source": "BBC News"
+    },
+    {
+      "id": "2026-11-06-pope-leo-latin-america-trip",
+      "date": "2026-11-06",
+      "topic": "mundo",
+      "title": "The Pope starts a long trip",
+      "source": "BBC News"
+    },
+    {
       "id": "2026-11-05-apple-flaw-apt29-cisa",
       "date": "2026-11-05",
       "topic": "hacking",

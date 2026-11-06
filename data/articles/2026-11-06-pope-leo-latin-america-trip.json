@@ -1,0 +1,262 @@
+{
+  "id": "2026-11-06-pope-leo-latin-america-trip",
+  "date": "2026-11-06",
+  "topic": "mundo",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-11-06T00:02:57Z"
+  },
+  "levels": {
+    "1": {
+      "title": "The Pope starts a long trip",
+      "text": "Pope Leo XIV began a trip to Latin America. He had surgery for lung cancer three weeks ago. The Vatican says he is in good health. He will visit Uruguay, Argentina and Peru. The trip lasts 12 days. Peru is special for him. He lived there for almost 20 years."
+    },
+    "2": {
+      "title": "Pope Leo begins a long trip to Latin America after cancer surgery",
+      "text": "Pope Leo XIV has begun a 12-day trip to Uruguay, Argentina and Peru, only three weeks after surgery for lung cancer. Doctors removed a tumour and the lower part of his right lung, and they said the cancer had not spread.\n\nThe Vatican says it is taking no extraordinary measures for his health. A spokeswoman said he has \"fantastic stamina\" and confirmed the plan himself, with no changes. The last stop is Peru, where he lived for almost 20 years and where he is a citizen. He will visit Chiclayo, Cusco and Pucallpa. In all three countries, he will meet survivors of abuse by priests."
+    },
+    "3": {
+      "title": "Pope Leo begins a lengthy Latin American tour weeks after lung cancer surgery",
+      "text": "Pope Leo XIV has begun a 12-day tour of Uruguay, Argentina and Peru just three weeks after surgery for lung cancer. He revealed last month that doctors found a tumour during a routine scan. It was removed together with the lower lobe of his right lung, and his medical team confirmed that the cancer had not spread.\n\nThe Vatican says no extraordinary measures are planned. It described him as a 71-year-old who had an operation, not someone with a permanent medical condition. A spokeswoman said he has \"fantastic stamina\" and had confirmed the schedule himself. Professor Massimo Faggioli of Villanova University said the message is that the illness was a short episode.\n\nThe tour starts in Uruguay, which gets its first papal visit in four decades. In Argentina, the homeland of Pope Francis, the visit may be the most politically sensitive, since President Javier Milei once criticised Francis. The highlight comes last, in Peru, where the American-born pope spent almost 20 years and holds citizenship. In all three countries he will meet survivors of clerical sexual abuse."
+    }
+  },
+  "glossary": {
+    "pope": {
+      "pt": "papa"
+    },
+    "trip": {
+      "pt": "viagem"
+    },
+    "leo": {
+      "pt": "Leão"
+    },
+    "xiv": {
+      "pt": "XIV"
+    },
+    "latin": {
+      "pt": "latina"
+    },
+    "america": {
+      "pt": "América"
+    },
+    "surgery": {
+      "pt": "cirurgia",
+      "highlight": true
+    },
+    "lung": {
+      "pt": "pulmão",
+      "highlight": true
+    },
+    "cancer": {
+      "pt": "câncer"
+    },
+    "three": {
+      "pt": "três"
+    },
+    "ago": {
+      "pt": "atrás"
+    },
+    "vatican": {
+      "pt": "Vaticano"
+    },
+    "health": {
+      "pt": "saúde"
+    },
+    "visit": {
+      "pt": "visitar"
+    },
+    "uruguay": {
+      "pt": "Uruguai"
+    },
+    "argentina": {
+      "pt": "Argentina"
+    },
+    "peru": {
+      "pt": "Peru"
+    },
+    "special": {
+      "pt": "especial"
+    },
+    "lived": {
+      "pt": "morou"
+    },
+    "doctors": {
+      "pt": "médicos"
+    },
+    "removed": {
+      "pt": "retiraram"
+    },
+    "tumour": {
+      "pt": "tumor",
+      "highlight": true
+    },
+    "spread": {
+      "pt": "se espalhou"
+    },
+    "extraordinary": {
+      "pt": "extraordinárias"
+    },
+    "measures": {
+      "pt": "medidas"
+    },
+    "spokeswoman": {
+      "pt": "porta-voz"
+    },
+    "fantastic": {
+      "pt": "fantástica"
+    },
+    "stamina": {
+      "pt": "resistência",
+      "highlight": true
+    },
+    "confirmed": {
+      "pt": "confirmou"
+    },
+    "citizen": {
+      "pt": "cidadão"
+    },
+    "chiclayo": {
+      "pt": "Chiclayo, cidade do Peru"
+    },
+    "cusco": {
+      "pt": "Cusco, cidade do Peru"
+    },
+    "pucallpa": {
+      "pt": "Pucallpa, cidade do Peru"
+    },
+    "survivors": {
+      "pt": "sobreviventes",
+      "highlight": true
+    },
+    "abuse": {
+      "pt": "abuso"
+    },
+    "priests": {
+      "pt": "padres"
+    },
+    "lengthy": {
+      "pt": "longa",
+      "highlight": true
+    },
+    "american": {
+      "pt": "americano"
+    },
+    "tour": {
+      "pt": "viagem"
+    },
+    "revealed": {
+      "pt": "revelou"
+    },
+    "routine": {
+      "pt": "de rotina"
+    },
+    "scan": {
+      "pt": "exame"
+    },
+    "lobe": {
+      "pt": "lobo"
+    },
+    "medical": {
+      "pt": "médica"
+    },
+    "team": {
+      "pt": "equipe"
+    },
+    "described": {
+      "pt": "descreveu"
+    },
+    "operation": {
+      "pt": "operação"
+    },
+    "someone": {
+      "pt": "alguém"
+    },
+    "permanent": {
+      "pt": "permanente"
+    },
+    "condition": {
+      "pt": "doença"
+    },
+    "schedule": {
+      "pt": "agenda"
+    },
+    "professor": {
+      "pt": "professor"
+    },
+    "massimo": {
+      "pt": "Massimo"
+    },
+    "faggioli": {
+      "pt": "Faggioli, professor da Villanova"
+    },
+    "villanova": {
+      "pt": "Villanova, universidade dos EUA"
+    },
+    "university": {
+      "pt": "universidade"
+    },
+    "message": {
+      "pt": "mensagem"
+    },
+    "illness": {
+      "pt": "doença"
+    },
+    "episode": {
+      "pt": "episódio"
+    },
+    "papal": {
+      "pt": "do papa"
+    },
+    "four": {
+      "pt": "quatro"
+    },
+    "decades": {
+      "pt": "décadas"
+    },
+    "homeland": {
+      "pt": "terra natal",
+      "highlight": true
+    },
+    "francis": {
+      "pt": "Francisco"
+    },
+    "politically": {
+      "pt": "politicamente"
+    },
+    "sensitive": {
+      "pt": "delicada",
+      "highlight": true
+    },
+    "javier": {
+      "pt": "Javier"
+    },
+    "milei": {
+      "pt": "Milei, presidente da Argentina"
+    },
+    "criticised": {
+      "pt": "criticou"
+    },
+    "highlight": {
+      "pt": "ponto alto"
+    },
+    "born": {
+      "pt": "nascido"
+    },
+    "spent": {
+      "pt": "passou"
+    },
+    "holds": {
+      "pt": "tem"
+    },
+    "citizenship": {
+      "pt": "cidadania"
+    },
+    "clerical": {
+      "pt": "de padres"
+    },
+    "sexual": {
+      "pt": "sexual"
+    }
+  }
+}

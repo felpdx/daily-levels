@@ -1,0 +1,337 @@
+{
+  "id": "2026-11-06-chainalysis-breach-all-users",
+  "date": "2026-11-06",
+  "topic": "hacking",
+  "source": {
+    "name": "The Hacker News",
+    "url": "https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html",
+    "publishedAt": "2026-11-06T08:04:49Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Hackers took data from Chainalysis",
+      "text": "Chainalysis is a company that follows crypto money. Hackers attacked it. The company says the hackers also got the names, usernames and protected passwords of all its users. The company turned off some of its services. It says it has no proof that its investigation data was touched. Every user will have to reset the password."
+    },
+    "2": {
+      "title": "Chainalysis breach exposes the data of all its users",
+      "text": "Chainalysis, a company that tracks crypto money, said an attack on its systems exposed more data than it first thought. The hackers got the names, usernames, password hashes and live tokens of all users. A password hash is a scrambled form of a password.\n\nThe company took its Reactor and Data Solutions services offline, together with its address screening products and the login page. It says it still has no evidence that investigation data was reached or that its attribution data was changed. It also locked the affected accounts, so users cannot reset passwords right now. Later, every user will have to reset passwords and change API keys. Chainalysis does not know who is behind the attack."
+    },
+    "3": {
+      "title": "Chainalysis says its breach exposed credentials for all users",
+      "text": "Chainalysis, a blockchain analysis firm, said its investigation into an attack on its systems found that names, usernames, password hashes and live tokens for all users were exposed. Less than a week earlier, the company had said an outside actor used offensive agentic techniques to get into its systems and internal tools.\n\nTo limit the damage, Chainalysis took its Reactor and Data Solutions services offline, along with the Know Your Transaction interface and API, other address screening products and the login page. It locked the affected accounts and says it has no evidence that investigations data was accessed or that attribution data was manipulated. It plans to restore access step by step, and every user will have to reset passwords and rotate API keys.\n\nThe company does not know who is responsible, but says the attack resembles those on many tech platforms recently. Chainstack, OpenCode, Warp and WorkOS have also reported AI-driven attacks, some using an autonomous testing tool called ARTEX. Microsoft says attackers use such tools to search public GitHub repositories for exposed secrets, and in one case an agent went from scanning to taking data from Azure Key Vault in five minutes."
+    }
+  },
+  "glossary": {
+    "hackers": {
+      "pt": "hackers"
+    },
+    "data": {
+      "pt": "dados"
+    },
+    "chainalysis": {
+      "pt": "Chainalysis, empresa que analisa transações de criptomoedas"
+    },
+    "follows": {
+      "pt": "acompanha"
+    },
+    "crypto": {
+      "pt": "criptomoedas"
+    },
+    "attacked": {
+      "pt": "atacou"
+    },
+    "usernames": {
+      "pt": "nomes de usuário"
+    },
+    "protected": {
+      "pt": "protegidas"
+    },
+    "passwords": {
+      "pt": "senhas"
+    },
+    "users": {
+      "pt": "usuários"
+    },
+    "services": {
+      "pt": "serviços"
+    },
+    "proof": {
+      "pt": "prova"
+    },
+    "investigation": {
+      "pt": "investigação"
+    },
+    "touched": {
+      "pt": "acessados"
+    },
+    "user": {
+      "pt": "usuário"
+    },
+    "reset": {
+      "pt": "redefinir"
+    },
+    "password": {
+      "pt": "senha"
+    },
+    "breach": {
+      "pt": "violação de dados",
+      "highlight": true
+    },
+    "exposes": {
+      "pt": "expõe"
+    },
+    "tracks": {
+      "pt": "rastreia"
+    },
+    "attack": {
+      "pt": "ataque"
+    },
+    "systems": {
+      "pt": "sistemas"
+    },
+    "exposed": {
+      "pt": "expostos",
+      "highlight": true
+    },
+    "hashes": {
+      "pt": "hashes (senhas embaralhadas)",
+      "highlight": true
+    },
+    "live": {
+      "pt": "ativos"
+    },
+    "tokens": {
+      "pt": "tokens (chaves de acesso)",
+      "highlight": true
+    },
+    "hash": {
+      "pt": "hash (senha embaralhada)"
+    },
+    "scrambled": {
+      "pt": "embaralhada"
+    },
+    "form": {
+      "pt": "forma"
+    },
+    "reactor": {
+      "pt": "Reactor, produto da Chainalysis"
+    },
+    "solutions": {
+      "pt": "soluções"
+    },
+    "offline": {
+      "pt": "fora do ar"
+    },
+    "address": {
+      "pt": "endereço"
+    },
+    "screening": {
+      "pt": "verificação"
+    },
+    "products": {
+      "pt": "produtos"
+    },
+    "login": {
+      "pt": "entrada com senha"
+    },
+    "page": {
+      "pt": "página"
+    },
+    "evidence": {
+      "pt": "prova"
+    },
+    "reached": {
+      "pt": "chegou a"
+    },
+    "attribution": {
+      "pt": "atribuição (descobrir quem é o autor)"
+    },
+    "locked": {
+      "pt": "bloqueou"
+    },
+    "affected": {
+      "pt": "afetadas"
+    },
+    "accounts": {
+      "pt": "contas"
+    },
+    "api": {
+      "pt": "API (interface de programas)"
+    },
+    "keys": {
+      "pt": "chaves"
+    },
+    "credentials": {
+      "pt": "credenciais (dados de acesso)",
+      "highlight": true
+    },
+    "blockchain": {
+      "pt": "blockchain"
+    },
+    "analysis": {
+      "pt": "análise"
+    },
+    "firm": {
+      "pt": "empresa"
+    },
+    "earlier": {
+      "pt": "antes"
+    },
+    "outside": {
+      "pt": "externo"
+    },
+    "actor": {
+      "pt": "agente"
+    },
+    "offensive": {
+      "pt": "de ataque"
+    },
+    "agentic": {
+      "pt": "feito por agentes de IA",
+      "highlight": true
+    },
+    "techniques": {
+      "pt": "técnicas"
+    },
+    "internal": {
+      "pt": "internas"
+    },
+    "tools": {
+      "pt": "ferramentas"
+    },
+    "limit": {
+      "pt": "limitar"
+    },
+    "damage": {
+      "pt": "dano"
+    },
+    "along": {
+      "pt": "junto"
+    },
+    "transaction": {
+      "pt": "transação"
+    },
+    "interface": {
+      "pt": "interface"
+    },
+    "investigations": {
+      "pt": "investigações"
+    },
+    "accessed": {
+      "pt": "acessados"
+    },
+    "manipulated": {
+      "pt": "manipulados"
+    },
+    "restore": {
+      "pt": "restaurar"
+    },
+    "access": {
+      "pt": "acesso"
+    },
+    "step": {
+      "pt": "passo"
+    },
+    "rotate": {
+      "pt": "trocar",
+      "highlight": true
+    },
+    "responsible": {
+      "pt": "responsável"
+    },
+    "resembles": {
+      "pt": "se parece com"
+    },
+    "tech": {
+      "pt": "de tecnologia"
+    },
+    "platforms": {
+      "pt": "plataformas"
+    },
+    "recently": {
+      "pt": "recentemente"
+    },
+    "chainstack": {
+      "pt": "Chainstack, empresa de infraestrutura blockchain"
+    },
+    "opencode": {
+      "pt": "OpenCode, ferramenta de programação"
+    },
+    "warp": {
+      "pt": "Warp, empresa de terminal"
+    },
+    "workos": {
+      "pt": "WorkOS, empresa de software"
+    },
+    "reported": {
+      "pt": "relatou"
+    },
+    "ai": {
+      "pt": "IA"
+    },
+    "driven": {
+      "pt": "movidos"
+    },
+    "attacks": {
+      "pt": "ataques"
+    },
+    "autonomous": {
+      "pt": "autônomo"
+    },
+    "testing": {
+      "pt": "de testes"
+    },
+    "tool": {
+      "pt": "ferramenta"
+    },
+    "artex": {
+      "pt": "ARTEX, ferramenta autônoma de testes de invasão"
+    },
+    "microsoft": {
+      "pt": "Microsoft"
+    },
+    "attackers": {
+      "pt": "atacantes"
+    },
+    "search": {
+      "pt": "procurar"
+    },
+    "public": {
+      "pt": "públicos"
+    },
+    "github": {
+      "pt": "GitHub, site de código"
+    },
+    "repositories": {
+      "pt": "repositórios de código"
+    },
+    "secrets": {
+      "pt": "segredos (senhas e chaves)",
+      "highlight": true
+    },
+    "case": {
+      "pt": "caso"
+    },
+    "agent": {
+      "pt": "agente"
+    },
+    "scanning": {
+      "pt": "varredura"
+    },
+    "azure": {
+      "pt": "Azure, nuvem da Microsoft"
+    },
+    "key": {
+      "pt": "chave"
+    },
+    "vault": {
+      "pt": "cofre"
+    },
+    "five": {
+      "pt": "cinco"
+    },
+    "minutes": {
+      "pt": "minutos"
+    }
+  }
+}

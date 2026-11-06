@@ -1,0 +1,307 @@
+{
+  "id": "2026-11-06-global-tech-stocks-plunge-midterms",
+  "date": "2026-11-06",
+  "topic": "bolsa",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-11-06T07:27:26Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Tech stocks fall around the world",
+      "text": "Big tech companies lost a lot of value on Thursday. The US Nasdaq index fell 5.5%. Investors are worried after the US election. The Democrats won Congress, and many of them do not like data centres. Data centres are needed for AI. Shares also fell in Europe and Asia on Friday."
+    },
+    "2": {
+      "title": "Global tech stocks fall as the US election adds to AI worries",
+      "text": "Trillions of dollars were lost from the value of big tech companies in the US, Europe and Asia. In the US, the Nasdaq index fell 5.5% on Thursday, which wiped out about $2.5tn. Nvidia shares dropped more than 9%.\n\nInvestors fear that stricter rules on AI may follow the US election. Democrats won both the Senate and the House, and many of their candidates opposed the data centres that AI needs. Investors were already worried about whether the huge spending on AI will pay off. The sell-off spread to Asia on Friday, when the Nikkei in Japan and the Kospi in South Korea both closed down 6%. President Trump blamed the Democrats for the fall."
+    },
+    "3": {
+      "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+      "text": "Trillions of dollars were wiped off the value of major tech companies in the US, Europe and Asia after the US midterm elections raised fears of a slowdown in AI development. On Thursday the Nasdaq fell 5.5%, losing an estimated $2.5tn, and the seven biggest tech companies lost a trillion dollars in one day. Nvidia fell more than 9%, while AMD and Micron each dropped more than 17%.\n\nInvestors seem worried about tougher regulation. Democrats won both the Senate and the House, and many of their candidates campaigned against the data centres needed to power AI. On top of that, there are doubts about whether the huge amount spent on AI will pay off. Susannah Streeter of Wealth Club said fresh panic over the AI trade had hit Wall Street hard.\n\nThe sell-off reached Europe, where Infineon fell more than 8.5%, and Asia, where the Nikkei in Japan and the Kospi in South Korea each closed down 6% on Friday. President Trump blamed his political opponents. Senator Bernie Sanders, a Democrat, called for a national moratorium on data centres."
+    }
+  },
+  "glossary": {
+    "tech": {
+      "pt": "de tecnologia"
+    },
+    "stocks": {
+      "pt": "ações"
+    },
+    "value": {
+      "pt": "valor"
+    },
+    "thursday": {
+      "pt": "quinta-feira"
+    },
+    "nasdaq": {
+      "pt": "Nasdaq, bolsa de empresas de tecnologia dos EUA"
+    },
+    "index": {
+      "pt": "índice"
+    },
+    "investors": {
+      "pt": "investidores",
+      "highlight": true
+    },
+    "worried": {
+      "pt": "preocupados"
+    },
+    "election": {
+      "pt": "eleição"
+    },
+    "democrats": {
+      "pt": "democratas"
+    },
+    "won": {
+      "pt": "ganhou"
+    },
+    "congress": {
+      "pt": "Congresso"
+    },
+    "data": {
+      "pt": "dados"
+    },
+    "centres": {
+      "pt": "centros"
+    },
+    "ai": {
+      "pt": "IA"
+    },
+    "shares": {
+      "pt": "ações",
+      "highlight": true
+    },
+    "europe": {
+      "pt": "Europa"
+    },
+    "asia": {
+      "pt": "Ásia"
+    },
+    "friday": {
+      "pt": "sexta-feira"
+    },
+    "global": {
+      "pt": "global"
+    },
+    "adds": {
+      "pt": "aumenta"
+    },
+    "worries": {
+      "pt": "preocupações"
+    },
+    "trillions": {
+      "pt": "trilhões"
+    },
+    "dollars": {
+      "pt": "dólares"
+    },
+    "wiped": {
+      "pt": "apagou",
+      "highlight": true
+    },
+    "nvidia": {
+      "pt": "Nvidia, fabricante de chips"
+    },
+    "dropped": {
+      "pt": "caiu"
+    },
+    "fear": {
+      "pt": "temer"
+    },
+    "stricter": {
+      "pt": "mais rígidas",
+      "highlight": true
+    },
+    "rules": {
+      "pt": "regras"
+    },
+    "follow": {
+      "pt": "vir depois"
+    },
+    "senate": {
+      "pt": "Senado"
+    },
+    "house": {
+      "pt": "Câmara"
+    },
+    "candidates": {
+      "pt": "candidatos"
+    },
+    "opposed": {
+      "pt": "se opuseram a"
+    },
+    "whether": {
+      "pt": "se"
+    },
+    "huge": {
+      "pt": "enorme"
+    },
+    "spending": {
+      "pt": "gasto"
+    },
+    "spread": {
+      "pt": "se espalhou"
+    },
+    "nikkei": {
+      "pt": "Nikkei, índice da bolsa do Japão"
+    },
+    "japan": {
+      "pt": "Japão"
+    },
+    "kospi": {
+      "pt": "Kospi, índice da bolsa da Coreia do Sul"
+    },
+    "south": {
+      "pt": "sul"
+    },
+    "korea": {
+      "pt": "Coreia"
+    },
+    "trump": {
+      "pt": "Trump, presidente dos EUA"
+    },
+    "blamed": {
+      "pt": "culpou"
+    },
+    "plunge": {
+      "pt": "queda forte"
+    },
+    "midterms": {
+      "pt": "eleições de meio de mandato"
+    },
+    "add": {
+      "pt": "somar"
+    },
+    "slowdown": {
+      "pt": "desaceleração",
+      "highlight": true
+    },
+    "fears": {
+      "pt": "medos"
+    },
+    "major": {
+      "pt": "grandes"
+    },
+    "midterm": {
+      "pt": "de meio de mandato"
+    },
+    "elections": {
+      "pt": "eleições"
+    },
+    "raised": {
+      "pt": "aumentou"
+    },
+    "development": {
+      "pt": "desenvolvimento"
+    },
+    "estimated": {
+      "pt": "estimado"
+    },
+    "seven": {
+      "pt": "sete"
+    },
+    "trillion": {
+      "pt": "trilhão"
+    },
+    "amd": {
+      "pt": "AMD, fabricante de chips"
+    },
+    "micron": {
+      "pt": "Micron, fabricante de chips"
+    },
+    "seem": {
+      "pt": "parecer"
+    },
+    "tougher": {
+      "pt": "mais duras"
+    },
+    "regulation": {
+      "pt": "regulação",
+      "highlight": true
+    },
+    "campaigned": {
+      "pt": "fez campanha"
+    },
+    "power": {
+      "pt": "dar energia a"
+    },
+    "top": {
+      "pt": "maiores"
+    },
+    "doubts": {
+      "pt": "dúvidas"
+    },
+    "amount": {
+      "pt": "quantia"
+    },
+    "spent": {
+      "pt": "passou"
+    },
+    "susannah": {
+      "pt": "Susannah"
+    },
+    "streeter": {
+      "pt": "Streeter, analista da Wealth Club"
+    },
+    "wealth": {
+      "pt": "riqueza"
+    },
+    "club": {
+      "pt": "clube"
+    },
+    "fresh": {
+      "pt": "novo"
+    },
+    "panic": {
+      "pt": "pânico",
+      "highlight": true
+    },
+    "trade": {
+      "pt": "negociação"
+    },
+    "hit": {
+      "pt": "atingiu"
+    },
+    "wall": {
+      "pt": "Wall"
+    },
+    "street": {
+      "pt": "Street, centro financeiro dos EUA"
+    },
+    "hard": {
+      "pt": "com força"
+    },
+    "reached": {
+      "pt": "chegou a"
+    },
+    "infineon": {
+      "pt": "Infineon, fabricante de chips"
+    },
+    "political": {
+      "pt": "políticos"
+    },
+    "opponents": {
+      "pt": "adversários"
+    },
+    "senator": {
+      "pt": "senador"
+    },
+    "bernie": {
+      "pt": "Bernie"
+    },
+    "sanders": {
+      "pt": "Sanders, senador democrata dos EUA"
+    },
+    "democrat": {
+      "pt": "democrata"
+    },
+    "national": {
+      "pt": "nacional"
+    },
+    "moratorium": {
+      "pt": "suspensão (pausa por lei)",
+      "highlight": true
+    }
+  }
+}

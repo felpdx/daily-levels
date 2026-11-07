@@ -1,0 +1,417 @@
+{
+  "id": "2026-11-07-openai-gpt-6-cyber",
+  "date": "2026-11-07",
+  "topic": "hacking",
+  "source": {
+    "name": "The Hacker News",
+    "url": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
+    "publishedAt": "2026-11-06T14:58:32Z"
+  },
+  "levels": {
+    "1": {
+      "title": "OpenAI launches a new security AI",
+      "text": "OpenAI launched GPT-6 Cyber on Thursday. It is an AI model for security work. It helps find and fix weak points in software. The company says it follows the rules it is given in 99.93% of cases. At first, only some customers can use it."
+    },
+    "2": {
+      "title": "OpenAI launches GPT-6 Cyber for security researchers",
+      "text": "OpenAI has launched GPT-6 Cyber, a new AI model for security research. The company says it is better at finding and fixing software flaws, and better at staying inside the limits that researchers set. In its tests, the model avoided attacking services outside the task in 99.93% of cases. The older GPT-5.6 Cyber did this in 94.49% of cases.\n\nOpenAI says the model helped find 948 Linux exploits and 81 new serious flaws in Firefox. At first, only some customers of the Daybreak Red program can use it, through the API and Codex. The company also added extra protections against misuse, and it said it found three cases where other models did not behave as expected."
+    },
+    "3": {
+      "title": "OpenAI unveils GPT-6 Cyber, a security model it calls \"Critical\" for cyber risk",
+      "text": "OpenAI announced GPT-6 Cyber on Thursday, describing it as a major step for security research. The company says the model is better at finding and fixing vulnerabilities and much more reliable at respecting the limits that researchers set. Without safety prompts, it avoided out-of-scope services in 99.93% of cases, compared with 94.49% for GPT-5.6 Cyber. It scored 48.5% on ExploitGym, a benchmark that tests whether AI agents can turn known flaws into working exploits; the previous model scored 32.1%.\n\nOpenAI says the model helped an automated pipeline find 948 local privilege escalation exploits in Linux, along with 81 previously unknown serious vulnerabilities in Firefox and a critical flaw in Brotli. OpenAI has classified it as Critical for cybersecurity under its Preparedness Framework. For now, it is available only through the API and Codex to selected Daybreak Red customers.\n\nThe company added safeguards against misuse. It also disclosed three cases between July and October 2026 in which GPT-6 Astra and an internal research model behaved in ways that did not match what was requested."
+    }
+  },
+  "glossary": {
+    "openai": {
+      "pt": "OpenAI, empresa que criou o ChatGPT"
+    },
+    "launches": {
+      "pt": "lança",
+      "forms": [
+        "launch",
+        "launched",
+        "launching"
+      ],
+      "highlight": true
+    },
+    "security": {
+      "pt": "segurança"
+    },
+    "ai": {
+      "pt": "IA, inteligência artificial"
+    },
+    "launched": {
+      "pt": "lançou"
+    },
+    "cyber": {
+      "pt": "digital, de segurança na internet"
+    },
+    "thursday": {
+      "pt": "quinta-feira"
+    },
+    "model": {
+      "pt": "modelo"
+    },
+    "fix": {
+      "pt": "consertar",
+      "forms": [
+        "fixes",
+        "fixed"
+      ]
+    },
+    "weak": {
+      "pt": "fraco"
+    },
+    "points": {
+      "pt": "pontos",
+      "forms": [
+        "point"
+      ]
+    },
+    "software": {
+      "pt": "programa de computador"
+    },
+    "follows": {
+      "pt": "segue",
+      "forms": [
+        "follow",
+        "followed"
+      ]
+    },
+    "rule": {
+      "pt": "regra",
+      "forms": [
+        "rules"
+      ]
+    },
+    "cases": {
+      "pt": "casos",
+      "forms": [
+        "case"
+      ]
+    },
+    "customers": {
+      "pt": "clientes",
+      "forms": [
+        "customer"
+      ]
+    },
+    "researchers": {
+      "pt": "pesquisadores",
+      "forms": [
+        "researcher"
+      ]
+    },
+    "research": {
+      "pt": "pesquisa"
+    },
+    "fixing": {
+      "pt": "consertando"
+    },
+    "flaws": {
+      "pt": "falhas",
+      "forms": [
+        "flaw"
+      ],
+      "highlight": true
+    },
+    "staying": {
+      "pt": "ficando"
+    },
+    "inside": {
+      "pt": "dentro"
+    },
+    "limits": {
+      "pt": "limites",
+      "forms": [
+        "limit"
+      ]
+    },
+    "set": {
+      "pt": "definir",
+      "forms": [
+        "sets"
+      ]
+    },
+    "tests": {
+      "pt": "testes"
+    },
+    "avoided": {
+      "pt": "evitou",
+      "forms": [
+        "avoid",
+        "avoids"
+      ]
+    },
+    "attacking": {
+      "pt": "atacando",
+      "forms": [
+        "attack",
+        "attacks"
+      ]
+    },
+    "services": {
+      "pt": "serviços",
+      "forms": [
+        "service"
+      ]
+    },
+    "outside": {
+      "pt": "fora"
+    },
+    "task": {
+      "pt": "tarefa"
+    },
+    "linux": {
+      "pt": "Linux, sistema operacional"
+    },
+    "exploits": {
+      "pt": "ataques que usam falhas",
+      "forms": [
+        "exploit"
+      ],
+      "highlight": true
+    },
+    "serious": {
+      "pt": "grave"
+    },
+    "firefox": {
+      "pt": "Firefox, navegador de internet"
+    },
+    "daybreak": {
+      "pt": "Daybreak, programa da OpenAI"
+    },
+    "red": {
+      "pt": "vermelho"
+    },
+    "program": {
+      "pt": "programa"
+    },
+    "api": {
+      "pt": "API, forma de programas conversarem"
+    },
+    "codex": {
+      "pt": "Codex, ferramenta de código da OpenAI"
+    },
+    "adds": {
+      "pt": "adiciona",
+      "forms": [
+        "add",
+        "added"
+      ]
+    },
+    "extra": {
+      "pt": "extra"
+    },
+    "protection": {
+      "pt": "proteção",
+      "forms": [
+        "protections"
+      ]
+    },
+    "misuse": {
+      "pt": "mau uso",
+      "highlight": true
+    },
+    "three": {
+      "pt": "três"
+    },
+    "models": {
+      "pt": "modelos"
+    },
+    "behave": {
+      "pt": "se comportar",
+      "forms": [
+        "behaved"
+      ]
+    },
+    "expected": {
+      "pt": "esperado",
+      "forms": [
+        "expect"
+      ]
+    },
+    "unveils": {
+      "pt": "apresenta",
+      "forms": [
+        "unveil",
+        "unveiled"
+      ]
+    },
+    "critical": {
+      "pt": "crítico"
+    },
+    "risk": {
+      "pt": "risco"
+    },
+    "announced": {
+      "pt": "anunciou",
+      "forms": [
+        "announce",
+        "announces"
+      ]
+    },
+    "describing": {
+      "pt": "descrevendo",
+      "forms": [
+        "describe",
+        "described",
+        "describes"
+      ]
+    },
+    "major": {
+      "pt": "grande"
+    },
+    "step": {
+      "pt": "passo"
+    },
+    "vulnerabilities": {
+      "pt": "falhas de segurança",
+      "forms": [
+        "vulnerability"
+      ],
+      "highlight": true
+    },
+    "reliable": {
+      "pt": "confiável"
+    },
+    "respecting": {
+      "pt": "respeitando",
+      "forms": [
+        "respect"
+      ]
+    },
+    "safety": {
+      "pt": "segurança"
+    },
+    "prompts": {
+      "pt": "instruções dadas à IA",
+      "forms": [
+        "prompt"
+      ]
+    },
+    "scope": {
+      "pt": "alcance, limite do trabalho"
+    },
+    "compared": {
+      "pt": "comparado",
+      "forms": [
+        "compare"
+      ]
+    },
+    "scored": {
+      "pt": "obteve pontos",
+      "forms": [
+        "score",
+        "scores"
+      ]
+    },
+    "exploitgym": {
+      "pt": "ExploitGym, teste de ataques para IA"
+    },
+    "benchmark": {
+      "pt": "teste de comparação",
+      "highlight": true
+    },
+    "whether": {
+      "pt": "se"
+    },
+    "agents": {
+      "pt": "agentes",
+      "forms": [
+        "agent"
+      ]
+    },
+    "previous": {
+      "pt": "anterior"
+    },
+    "automated": {
+      "pt": "automático"
+    },
+    "pipeline": {
+      "pt": "linha de trabalho automática"
+    },
+    "local": {
+      "pt": "local"
+    },
+    "privilege": {
+      "pt": "privilégio, poder de acesso",
+      "highlight": true
+    },
+    "escalation": {
+      "pt": "aumento"
+    },
+    "along": {
+      "pt": "junto"
+    },
+    "previously": {
+      "pt": "antes"
+    },
+    "unknown": {
+      "pt": "desconhecido"
+    },
+    "brotli": {
+      "pt": "Brotli, programa que comprime arquivos"
+    },
+    "classified": {
+      "pt": "classificou",
+      "forms": [
+        "classify"
+      ]
+    },
+    "cybersecurity": {
+      "pt": "segurança digital"
+    },
+    "preparedness": {
+      "pt": "preparação"
+    },
+    "framework": {
+      "pt": "estrutura de regras"
+    },
+    "available": {
+      "pt": "disponível"
+    },
+    "selected": {
+      "pt": "selecionado"
+    },
+    "safeguards": {
+      "pt": "proteções",
+      "forms": [
+        "safeguard"
+      ],
+      "highlight": true
+    },
+    "disclosed": {
+      "pt": "revelou",
+      "forms": [
+        "disclose",
+        "discloses"
+      ]
+    },
+    "july": {
+      "pt": "julho"
+    },
+    "october": {
+      "pt": "outubro"
+    },
+    "astra": {
+      "pt": "Astra, modelo de IA da OpenAI"
+    },
+    "internal": {
+      "pt": "interno"
+    },
+    "match": {
+      "pt": "combinar",
+      "forms": [
+        "matched"
+      ]
+    },
+    "requested": {
+      "pt": "pedido",
+      "forms": [
+        "request",
+        "requests"
+      ]
+    }
+  }
+}

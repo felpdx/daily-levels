@@ -1,0 +1,419 @@
+{
+  "id": "2026-11-07-paraguay-president-impeached",
+  "date": "2026-11-07",
+  "topic": "mundo",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-11-07T07:20:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Paraguay removes its president",
+      "text": "Paraguay's president, Santiago Pena, lost his job on Friday. Senators voted to remove him after a bank collapsed. Many people cannot get their money from the bank. Pena says he did nothing wrong. He is now under house arrest. Pedro Alliana is the new interim president."
+    },
+    "2": {
+      "title": "Paraguay removes its president after a bank collapse",
+      "text": "Paraguay's Senate has removed President Santiago Pena and placed him under house arrest. The crisis began when Ueno Bank collapsed earlier this week. The bank has links to Pena's private business interests. About three million people cannot reach their savings, and thousands protested in the streets.\n\nPena offered to resign on Thursday, but senators voted to impeach him instead. The vote was 44 to 0, and one senator was absent. Pena denies any wrongdoing, and his lawyer called the accusations reckless. Prosecutors will question him on Saturday. His deputy, Pedro Alliana, is the new interim president and promised that people will be fully paid back."
+    },
+    "3": {
+      "title": "Paraguay impeaches President Pena and places him under house arrest after bank collapse",
+      "text": "Paraguay's President Santiago Pena has been impeached and placed under house arrest after the collapse of Ueno Bank triggered a crisis. Senators, including members of his own party, voted 44 to 0 to remove him, with one senator absent. He had offered to resign on Thursday, but the Senate chose to impeach him and charge him with misconduct, which strips him of the immunity usually given to former presidents.\n\nThe charges say he had conflicts of interest, manipulated regulatory oversight, diverted pension funds and took part in a cover-up involving the central bank. Pena, who held shares in the company that owned the bank until last year, denies wrongdoing. His lawyer, Ricardo Preda, called the accusations a \"reckless accusation\" that was \"irresponsible and opportunistic\".\n\nAn estimated three million depositors still cannot reach their savings. Thousands protested on Thursday, and earlier demonstrations led to clashes in which police used tear gas and water cannons. Prosecutor Silvia Margarita Gonzalez Vester said Pena will be questioned on Saturday. Pedro Alliana, his deputy, was sworn in as interim president until 2028 and promised full compensation for the people affected."
+    }
+  },
+  "glossary": {
+    "paraguay": {
+      "pt": "Paraguai",
+      "forms": [
+        "paraguay's"
+      ]
+    },
+    "removes": {
+      "pt": "tira",
+      "forms": [
+        "remove"
+      ]
+    },
+    "santiago": {
+      "pt": "Santiago, nome próprio"
+    },
+    "pena": {
+      "pt": "Peña, presidente do Paraguai"
+    },
+    "job": {
+      "pt": "emprego"
+    },
+    "friday": {
+      "pt": "sexta-feira"
+    },
+    "senators": {
+      "pt": "senadores"
+    },
+    "voted": {
+      "pt": "votou",
+      "forms": [
+        "vote",
+        "votes"
+      ]
+    },
+    "bank": {
+      "pt": "banco"
+    },
+    "collapsed": {
+      "pt": "quebrou",
+      "forms": [
+        "collapse"
+      ],
+      "highlight": true
+    },
+    "nothing": {
+      "pt": "nada"
+    },
+    "wrong": {
+      "pt": "errado"
+    },
+    "house": {
+      "pt": "casa"
+    },
+    "arrest": {
+      "pt": "prisão"
+    },
+    "pedro": {
+      "pt": "Pedro, nome próprio"
+    },
+    "alliana": {
+      "pt": "Alliana, vice-presidente do Paraguai"
+    },
+    "interim": {
+      "pt": "provisório"
+    },
+    "senate": {
+      "pt": "Senado"
+    },
+    "removed": {
+      "pt": "removido"
+    },
+    "placed": {
+      "pt": "colocado",
+      "forms": [
+        "place",
+        "places"
+      ]
+    },
+    "crisis": {
+      "pt": "crise"
+    },
+    "ueno": {
+      "pt": "Ueno, banco do Paraguai"
+    },
+    "earlier": {
+      "pt": "antes"
+    },
+    "links": {
+      "pt": "ligações",
+      "forms": [
+        "link"
+      ]
+    },
+    "private": {
+      "pt": "privado"
+    },
+    "interests": {
+      "pt": "interesses",
+      "forms": [
+        "interest"
+      ]
+    },
+    "three": {
+      "pt": "três"
+    },
+    "reach": {
+      "pt": "alcançar"
+    },
+    "savings": {
+      "pt": "economias",
+      "highlight": true
+    },
+    "thousands": {
+      "pt": "milhares"
+    },
+    "protested": {
+      "pt": "protestou",
+      "forms": [
+        "protest",
+        "protests"
+      ]
+    },
+    "streets": {
+      "pt": "ruas"
+    },
+    "offered": {
+      "pt": "ofereceu",
+      "forms": [
+        "offer"
+      ]
+    },
+    "resign": {
+      "pt": "renunciar",
+      "highlight": true
+    },
+    "thursday": {
+      "pt": "quinta-feira"
+    },
+    "impeach": {
+      "pt": "abrir processo de impeachment",
+      "forms": [
+        "impeached",
+        "impeaches"
+      ],
+      "highlight": true
+    },
+    "instead": {
+      "pt": "em vez disso"
+    },
+    "senator": {
+      "pt": "senador"
+    },
+    "absent": {
+      "pt": "ausente"
+    },
+    "denies": {
+      "pt": "nega",
+      "forms": [
+        "deny",
+        "denied"
+      ]
+    },
+    "wrongdoing": {
+      "pt": "ato errado"
+    },
+    "lawyer": {
+      "pt": "advogado"
+    },
+    "accusations": {
+      "pt": "acusações",
+      "forms": [
+        "accusation"
+      ],
+      "highlight": true
+    },
+    "reckless": {
+      "pt": "imprudente",
+      "highlight": true
+    },
+    "prosecutors": {
+      "pt": "promotores",
+      "forms": [
+        "prosecutor"
+      ]
+    },
+    "question": {
+      "pt": "interrogar",
+      "forms": [
+        "questioned"
+      ]
+    },
+    "saturday": {
+      "pt": "sábado"
+    },
+    "deputy": {
+      "pt": "vice"
+    },
+    "promised": {
+      "pt": "prometeu",
+      "forms": [
+        "promise"
+      ]
+    },
+    "fully": {
+      "pt": "totalmente",
+      "forms": [
+        "full"
+      ]
+    },
+    "places": {
+      "pt": "coloca"
+    },
+    "triggered": {
+      "pt": "provocou",
+      "forms": [
+        "trigger"
+      ]
+    },
+    "including": {
+      "pt": "incluindo"
+    },
+    "party": {
+      "pt": "partido"
+    },
+    "chose": {
+      "pt": "escolheu"
+    },
+    "charge": {
+      "pt": "acusar",
+      "forms": [
+        "charges"
+      ]
+    },
+    "misconduct": {
+      "pt": "má conduta"
+    },
+    "strips": {
+      "pt": "tira",
+      "forms": [
+        "strip"
+      ]
+    },
+    "immunity": {
+      "pt": "imunidade",
+      "highlight": true
+    },
+    "usually": {
+      "pt": "normalmente"
+    },
+    "former": {
+      "pt": "antigo"
+    },
+    "conflicts": {
+      "pt": "conflitos",
+      "forms": [
+        "conflict"
+      ]
+    },
+    "manipulated": {
+      "pt": "manipulou",
+      "forms": [
+        "manipulate"
+      ]
+    },
+    "regulatory": {
+      "pt": "de fiscalização"
+    },
+    "oversight": {
+      "pt": "fiscalização"
+    },
+    "diverted": {
+      "pt": "desviou",
+      "forms": [
+        "divert"
+      ]
+    },
+    "pension": {
+      "pt": "aposentadoria"
+    },
+    "funds": {
+      "pt": "dinheiro; fundos",
+      "forms": [
+        "fund"
+      ]
+    },
+    "cover": {
+      "pt": "encobrimento"
+    },
+    "involving": {
+      "pt": "envolvendo",
+      "forms": [
+        "involve"
+      ]
+    },
+    "central": {
+      "pt": "central"
+    },
+    "hold": {
+      "pt": "guardar; conter",
+      "forms": [
+        "holds",
+        "held"
+      ]
+    },
+    "shares": {
+      "pt": "ações",
+      "forms": [
+        "share"
+      ]
+    },
+    "owned": {
+      "pt": "era dono de",
+      "forms": [
+        "own",
+        "owns"
+      ]
+    },
+    "ricardo": {
+      "pt": "Ricardo, nome próprio"
+    },
+    "preda": {
+      "pt": "Preda, advogado de Peña"
+    },
+    "irresponsible": {
+      "pt": "irresponsável"
+    },
+    "opportunistic": {
+      "pt": "oportunista"
+    },
+    "estimated": {
+      "pt": "estimado",
+      "forms": [
+        "estimate"
+      ]
+    },
+    "depositors": {
+      "pt": "clientes que guardam dinheiro"
+    },
+    "demonstrations": {
+      "pt": "manifestações",
+      "forms": [
+        "demonstration"
+      ]
+    },
+    "clashes": {
+      "pt": "confrontos",
+      "forms": [
+        "clash"
+      ]
+    },
+    "tear": {
+      "pt": "lágrima"
+    },
+    "gas": {
+      "pt": "gás"
+    },
+    "water": {
+      "pt": "água"
+    },
+    "cannons": {
+      "pt": "canhões",
+      "forms": [
+        "cannon"
+      ]
+    },
+    "silvia": {
+      "pt": "Silvia, nome próprio"
+    },
+    "margarita": {
+      "pt": "Margarita, nome próprio"
+    },
+    "gonzalez": {
+      "pt": "Gonzalez, sobrenome"
+    },
+    "vester": {
+      "pt": "Vester, sobrenome"
+    },
+    "sworn": {
+      "pt": "empossado",
+      "forms": [
+        "swear"
+      ]
+    },
+    "compensation": {
+      "pt": "indenização",
+      "highlight": true
+    },
+    "affected": {
+      "pt": "afetado",
+      "forms": [
+        "affect"
+      ]
+    }
+  }
+}

@@ -1,0 +1,384 @@
+{
+  "id": "2026-11-07-big-tech-trillion-selloff",
+  "date": "2026-11-07",
+  "topic": "bolsa",
+  "source": {
+    "name": "MercoPress",
+    "url": "https://en.mercopress.com/2026/11/06/big-tech-loses-a-trillion-dollars-in-a-day-after-the-democratic-win?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+    "publishedAt": "2026-11-06T00:51:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Big Tech shares fall fast",
+      "text": "Technology shares fell a lot on Thursday. The seven biggest tech companies lost one trillion dollars in one day. Investors fear that the Democratic win in the US elections will slow new data centres for AI. They think AI may grow more slowly now. On Friday, shares also fell in Asia."
+    },
+    "2": {
+      "title": "Big Tech loses a trillion dollars in one day",
+      "text": "Shares of big technology companies fell sharply on Wall Street on Thursday and in Asia on Friday. Investors fear that the Democratic win in the US midterm elections will slow the growth of data centres and artificial intelligence. The seven biggest tech companies lost a trillion dollars in one day, according to the BBC.\n\nThe Nasdaq fell more than 5.5% and entered what analysts call correction territory. Nvidia dropped more than 9%. On Friday, South Korea's Kospi index fell more than 8.5%, and trading stopped for a short time. Many Democrats campaigned against new data centres because of the water and electricity they use. President Trump blamed the opposition for the market fall."
+    },
+    "3": {
+      "title": "Big Tech loses a trillion dollars in a day after the Democratic election win",
+      "text": "Shares in major technology companies fell sharply on Wall Street on Thursday and in Asia on Friday, on fears that the Democratic victory in the US midterm elections will slow the expansion of data centres and artificial intelligence. The so-called magnificent seven lost a trillion dollars in one session, according to the BBC.\n\nThe Nasdaq closed down more than 5.5%, losing an estimated $2.5 trillion in market value and entering correction territory, a fall of at least 10% from a recent high. The S&P 500 fell 4.4% and the Dow Jones more than 3.4%. Nvidia dropped more than 9%. In Asia, South Korea's Kospi plunged more than 8.5%, which triggered a temporary trading halt, while Japan's Nikkei fell 6%.\n\nMany Democratic candidates campaigned to limit data centres, which are criticised for using water and electricity and for raising local bills. Susannah Streeter of Wealth Club said doubts about returns on AI investment are now colliding with the prospect of slower data centre construction. President Donald Trump blamed the opposition, writing that the market had one of its worst days because of the election. Senator Bernie Sanders called for a national moratorium on data centres."
+    }
+  },
+  "glossary": {
+    "tech": {
+      "pt": "tecnologia"
+    },
+    "shares": {
+      "pt": "ações",
+      "forms": [
+        "share"
+      ],
+      "highlight": true
+    },
+    "technology": {
+      "pt": "tecnologia"
+    },
+    "thursday": {
+      "pt": "quinta-feira"
+    },
+    "seven": {
+      "pt": "sete"
+    },
+    "trillion": {
+      "pt": "trilhão"
+    },
+    "dollars": {
+      "pt": "dólares"
+    },
+    "investors": {
+      "pt": "investidores",
+      "forms": [
+        "investor"
+      ],
+      "highlight": true
+    },
+    "fear": {
+      "pt": "medo; temer",
+      "forms": [
+        "fears"
+      ]
+    },
+    "democratic": {
+      "pt": "democrata"
+    },
+    "win": {
+      "pt": "vitória; vencer",
+      "forms": [
+        "won",
+        "wins"
+      ]
+    },
+    "election": {
+      "pt": "eleição",
+      "forms": [
+        "elections"
+      ]
+    },
+    "slow": {
+      "pt": "desacelerar; lento",
+      "forms": [
+        "slower",
+        "slowly"
+      ]
+    },
+    "data": {
+      "pt": "dados"
+    },
+    "centres": {
+      "pt": "centros",
+      "forms": [
+        "centre"
+      ]
+    },
+    "ai": {
+      "pt": "IA, inteligência artificial"
+    },
+    "friday": {
+      "pt": "sexta-feira"
+    },
+    "asia": {
+      "pt": "Ásia"
+    },
+    "sharply": {
+      "pt": "de forma brusca",
+      "highlight": true
+    },
+    "wall": {
+      "pt": "muro"
+    },
+    "street": {
+      "pt": "rua"
+    },
+    "midterm": {
+      "pt": "de meio de mandato"
+    },
+    "growth": {
+      "pt": "crescimento"
+    },
+    "artificial": {
+      "pt": "artificial"
+    },
+    "intelligence": {
+      "pt": "inteligência"
+    },
+    "according": {
+      "pt": "de acordo"
+    },
+    "bbc": {
+      "pt": "BBC, emissora britânica de notícias"
+    },
+    "nasdaq": {
+      "pt": "Nasdaq, bolsa de valores de tecnologia dos EUA"
+    },
+    "entered": {
+      "pt": "entrou",
+      "forms": [
+        "enter",
+        "enters"
+      ]
+    },
+    "analysts": {
+      "pt": "analistas",
+      "forms": [
+        "analyst"
+      ]
+    },
+    "correction": {
+      "pt": "correção, queda de 10% ou mais",
+      "highlight": true
+    },
+    "territory": {
+      "pt": "território"
+    },
+    "nvidia": {
+      "pt": "Nvidia, fabricante de chips"
+    },
+    "dropped": {
+      "pt": "caiu",
+      "forms": [
+        "drop",
+        "drops"
+      ]
+    },
+    "south": {
+      "pt": "sul"
+    },
+    "korea's": {
+      "pt": "da Coreia",
+      "forms": [
+        "korea"
+      ]
+    },
+    "kospi": {
+      "pt": "Kospi, índice da bolsa da Coreia do Sul"
+    },
+    "index": {
+      "pt": "índice"
+    },
+    "trading": {
+      "pt": "negociação"
+    },
+    "democrats": {
+      "pt": "democratas",
+      "forms": [
+        "democrat"
+      ]
+    },
+    "campaigned": {
+      "pt": "fez campanha",
+      "forms": [
+        "campaign",
+        "campaigns"
+      ]
+    },
+    "water": {
+      "pt": "água"
+    },
+    "electricity": {
+      "pt": "eletricidade"
+    },
+    "trump": {
+      "pt": "Trump, presidente dos Estados Unidos"
+    },
+    "blamed": {
+      "pt": "culpou",
+      "forms": [
+        "blame",
+        "blames"
+      ],
+      "highlight": true
+    },
+    "opposition": {
+      "pt": "oposição",
+      "highlight": true
+    },
+    "market": {
+      "pt": "mercado"
+    },
+    "major": {
+      "pt": "grande"
+    },
+    "victory": {
+      "pt": "vitória"
+    },
+    "expansion": {
+      "pt": "expansão"
+    },
+    "magnificent": {
+      "pt": "magnífico"
+    },
+    "session": {
+      "pt": "dia de negociação"
+    },
+    "estimated": {
+      "pt": "estimado",
+      "forms": [
+        "estimate"
+      ]
+    },
+    "value": {
+      "pt": "valor"
+    },
+    "entering": {
+      "pt": "entrando"
+    },
+    "least": {
+      "pt": "pelo menos"
+    },
+    "recent": {
+      "pt": "recente"
+    },
+    "s": {
+      "pt": "s, letra do S&P"
+    },
+    "p": {
+      "pt": "p, letra do S&P"
+    },
+    "dow": {
+      "pt": "Dow Jones, índice da bolsa de Nova York"
+    },
+    "jones": {
+      "pt": "Jones, parte do nome Dow Jones"
+    },
+    "plunged": {
+      "pt": "despencou",
+      "forms": [
+        "plunge"
+      ],
+      "highlight": true
+    },
+    "triggered": {
+      "pt": "provocou",
+      "forms": [
+        "trigger"
+      ]
+    },
+    "temporary": {
+      "pt": "temporário"
+    },
+    "halt": {
+      "pt": "parada"
+    },
+    "japan's": {
+      "pt": "do Japão",
+      "forms": [
+        "japan"
+      ]
+    },
+    "nikkei": {
+      "pt": "Nikkei, índice da bolsa do Japão"
+    },
+    "candidates": {
+      "pt": "candidatos",
+      "forms": [
+        "candidate"
+      ]
+    },
+    "limit": {
+      "pt": "limitar"
+    },
+    "criticised": {
+      "pt": "criticado",
+      "forms": [
+        "criticise",
+        "criticised"
+      ]
+    },
+    "raising": {
+      "pt": "aumentando",
+      "forms": [
+        "raise",
+        "raises"
+      ]
+    },
+    "local": {
+      "pt": "local"
+    },
+    "bills": {
+      "pt": "contas",
+      "forms": [
+        "bill"
+      ]
+    },
+    "susannah": {
+      "pt": "Susannah, nome próprio"
+    },
+    "streeter": {
+      "pt": "Streeter, analista da Wealth Club"
+    },
+    "wealth": {
+      "pt": "riqueza"
+    },
+    "club": {
+      "pt": "clube"
+    },
+    "doubts": {
+      "pt": "dúvidas",
+      "forms": [
+        "doubt"
+      ]
+    },
+    "returns": {
+      "pt": "retornos, lucros",
+      "forms": [
+        "return"
+      ]
+    },
+    "investment": {
+      "pt": "investimento"
+    },
+    "colliding": {
+      "pt": "batendo",
+      "forms": [
+        "collide"
+      ]
+    },
+    "prospect": {
+      "pt": "perspectiva"
+    },
+    "construction": {
+      "pt": "construção"
+    },
+    "donald": {
+      "pt": "Donald, nome próprio"
+    },
+    "senator": {
+      "pt": "senador"
+    },
+    "bernie": {
+      "pt": "Bernie, nome próprio"
+    },
+    "sanders": {
+      "pt": "Sanders, senador dos EUA"
+    },
+    "national": {
+      "pt": "nacional"
+    },
+    "moratorium": {
+      "pt": "pausa oficial",
+      "highlight": true
+    }
+  }
+}

@@ -1,6 +1,41 @@
 {
   "articles": [
     {
+      "id": "2026-11-07-claude-code-secrets-github",
+      "date": "2026-11-07",
+      "topic": "hacking",
+      "title": "Claude Code saves secrets in public files",
+      "source": "The Hacker News"
+    },
+    {
+      "id": "2026-11-07-openai-gpt-6-cyber",
+      "date": "2026-11-07",
+      "topic": "hacking",
+      "title": "OpenAI launches a new security AI",
+      "source": "The Hacker News"
+    },
+    {
+      "id": "2026-11-07-big-tech-trillion-selloff",
+      "date": "2026-11-07",
+      "topic": "bolsa",
+      "title": "Big Tech shares fall fast",
+      "source": "MercoPress"
+    },
+    {
+      "id": "2026-11-07-lula-lesson-for-the-world",
+      "date": "2026-11-07",
+      "topic": "bolsa",
+      "title": "Lula says his win is a lesson",
+      "source": "MercoPress"
+    },
+    {
+      "id": "2026-11-07-paraguay-president-impeached",
+      "date": "2026-11-07",
+      "topic": "mundo",
+      "title": "Paraguay removes its president",
+      "source": "BBC News"
+    },
+    {
       "id": "2026-11-06-chainalysis-breach-all-users",
       "date": "2026-11-06",
       "topic": "hacking",

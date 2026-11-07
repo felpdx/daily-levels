@@ -1,0 +1,366 @@
+{
+  "id": "2026-11-07-lula-lesson-for-the-world",
+  "date": "2026-11-07",
+  "topic": "bolsa",
+  "source": {
+    "name": "MercoPress",
+    "url": "https://en.mercopress.com/2026/11/06/lula-sees-his-win-as-a-lesson-for-the-world-after-setbacks-for-netanyahu-and-trump?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+    "publishedAt": "2026-11-06T01:42:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Lula says his win is a lesson",
+      "text": "Lula is the president of Brazil. He won the election on October 25. On Thursday, he talked to people online for one and a half hours. He said his win is \"a lesson for the world.\" He also said he is afraid and cannot fail. He starts his new term on January 5."
+    },
+    "2": {
+      "title": "Lula calls his election win \"a lesson for the world\"",
+      "text": "Brazilian President Lula called his October 25 election win \"a lesson for the world.\" On Thursday he spoke for one and a half hours in a live video with congressman Andre Janones. About 600,000 people watched. Lula said Netanyahu lost in Israel and that his friend Trump is losing in the United States.\n\nLula, who is 81, also said he is more afraid than in his first term and that he cannot fail. He defended some of his plans, such as ending online betting and using the country's critical minerals. He said he will talk more through social media. Next week he travels to the COP31 climate summit in Turkey and then to a summit in Manila. His fourth term begins on January 5."
+    },
+    "3": {
+      "title": "Lula describes his re-election as \"a lesson for the world\" after setbacks for Netanyahu and Trump",
+      "text": "Brazilian President Luiz Inacio Lula da Silva described his October 25 re-election as \"a lesson for the world\" and connected it to recent electoral setbacks for Israeli Prime Minister Benjamin Netanyahu and US President Donald Trump. \"In the same week, Netanyahu lost in Israel and I think my friend Trump is losing in the United States,\" he said on Thursday in a live YouTube broadcast.\n\nLula, who is 81, spent an hour and a half in the livestream with congressman Andre Janones, who designed the digital strategy that helped his comeback. About 600,000 viewers watched. \"I am more afraid than in my first term,\" Lula admitted, adding that he cannot fail. He defended some priorities, including ending online betting and the sovereign use of critical minerals, and promised new ways for citizens to take part in government decisions. He also said he will speak more directly through social media.\n\nNetanyahu's bloc lost its parliamentary majority in Israel's October 27 election, winning 53 of 120 seats, and Netanyahu has alleged fraud. In the US, Democrats regained control of both chambers of Congress on Tuesday. Lula travels next week to the COP31 climate summit in Turkey and to a summit in Manila, and begins his fourth term on January 5."
+    }
+  },
+  "glossary": {
+    "lula": {
+      "pt": "Lula, presidente do Brasil"
+    },
+    "win": {
+      "pt": "vitória; vencer",
+      "forms": [
+        "won",
+        "wins"
+      ]
+    },
+    "lesson": {
+      "pt": "lição",
+      "highlight": true
+    },
+    "brazil": {
+      "pt": "Brasil"
+    },
+    "election": {
+      "pt": "eleição",
+      "forms": [
+        "elections"
+      ]
+    },
+    "october": {
+      "pt": "outubro"
+    },
+    "thursday": {
+      "pt": "quinta-feira"
+    },
+    "half": {
+      "pt": "meio, metade"
+    },
+    "hours": {
+      "pt": "horas",
+      "forms": [
+        "hour"
+      ]
+    },
+    "afraid": {
+      "pt": "com medo",
+      "highlight": true
+    },
+    "fail": {
+      "pt": "falhar"
+    },
+    "term": {
+      "pt": "mandato",
+      "highlight": true
+    },
+    "january": {
+      "pt": "janeiro"
+    },
+    "brazilian": {
+      "pt": "brasileiro"
+    },
+    "spoke": {
+      "pt": "falou",
+      "forms": [
+        "speak",
+        "speaking"
+      ]
+    },
+    "live": {
+      "pt": "ativo; ao vivo"
+    },
+    "video": {
+      "pt": "vídeo"
+    },
+    "congressman": {
+      "pt": "deputado"
+    },
+    "andre": {
+      "pt": "André, nome próprio"
+    },
+    "janones": {
+      "pt": "Janones, deputado federal brasileiro"
+    },
+    "watched": {
+      "pt": "assistiu",
+      "forms": [
+        "watch",
+        "watching",
+        "viewers"
+      ]
+    },
+    "bloc": {
+      "pt": "bloco, grupo político",
+      "forms": [
+        "netanyahu's"
+      ]
+    },
+    "israel": {
+      "pt": "Israel, país do Oriente Médio",
+      "forms": [
+        "israel's",
+        "israeli"
+      ]
+    },
+    "trump": {
+      "pt": "Trump, presidente dos Estados Unidos"
+    },
+    "united": {
+      "pt": "unido"
+    },
+    "states": {
+      "pt": "estados",
+      "forms": [
+        "state"
+      ]
+    },
+    "defended": {
+      "pt": "defendeu",
+      "forms": [
+        "defend",
+        "defends"
+      ],
+      "highlight": true
+    },
+    "betting": {
+      "pt": "apostas",
+      "highlight": true
+    },
+    "critical": {
+      "pt": "crítico"
+    },
+    "minerals": {
+      "pt": "minerais",
+      "forms": [
+        "mineral"
+      ]
+    },
+    "social": {
+      "pt": "social"
+    },
+    "media": {
+      "pt": "mídia"
+    },
+    "travels": {
+      "pt": "viaja",
+      "forms": [
+        "travel",
+        "traveled"
+      ]
+    },
+    "climate": {
+      "pt": "clima"
+    },
+    "summit": {
+      "pt": "cúpula, encontro de líderes"
+    },
+    "turkey": {
+      "pt": "Turquia"
+    },
+    "manila": {
+      "pt": "Manila, capital das Filipinas"
+    },
+    "fourth": {
+      "pt": "quarto"
+    },
+    "describes": {
+      "pt": "descreve"
+    },
+    "re": {
+      "pt": "de novo, outra vez"
+    },
+    "setbacks": {
+      "pt": "derrotas, reveses",
+      "forms": [
+        "setback"
+      ],
+      "highlight": true
+    },
+    "luiz": {
+      "pt": "Luiz, nome próprio"
+    },
+    "inacio": {
+      "pt": "Inácio, nome próprio"
+    },
+    "da": {
+      "pt": "da, parte do nome"
+    },
+    "silva": {
+      "pt": "Silva, sobrenome"
+    },
+    "describing": {
+      "pt": "descrevendo",
+      "forms": [
+        "describe",
+        "described",
+        "describes"
+      ]
+    },
+    "connected": {
+      "pt": "ligou",
+      "forms": [
+        "connect",
+        "connected"
+      ]
+    },
+    "recent": {
+      "pt": "recente"
+    },
+    "electoral": {
+      "pt": "eleitoral"
+    },
+    "prime": {
+      "pt": "primeiro"
+    },
+    "minister": {
+      "pt": "ministro"
+    },
+    "benjamin": {
+      "pt": "Benjamin, nome próprio"
+    },
+    "donald": {
+      "pt": "Donald, nome próprio"
+    },
+    "youtube": {
+      "pt": "YouTube, site de vídeos"
+    },
+    "broadcast": {
+      "pt": "transmissão"
+    },
+    "spent": {
+      "pt": "passou; gastou",
+      "forms": [
+        "spend"
+      ]
+    },
+    "livestream": {
+      "pt": "transmissão ao vivo"
+    },
+    "designed": {
+      "pt": "planejou",
+      "forms": [
+        "design"
+      ]
+    },
+    "digital": {
+      "pt": "digital"
+    },
+    "strategy": {
+      "pt": "estratégia"
+    },
+    "comeback": {
+      "pt": "volta"
+    },
+    "admitted": {
+      "pt": "admitiu",
+      "forms": [
+        "admit"
+      ]
+    },
+    "adding": {
+      "pt": "acrescentando"
+    },
+    "priorities": {
+      "pt": "prioridades",
+      "forms": [
+        "priority"
+      ]
+    },
+    "including": {
+      "pt": "incluindo"
+    },
+    "sovereign": {
+      "pt": "soberano, feito com controle do próprio país",
+      "highlight": true
+    },
+    "promised": {
+      "pt": "prometeu",
+      "forms": [
+        "promise"
+      ]
+    },
+    "citizens": {
+      "pt": "cidadãos",
+      "forms": [
+        "citizen"
+      ]
+    },
+    "decisions": {
+      "pt": "decisões",
+      "forms": [
+        "decision"
+      ]
+    },
+    "directly": {
+      "pt": "diretamente"
+    },
+    "parliamentary": {
+      "pt": "do parlamento"
+    },
+    "majority": {
+      "pt": "maioria",
+      "highlight": true
+    },
+    "winning": {
+      "pt": "ganhando"
+    },
+    "seats": {
+      "pt": "cadeiras",
+      "forms": [
+        "seat"
+      ]
+    },
+    "alleged": {
+      "pt": "alegou",
+      "forms": [
+        "allege",
+        "alleges"
+      ]
+    },
+    "fraud": {
+      "pt": "fraude"
+    },
+    "democrats": {
+      "pt": "democratas",
+      "forms": [
+        "democrat"
+      ]
+    },
+    "regained": {
+      "pt": "recuperou",
+      "forms": [
+        "regain"
+      ]
+    },
+    "chambers": {
+      "pt": "câmaras",
+      "forms": [
+        "chamber"
+      ]
+    },
+    "congress": {
+      "pt": "Congresso dos EUA"
+    },
+    "tuesday": {
+      "pt": "terça-feira"
+    }
+  }
+}

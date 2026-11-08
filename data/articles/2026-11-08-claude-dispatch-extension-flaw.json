@@ -1,0 +1,238 @@
+{
+  "id": "2026-11-08-claude-dispatch-extension-flaw",
+  "date": "2026-11-08",
+  "topic": "hacking",
+  "source": {
+    "name": "The Hacker News",
+    "url": "https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html",
+    "publishedAt": "2026-11-06T12:06:35Z"
+  },
+  "levels": {
+    "1": {
+      "title": "A browser tool can control Claude Desktop",
+      "text": "Researchers found a problem in Claude Desktop. A bad browser extension can send it orders. The tool is called Dispatch. It lets people send tasks from a phone. In a test, the extension made Claude install a package on a computer. The researchers say the problem can still be used. Anthropic says Dispatch will end."
+    },
+    "2": {
+      "title": "A browser extension can make Claude Desktop run code",
+      "text": "Researchers at Forever Security showed a problem with Dispatch, a Claude feature. Dispatch lets people send tasks from their phone to Claude Desktop, an AI agent that can run commands on a computer.\n\nIn a test, an extension on the claude.ai website sent Claude four prompts as if the user wrote them. Claude asked for approval, but the script clicked \"Allow\" every second. Claude then installed a package, and the package opened the Calculator app. The researchers say the same step could steal files. They report no real attacks. Anthropic told them Dispatch will be retired."
+    },
+    "3": {
+      "title": "Researchers show how a browser extension could hijack Claude Desktop through Dispatch",
+      "text": "Researchers at the security company Forever Security have shown that a browser extension can make Claude Desktop run code on a person's computer. The attack uses Dispatch, a feature that lets people send tasks from their phone to the desktop app. The researchers say the flaw can still be exploited.\n\nThey found that Dispatch also accepted an ordinary signed-in session on claude.ai, even though the site showed no link to it. An extension that runs scripts on the site could therefore send instructions as if the user had typed them. In the test, a script sent four prompts asking Claude to install an npm package. Claude hesitated at first, but a follow-up message in the user's voice convinced it. The script also clicked every \"Allow\" button each second, so nobody had to watch.\n\nThe package opened the Calculator app, but the researchers say the same step could steal files or install a backdoor. They report no real attacks. They say Anthropic told them on October 13 that Dispatch would be retired, although its help page does not mention this."
+    }
+  },
+  "glossary": {
+    "browser": {
+      "pt": "navegador"
+    },
+    "tool": {
+      "pt": "ferramenta"
+    },
+    "claude": {
+      "pt": "Claude, assistente de IA da Anthropic"
+    },
+    "desktop": {
+      "pt": "programa de computador"
+    },
+    "researchers": {
+      "pt": "pesquisadores"
+    },
+    "extension": {
+      "pt": "extensão de navegador",
+      "highlight": true
+    },
+    "orders": {
+      "pt": "ordens"
+    },
+    "dispatch": {
+      "pt": "Dispatch, recurso do Claude para enviar tarefas"
+    },
+    "lets": {
+      "pt": "permite"
+    },
+    "tasks": {
+      "pt": "tarefas"
+    },
+    "phone": {
+      "pt": "celular"
+    },
+    "test": {
+      "pt": "teste"
+    },
+    "install": {
+      "pt": "instalar",
+      "highlight": true
+    },
+    "package": {
+      "pt": "pacote"
+    },
+    "computer": {
+      "pt": "computador"
+    },
+    "anthropic": {
+      "pt": "Anthropic, empresa de IA que faz o Claude"
+    },
+    "code": {
+      "pt": "código"
+    },
+    "forever": {
+      "pt": "Forever, nome de uma empresa"
+    },
+    "security": {
+      "pt": "segurança"
+    },
+    "feature": {
+      "pt": "recurso"
+    },
+    "ai": {
+      "pt": "IA, inteligência artificial"
+    },
+    "agent": {
+      "pt": "agente"
+    },
+    "commands": {
+      "pt": "comandos"
+    },
+    "website": {
+      "pt": "site"
+    },
+    "four": {
+      "pt": "quatro"
+    },
+    "prompts": {
+      "pt": "comandos de texto para a IA"
+    },
+    "user": {
+      "pt": "usuário"
+    },
+    "approval": {
+      "pt": "aprovação"
+    },
+    "script": {
+      "pt": "programa curto de computador"
+    },
+    "clicked": {
+      "pt": "clicou"
+    },
+    "allow": {
+      "pt": "permitir",
+      "highlight": true
+    },
+    "installed": {
+      "pt": "instalou"
+    },
+    "opened": {
+      "pt": "abriu"
+    },
+    "calculator": {
+      "pt": "calculadora"
+    },
+    "app": {
+      "pt": "aplicativo"
+    },
+    "step": {
+      "pt": "passo"
+    },
+    "steal": {
+      "pt": "roubar",
+      "highlight": true
+    },
+    "files": {
+      "pt": "arquivos"
+    },
+    "report": {
+      "pt": "relatar"
+    },
+    "attacks": {
+      "pt": "ataques"
+    },
+    "retired": {
+      "pt": "aposentado, encerrado"
+    },
+    "hijack": {
+      "pt": "sequestrar",
+      "highlight": true
+    },
+    "attack": {
+      "pt": "ataque"
+    },
+    "flaw": {
+      "pt": "falha",
+      "highlight": true
+    },
+    "exploited": {
+      "pt": "explorado",
+      "highlight": true
+    },
+    "accepted": {
+      "pt": "aceitou"
+    },
+    "ordinary": {
+      "pt": "comum"
+    },
+    "signed": {
+      "pt": "conectado"
+    },
+    "session": {
+      "pt": "sessão"
+    },
+    "though": {
+      "pt": "embora"
+    },
+    "site": {
+      "pt": "site"
+    },
+    "link": {
+      "pt": "ligação"
+    },
+    "scripts": {
+      "pt": "programas curtos de computador"
+    },
+    "therefore": {
+      "pt": "portanto"
+    },
+    "instructions": {
+      "pt": "instruções"
+    },
+    "typed": {
+      "pt": "digitou"
+    },
+    "npm": {
+      "pt": "npm, loja de pacotes de código"
+    },
+    "hesitated": {
+      "pt": "hesitou"
+    },
+    "follow": {
+      "pt": "seguir"
+    },
+    "message": {
+      "pt": "mensagem"
+    },
+    "voice": {
+      "pt": "voz"
+    },
+    "convinced": {
+      "pt": "convenceu"
+    },
+    "button": {
+      "pt": "botão"
+    },
+    "watch": {
+      "pt": "assistir"
+    },
+    "backdoor": {
+      "pt": "porta dos fundos, acesso secreto",
+      "highlight": true
+    },
+    "october": {
+      "pt": "outubro"
+    },
+    "page": {
+      "pt": "página"
+    },
+    "mention": {
+      "pt": "mencionar"
+    }
+  }
+}

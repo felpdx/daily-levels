@@ -1,6 +1,41 @@
 {
   "articles": [
     {
+      "id": "2026-11-08-claude-dispatch-extension-flaw",
+      "date": "2026-11-08",
+      "topic": "hacking",
+      "title": "A browser tool can control Claude Desktop",
+      "source": "The Hacker News"
+    },
+    {
+      "id": "2026-11-08-cwpdoor-control-web-panel-backdoor",
+      "date": "2026-11-08",
+      "topic": "hacking",
+      "title": "A hidden door in a Linux web panel",
+      "source": "The Hacker News"
+    },
+    {
+      "id": "2026-11-08-poundland-second-rescue-bid",
+      "date": "2026-11-08",
+      "topic": "bolsa",
+      "title": "A second offer to save Poundland",
+      "source": "BBC News"
+    },
+    {
+      "id": "2026-11-08-tesla-cybertruck-wind-down",
+      "date": "2026-11-08",
+      "topic": "bolsa",
+      "title": "Tesla will make fewer Cybertrucks",
+      "source": "BBC News"
+    },
+    {
+      "id": "2026-11-08-republicans-after-midterms",
+      "date": "2026-11-08",
+      "topic": "mundo",
+      "title": "Republicans ask what to do next",
+      "source": "BBC News"
+    },
+    {
       "id": "2026-11-07-claude-code-secrets-github",
       "date": "2026-11-07",
       "topic": "hacking",

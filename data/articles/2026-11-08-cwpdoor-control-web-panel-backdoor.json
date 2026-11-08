@@ -1,0 +1,235 @@
+{
+  "id": "2026-11-08-cwpdoor-control-web-panel-backdoor",
+  "date": "2026-11-08",
+  "topic": "hacking",
+  "source": {
+    "name": "The Hacker News",
+    "url": "https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html",
+    "publishedAt": "2026-11-06T05:58:54Z"
+  },
+  "levels": {
+    "1": {
+      "title": "A hidden door in a Linux web panel",
+      "text": "Researchers found a hidden backdoor in Control Web Panel. This tool helps people manage Linux servers. The backdoor runs orders from attackers. These orders do not show in the logs. The attackers must already control the server. The researchers do not know how they get that control. A file from Brazil shows that real victims may exist."
+    },
+    "2": {
+      "title": "Hackers hide a backdoor in Control Web Panel",
+      "text": "Researchers at XLab, a team at QiAnXin, found a backdoor in Control Web Panel, a free tool for managing Linux servers. They named it cwpdoor. It runs commands that attackers send in web requests, and these requests never show in the access logs.\n\nTo install it, the attackers need root access, so they must already control the server. The researchers do not know how they get it. On September 30, a file with a copy of the backdoor was uploaded to VirusTotal from Brazil. The researchers say this means real victims may already exist, but they give no number of infected servers."
+    },
+    "3": {
+      "title": "Hackers hide a Linux backdoor inside the server behind Control Web Panel",
+      "text": "Researchers at XLab, a team at the Chinese company QiAnXin, have found a backdoor hidden in the web server that runs Control Web Panel, a free tool for managing Linux hosting servers. They named it cwpdoor. The backdoor executes commands that attackers send in web requests, and those requests never appear in the access logs.\n\nThe researchers captured the installer, a script pretending to be a version update, on June 29. Installing it requires root access, so the attackers must already control the server. The researchers do not yet know how they get that access. The installer also restores the file's original dates, so common checks show nothing changed. When the researchers checked, the backdoor had zero detections out of 63 on VirusTotal.\n\nOn September 30, an archive with a copy of the backdoor was uploaded to VirusTotal from Brazil. The researchers say this suggests that real victims already exist, but they give no count of infected servers. The same archive also held Ebury, an older malware, and the researchers do not know whether the two are related."
+    }
+  },
+  "glossary": {
+    "hidden": {
+      "pt": "escondido"
+    },
+    "door": {
+      "pt": "porta"
+    },
+    "linux": {
+      "pt": "Linux, sistema operacional"
+    },
+    "web": {
+      "pt": "rede, web"
+    },
+    "panel": {
+      "pt": "painel"
+    },
+    "researchers": {
+      "pt": "pesquisadores"
+    },
+    "backdoor": {
+      "pt": "porta dos fundos, acesso secreto",
+      "highlight": true
+    },
+    "tool": {
+      "pt": "ferramenta"
+    },
+    "manage": {
+      "pt": "gerenciar"
+    },
+    "servers": {
+      "pt": "servidores",
+      "highlight": true
+    },
+    "orders": {
+      "pt": "ordens"
+    },
+    "attackers": {
+      "pt": "atacantes",
+      "highlight": true
+    },
+    "logs": {
+      "pt": "registros",
+      "highlight": true
+    },
+    "server": {
+      "pt": "servidor"
+    },
+    "file": {
+      "pt": "arquivo"
+    },
+    "brazil": {
+      "pt": "Brasil"
+    },
+    "victims": {
+      "pt": "vítimas",
+      "highlight": true
+    },
+    "exist": {
+      "pt": "existir"
+    },
+    "hackers": {
+      "pt": "hackers"
+    },
+    "hide": {
+      "pt": "esconder",
+      "highlight": true
+    },
+    "xlab": {
+      "pt": "XLab, equipe de pesquisa de segurança"
+    },
+    "team": {
+      "pt": "equipe"
+    },
+    "qianxin": {
+      "pt": "QiAnXin, empresa chinesa de segurança"
+    },
+    "free": {
+      "pt": "grátis"
+    },
+    "managing": {
+      "pt": "gerenciando"
+    },
+    "cwpdoor": {
+      "pt": "nome dado ao backdoor encontrado"
+    },
+    "commands": {
+      "pt": "comandos"
+    },
+    "requests": {
+      "pt": "pedidos"
+    },
+    "access": {
+      "pt": "acesso"
+    },
+    "install": {
+      "pt": "instalar"
+    },
+    "root": {
+      "pt": "acesso total de administrador",
+      "highlight": true
+    },
+    "september": {
+      "pt": "setembro"
+    },
+    "copy": {
+      "pt": "cópia"
+    },
+    "uploaded": {
+      "pt": "enviado"
+    },
+    "virustotal": {
+      "pt": "VirusTotal, site que analisa arquivos suspeitos"
+    },
+    "infected": {
+      "pt": "infectado",
+      "highlight": true
+    },
+    "inside": {
+      "pt": "dentro"
+    },
+    "chinese": {
+      "pt": "chinês"
+    },
+    "hosting": {
+      "pt": "hospedagem"
+    },
+    "executes": {
+      "pt": "executa"
+    },
+    "appear": {
+      "pt": "aparecer"
+    },
+    "captured": {
+      "pt": "capturou"
+    },
+    "installer": {
+      "pt": "instalador"
+    },
+    "script": {
+      "pt": "programa curto de computador"
+    },
+    "pretending": {
+      "pt": "fingindo"
+    },
+    "version": {
+      "pt": "versão"
+    },
+    "update": {
+      "pt": "atualização"
+    },
+    "june": {
+      "pt": "junho"
+    },
+    "installing": {
+      "pt": "instalar"
+    },
+    "requires": {
+      "pt": "exige"
+    },
+    "restores": {
+      "pt": "restaura"
+    },
+    "original": {
+      "pt": "original"
+    },
+    "dates": {
+      "pt": "datas"
+    },
+    "common": {
+      "pt": "comum"
+    },
+    "checks": {
+      "pt": "verificações"
+    },
+    "nothing": {
+      "pt": "nada"
+    },
+    "checked": {
+      "pt": "verificou"
+    },
+    "zero": {
+      "pt": "zero"
+    },
+    "detections": {
+      "pt": "detecções"
+    },
+    "archive": {
+      "pt": "arquivo compactado"
+    },
+    "suggests": {
+      "pt": "sugere"
+    },
+    "count": {
+      "pt": "contagem"
+    },
+    "held": {
+      "pt": "realizou"
+    },
+    "ebury": {
+      "pt": "Ebury, tipo de malware"
+    },
+    "malware": {
+      "pt": "programa malicioso"
+    },
+    "whether": {
+      "pt": "se"
+    },
+    "related": {
+      "pt": "relacionado"
+    }
+  }
+}

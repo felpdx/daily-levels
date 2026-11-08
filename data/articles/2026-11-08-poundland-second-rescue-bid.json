@@ -1,0 +1,235 @@
+{
+  "id": "2026-11-08-poundland-second-rescue-bid",
+  "date": "2026-11-08",
+  "topic": "bolsa",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/c6lykq0kqwn7o?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-11-05T09:46:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "A second offer to save Poundland",
+      "text": "Poundland may close soon. Many jobs are at risk. A company called Xyra made an offer to buy it. Xyra wants to pay part of the debt now. Poundland's owners already said no to another offer. The government is talking to the owners. Some people ask if Xyra has the money."
+    },
+    "2": {
+      "title": "A second buyer wants to rescue Poundland",
+      "text": "Poundland, a discount shop, is close to collapse, and thousands of jobs are at risk. A second buyer, Xyra Group, has now made an offer. Xyra says it will pay £12.5m of a £30m loan right away and the rest later.\n\nThe owner, Gordon Brothers, already refused an offer from another company. The business secretary met the owner and asked it to protect workers. But an investor said there is hardly any public information about Xyra, so she cannot see proof that it has the money. Poundland's founder warned that many suppliers could also go bust if the company collapses."
+    },
+    "3": {
+      "title": "A second buyer makes a rescue bid for Poundland as collapse looms",
+      "text": "A second buyer has made a rescue bid for Poundland, the discount retailer, which is close to collapse with thousands of jobs at risk. London-based Xyra Group has offered to pay off £12.5m of a £30m loan immediately and defer the rest. That is a higher share of the debt than Martin Property Group offered. Gordon Brothers, Poundland's US owner, rejected the Irish group's bid, which would have saved its 12,000 staff.\n\nBusiness Secretary Jonathan Reynolds held talks with Gordon Brothers and urged it to protect staff. The owner said it would prioritise offers that protect shops and workers. However, doubts remain about Xyra. Judith MacKenzie of Downing Fund Managers said there is \"hardly any information\" about the firm and she could not find evidence that it has the money. Poundland's founder said two or three thousand suppliers could go bust if it collapses, affecting up to 30,000 people overall."
+    }
+  },
+  "glossary": {
+    "offer": {
+      "pt": "oferta"
+    },
+    "save": {
+      "pt": "salvar"
+    },
+    "poundland": {
+      "pt": "Poundland, rede de lojas de desconto do Reino Unido"
+    },
+    "jobs": {
+      "pt": "empregos"
+    },
+    "risk": {
+      "pt": "risco"
+    },
+    "xyra": {
+      "pt": "Xyra, empresa que quer comprar a Poundland"
+    },
+    "debt": {
+      "pt": "dívida",
+      "highlight": true
+    },
+    "owners": {
+      "pt": "donos"
+    },
+    "buyer": {
+      "pt": "comprador"
+    },
+    "rescue": {
+      "pt": "resgate",
+      "highlight": true
+    },
+    "discount": {
+      "pt": "de desconto"
+    },
+    "shop": {
+      "pt": "loja"
+    },
+    "collapse": {
+      "pt": "colapso",
+      "highlight": true
+    },
+    "thousands": {
+      "pt": "milhares"
+    },
+    "loan": {
+      "pt": "empréstimo",
+      "highlight": true
+    },
+    "rest": {
+      "pt": "resto"
+    },
+    "owner": {
+      "pt": "dono",
+      "highlight": true
+    },
+    "gordon": {
+      "pt": "Gordon, nome próprio"
+    },
+    "brothers": {
+      "pt": "irmãos"
+    },
+    "refused": {
+      "pt": "recusou"
+    },
+    "secretary": {
+      "pt": "ministro"
+    },
+    "protect": {
+      "pt": "proteger"
+    },
+    "investor": {
+      "pt": "investidor"
+    },
+    "hardly": {
+      "pt": "quase nada"
+    },
+    "public": {
+      "pt": "público"
+    },
+    "information": {
+      "pt": "informação"
+    },
+    "proof": {
+      "pt": "prova",
+      "highlight": true
+    },
+    "founder": {
+      "pt": "fundador"
+    },
+    "warned": {
+      "pt": "alertou"
+    },
+    "suppliers": {
+      "pt": "fornecedores",
+      "highlight": true
+    },
+    "bust": {
+      "pt": "falido"
+    },
+    "collapses": {
+      "pt": "entra em colapso"
+    },
+    "bid": {
+      "pt": "oferta de compra",
+      "highlight": true
+    },
+    "looms": {
+      "pt": "se aproxima"
+    },
+    "retailer": {
+      "pt": "varejista"
+    },
+    "london": {
+      "pt": "Londres"
+    },
+    "based": {
+      "pt": "com sede"
+    },
+    "offered": {
+      "pt": "ofereceu"
+    },
+    "immediately": {
+      "pt": "imediatamente"
+    },
+    "defer": {
+      "pt": "adiar"
+    },
+    "share": {
+      "pt": "parte"
+    },
+    "martin": {
+      "pt": "Martin, nome próprio"
+    },
+    "property": {
+      "pt": "imóveis"
+    },
+    "rejected": {
+      "pt": "rejeitou"
+    },
+    "irish": {
+      "pt": "irlandês"
+    },
+    "saved": {
+      "pt": "salvaria"
+    },
+    "staff": {
+      "pt": "funcionários"
+    },
+    "jonathan": {
+      "pt": "Jonathan, nome próprio"
+    },
+    "reynolds": {
+      "pt": "Jonathan Reynolds, ministro dos Negócios do Reino Unido"
+    },
+    "held": {
+      "pt": "realizou"
+    },
+    "urged": {
+      "pt": "pediu com insistência"
+    },
+    "prioritise": {
+      "pt": "dar prioridade a"
+    },
+    "offers": {
+      "pt": "ofertas"
+    },
+    "shops": {
+      "pt": "lojas"
+    },
+    "doubts": {
+      "pt": "dúvidas"
+    },
+    "remain": {
+      "pt": "continuar"
+    },
+    "judith": {
+      "pt": "Judith, nome próprio"
+    },
+    "mackenzie": {
+      "pt": "MacKenzie, sobrenome"
+    },
+    "downing": {
+      "pt": "Downing, nome de uma gestora"
+    },
+    "fund": {
+      "pt": "fundo"
+    },
+    "managers": {
+      "pt": "gestores"
+    },
+    "firm": {
+      "pt": "empresa"
+    },
+    "evidence": {
+      "pt": "prova"
+    },
+    "three": {
+      "pt": "três"
+    },
+    "thousand": {
+      "pt": "mil"
+    },
+    "affecting": {
+      "pt": "afetando"
+    },
+    "overall": {
+      "pt": "no total"
+    }
+  }
+}

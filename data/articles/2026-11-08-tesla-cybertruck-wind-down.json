@@ -1,0 +1,199 @@
+{
+  "id": "2026-11-08-tesla-cybertruck-wind-down",
+  "date": "2026-11-08",
+  "topic": "bolsa",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-11-06T21:49:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Tesla will make fewer Cybertrucks",
+      "text": "Elon Musk says Tesla will slow down Cybertruck production next year. The factory in Texas needs room for a new car, the Cybercab. The Cybertruck did not sell well. Tesla sold 20,237 in 2025. Musk wanted to sell 250,000 a year. On Friday, Tesla shares rose 4.7%."
+    },
+    "2": {
+      "title": "Tesla plans to wind down the Cybertruck",
+      "text": "Elon Musk says Tesla will wind down Cybertruck production at its Texas factory next year. He said the plan is to make room for the Cybercab, a self-driving car. He did not say if the Cybertruck will stop completely.\n\nThe truck started selling in 2023 and sales have been weak. Tesla sold 20,237 Cybertrucks in 2025, down from 38,965 a year earlier. Musk once expected 250,000 sales a year. After his announcement on Friday, Tesla shares rose 4.7%. Musk also said the Cybertruck fleet will be around for a long time."
+    },
+    "3": {
+      "title": "Musk says Tesla will wind down Cybertruck production in Texas",
+      "text": "Elon Musk says Tesla will wind down production of the Cybertruck at its Texas factory next year. He did not say whether the company will stop making the vehicle entirely or move production elsewhere, but he said the decision was meant to make room for the self-driving Cybercab. The project's lead engineer, Wes Morrill, appeared to suggest that the truck was being discontinued.\n\nThe Cybertruck was delayed before its launch in 2023 and has sold poorly since. Tesla sold 20,237 of them in 2025, compared with 38,965 a year earlier, according to Kelley Blue Book. Musk had predicted annual sales of 250,000. Recalls, including one in 2025 that affected more than 46,000 trucks, did not help.\n\nTesla shares rose 4.7% on Friday after the announcement. When a fan said the truck would be discontinued next year, Musk replied \"true\" and added that the fleet would be around for a long time."
+    }
+  },
+  "glossary": {
+    "tesla": {
+      "pt": "Tesla, fabricante de carros elétricos"
+    },
+    "fewer": {
+      "pt": "menos"
+    },
+    "cybertrucks": {
+      "pt": "vários Cybertrucks"
+    },
+    "elon": {
+      "pt": "Elon, nome próprio"
+    },
+    "musk": {
+      "pt": "Elon Musk, dono da Tesla"
+    },
+    "slow": {
+      "pt": "diminuir o ritmo"
+    },
+    "cybertruck": {
+      "pt": "Cybertruck, picape da Tesla"
+    },
+    "production": {
+      "pt": "produção",
+      "highlight": true
+    },
+    "factory": {
+      "pt": "fábrica"
+    },
+    "texas": {
+      "pt": "Texas, estado dos EUA"
+    },
+    "car": {
+      "pt": "carro"
+    },
+    "cybercab": {
+      "pt": "Cybercab, carro autônomo da Tesla"
+    },
+    "friday": {
+      "pt": "sexta-feira"
+    },
+    "shares": {
+      "pt": "ações",
+      "highlight": true
+    },
+    "rose": {
+      "pt": "subiu",
+      "highlight": true
+    },
+    "wind": {
+      "pt": "reduzir aos poucos",
+      "highlight": true
+    },
+    "self": {
+      "pt": "auto"
+    },
+    "driving": {
+      "pt": "dirigindo"
+    },
+    "completely": {
+      "pt": "completamente"
+    },
+    "truck": {
+      "pt": "picape"
+    },
+    "sales": {
+      "pt": "vendas",
+      "highlight": true
+    },
+    "weak": {
+      "pt": "fraco",
+      "highlight": true
+    },
+    "earlier": {
+      "pt": "antes"
+    },
+    "expected": {
+      "pt": "esperava"
+    },
+    "announcement": {
+      "pt": "anúncio"
+    },
+    "fleet": {
+      "pt": "frota"
+    },
+    "whether": {
+      "pt": "se"
+    },
+    "vehicle": {
+      "pt": "veículo"
+    },
+    "entirely": {
+      "pt": "totalmente"
+    },
+    "elsewhere": {
+      "pt": "em outro lugar"
+    },
+    "decision": {
+      "pt": "decisão",
+      "highlight": true
+    },
+    "project": {
+      "pt": "projeto"
+    },
+    "engineer": {
+      "pt": "engenheiro"
+    },
+    "wes": {
+      "pt": "Wes, nome próprio"
+    },
+    "morrill": {
+      "pt": "Morrill, sobrenome"
+    },
+    "appeared": {
+      "pt": "pareceu"
+    },
+    "suggest": {
+      "pt": "sugerir"
+    },
+    "discontinued": {
+      "pt": "descontinuado",
+      "highlight": true
+    },
+    "delayed": {
+      "pt": "atrasado"
+    },
+    "launch": {
+      "pt": "lançamento"
+    },
+    "poorly": {
+      "pt": "mal"
+    },
+    "compared": {
+      "pt": "comparado"
+    },
+    "according": {
+      "pt": "de acordo com"
+    },
+    "kelley": {
+      "pt": "Kelley, nome de um guia de preços de carros"
+    },
+    "blue": {
+      "pt": "azul"
+    },
+    "book": {
+      "pt": "livro"
+    },
+    "predicted": {
+      "pt": "previu"
+    },
+    "annual": {
+      "pt": "anual"
+    },
+    "recalls": {
+      "pt": "recalls, chamadas para reparo"
+    },
+    "including": {
+      "pt": "incluindo"
+    },
+    "affected": {
+      "pt": "afetou"
+    },
+    "trucks": {
+      "pt": "picapes"
+    },
+    "fan": {
+      "pt": "fã"
+    },
+    "replied": {
+      "pt": "respondeu"
+    },
+    "added": {
+      "pt": "acrescentou"
+    }
+  }
+}

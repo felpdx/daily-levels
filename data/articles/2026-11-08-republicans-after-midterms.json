@@ -1,0 +1,307 @@
+{
+  "id": "2026-11-08-republicans-after-midterms",
+  "date": "2026-11-08",
+  "topic": "mundo",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cm3r5gnxqz3jo?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-11-08T00:52:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Republicans ask what to do next",
+      "text": "Republicans lost the midterm election. They lost the House and the Senate. Now they must choose a way forward. Some want to follow Donald Trump. Others want a new path. Vice-President JD Vance says there will be a lot of arguing. Trump named Stephen Miller as his new chief of staff."
+    },
+    "2": {
+      "title": "Republicans argue about their future after the midterms",
+      "text": "Republicans are asking what to do after a big defeat in the 2026 midterms. The party lost control of the House and the Senate. Florida Governor Ron DeSantis said the result was close to an \"extinction-level event\" for Republicans.\n\nSome people want to follow Donald Trump more. Steve Bannon said the party should do more of what Trump promised. Others want a new path. Vice-President JD Vance said there will be a lot of arguing. Three days after the election, Trump named Stephen Miller as his new chief of staff. This shows he does not plan to change his message."
+    },
+    "3": {
+      "title": "The Trump coalition is shattered: what will Republicans do now?",
+      "text": "Republicans are in a period of soul-searching after the coalition that carried Donald Trump to three straight presidential nominations fell apart in the 2026 midterms. The party lost the House and the Senate, and old-guard figures such as John Cornyn in Texas and Susan Collins in Maine were voted out.\n\nReactions show deep divisions. Outgoing Florida Governor Ron DeSantis called the result \"close to an extinction-level event\" for Republicans. Vice-President JD Vance blamed public anger over the war with Iran, but admitted that \"there will be a lot of infighting.\" Steve Bannon predicted a \"civil war\" and urged Trump to double down on mass deportations. Republican strategist Rina Shah said the party must decide whether to be built around one person or around wider conservative ideas.\n\nThree days after the election, Trump appointed Stephen Miller, known for his hardline immigration views, as chief of staff, replacing Susie Wiles. This signals that Trump has no plans to moderate his message."
+    }
+  },
+  "glossary": {
+    "republicans": {
+      "pt": "republicanos"
+    },
+    "midterm": {
+      "pt": "de meio de mandato"
+    },
+    "election": {
+      "pt": "eleição"
+    },
+    "house": {
+      "pt": "Câmara dos Deputados dos EUA"
+    },
+    "senate": {
+      "pt": "Senado"
+    },
+    "choose": {
+      "pt": "escolher"
+    },
+    "forward": {
+      "pt": "adiante"
+    },
+    "follow": {
+      "pt": "seguir"
+    },
+    "donald": {
+      "pt": "Donald, nome próprio"
+    },
+    "trump": {
+      "pt": "Donald Trump, presidente dos EUA"
+    },
+    "path": {
+      "pt": "caminho"
+    },
+    "vice": {
+      "pt": "vice"
+    },
+    "jd": {
+      "pt": "JD, nome próprio"
+    },
+    "vance": {
+      "pt": "JD Vance, vice-presidente dos EUA"
+    },
+    "arguing": {
+      "pt": "discussão"
+    },
+    "stephen": {
+      "pt": "Stephen, nome próprio"
+    },
+    "miller": {
+      "pt": "Stephen Miller, novo chefe de gabinete de Trump"
+    },
+    "chief": {
+      "pt": "chefe",
+      "highlight": true
+    },
+    "staff": {
+      "pt": "funcionários"
+    },
+    "argue": {
+      "pt": "discutir"
+    },
+    "future": {
+      "pt": "futuro"
+    },
+    "midterms": {
+      "pt": "eleições de meio de mandato nos EUA",
+      "highlight": true
+    },
+    "defeat": {
+      "pt": "derrota",
+      "highlight": true
+    },
+    "party": {
+      "pt": "partido",
+      "highlight": true
+    },
+    "florida": {
+      "pt": "Flórida"
+    },
+    "governor": {
+      "pt": "governador"
+    },
+    "ron": {
+      "pt": "Ron, nome próprio"
+    },
+    "desantis": {
+      "pt": "Ron DeSantis, governador da Flórida"
+    },
+    "result": {
+      "pt": "resultado"
+    },
+    "extinction": {
+      "pt": "extinção"
+    },
+    "level": {
+      "pt": "nível"
+    },
+    "event": {
+      "pt": "evento"
+    },
+    "steve": {
+      "pt": "Steve, nome próprio"
+    },
+    "bannon": {
+      "pt": "Steve Bannon, aliado de Trump"
+    },
+    "promised": {
+      "pt": "prometeu"
+    },
+    "three": {
+      "pt": "três"
+    },
+    "message": {
+      "pt": "mensagem"
+    },
+    "coalition": {
+      "pt": "coalizão",
+      "highlight": true
+    },
+    "shattered": {
+      "pt": "despedaçada"
+    },
+    "period": {
+      "pt": "período"
+    },
+    "soul": {
+      "pt": "alma"
+    },
+    "searching": {
+      "pt": "busca"
+    },
+    "carried": {
+      "pt": "levou"
+    },
+    "straight": {
+      "pt": "seguidas"
+    },
+    "nominations": {
+      "pt": "indicações"
+    },
+    "apart": {
+      "pt": "em pedaços"
+    },
+    "guard": {
+      "pt": "guarda"
+    },
+    "figures": {
+      "pt": "figuras"
+    },
+    "john": {
+      "pt": "John, nome próprio"
+    },
+    "cornyn": {
+      "pt": "John Cornyn, senador do Texas"
+    },
+    "texas": {
+      "pt": "Texas, estado dos EUA"
+    },
+    "susan": {
+      "pt": "Susan, nome próprio"
+    },
+    "collins": {
+      "pt": "Susan Collins, senadora do Maine"
+    },
+    "maine": {
+      "pt": "Maine, estado dos EUA"
+    },
+    "voted": {
+      "pt": "votou"
+    },
+    "reactions": {
+      "pt": "reações"
+    },
+    "deep": {
+      "pt": "profundo"
+    },
+    "divisions": {
+      "pt": "divisões"
+    },
+    "outgoing": {
+      "pt": "que está saindo"
+    },
+    "blamed": {
+      "pt": "culpou"
+    },
+    "public": {
+      "pt": "público"
+    },
+    "anger": {
+      "pt": "raiva"
+    },
+    "war": {
+      "pt": "guerra",
+      "highlight": true
+    },
+    "iran": {
+      "pt": "Irã"
+    },
+    "admitted": {
+      "pt": "admitiu"
+    },
+    "infighting": {
+      "pt": "briga interna"
+    },
+    "predicted": {
+      "pt": "previu",
+      "highlight": true
+    },
+    "civil": {
+      "pt": "civil"
+    },
+    "urged": {
+      "pt": "pediu com insistência",
+      "highlight": true
+    },
+    "double": {
+      "pt": "dobrar"
+    },
+    "mass": {
+      "pt": "em massa"
+    },
+    "deportations": {
+      "pt": "deportações"
+    },
+    "republican": {
+      "pt": "republicano"
+    },
+    "strategist": {
+      "pt": "estrategista"
+    },
+    "rina": {
+      "pt": "Rina, nome próprio"
+    },
+    "shah": {
+      "pt": "Shah, sobrenome"
+    },
+    "decide": {
+      "pt": "decidir"
+    },
+    "whether": {
+      "pt": "se"
+    },
+    "built": {
+      "pt": "construído"
+    },
+    "wider": {
+      "pt": "mais amplas"
+    },
+    "conservative": {
+      "pt": "conservador"
+    },
+    "ideas": {
+      "pt": "ideias"
+    },
+    "appointed": {
+      "pt": "nomeou"
+    },
+    "hardline": {
+      "pt": "linha-dura"
+    },
+    "immigration": {
+      "pt": "imigração"
+    },
+    "views": {
+      "pt": "opiniões"
+    },
+    "replacing": {
+      "pt": "substituindo"
+    },
+    "susie": {
+      "pt": "Susie, nome próprio"
+    },
+    "wiles": {
+      "pt": "Susie Wiles, ex-chefe de gabinete de Trump"
+    },
+    "signals": {
+      "pt": "sinaliza"
+    },
+    "moderate": {
+      "pt": "moderar"
+    }
+  }
+}

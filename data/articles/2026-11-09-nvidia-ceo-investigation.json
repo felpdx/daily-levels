@@ -1,0 +1,338 @@
+{
+  "id": "2026-11-09-nvidia-ceo-investigation",
+  "date": "2026-11-09",
+  "topic": "bolsa",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-11-09T08:10:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Nvidia starts an investigation of its boss",
+      "text": "Nvidia is one of the biggest companies in the world. Its boss is Jensen Huang. A newspaper says he had a relationship with a woman who may be a Chinese spy. China says this is false. Huang says he was unfaithful to his wife. Nvidia's board starts an investigation. It sees no sign that secrets were lost."
+    },
+    "2": {
+      "title": "Nvidia opens an investigation into its CEO",
+      "text": "Nvidia has started an independent investigation after reports that its CEO, Jensen Huang, had a relationship with a woman that US officials think was a spy for China. The New York Times reported this. China says the claims are groundless.\n\nHuang said he was unfaithful to his wife and took full responsibility. He also said he will help the investigation. Nvidia's board says it has no reason to believe that national security or company secrets were hurt. The company is worth about 4.5 trillion dollars. President Donald Trump said Huang is an honourable man. Members of the US Congress have asked Huang to speak to them later this month."
+    },
+    "3": {
+      "title": "Nvidia launches investigation into CEO's relationship with suspected Chinese spy",
+      "text": "Nvidia has opened an independent investigation after the New York Times reported that its CEO, Jensen Huang, had a relationship with Alice Huang, a Chinese businesswoman whom US intelligence officials believe worked for Beijing. The two are not related. China has called the claims groundless speculation meant to smear it.\n\nJensen Huang said he had been unfaithful to his wife, apologised to his family and took full responsibility. He said he supports the investigation and will cooperate. Nvidia's board said it has no reason to believe national security or company secrets were compromised, and that Huang remains committed to leading the firm, which is worth about 4.5 trillion dollars.\n\nPresident Donald Trump said he had not spoken to Huang and called him an honourable man. Secretary of State Marco Rubio declined to comment. Three Republican committee leaders in Congress have asked Huang to appear later this month to discuss the company's protection against foreign espionage. Nvidia's chips are central to the rivalry between the US and China."
+    }
+  },
+  "glossary": {
+    "nvidia": {
+      "pt": "Nvidia, empresa de chips para IA",
+      "forms": []
+    },
+    "investigation": {
+      "pt": "investigacao",
+      "forms": [],
+      "highlight": true
+    },
+    "boss": {
+      "pt": "chefe",
+      "forms": []
+    },
+    "jensen": {
+      "pt": "Jensen, nome de Huang",
+      "forms": []
+    },
+    "huang": {
+      "pt": "Jensen Huang, presidente da Nvidia",
+      "forms": []
+    },
+    "relationship": {
+      "pt": "relacionamento",
+      "forms": []
+    },
+    "chinese": {
+      "pt": "chines",
+      "forms": []
+    },
+    "spy": {
+      "pt": "espiao",
+      "forms": [],
+      "highlight": true
+    },
+    "china": {
+      "pt": "China",
+      "forms": []
+    },
+    "false": {
+      "pt": "falso",
+      "forms": []
+    },
+    "unfaithful": {
+      "pt": "infiel",
+      "forms": [],
+      "highlight": true
+    },
+    "wife": {
+      "pt": "esposa",
+      "forms": []
+    },
+    "nvidia's": {
+      "pt": "da Nvidia",
+      "forms": []
+    },
+    "board": {
+      "pt": "conselho de administracao",
+      "forms": [],
+      "highlight": true
+    },
+    "sign": {
+      "pt": "sinal",
+      "forms": []
+    },
+    "secrets": {
+      "pt": "segredos",
+      "forms": [],
+      "highlight": true
+    },
+    "opens": {
+      "pt": "abre",
+      "forms": []
+    },
+    "ceo": {
+      "pt": "presidente executivo de uma empresa",
+      "forms": []
+    },
+    "independent": {
+      "pt": "independente",
+      "forms": []
+    },
+    "reports": {
+      "pt": "relatos",
+      "forms": []
+    },
+    "officials": {
+      "pt": "autoridades",
+      "forms": []
+    },
+    "york": {
+      "pt": "York (New York Times, jornal dos EUA)",
+      "forms": []
+    },
+    "reported": {
+      "pt": "relatou",
+      "forms": []
+    },
+    "claims": {
+      "pt": "alegacoes",
+      "forms": []
+    },
+    "groundless": {
+      "pt": "sem base",
+      "forms": [],
+      "highlight": true
+    },
+    "full": {
+      "pt": "total",
+      "forms": []
+    },
+    "responsibility": {
+      "pt": "responsabilidade",
+      "forms": [],
+      "highlight": true
+    },
+    "national": {
+      "pt": "nacional",
+      "forms": []
+    },
+    "security": {
+      "pt": "seguranca",
+      "forms": []
+    },
+    "hurt": {
+      "pt": "machucou, prejudicou",
+      "forms": []
+    },
+    "worth": {
+      "pt": "vale",
+      "forms": []
+    },
+    "trillion": {
+      "pt": "trilhao",
+      "forms": []
+    },
+    "dollars": {
+      "pt": "dolares",
+      "forms": []
+    },
+    "donald": {
+      "pt": "Donald, nome do presidente Trump",
+      "forms": []
+    },
+    "trump": {
+      "pt": "Donald Trump, presidente dos EUA",
+      "forms": []
+    },
+    "honourable": {
+      "pt": "honrado",
+      "forms": []
+    },
+    "congress": {
+      "pt": "Congresso dos EUA",
+      "forms": []
+    },
+    "speak": {
+      "pt": "falar",
+      "forms": []
+    },
+    "launches": {
+      "pt": "inicia",
+      "forms": []
+    },
+    "ceo's": {
+      "pt": "do presidente executivo",
+      "forms": []
+    },
+    "suspected": {
+      "pt": "suspeito",
+      "forms": []
+    },
+    "opened": {
+      "pt": "abriu",
+      "forms": []
+    },
+    "alice": {
+      "pt": "Alice, nome da mulher ligada a Huang",
+      "forms": []
+    },
+    "businesswoman": {
+      "pt": "empresaria",
+      "forms": []
+    },
+    "intelligence": {
+      "pt": "inteligencia, servico secreto",
+      "forms": []
+    },
+    "beijing": {
+      "pt": "Pequim, governo da China",
+      "forms": []
+    },
+    "related": {
+      "pt": "parente",
+      "forms": []
+    },
+    "speculation": {
+      "pt": "especulacao",
+      "forms": []
+    },
+    "smear": {
+      "pt": "difamar",
+      "forms": []
+    },
+    "apologised": {
+      "pt": "pediu desculpas",
+      "forms": []
+    },
+    "family": {
+      "pt": "familia",
+      "forms": []
+    },
+    "supports": {
+      "pt": "apoia",
+      "forms": []
+    },
+    "cooperate": {
+      "pt": "cooperar",
+      "forms": []
+    },
+    "compromised": {
+      "pt": "comprometido",
+      "forms": []
+    },
+    "remains": {
+      "pt": "continua",
+      "forms": []
+    },
+    "committed": {
+      "pt": "comprometido",
+      "forms": []
+    },
+    "firm": {
+      "pt": "empresa",
+      "forms": []
+    },
+    "spoken": {
+      "pt": "falou",
+      "forms": []
+    },
+    "secretary": {
+      "pt": "secretario",
+      "forms": []
+    },
+    "state": {
+      "pt": "Estado",
+      "forms": []
+    },
+    "marco": {
+      "pt": "Marco, nome de Rubio",
+      "forms": []
+    },
+    "rubio": {
+      "pt": "Marco Rubio, secretario de Estado dos EUA",
+      "forms": []
+    },
+    "declined": {
+      "pt": "recusou",
+      "forms": []
+    },
+    "comment": {
+      "pt": "comentar",
+      "forms": []
+    },
+    "three": {
+      "pt": "tres",
+      "forms": []
+    },
+    "republican": {
+      "pt": "republicano",
+      "forms": []
+    },
+    "committee": {
+      "pt": "comissao",
+      "forms": []
+    },
+    "leaders": {
+      "pt": "lideres",
+      "forms": []
+    },
+    "appear": {
+      "pt": "comparecer",
+      "forms": []
+    },
+    "discuss": {
+      "pt": "discutir",
+      "forms": []
+    },
+    "protection": {
+      "pt": "protecao",
+      "forms": []
+    },
+    "foreign": {
+      "pt": "estrangeiro",
+      "forms": []
+    },
+    "espionage": {
+      "pt": "espionagem",
+      "forms": [],
+      "highlight": true
+    },
+    "chips": {
+      "pt": "chips, pecas de computador",
+      "forms": []
+    },
+    "central": {
+      "pt": "central",
+      "forms": []
+    },
+    "rivalry": {
+      "pt": "rivalidade",
+      "forms": []
+    }
+  }
+}

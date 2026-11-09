@@ -1,6 +1,41 @@
 {
   "articles": [
     {
+      "id": "2026-11-09-refrigeration-controller-attacks-warning",
+      "date": "2026-11-09",
+      "topic": "hacking",
+      "title": "Hackers attack cold storage systems",
+      "source": "The Hacker News"
+    },
+    {
+      "id": "2026-11-09-sonicwall-sonicos-mfa-bypass",
+      "date": "2026-11-09",
+      "topic": "hacking",
+      "title": "A VPN flaw may be used by hackers",
+      "source": "The Hacker News"
+    },
+    {
+      "id": "2026-11-09-nvidia-ceo-investigation",
+      "date": "2026-11-09",
+      "topic": "bolsa",
+      "title": "Nvidia starts an investigation of its boss",
+      "source": "BBC News"
+    },
+    {
+      "id": "2026-11-09-ueno-bank-savers-paraguay",
+      "date": "2026-11-09",
+      "topic": "bolsa",
+      "title": "People cannot reach money in a closed bank",
+      "source": "MercoPress"
+    },
+    {
+      "id": "2026-11-09-anc-worst-local-election-result",
+      "date": "2026-11-09",
+      "topic": "mundo",
+      "title": "South Africa's ANC has its worst result",
+      "source": "BBC News"
+    },
+    {
       "id": "2026-11-08-claude-dispatch-extension-flaw",
       "date": "2026-11-08",
       "topic": "hacking",

@@ -1,0 +1,510 @@
+{
+  "id": "2026-11-09-refrigeration-controller-attacks-warning",
+  "date": "2026-11-09",
+  "topic": "hacking",
+  "source": {
+    "name": "The Hacker News",
+    "url": "https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html",
+    "publishedAt": "2026-11-09T06:15:10Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Hackers attack cold storage systems",
+      "text": "US agencies say hackers attack machines that keep food cold. The hackers change the settings by internet. The food gets warm and spoils. In Europe, hundreds of shops had this problem. Some machines reached 50 degrees Celsius. Owners should change old passwords and keep these machines off the internet."
+    },
+    "2": {
+      "title": "US agencies warn about attacks on refrigeration systems",
+      "text": "Several US agencies say hackers are attacking industrial refrigeration systems around the world. The hackers use weak passwords or flaws in controllers that are open to the internet. They change the settings, so the units get too hot or start melting ice again and again. This can spoil food and medicine and can be a fire risk.\n\nIn recent weeks, hundreds of supermarkets in Europe were attacked. Some units reached 50 degrees Celsius. A French blood center said the temperature was raised at three places that store blood plasma. It is not clear who is behind the attacks. The agencies ask owners to use strong passwords, update systems and remove unneeded internet access."
+    },
+    "3": {
+      "title": "US agencies warn that refrigeration controller attacks could cause fires and losses",
+      "text": "A group of US agencies, including CISA, the FBI and the Department of Agriculture, has warned that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems around the world. The attackers can use unpatched or internet-exposed controllers to change settings remotely and force units into constant heating and defrost cycles, which can ruin inventory and create equipment hazards.\n\nIn recent weeks, hundreds of supermarkets across Europe were hit, in some cases with temperatures raised as high as 50 degrees Celsius. Targets ranged from big chains to small grocers and butchers in more than a dozen countries. The French Blood Establishment confirmed that an incident at a refrigeration provider pushed temperature and defrost settings to extremely high levels at three plasma storage sites. Nobody has been identified as responsible.\n\nThe agencies urge owners to use strong authentication, change default passwords, isolate operational technology, replace old devices and remove unnecessary remote access. Data from the firm Censys shows exposed Danfoss StoreView systems fell from 3,004 to 708 between October 9 and November 5, 2026."
+    }
+  },
+  "glossary": {
+    "hackers": {
+      "pt": "hackers",
+      "forms": [],
+      "highlight": true
+    },
+    "attack": {
+      "pt": "ataque",
+      "forms": []
+    },
+    "cold": {
+      "pt": "frio",
+      "forms": []
+    },
+    "storage": {
+      "pt": "armazenamento",
+      "forms": []
+    },
+    "systems": {
+      "pt": "sistemas",
+      "forms": []
+    },
+    "agencies": {
+      "pt": "agencias",
+      "forms": []
+    },
+    "machines": {
+      "pt": "maquinas",
+      "forms": []
+    },
+    "food": {
+      "pt": "comida",
+      "forms": []
+    },
+    "settings": {
+      "pt": "configuracoes",
+      "forms": [],
+      "highlight": true
+    },
+    "internet": {
+      "pt": "internet",
+      "forms": []
+    },
+    "warm": {
+      "pt": "morno",
+      "forms": []
+    },
+    "spoils": {
+      "pt": "estraga",
+      "forms": []
+    },
+    "europe": {
+      "pt": "Europa",
+      "forms": []
+    },
+    "hundreds": {
+      "pt": "centenas",
+      "forms": []
+    },
+    "shops": {
+      "pt": "lojas",
+      "forms": []
+    },
+    "reached": {
+      "pt": "chegou a",
+      "forms": []
+    },
+    "degrees": {
+      "pt": "graus",
+      "forms": []
+    },
+    "celsius": {
+      "pt": "graus Celsius",
+      "forms": []
+    },
+    "owners": {
+      "pt": "donos",
+      "forms": []
+    },
+    "passwords": {
+      "pt": "senhas",
+      "forms": [],
+      "highlight": true
+    },
+    "warn": {
+      "pt": "alertar",
+      "forms": []
+    },
+    "attacks": {
+      "pt": "ataques",
+      "forms": []
+    },
+    "refrigeration": {
+      "pt": "refrigeracao",
+      "forms": []
+    },
+    "several": {
+      "pt": "varios",
+      "forms": []
+    },
+    "attacking": {
+      "pt": "atacando",
+      "forms": []
+    },
+    "industrial": {
+      "pt": "industrial",
+      "forms": []
+    },
+    "weak": {
+      "pt": "fraco",
+      "forms": []
+    },
+    "flaws": {
+      "pt": "falhas",
+      "forms": []
+    },
+    "controllers": {
+      "pt": "controladores",
+      "forms": [],
+      "highlight": true
+    },
+    "open": {
+      "pt": "aberto",
+      "forms": []
+    },
+    "units": {
+      "pt": "unidades",
+      "forms": []
+    },
+    "hot": {
+      "pt": "quente",
+      "forms": []
+    },
+    "melting": {
+      "pt": "derretendo",
+      "forms": []
+    },
+    "ice": {
+      "pt": "gelo",
+      "forms": []
+    },
+    "spoil": {
+      "pt": "estragar",
+      "forms": [],
+      "highlight": true
+    },
+    "medicine": {
+      "pt": "remedio",
+      "forms": []
+    },
+    "fire": {
+      "pt": "incendio",
+      "forms": []
+    },
+    "risk": {
+      "pt": "risco",
+      "forms": []
+    },
+    "recent": {
+      "pt": "recente",
+      "forms": []
+    },
+    "supermarkets": {
+      "pt": "supermercados",
+      "forms": []
+    },
+    "attacked": {
+      "pt": "atacados",
+      "forms": []
+    },
+    "french": {
+      "pt": "frances",
+      "forms": []
+    },
+    "blood": {
+      "pt": "sangue",
+      "forms": []
+    },
+    "center": {
+      "pt": "centro",
+      "forms": []
+    },
+    "temperature": {
+      "pt": "temperatura",
+      "forms": []
+    },
+    "raised": {
+      "pt": "aumentou",
+      "forms": []
+    },
+    "three": {
+      "pt": "tres",
+      "forms": []
+    },
+    "places": {
+      "pt": "lugares",
+      "forms": []
+    },
+    "store": {
+      "pt": "guardar",
+      "forms": []
+    },
+    "plasma": {
+      "pt": "plasma do sangue",
+      "forms": []
+    },
+    "update": {
+      "pt": "atualizar",
+      "forms": []
+    },
+    "remove": {
+      "pt": "remover",
+      "forms": [],
+      "highlight": true
+    },
+    "unneeded": {
+      "pt": "desnecessario",
+      "forms": []
+    },
+    "access": {
+      "pt": "acesso",
+      "forms": []
+    },
+    "controller": {
+      "pt": "controlador",
+      "forms": []
+    },
+    "cause": {
+      "pt": "causar",
+      "forms": []
+    },
+    "fires": {
+      "pt": "incendios",
+      "forms": []
+    },
+    "losses": {
+      "pt": "perdas",
+      "forms": []
+    },
+    "including": {
+      "pt": "incluindo",
+      "forms": []
+    },
+    "cisa": {
+      "pt": "CISA, agencia de ciberseguranca dos EUA",
+      "forms": []
+    },
+    "fbi": {
+      "pt": "FBI, policia federal dos EUA",
+      "forms": []
+    },
+    "department": {
+      "pt": "departamento",
+      "forms": []
+    },
+    "agriculture": {
+      "pt": "agricultura",
+      "forms": []
+    },
+    "warned": {
+      "pt": "alertou",
+      "forms": []
+    },
+    "actively": {
+      "pt": "de forma ativa",
+      "forms": []
+    },
+    "targeting": {
+      "pt": "visando",
+      "forms": []
+    },
+    "chain": {
+      "pt": "cadeia",
+      "forms": []
+    },
+    "monitoring": {
+      "pt": "monitoramento",
+      "forms": []
+    },
+    "attackers": {
+      "pt": "atacantes",
+      "forms": []
+    },
+    "unpatched": {
+      "pt": "sem correcao",
+      "forms": []
+    },
+    "exposed": {
+      "pt": "exposto",
+      "forms": []
+    },
+    "remotely": {
+      "pt": "a distancia",
+      "forms": []
+    },
+    "force": {
+      "pt": "forcar",
+      "forms": []
+    },
+    "constant": {
+      "pt": "constante",
+      "forms": []
+    },
+    "heating": {
+      "pt": "aquecimento",
+      "forms": []
+    },
+    "defrost": {
+      "pt": "degelo",
+      "forms": [],
+      "highlight": true
+    },
+    "cycles": {
+      "pt": "ciclos",
+      "forms": []
+    },
+    "ruin": {
+      "pt": "estragar",
+      "forms": []
+    },
+    "inventory": {
+      "pt": "estoque",
+      "forms": [],
+      "highlight": true
+    },
+    "create": {
+      "pt": "criar",
+      "forms": []
+    },
+    "equipment": {
+      "pt": "equipamento",
+      "forms": []
+    },
+    "hazards": {
+      "pt": "riscos",
+      "forms": []
+    },
+    "across": {
+      "pt": "em todo, por",
+      "forms": []
+    },
+    "hit": {
+      "pt": "atingido",
+      "forms": []
+    },
+    "cases": {
+      "pt": "casos",
+      "forms": []
+    },
+    "temperatures": {
+      "pt": "temperaturas",
+      "forms": []
+    },
+    "targets": {
+      "pt": "alvos",
+      "forms": []
+    },
+    "ranged": {
+      "pt": "foi de",
+      "forms": []
+    },
+    "chains": {
+      "pt": "redes",
+      "forms": []
+    },
+    "grocers": {
+      "pt": "donos de mercearia",
+      "forms": []
+    },
+    "butchers": {
+      "pt": "acougueiros",
+      "forms": []
+    },
+    "dozen": {
+      "pt": "duzia",
+      "forms": []
+    },
+    "establishment": {
+      "pt": "instituicao",
+      "forms": []
+    },
+    "confirmed": {
+      "pt": "confirmou",
+      "forms": []
+    },
+    "incident": {
+      "pt": "incidente",
+      "forms": []
+    },
+    "provider": {
+      "pt": "fornecedor",
+      "forms": []
+    },
+    "pushed": {
+      "pt": "empurrou",
+      "forms": []
+    },
+    "extremely": {
+      "pt": "extremamente",
+      "forms": []
+    },
+    "levels": {
+      "pt": "niveis",
+      "forms": []
+    },
+    "sites": {
+      "pt": "locais",
+      "forms": []
+    },
+    "identified": {
+      "pt": "identificado",
+      "forms": []
+    },
+    "responsible": {
+      "pt": "responsavel",
+      "forms": []
+    },
+    "urge": {
+      "pt": "pede com forca",
+      "forms": []
+    },
+    "authentication": {
+      "pt": "autenticacao, confirmacao de identidade",
+      "forms": []
+    },
+    "default": {
+      "pt": "padrao",
+      "forms": []
+    },
+    "isolate": {
+      "pt": "isolar",
+      "forms": []
+    },
+    "operational": {
+      "pt": "operacional",
+      "forms": []
+    },
+    "technology": {
+      "pt": "tecnologia",
+      "forms": []
+    },
+    "replace": {
+      "pt": "trocar",
+      "forms": []
+    },
+    "devices": {
+      "pt": "aparelhos",
+      "forms": []
+    },
+    "unnecessary": {
+      "pt": "desnecessario",
+      "forms": []
+    },
+    "remote": {
+      "pt": "remoto",
+      "forms": []
+    },
+    "data": {
+      "pt": "dados",
+      "forms": []
+    },
+    "firm": {
+      "pt": "empresa",
+      "forms": []
+    },
+    "censys": {
+      "pt": "Censys, empresa de seguranca digital",
+      "forms": []
+    },
+    "danfoss": {
+      "pt": "Danfoss, fabricante de equipamentos",
+      "forms": []
+    },
+    "storeview": {
+      "pt": "StoreView, sistema de controle de loja",
+      "forms": []
+    },
+    "october": {
+      "pt": "outubro",
+      "forms": []
+    },
+    "november": {
+      "pt": "novembro",
+      "forms": []
+    }
+  }
+}

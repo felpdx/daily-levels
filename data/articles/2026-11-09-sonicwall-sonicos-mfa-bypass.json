@@ -1,0 +1,354 @@
+{
+  "id": "2026-11-09-sonicwall-sonicos-mfa-bypass",
+  "date": "2026-11-09",
+  "topic": "hacking",
+  "source": {
+    "name": "The Hacker News",
+    "url": "https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html",
+    "publishedAt": "2026-11-09T06:05:24Z"
+  },
+  "levels": {
+    "1": {
+      "title": "A VPN flaw may be used by hackers",
+      "text": "A US agency says a flaw in SonicWall software is in danger. The software helps people connect to a company network. The flaw can let a person skip a login check. Hackers may already use it. SonicWall says it looked at a report about this. The company asks customers to update now."
+    },
+    "2": {
+      "title": "US agency warns about a SonicWall login flaw",
+      "text": "The US cyber agency CISA has added a SonicWall flaw to its list of known exploited problems. The flaw is called CVE-2026-19868. It is in the VPN service of SonicOS, the software that runs SonicWall devices.\n\nSonicWall says a person with valid details for another login method may skip the SAML login check. This can also get around multi-factor authentication. The company says it looked into a report of possible attacks. It did not say who is behind them. It asks customers to update as soon as possible. US federal agencies must install the fix by November 20, 2026."
+    },
+    "3": {
+      "title": "CISA adds SonicWall SonicOS login bypass flaw to exploited list",
+      "text": "The US Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity SonicWall flaw to its Known Exploited Vulnerabilities catalog, after reports that it may have been used in real attacks. The flaw, CVE-2026-19868, has a severity score of 7.1 out of 10 under one system and 7.5 under another.\n\nIn an advisory published on Friday, SonicWall said the problem is in the SSL-VPN service of SonicOS. A user with valid credentials for an alternate login method may be able to bypass SAML authentication, and the same weakness may also defeat multi-factor authentication that SAML enforces. The company said it had investigated a report of possible exploitation, but gave no details about the attack or the people behind it. It urged customers to update quickly.\n\nSonicWall also fixed several other serious flaws. Federal civilian agencies have until November 20, 2026 to apply the patches. Days earlier, the company described two unpatched flaws in old Global Management System products and told customers to move to Network Security Manager."
+    }
+  },
+  "glossary": {
+    "vpn": {
+      "pt": "VPN, conexao segura a uma rede",
+      "forms": []
+    },
+    "flaw": {
+      "pt": "falha",
+      "forms": [],
+      "highlight": true
+    },
+    "hackers": {
+      "pt": "hackers",
+      "forms": []
+    },
+    "agency": {
+      "pt": "agencia",
+      "forms": []
+    },
+    "sonicwall": {
+      "pt": "SonicWall, empresa de seguranca digital",
+      "forms": []
+    },
+    "software": {
+      "pt": "programa de computador",
+      "forms": []
+    },
+    "danger": {
+      "pt": "perigo",
+      "forms": []
+    },
+    "connect": {
+      "pt": "conectar",
+      "forms": []
+    },
+    "network": {
+      "pt": "rede",
+      "forms": []
+    },
+    "let": {
+      "pt": "deixar",
+      "forms": []
+    },
+    "skip": {
+      "pt": "pular",
+      "forms": []
+    },
+    "login": {
+      "pt": "entrada com senha",
+      "forms": []
+    },
+    "check": {
+      "pt": "verificacao",
+      "forms": []
+    },
+    "report": {
+      "pt": "relato",
+      "forms": []
+    },
+    "customers": {
+      "pt": "clientes",
+      "forms": [],
+      "highlight": true
+    },
+    "update": {
+      "pt": "atualizar",
+      "forms": []
+    },
+    "warns": {
+      "pt": "alerta",
+      "forms": []
+    },
+    "cyber": {
+      "pt": "digital",
+      "forms": []
+    },
+    "cisa": {
+      "pt": "CISA, agencia de ciberseguranca dos EUA",
+      "forms": []
+    },
+    "added": {
+      "pt": "adicionou",
+      "forms": []
+    },
+    "list": {
+      "pt": "lista",
+      "forms": []
+    },
+    "exploited": {
+      "pt": "explorado por hackers",
+      "forms": [],
+      "highlight": true
+    },
+    "service": {
+      "pt": "servico",
+      "forms": []
+    },
+    "sonicos": {
+      "pt": "SonicOS, programa da SonicWall",
+      "forms": []
+    },
+    "devices": {
+      "pt": "aparelhos",
+      "forms": []
+    },
+    "valid": {
+      "pt": "valido",
+      "forms": [],
+      "highlight": true
+    },
+    "details": {
+      "pt": "detalhes",
+      "forms": []
+    },
+    "method": {
+      "pt": "metodo",
+      "forms": []
+    },
+    "saml": {
+      "pt": "SAML, sistema de login unico",
+      "forms": []
+    },
+    "multi": {
+      "pt": "multi, varios",
+      "forms": []
+    },
+    "factor": {
+      "pt": "fator",
+      "forms": []
+    },
+    "authentication": {
+      "pt": "autenticacao, confirmacao de identidade",
+      "forms": [],
+      "highlight": true
+    },
+    "possible": {
+      "pt": "possivel",
+      "forms": []
+    },
+    "attacks": {
+      "pt": "ataques",
+      "forms": []
+    },
+    "federal": {
+      "pt": "federal",
+      "forms": []
+    },
+    "agencies": {
+      "pt": "agencias",
+      "forms": []
+    },
+    "install": {
+      "pt": "instalar",
+      "forms": []
+    },
+    "fix": {
+      "pt": "correcao",
+      "forms": []
+    },
+    "november": {
+      "pt": "novembro",
+      "forms": []
+    },
+    "adds": {
+      "pt": "adiciona",
+      "forms": []
+    },
+    "bypass": {
+      "pt": "contornar",
+      "forms": [],
+      "highlight": true
+    },
+    "cybersecurity": {
+      "pt": "ciberseguranca",
+      "forms": []
+    },
+    "infrastructure": {
+      "pt": "infraestrutura",
+      "forms": []
+    },
+    "security": {
+      "pt": "seguranca",
+      "forms": []
+    },
+    "severity": {
+      "pt": "gravidade",
+      "forms": []
+    },
+    "vulnerabilities": {
+      "pt": "falhas de seguranca",
+      "forms": [],
+      "highlight": true
+    },
+    "catalog": {
+      "pt": "lista, catalogo",
+      "forms": []
+    },
+    "reports": {
+      "pt": "relatos",
+      "forms": []
+    },
+    "score": {
+      "pt": "nota",
+      "forms": []
+    },
+    "system": {
+      "pt": "sistema",
+      "forms": []
+    },
+    "advisory": {
+      "pt": "alerta oficial",
+      "forms": []
+    },
+    "published": {
+      "pt": "publicado",
+      "forms": []
+    },
+    "friday": {
+      "pt": "sexta-feira",
+      "forms": []
+    },
+    "ssl": {
+      "pt": "SSL, protocolo de conexao segura",
+      "forms": []
+    },
+    "user": {
+      "pt": "usuario",
+      "forms": []
+    },
+    "credentials": {
+      "pt": "dados de acesso",
+      "forms": []
+    },
+    "alternate": {
+      "pt": "alternativo",
+      "forms": []
+    },
+    "able": {
+      "pt": "capaz",
+      "forms": []
+    },
+    "weakness": {
+      "pt": "fraqueza",
+      "forms": []
+    },
+    "defeat": {
+      "pt": "derrotar",
+      "forms": []
+    },
+    "enforces": {
+      "pt": "faz cumprir",
+      "forms": []
+    },
+    "investigated": {
+      "pt": "investigou",
+      "forms": []
+    },
+    "exploitation": {
+      "pt": "uso de uma falha para atacar",
+      "forms": []
+    },
+    "attack": {
+      "pt": "ataque",
+      "forms": []
+    },
+    "urged": {
+      "pt": "pediu com forca",
+      "forms": []
+    },
+    "quickly": {
+      "pt": "rapido",
+      "forms": []
+    },
+    "fixed": {
+      "pt": "corrigiu",
+      "forms": []
+    },
+    "several": {
+      "pt": "varios",
+      "forms": []
+    },
+    "serious": {
+      "pt": "serio",
+      "forms": []
+    },
+    "flaws": {
+      "pt": "falhas",
+      "forms": []
+    },
+    "civilian": {
+      "pt": "civil",
+      "forms": []
+    },
+    "apply": {
+      "pt": "aplicar",
+      "forms": []
+    },
+    "patches": {
+      "pt": "correcoes de software",
+      "forms": [],
+      "highlight": true
+    },
+    "earlier": {
+      "pt": "antes",
+      "forms": []
+    },
+    "described": {
+      "pt": "descreveu",
+      "forms": []
+    },
+    "unpatched": {
+      "pt": "sem correcao",
+      "forms": []
+    },
+    "global": {
+      "pt": "global",
+      "forms": []
+    },
+    "management": {
+      "pt": "gestao",
+      "forms": []
+    },
+    "products": {
+      "pt": "produtos",
+      "forms": []
+    },
+    "manager": {
+      "pt": "gerente",
+      "forms": []
+    }
+  }
+}

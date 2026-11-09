@@ -1,0 +1,338 @@
+{
+  "id": "2026-11-09-anc-worst-local-election-result",
+  "date": "2026-11-09",
+  "topic": "mundo",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cwrkygrxp11mo?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-11-08T17:51:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "South Africa's ANC has its worst result",
+      "text": "South Africa had local elections. The ANC party got 31% of the votes. In 2021, it got 46%. This is its worst result since 1994. The ANC says it is a disaster. Many people are angry about water, power and high prices. The ANC still got more votes than any other party."
+    },
+    "2": {
+      "title": "ANC has its worst local election result",
+      "text": "South Africa's ANC party got 31% of the votes in the local elections. In 2021 it got 46%. This is its worst result since the end of apartheid. The party called it catastrophic. It still won more votes than any other party, but it won only one of the nine provinces.\n\nThe Democratic Alliance came second with 25%. Former president Jacob Zuma's MK party got 10%. Party leader Fikile Mbalula said the high cost of living hurt the ANC. Analysts say poor water, power and other services are a big reason. President Cyril Ramaphosa said he accepts the result with humility. The parties now have 14 days to form coalitions."
+    },
+    "3": {
+      "title": "ANC records worst-ever result in South Africa local elections",
+      "text": "South Africa's governing ANC has recorded its worst showing in local elections since the end of apartheid, winning 31% of the vote, down from 46% in 2021. The party called the result catastrophic. It still won more votes than any other party, but it holds a majority in only one of the country's nine provinces, down from six, and won the most votes in two of eight cities.\n\nThe Democratic Alliance came second with 25% and kept control of Cape Town. Former president Jacob Zuma's MK party took 10% and beat the ANC in Durban. Turnout was 52%.\n\nSecretary-general Fikile Mbalula blamed the high cost of living, saying the middle class had turned on the party. Analyst Susan Booysen pointed to poor services such as water, power and sanitation. President Cyril Ramaphosa, who will be replaced as ANC leader next year, said he accepts the verdict with humility. Analyst William Gumede said the vote shows voters want coalitions. Parties now have 14 days to negotiate deals, and the ANC could even be shut out of Johannesburg and Pretoria."
+    }
+  },
+  "glossary": {
+    "south": {
+      "pt": "sul",
+      "forms": []
+    },
+    "africa's": {
+      "pt": "da Africa (do Sul)",
+      "forms": []
+    },
+    "anc": {
+      "pt": "ANC, partido que governa a Africa do Sul",
+      "forms": []
+    },
+    "result": {
+      "pt": "resultado",
+      "forms": []
+    },
+    "africa": {
+      "pt": "Africa, continente e pais (South Africa = Africa do Sul)",
+      "forms": []
+    },
+    "local": {
+      "pt": "local",
+      "forms": []
+    },
+    "elections": {
+      "pt": "eleicoes",
+      "forms": []
+    },
+    "party": {
+      "pt": "partido",
+      "forms": []
+    },
+    "votes": {
+      "pt": "votos",
+      "forms": []
+    },
+    "disaster": {
+      "pt": "desastre",
+      "forms": []
+    },
+    "angry": {
+      "pt": "bravo",
+      "forms": []
+    },
+    "water": {
+      "pt": "agua",
+      "forms": []
+    },
+    "power": {
+      "pt": "energia",
+      "forms": []
+    },
+    "election": {
+      "pt": "eleicao",
+      "forms": []
+    },
+    "apartheid": {
+      "pt": "apartheid, antigo regime de separacao racial na Africa do Sul",
+      "forms": []
+    },
+    "catastrophic": {
+      "pt": "catastrofico",
+      "forms": [],
+      "highlight": true
+    },
+    "won": {
+      "pt": "venceu",
+      "forms": []
+    },
+    "nine": {
+      "pt": "nove",
+      "forms": []
+    },
+    "provinces": {
+      "pt": "provincias",
+      "forms": []
+    },
+    "democratic": {
+      "pt": "democratico",
+      "forms": []
+    },
+    "alliance": {
+      "pt": "alianca",
+      "forms": []
+    },
+    "former": {
+      "pt": "ex-",
+      "forms": []
+    },
+    "jacob": {
+      "pt": "Jacob, nome de Zuma",
+      "forms": []
+    },
+    "zuma's": {
+      "pt": "do ex-presidente Zuma",
+      "forms": []
+    },
+    "mk": {
+      "pt": "MK, partido do ex-presidente Zuma",
+      "forms": []
+    },
+    "leader": {
+      "pt": "lider",
+      "forms": []
+    },
+    "fikile": {
+      "pt": "Fikile, nome de Mbalula",
+      "forms": []
+    },
+    "mbalula": {
+      "pt": "Fikile Mbalula, dirigente do ANC",
+      "forms": []
+    },
+    "cost": {
+      "pt": "custo",
+      "forms": []
+    },
+    "living": {
+      "pt": "vida",
+      "forms": []
+    },
+    "hurt": {
+      "pt": "machucou, prejudicou",
+      "forms": []
+    },
+    "analysts": {
+      "pt": "analistas",
+      "forms": []
+    },
+    "poor": {
+      "pt": "ruim, pobre",
+      "forms": []
+    },
+    "services": {
+      "pt": "servicos",
+      "forms": [],
+      "highlight": true
+    },
+    "cyril": {
+      "pt": "Cyril, nome do presidente Ramaphosa",
+      "forms": []
+    },
+    "ramaphosa": {
+      "pt": "Cyril Ramaphosa, presidente da Africa do Sul",
+      "forms": []
+    },
+    "accepts": {
+      "pt": "aceita",
+      "forms": []
+    },
+    "humility": {
+      "pt": "humildade",
+      "forms": [],
+      "highlight": true
+    },
+    "parties": {
+      "pt": "partidos",
+      "forms": []
+    },
+    "form": {
+      "pt": "formar",
+      "forms": []
+    },
+    "coalitions": {
+      "pt": "coalizoes",
+      "forms": [],
+      "highlight": true
+    },
+    "records": {
+      "pt": "registra",
+      "forms": []
+    },
+    "ever": {
+      "pt": "ja, ate hoje",
+      "forms": []
+    },
+    "governing": {
+      "pt": "que governa",
+      "forms": []
+    },
+    "recorded": {
+      "pt": "registrou",
+      "forms": []
+    },
+    "winning": {
+      "pt": "vencendo",
+      "forms": []
+    },
+    "vote": {
+      "pt": "voto",
+      "forms": []
+    },
+    "holds": {
+      "pt": "tem",
+      "forms": []
+    },
+    "majority": {
+      "pt": "maioria",
+      "forms": [],
+      "highlight": true
+    },
+    "six": {
+      "pt": "seis",
+      "forms": []
+    },
+    "eight": {
+      "pt": "oito",
+      "forms": []
+    },
+    "cape": {
+      "pt": "Cape Town, cidade da Africa do Sul",
+      "forms": []
+    },
+    "town": {
+      "pt": "cidade",
+      "forms": []
+    },
+    "beat": {
+      "pt": "venceu",
+      "forms": []
+    },
+    "durban": {
+      "pt": "Durban, cidade da Africa do Sul",
+      "forms": []
+    },
+    "turnout": {
+      "pt": "comparecimento as urnas",
+      "forms": [],
+      "highlight": true
+    },
+    "secretary": {
+      "pt": "secretario",
+      "forms": []
+    },
+    "general": {
+      "pt": "geral",
+      "forms": []
+    },
+    "blamed": {
+      "pt": "culpou",
+      "forms": []
+    },
+    "middle": {
+      "pt": "meio",
+      "forms": []
+    },
+    "class": {
+      "pt": "classe",
+      "forms": []
+    },
+    "analyst": {
+      "pt": "analista",
+      "forms": []
+    },
+    "susan": {
+      "pt": "Susan, nome de Booysen",
+      "forms": []
+    },
+    "booysen": {
+      "pt": "Susan Booysen, analista politica",
+      "forms": []
+    },
+    "pointed": {
+      "pt": "apontou",
+      "forms": []
+    },
+    "sanitation": {
+      "pt": "saneamento",
+      "forms": []
+    },
+    "replaced": {
+      "pt": "substituido",
+      "forms": []
+    },
+    "verdict": {
+      "pt": "veredito",
+      "forms": [],
+      "highlight": true
+    },
+    "william": {
+      "pt": "William, nome de Gumede",
+      "forms": []
+    },
+    "gumede": {
+      "pt": "William Gumede, analista politico",
+      "forms": []
+    },
+    "voters": {
+      "pt": "eleitores",
+      "forms": [],
+      "highlight": true
+    },
+    "negotiate": {
+      "pt": "negociar",
+      "forms": []
+    },
+    "deals": {
+      "pt": "acordos",
+      "forms": []
+    },
+    "shut": {
+      "pt": "fechado",
+      "forms": []
+    },
+    "johannesburg": {
+      "pt": "Joanesburgo, cidade da Africa do Sul",
+      "forms": []
+    },
+    "pretoria": {
+      "pt": "Pretoria, cidade da Africa do Sul",
+      "forms": []
+    }
+  }
+}

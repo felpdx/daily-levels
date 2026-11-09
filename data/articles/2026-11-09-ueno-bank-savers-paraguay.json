@@ -1,0 +1,366 @@
+{
+  "id": "2026-11-09-ueno-bank-savers-paraguay",
+  "date": "2026-11-09",
+  "topic": "bolsa",
+  "source": {
+    "name": "MercoPress",
+    "url": "https://en.mercopress.com/2026/11/09/lost-savings-and-broken-trust-life-for-those-hit-by-ueno-bank-s-closure?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+    "publishedAt": "2026-11-09T03:07:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "People cannot reach money in a closed bank",
+      "text": "On November 3, Paraguay's Central Bank took over Ueno Bank. The bank had a big money problem. Nearly three million people could not see their balance. Many still cannot use their money. One teacher had about 3,800 dollars in the bank. The new president says people will get their savings back."
+    },
+    "2": {
+      "title": "Paraguayans wait for their money after Ueno Bank closes",
+      "text": "On November 3, Paraguay's Central Bank took control of Ueno Bank because of a serious solvency problem. It also froze the deposits. About three million people could not see their balance on their phones. A week later, many still cannot use their money.\n\nMarlyn Lopez, a university lecturer, had about 3,800 dollars in the bank. She says she lost faith in the authorities who should watch the banks. Prosecutors are looking at a possible plan of loans without security to companies owned by the bank's owner, the Vazquez Group. The new president, Pedro Alliana, says everyone will get their savings back. Small accounts are being repaid first."
+    },
+    "3": {
+      "title": "Lost savings and broken trust after Ueno Bank closure in Paraguay",
+      "text": "Early on November 3, Paraguay's Central Bank took over Ueno Bank because of a critical solvency problem and froze its deposits. For nearly three million Paraguayans, the first sign was a phone message saying their balance could not be shown. A week later, many of them still cannot reach their money and say they have lost faith in state institutions.\n\nMarlyn Lopez, a 43-year-old lecturer, kept her salary and savings, about 3,800 dollars, in the bank's app. She says she survived because colleagues sent her money. Authorities say half of the depositors have received an advance, but she has not. Ruben Causarano, who sells food from a cart, had about 800 dollars in the bank and fears people will return to keeping money under the mattress.\n\nPresident Santiago Pena, who was removed from office and is now in pre-trial detention, had defended the bank, where he was once a shareholder. Prosecutors are investigating an alleged scheme of unsecured loans to companies of the Vazquez Group, the owner of Ueno, which held about 850 million dollars in public deposits. New president Pedro Alliana has promised that everyone will recover their savings, starting with small balances."
+    }
+  },
+  "glossary": {
+    "reach": {
+      "pt": "alcancar, acessar",
+      "forms": []
+    },
+    "bank": {
+      "pt": "banco",
+      "forms": []
+    },
+    "november": {
+      "pt": "novembro",
+      "forms": []
+    },
+    "paraguay's": {
+      "pt": "do Paraguai",
+      "forms": []
+    },
+    "central": {
+      "pt": "central",
+      "forms": []
+    },
+    "ueno": {
+      "pt": "Ueno, banco do Paraguai",
+      "forms": []
+    },
+    "nearly": {
+      "pt": "quase",
+      "forms": []
+    },
+    "three": {
+      "pt": "tres",
+      "forms": []
+    },
+    "balance": {
+      "pt": "saldo",
+      "forms": [],
+      "highlight": true
+    },
+    "teacher": {
+      "pt": "professora",
+      "forms": []
+    },
+    "dollars": {
+      "pt": "dolares",
+      "forms": []
+    },
+    "savings": {
+      "pt": "economias",
+      "forms": [],
+      "highlight": true
+    },
+    "paraguayans": {
+      "pt": "paraguaios",
+      "forms": []
+    },
+    "wait": {
+      "pt": "esperar",
+      "forms": []
+    },
+    "serious": {
+      "pt": "serio",
+      "forms": []
+    },
+    "solvency": {
+      "pt": "capacidade de pagar dividas",
+      "forms": [],
+      "highlight": true
+    },
+    "froze": {
+      "pt": "congelou",
+      "forms": [],
+      "highlight": true
+    },
+    "deposits": {
+      "pt": "depositos",
+      "forms": [],
+      "highlight": true
+    },
+    "phones": {
+      "pt": "celulares",
+      "forms": []
+    },
+    "marlyn": {
+      "pt": "Marlyn, nome de Lopez",
+      "forms": []
+    },
+    "lopez": {
+      "pt": "Marlyn Lopez, professora paraguaia",
+      "forms": []
+    },
+    "university": {
+      "pt": "universidade",
+      "forms": []
+    },
+    "lecturer": {
+      "pt": "professora universitaria",
+      "forms": []
+    },
+    "faith": {
+      "pt": "confianca",
+      "forms": []
+    },
+    "authorities": {
+      "pt": "autoridades",
+      "forms": [],
+      "highlight": true
+    },
+    "watch": {
+      "pt": "vigiar",
+      "forms": []
+    },
+    "banks": {
+      "pt": "bancos",
+      "forms": []
+    },
+    "prosecutors": {
+      "pt": "promotores",
+      "forms": [],
+      "highlight": true
+    },
+    "possible": {
+      "pt": "possivel",
+      "forms": []
+    },
+    "loans": {
+      "pt": "emprestimos",
+      "forms": [],
+      "highlight": true
+    },
+    "security": {
+      "pt": "seguranca",
+      "forms": []
+    },
+    "owned": {
+      "pt": "que pertence",
+      "forms": []
+    },
+    "bank's": {
+      "pt": "do banco",
+      "forms": []
+    },
+    "owner": {
+      "pt": "dono",
+      "forms": []
+    },
+    "vazquez": {
+      "pt": "Grupo Vazquez, dono do Ueno Bank",
+      "forms": []
+    },
+    "pedro": {
+      "pt": "Pedro, nome do novo presidente",
+      "forms": []
+    },
+    "alliana": {
+      "pt": "Pedro Alliana, novo presidente do Paraguai",
+      "forms": []
+    },
+    "everyone": {
+      "pt": "todos",
+      "forms": []
+    },
+    "accounts": {
+      "pt": "contas",
+      "forms": []
+    },
+    "repaid": {
+      "pt": "devolvido",
+      "forms": []
+    },
+    "broken": {
+      "pt": "quebrado",
+      "forms": []
+    },
+    "trust": {
+      "pt": "confianca",
+      "forms": []
+    },
+    "closure": {
+      "pt": "fechamento",
+      "forms": []
+    },
+    "paraguay": {
+      "pt": "Paraguai",
+      "forms": []
+    },
+    "critical": {
+      "pt": "grave",
+      "forms": []
+    },
+    "sign": {
+      "pt": "sinal",
+      "forms": []
+    },
+    "phone": {
+      "pt": "celular",
+      "forms": []
+    },
+    "message": {
+      "pt": "mensagem",
+      "forms": []
+    },
+    "state": {
+      "pt": "Estado",
+      "forms": []
+    },
+    "institutions": {
+      "pt": "instituicoes",
+      "forms": []
+    },
+    "salary": {
+      "pt": "salario",
+      "forms": []
+    },
+    "app": {
+      "pt": "aplicativo",
+      "forms": []
+    },
+    "survived": {
+      "pt": "sobreviveu",
+      "forms": []
+    },
+    "colleagues": {
+      "pt": "colegas",
+      "forms": []
+    },
+    "half": {
+      "pt": "metade",
+      "forms": []
+    },
+    "depositors": {
+      "pt": "depositantes",
+      "forms": []
+    },
+    "received": {
+      "pt": "recebeu",
+      "forms": []
+    },
+    "advance": {
+      "pt": "adiantamento",
+      "forms": []
+    },
+    "ruben": {
+      "pt": "Ruben, nome de Causarano",
+      "forms": []
+    },
+    "causarano": {
+      "pt": "Ruben Causarano, vendedor de comida",
+      "forms": []
+    },
+    "food": {
+      "pt": "comida",
+      "forms": []
+    },
+    "cart": {
+      "pt": "carrinho",
+      "forms": []
+    },
+    "fears": {
+      "pt": "teme",
+      "forms": []
+    },
+    "return": {
+      "pt": "voltar",
+      "forms": []
+    },
+    "mattress": {
+      "pt": "colchao",
+      "forms": []
+    },
+    "santiago": {
+      "pt": "Santiago, nome de Pena",
+      "forms": []
+    },
+    "pena": {
+      "pt": "Santiago Pena, ex-presidente do Paraguai",
+      "forms": []
+    },
+    "removed": {
+      "pt": "removido",
+      "forms": []
+    },
+    "office": {
+      "pt": "cargo",
+      "forms": []
+    },
+    "pre": {
+      "pt": "antes de",
+      "forms": []
+    },
+    "trial": {
+      "pt": "julgamento",
+      "forms": []
+    },
+    "detention": {
+      "pt": "prisao",
+      "forms": []
+    },
+    "defended": {
+      "pt": "defendeu",
+      "forms": []
+    },
+    "shareholder": {
+      "pt": "acionista",
+      "forms": []
+    },
+    "investigating": {
+      "pt": "investigando",
+      "forms": []
+    },
+    "alleged": {
+      "pt": "suposto",
+      "forms": []
+    },
+    "scheme": {
+      "pt": "esquema",
+      "forms": []
+    },
+    "unsecured": {
+      "pt": "sem garantia",
+      "forms": []
+    },
+    "held": {
+      "pt": "tinha, mantinha",
+      "forms": []
+    },
+    "public": {
+      "pt": "publico",
+      "forms": []
+    },
+    "promised": {
+      "pt": "prometeu",
+      "forms": []
+    },
+    "recover": {
+      "pt": "recuperar",
+      "forms": []
+    },
+    "balances": {
+      "pt": "saldos",
+      "forms": []
+    }
+  }
+}

@@ -1,6 +1,41 @@
 {
   "articles": [
     {
+      "id": "2026-11-10-chrome-eighth-zero-day",
+      "date": "2026-11-10",
+      "topic": "hacking",
+      "title": "Google fixes a Chrome flaw",
+      "source": "The Hacker News"
+    },
+    {
+      "id": "2026-11-10-n-able-n-central-offline",
+      "date": "2026-11-10",
+      "topic": "hacking",
+      "title": "N-able turns off its service",
+      "source": "The Hacker News"
+    },
+    {
+      "id": "2026-11-10-california-wealth-tax-rejected",
+      "date": "2026-11-10",
+      "topic": "bolsa",
+      "title": "California says no to a tax on billionaires",
+      "source": "BBC News"
+    },
+    {
+      "id": "2026-11-10-qantas-outsources-850-jobs",
+      "date": "2026-11-10",
+      "topic": "bolsa",
+      "title": "Qantas will move 850 jobs",
+      "source": "BBC News"
+    },
+    {
+      "id": "2026-11-10-pope-leo-argentina-milei",
+      "date": "2026-11-10",
+      "topic": "mundo",
+      "title": "The Pope visits Argentina",
+      "source": "MercoPress"
+    },
+    {
       "id": "2026-11-09-refrigeration-controller-attacks-warning",
       "date": "2026-11-09",
       "topic": "hacking",

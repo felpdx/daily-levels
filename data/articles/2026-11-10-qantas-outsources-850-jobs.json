@@ -1,0 +1,337 @@
+{
+  "id": "2026-11-10-qantas-outsources-850-jobs",
+  "date": "2026-11-10",
+  "topic": "bolsa",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo",
+    "publishedAt": "2026-11-10T01:55:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Qantas will move 850 jobs",
+      "text": "Qantas is an airline from Australia. It will give 850 office jobs to a company called Accenture. Most of the jobs will go to India. The change starts in 2027. The boss says she is sorry. The airline wants to use more AI and new computer systems."
+    },
+    "2": {
+      "title": "Qantas to send 850 office jobs to Accenture",
+      "text": "Qantas will outsource 850 office jobs in Australia to the consulting company Accenture. Most of the work will move to India. The airline says it wants to invest faster in AI and update its computer systems.\n\nIn an email to staff, CEO Vanessa Hudson said it was hard news and that she was sorry. The changes start in the middle of 2027 with finance, buying, people and marketing jobs. Hudson said Qantas has more than 1,000 old applications that were not made to work together. The airline talks with unions and staff, and says it will move people to other jobs when possible. The news came days after Qantas warned about higher fares and fewer flights because fuel costs more."
+    },
+    "3": {
+      "title": "Qantas to outsource 850 jobs, with most roles moving to India",
+      "text": "Qantas will outsource 850 corporate jobs in Australia to the consulting firm Accenture, with most of the roles moving to India as the airline speeds up its investment in AI. In an internal email on Tuesday, chief executive Vanessa Hudson said the news was hard for some staff and apologised for the uncertainty.\n\nThe cuts begin in mid-2027 and start with finance, procurement, people and marketing roles, which will shift mostly to teams in India and partly to Australia. Hudson said the airline spends more than AU$1bn a year on technology and relies on more than 1,000 legacy applications that were never designed to work together. The multi-year Accenture deal is meant to simplify corporate functions and reduce duplication, and over time the work will be changed further by automation and AI.\n\nQantas says it is in talks with unions and staff, and that affected employees will be redeployed where possible. The move follows a market update days earlier that flagged fare increases and flight cuts because of higher fuel costs. The airline has about 28,000 staff in Australia."
+    }
+  },
+  "glossary": {
+    "qantas": {
+      "pt": "Qantas, companhia aérea da Austrália",
+      "forms": []
+    },
+    "jobs": {
+      "pt": "empregos",
+      "forms": []
+    },
+    "airline": {
+      "pt": "companhia aérea",
+      "forms": [],
+      "highlight": true
+    },
+    "australia": {
+      "pt": "Austrália",
+      "forms": []
+    },
+    "office": {
+      "pt": "escritório",
+      "forms": [],
+      "highlight": true
+    },
+    "accenture": {
+      "pt": "Accenture, empresa de consultoria",
+      "forms": []
+    },
+    "india": {
+      "pt": "Índia",
+      "forms": []
+    },
+    "boss": {
+      "pt": "chefe",
+      "forms": []
+    },
+    "sorry": {
+      "pt": "desculpa",
+      "forms": []
+    },
+    "ai": {
+      "pt": "inteligência artificial",
+      "forms": []
+    },
+    "computer": {
+      "pt": "computador",
+      "forms": [],
+      "highlight": true
+    },
+    "systems": {
+      "pt": "sistemas",
+      "forms": [],
+      "highlight": true
+    },
+    "outsource": {
+      "pt": "terceirizar",
+      "forms": [],
+      "highlight": true
+    },
+    "consulting": {
+      "pt": "consultoria",
+      "forms": []
+    },
+    "invest": {
+      "pt": "investir",
+      "forms": []
+    },
+    "faster": {
+      "pt": "mais rápido",
+      "forms": []
+    },
+    "update": {
+      "pt": "atualizar",
+      "forms": [],
+      "highlight": true
+    },
+    "email": {
+      "pt": "e-mail",
+      "forms": []
+    },
+    "staff": {
+      "pt": "funcionários",
+      "forms": []
+    },
+    "ceo": {
+      "pt": "diretor-presidente",
+      "forms": []
+    },
+    "vanessa": {
+      "pt": "Vanessa, nome da CEO da Qantas",
+      "forms": []
+    },
+    "hudson": {
+      "pt": "Hudson, sobrenome da CEO da Qantas",
+      "forms": []
+    },
+    "hard": {
+      "pt": "difícil",
+      "forms": []
+    },
+    "middle": {
+      "pt": "meio",
+      "forms": []
+    },
+    "finance": {
+      "pt": "finanças",
+      "forms": []
+    },
+    "marketing": {
+      "pt": "marketing",
+      "forms": []
+    },
+    "applications": {
+      "pt": "aplicativos",
+      "forms": []
+    },
+    "unions": {
+      "pt": "sindicatos",
+      "forms": []
+    },
+    "possible": {
+      "pt": "possível",
+      "forms": []
+    },
+    "warned": {
+      "pt": "avisou",
+      "forms": []
+    },
+    "fares": {
+      "pt": "preços das passagens",
+      "forms": []
+    },
+    "fewer": {
+      "pt": "menos",
+      "forms": []
+    },
+    "flights": {
+      "pt": "voos",
+      "forms": []
+    },
+    "fuel": {
+      "pt": "combustível",
+      "forms": []
+    },
+    "costs": {
+      "pt": "custa",
+      "forms": []
+    },
+    "roles": {
+      "pt": "funções",
+      "forms": []
+    },
+    "corporate": {
+      "pt": "de escritório, da empresa",
+      "forms": []
+    },
+    "firm": {
+      "pt": "empresa",
+      "forms": []
+    },
+    "speeds": {
+      "pt": "acelera",
+      "forms": []
+    },
+    "investment": {
+      "pt": "investimento",
+      "forms": []
+    },
+    "internal": {
+      "pt": "interno",
+      "forms": []
+    },
+    "tuesday": {
+      "pt": "terça-feira",
+      "forms": []
+    },
+    "chief": {
+      "pt": "chefe",
+      "forms": []
+    },
+    "executive": {
+      "pt": "executivo",
+      "forms": []
+    },
+    "apologised": {
+      "pt": "pediu desculpas",
+      "forms": []
+    },
+    "uncertainty": {
+      "pt": "incerteza",
+      "forms": []
+    },
+    "cuts": {
+      "pt": "cortes",
+      "forms": [],
+      "highlight": true
+    },
+    "procurement": {
+      "pt": "compras",
+      "forms": []
+    },
+    "shift": {
+      "pt": "mudar",
+      "forms": []
+    },
+    "mostly": {
+      "pt": "principalmente",
+      "forms": []
+    },
+    "teams": {
+      "pt": "equipes",
+      "forms": []
+    },
+    "spends": {
+      "pt": "gasta",
+      "forms": []
+    },
+    "au": {
+      "pt": "dólares australianos (AU$)",
+      "forms": []
+    },
+    "technology": {
+      "pt": "tecnologia",
+      "forms": []
+    },
+    "relies": {
+      "pt": "depende",
+      "forms": []
+    },
+    "legacy": {
+      "pt": "antigo",
+      "forms": []
+    },
+    "designed": {
+      "pt": "projetado",
+      "forms": []
+    },
+    "multi-year": {
+      "pt": "de vários anos",
+      "forms": []
+    },
+    "multi": {
+      "pt": "vários",
+      "forms": []
+    },
+    "deal": {
+      "pt": "acordo",
+      "forms": []
+    },
+    "simplify": {
+      "pt": "simplificar",
+      "forms": []
+    },
+    "functions": {
+      "pt": "funções",
+      "forms": []
+    },
+    "reduce": {
+      "pt": "reduzir",
+      "forms": []
+    },
+    "duplication": {
+      "pt": "repetição de trabalho",
+      "forms": []
+    },
+    "further": {
+      "pt": "mais",
+      "forms": []
+    },
+    "automation": {
+      "pt": "automação",
+      "forms": []
+    },
+    "affected": {
+      "pt": "afetado",
+      "forms": []
+    },
+    "employees": {
+      "pt": "funcionários",
+      "forms": []
+    },
+    "redeployed": {
+      "pt": "realocados",
+      "forms": []
+    },
+    "follows": {
+      "pt": "segue",
+      "forms": []
+    },
+    "market": {
+      "pt": "mercado",
+      "forms": []
+    },
+    "earlier": {
+      "pt": "antes",
+      "forms": []
+    },
+    "flagged": {
+      "pt": "avisou",
+      "forms": []
+    },
+    "fare": {
+      "pt": "preço da passagem",
+      "forms": []
+    },
+    "increases": {
+      "pt": "aumentos",
+      "forms": []
+    },
+    "flight": {
+      "pt": "voo",
+      "forms": []
+    }
+  }
+}

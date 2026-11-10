@@ -1,0 +1,405 @@
+{
+  "id": "2026-11-10-n-able-n-central-offline",
+  "date": "2026-11-10",
+  "topic": "hacking",
+  "source": {
+    "name": "The Hacker News",
+    "url": "https://thehackernews.com/2026/11/n-able-takes-hosted-n-central-offline.html",
+    "publishedAt": "2026-11-10T06:44:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "N-able turns off its service",
+      "text": "A researcher told the public about more than 30 flaws in a tool from N-able. The company turned off its hosted service. It says it is a safety step. N-able does not see any attack now. It is making a fix. It asks customers with their own servers to turn them off for now."
+    },
+    "2": {
+      "title": "N-able turns off a service after many flaws are shared",
+      "text": "N-able has taken its hosted N-central service offline. It also asks customers who run N-central on their own servers to shut them down until it says more. The reason is a group of more than 30 flaws, called Able2Shell, that became public.\n\nA researcher named Sean Bales shared the flaws and also showed code that can use them. The problems include stolen logins, writing files and running code from far away. An attacker could get admin access and run commands as root. N-able says it has not seen any attacks and is working on a hot fix. Other services, such as patching and scripting, still work. The story is still developing."
+    },
+    "3": {
+      "title": "N-able pulls hosted N-central offline after researcher discloses 30+ flaws",
+      "text": "N-able has taken its hosted N-central environment offline and is urging customers who run the product on their own servers to shut them down until further notice. The decision follows the public disclosure of more than 30 vulnerabilities, collectively tracked as Able2Shell.\n\nIndependent researcher Sean Bales published the flaws together with proof-of-concept exploits, which he tested against N-central Appliance 2026.4.0.31. The bugs include credential disclosure, arbitrary file writes, directory traversal, cross-site scripting, XML external entity injection and remote code execution. Together, they could give an attacker rogue administrative access to the management interface and allow commands to run as root.\n\nN-able described the shutdown as a precaution while it secures the environment and works on remediation. It said it has seen no sign of active exploitation and is preparing a hot fix. Services under its separate login, including patching, vulnerability management and scripting, remain online. The company called this a developing story."
+    }
+  },
+  "glossary": {
+    "n-able": {
+      "pt": "N-able, empresa de software",
+      "forms": []
+    },
+    "n": {
+      "pt": "N (N-able, N-central)",
+      "forms": []
+    },
+    "able": {
+      "pt": "able (N-able, empresa de software)",
+      "forms": []
+    },
+    "service": {
+      "pt": "serviço",
+      "forms": []
+    },
+    "researcher": {
+      "pt": "pesquisador",
+      "forms": [],
+      "highlight": true
+    },
+    "public": {
+      "pt": "público",
+      "forms": []
+    },
+    "flaws": {
+      "pt": "falhas",
+      "forms": [],
+      "highlight": true
+    },
+    "tool": {
+      "pt": "ferramenta",
+      "forms": []
+    },
+    "hosted": {
+      "pt": "hospedado",
+      "forms": []
+    },
+    "safety": {
+      "pt": "segurança",
+      "forms": []
+    },
+    "step": {
+      "pt": "passo",
+      "forms": []
+    },
+    "attack": {
+      "pt": "ataque",
+      "forms": [],
+      "highlight": true
+    },
+    "fix": {
+      "pt": "correção",
+      "forms": []
+    },
+    "customers": {
+      "pt": "clientes",
+      "forms": []
+    },
+    "servers": {
+      "pt": "servidores",
+      "forms": []
+    },
+    "shared": {
+      "pt": "compartilhou",
+      "forms": []
+    },
+    "n-central": {
+      "pt": "N-central, programa da N-able",
+      "forms": []
+    },
+    "central": {
+      "pt": "central (N-central, programa)",
+      "forms": []
+    },
+    "offline": {
+      "pt": "fora do ar",
+      "forms": []
+    },
+    "shut": {
+      "pt": "desligar",
+      "forms": [],
+      "highlight": true
+    },
+    "sean": {
+      "pt": "Sean, nome de um pesquisador",
+      "forms": []
+    },
+    "bales": {
+      "pt": "Bales, sobrenome de um pesquisador",
+      "forms": []
+    },
+    "code": {
+      "pt": "código",
+      "forms": []
+    },
+    "include": {
+      "pt": "incluir",
+      "forms": []
+    },
+    "stolen": {
+      "pt": "roubado",
+      "forms": []
+    },
+    "logins": {
+      "pt": "entradas com senha",
+      "forms": []
+    },
+    "files": {
+      "pt": "arquivos",
+      "forms": []
+    },
+    "attacker": {
+      "pt": "atacante",
+      "forms": []
+    },
+    "admin": {
+      "pt": "administrador",
+      "forms": []
+    },
+    "access": {
+      "pt": "acesso",
+      "forms": []
+    },
+    "commands": {
+      "pt": "comandos",
+      "forms": []
+    },
+    "root": {
+      "pt": "acesso total ao sistema (root)",
+      "forms": []
+    },
+    "attacks": {
+      "pt": "ataques",
+      "forms": []
+    },
+    "hot": {
+      "pt": "urgente",
+      "forms": []
+    },
+    "services": {
+      "pt": "serviços",
+      "forms": []
+    },
+    "patching": {
+      "pt": "correção de programas",
+      "forms": []
+    },
+    "scripting": {
+      "pt": "automação com scripts",
+      "forms": []
+    },
+    "developing": {
+      "pt": "em andamento",
+      "forms": []
+    },
+    "pulls": {
+      "pt": "tira",
+      "forms": []
+    },
+    "discloses": {
+      "pt": "revela",
+      "forms": []
+    },
+    "environment": {
+      "pt": "ambiente",
+      "forms": []
+    },
+    "urging": {
+      "pt": "pedindo com força",
+      "forms": []
+    },
+    "product": {
+      "pt": "produto",
+      "forms": []
+    },
+    "further": {
+      "pt": "mais",
+      "forms": []
+    },
+    "notice": {
+      "pt": "aviso",
+      "forms": []
+    },
+    "decision": {
+      "pt": "decisão",
+      "forms": []
+    },
+    "follows": {
+      "pt": "segue",
+      "forms": []
+    },
+    "disclosure": {
+      "pt": "divulgação",
+      "forms": [],
+      "highlight": true
+    },
+    "vulnerabilities": {
+      "pt": "falhas de segurança",
+      "forms": []
+    },
+    "collectively": {
+      "pt": "em conjunto",
+      "forms": []
+    },
+    "tracked": {
+      "pt": "registrado",
+      "forms": []
+    },
+    "independent": {
+      "pt": "independente",
+      "forms": []
+    },
+    "published": {
+      "pt": "publicou",
+      "forms": []
+    },
+    "proof-of-concept": {
+      "pt": "prova de conceito",
+      "forms": []
+    },
+    "proof": {
+      "pt": "prova",
+      "forms": []
+    },
+    "concept": {
+      "pt": "conceito",
+      "forms": []
+    },
+    "exploits": {
+      "pt": "códigos que usam falhas",
+      "forms": []
+    },
+    "tested": {
+      "pt": "testou",
+      "forms": []
+    },
+    "appliance": {
+      "pt": "aparelho",
+      "forms": []
+    },
+    "bugs": {
+      "pt": "erros de programa",
+      "forms": []
+    },
+    "credential": {
+      "pt": "dado de login",
+      "forms": []
+    },
+    "arbitrary": {
+      "pt": "qualquer, sem limite",
+      "forms": []
+    },
+    "file": {
+      "pt": "arquivo",
+      "forms": []
+    },
+    "directory": {
+      "pt": "pasta de arquivos",
+      "forms": []
+    },
+    "traversal": {
+      "pt": "travessia",
+      "forms": []
+    },
+    "cross-site": {
+      "pt": "entre sites (cross-site)",
+      "forms": []
+    },
+    "cross": {
+      "pt": "entre",
+      "forms": []
+    },
+    "site": {
+      "pt": "site",
+      "forms": []
+    },
+    "xml": {
+      "pt": "XML, formato de dados",
+      "forms": []
+    },
+    "external": {
+      "pt": "externo",
+      "forms": []
+    },
+    "entity": {
+      "pt": "entidade",
+      "forms": []
+    },
+    "injection": {
+      "pt": "injeção",
+      "forms": []
+    },
+    "remote": {
+      "pt": "à distância",
+      "forms": [],
+      "highlight": true
+    },
+    "execution": {
+      "pt": "execução",
+      "forms": []
+    },
+    "rogue": {
+      "pt": "fora de controle",
+      "forms": []
+    },
+    "administrative": {
+      "pt": "de administrador",
+      "forms": []
+    },
+    "management": {
+      "pt": "gerenciamento",
+      "forms": []
+    },
+    "interface": {
+      "pt": "interface",
+      "forms": []
+    },
+    "allow": {
+      "pt": "permitir",
+      "forms": []
+    },
+    "described": {
+      "pt": "descreveu",
+      "forms": []
+    },
+    "shutdown": {
+      "pt": "desligamento",
+      "forms": []
+    },
+    "precaution": {
+      "pt": "precaução",
+      "forms": []
+    },
+    "secures": {
+      "pt": "protege",
+      "forms": []
+    },
+    "remediation": {
+      "pt": "correção",
+      "forms": []
+    },
+    "sign": {
+      "pt": "sinal",
+      "forms": []
+    },
+    "active": {
+      "pt": "ativo",
+      "forms": []
+    },
+    "exploitation": {
+      "pt": "uso de uma falha em ataque",
+      "forms": []
+    },
+    "preparing": {
+      "pt": "preparando",
+      "forms": []
+    },
+    "separate": {
+      "pt": "separado",
+      "forms": []
+    },
+    "login": {
+      "pt": "entrada com senha",
+      "forms": []
+    },
+    "including": {
+      "pt": "incluindo",
+      "forms": []
+    },
+    "vulnerability": {
+      "pt": "falha de segurança",
+      "forms": [],
+      "highlight": true
+    },
+    "remain": {
+      "pt": "continuar",
+      "forms": []
+    }
+  }
+}

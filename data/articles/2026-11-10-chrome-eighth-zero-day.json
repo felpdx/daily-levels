@@ -1,0 +1,374 @@
+{
+  "id": "2026-11-10-chrome-eighth-zero-day",
+  "date": "2026-11-10",
+  "topic": "hacking",
+  "source": {
+    "name": "The Hacker News",
+    "url": "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html",
+    "publishedAt": "2026-11-10T06:52:54Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Google fixes a Chrome flaw",
+      "text": "Google found a new flaw in Chrome. Hackers already use it. Google fixed it on Monday. The flaw is called CVE-2026-125350. A person found it and told Google on November 6. Google fixed nine flaws in all. You should update your browser now. This is the eighth Chrome flaw of this kind this year."
+    },
+    "2": {
+      "title": "Google fixes another Chrome flaw that hackers use",
+      "text": "Google released an update for Chrome on Monday. It fixes nine security problems. One of them, called CVE-2026-125350, is already used in real attacks. It is a use-after-free bug in the XML part of the browser. This kind of bug can crash a program or let an attacker run code.\n\nA researcher whose name was not shared found the flaw and told Google on November 6. Google says it knows that an exploit exists, but it gave no details about the attacks or the people behind them. This is the eighth Chrome zero-day used in attacks this year. Users should install the new version and restart the browser. People who use Edge, Brave, Opera or Vivaldi should update too when the fixes arrive."
+    },
+    "3": {
+      "title": "Google patches eighth actively exploited Chrome zero-day of 2026",
+      "text": "Google released a Chrome update on Monday that fixes nine security vulnerabilities, including one that attackers are already exploiting. The high-severity flaw, tracked as CVE-2026-125350, is a use-after-free bug in the browser's XML component. Bugs of this type happen when a program tries to use memory after it has been freed, which can cause data corruption, crashes or the execution of arbitrary code.\n\nAn anonymous researcher reported the flaw on November 6, 2026. Google said it is aware that an exploit exists in the wild, but it did not explain how the bug is being abused or who is behind the attacks. The company often keeps bug details restricted until most users have updated.\n\nWith this fix, Google has addressed eight actively exploited Chrome zero-days since the start of the year. Users are advised to install version 157.0.8103.50 or later and relaunch the browser. People who use other Chromium-based browsers, such as Microsoft Edge, Brave, Opera and Vivaldi, should apply the fixes as soon as they become available."
+    }
+  },
+  "glossary": {
+    "google": {
+      "pt": "Google, empresa de tecnologia",
+      "forms": []
+    },
+    "fixes": {
+      "pt": "correções",
+      "forms": []
+    },
+    "chrome": {
+      "pt": "Chrome, navegador do Google",
+      "forms": []
+    },
+    "flaw": {
+      "pt": "falha",
+      "forms": [],
+      "highlight": true
+    },
+    "hackers": {
+      "pt": "hackers",
+      "forms": []
+    },
+    "fixed": {
+      "pt": "corrigiu",
+      "forms": [],
+      "highlight": true
+    },
+    "monday": {
+      "pt": "segunda-feira",
+      "forms": []
+    },
+    "november": {
+      "pt": "novembro",
+      "forms": []
+    },
+    "nine": {
+      "pt": "nove",
+      "forms": []
+    },
+    "flaws": {
+      "pt": "falhas",
+      "forms": [],
+      "highlight": true
+    },
+    "update": {
+      "pt": "atualizar",
+      "forms": [],
+      "highlight": true
+    },
+    "browser": {
+      "pt": "navegador de internet",
+      "forms": []
+    },
+    "eighth": {
+      "pt": "oitavo",
+      "forms": []
+    },
+    "kind": {
+      "pt": "tipo",
+      "forms": []
+    },
+    "released": {
+      "pt": "lançou",
+      "forms": []
+    },
+    "security": {
+      "pt": "segurança",
+      "forms": []
+    },
+    "attacks": {
+      "pt": "ataques",
+      "forms": []
+    },
+    "use-after-free": {
+      "pt": "uso após liberar memória",
+      "forms": []
+    },
+    "free": {
+      "pt": "livre",
+      "forms": []
+    },
+    "bug": {
+      "pt": "erro de programa",
+      "forms": []
+    },
+    "xml": {
+      "pt": "XML, formato de dados",
+      "forms": []
+    },
+    "crash": {
+      "pt": "travar",
+      "forms": []
+    },
+    "program": {
+      "pt": "programa",
+      "forms": []
+    },
+    "let": {
+      "pt": "deixar",
+      "forms": []
+    },
+    "attacker": {
+      "pt": "atacante",
+      "forms": []
+    },
+    "code": {
+      "pt": "código",
+      "forms": []
+    },
+    "researcher": {
+      "pt": "pesquisador",
+      "forms": [],
+      "highlight": true
+    },
+    "shared": {
+      "pt": "compartilhou",
+      "forms": []
+    },
+    "exploit": {
+      "pt": "código que usa uma falha",
+      "forms": []
+    },
+    "exists": {
+      "pt": "existe",
+      "forms": []
+    },
+    "details": {
+      "pt": "detalhes",
+      "forms": []
+    },
+    "zero-day": {
+      "pt": "falha desconhecida do fabricante (zero-day)",
+      "forms": []
+    },
+    "zero": {
+      "pt": "zero",
+      "forms": []
+    },
+    "users": {
+      "pt": "usuários",
+      "forms": []
+    },
+    "install": {
+      "pt": "instalar",
+      "forms": []
+    },
+    "version": {
+      "pt": "versão",
+      "forms": []
+    },
+    "restart": {
+      "pt": "reiniciar",
+      "forms": []
+    },
+    "edge": {
+      "pt": "Edge, navegador da Microsoft",
+      "forms": []
+    },
+    "brave": {
+      "pt": "Brave, navegador de internet",
+      "forms": []
+    },
+    "opera": {
+      "pt": "Opera, navegador de internet",
+      "forms": []
+    },
+    "vivaldi": {
+      "pt": "Vivaldi, navegador de internet",
+      "forms": []
+    },
+    "arrive": {
+      "pt": "chegar",
+      "forms": []
+    },
+    "patches": {
+      "pt": "corrige",
+      "forms": [],
+      "highlight": true
+    },
+    "actively": {
+      "pt": "ativamente",
+      "forms": []
+    },
+    "exploited": {
+      "pt": "usado em ataque",
+      "forms": [],
+      "highlight": true
+    },
+    "vulnerabilities": {
+      "pt": "falhas de segurança",
+      "forms": []
+    },
+    "including": {
+      "pt": "incluindo",
+      "forms": []
+    },
+    "attackers": {
+      "pt": "atacantes",
+      "forms": [],
+      "highlight": true
+    },
+    "exploiting": {
+      "pt": "usando em ataque",
+      "forms": []
+    },
+    "high-severity": {
+      "pt": "de alta gravidade",
+      "forms": []
+    },
+    "severity": {
+      "pt": "gravidade",
+      "forms": []
+    },
+    "tracked": {
+      "pt": "registrado",
+      "forms": []
+    },
+    "browser's": {
+      "pt": "do navegador",
+      "forms": []
+    },
+    "component": {
+      "pt": "parte, componente",
+      "forms": []
+    },
+    "bugs": {
+      "pt": "erros de programa",
+      "forms": []
+    },
+    "type": {
+      "pt": "tipo",
+      "forms": []
+    },
+    "memory": {
+      "pt": "memória",
+      "forms": []
+    },
+    "freed": {
+      "pt": "liberado",
+      "forms": []
+    },
+    "cause": {
+      "pt": "causar",
+      "forms": []
+    },
+    "data": {
+      "pt": "dados",
+      "forms": []
+    },
+    "corruption": {
+      "pt": "corrupção",
+      "forms": []
+    },
+    "crashes": {
+      "pt": "travamentos",
+      "forms": []
+    },
+    "execution": {
+      "pt": "execução",
+      "forms": []
+    },
+    "arbitrary": {
+      "pt": "qualquer, sem limite",
+      "forms": []
+    },
+    "anonymous": {
+      "pt": "anônimo",
+      "forms": []
+    },
+    "reported": {
+      "pt": "relatou",
+      "forms": []
+    },
+    "aware": {
+      "pt": "ciente",
+      "forms": []
+    },
+    "wild": {
+      "pt": "mundo real (in the wild)",
+      "forms": []
+    },
+    "explain": {
+      "pt": "explicar",
+      "forms": []
+    },
+    "abused": {
+      "pt": "usado de forma errada",
+      "forms": []
+    },
+    "restricted": {
+      "pt": "restrito",
+      "forms": []
+    },
+    "updated": {
+      "pt": "atualizado",
+      "forms": []
+    },
+    "fix": {
+      "pt": "correção",
+      "forms": []
+    },
+    "addressed": {
+      "pt": "resolvido",
+      "forms": []
+    },
+    "eight": {
+      "pt": "oito",
+      "forms": []
+    },
+    "zero-days": {
+      "pt": "falhas desconhecidas do fabricante",
+      "forms": []
+    },
+    "advised": {
+      "pt": "aconselhado",
+      "forms": []
+    },
+    "relaunch": {
+      "pt": "abrir de novo",
+      "forms": []
+    },
+    "chromium-based": {
+      "pt": "baseado no Chromium",
+      "forms": []
+    },
+    "chromium": {
+      "pt": "Chromium, base de navegadores",
+      "forms": []
+    },
+    "based": {
+      "pt": "baseado",
+      "forms": []
+    },
+    "browsers": {
+      "pt": "navegadores",
+      "forms": []
+    },
+    "microsoft": {
+      "pt": "Microsoft, empresa de tecnologia",
+      "forms": []
+    },
+    "apply": {
+      "pt": "aplicar",
+      "forms": []
+    },
+    "available": {
+      "pt": "disponível",
+      "forms": []
+    }
+  }
+}

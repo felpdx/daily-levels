@@ -1,0 +1,345 @@
+{
+  "id": "2026-11-10-pope-leo-argentina-milei",
+  "date": "2026-11-10",
+  "topic": "mundo",
+  "source": {
+    "name": "MercoPress",
+    "url": "https://en.mercopress.com/2026/11/09/leo-xiv-before-milei-the-economy-must-serve-the-person",
+    "publishedAt": "2026-11-09T03:00:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "The Pope visits Argentina",
+      "text": "Pope Leo XIV came to Argentina on Sunday. It is the first visit of a pope there in 39 years. He met President Milei. The Pope said the economy must serve people. He asked leaders to think of young people and the sick. Many people will go to his events."
+    },
+    "2": {
+      "title": "Pope Leo XIV talks about the economy in Argentina",
+      "text": "Pope Leo XIV arrived in Buenos Aires on Sunday. It is the first papal visit to Argentina in 39 years. President Javier Milei met him at the airport, and they talked for 30 minutes.\n\nIn a speech to leaders, the Pope said the economy must serve the person, and that those in power must know the limits of their power. He spoke about families with little work and money, and about young people who must leave their country to follow their dreams. He did not name Milei, but the Argentine press saw some words as a comment on cuts in education, disability support and pensions. Milei gave a calm speech and called Pope Francis the most important Argentine in history. About seven million people are expected at the events."
+    },
+    "3": {
+      "title": "Pope Leo XIV tells Argentina's leaders the economy must serve people",
+      "text": "Pope Leo XIV arrived in Buenos Aires on Sunday for the first papal visit to Argentina in 39 years. President Javier Milei greeted him at the plane and held a 30-minute private meeting with him. In his first speech to authorities, the Pope said the economy must serve the person, not the other way around, and urged those in power to recognise the limits of their authority.\n\nLeo XIV spoke of families carrying the burden of uncertainty, people seeking work and young people who must leave their land to fulfil their dreams. He did not mention Milei or the government, but Argentine media read several passages as veiled criticism of the president's cuts to education, disability support and pensions. The country's Catholic hierarchy has been one of the strongest critics of the government's austerity policies.\n\nMilei, who spoke first, gave a restrained speech and called Pope Francis, whom he had harshly criticised before, the most important Argentine in history. Authorities expect about seven million people at the Pope's events, supported by more than 25,000 volunteers."
+    }
+  },
+  "glossary": {
+    "pope": {
+      "pt": "papa",
+      "forms": []
+    },
+    "visits": {
+      "pt": "visita",
+      "forms": []
+    },
+    "argentina": {
+      "pt": "Argentina, país da América do Sul",
+      "forms": []
+    },
+    "leo": {
+      "pt": "Leo, nome do papa",
+      "forms": []
+    },
+    "xiv": {
+      "pt": "XIV, o décimo quarto (Leo XIV)",
+      "forms": []
+    },
+    "sunday": {
+      "pt": "domingo",
+      "forms": [],
+      "highlight": true
+    },
+    "visit": {
+      "pt": "visita",
+      "forms": []
+    },
+    "milei": {
+      "pt": "Milei, presidente da Argentina",
+      "forms": []
+    },
+    "economy": {
+      "pt": "economia",
+      "forms": [],
+      "highlight": true
+    },
+    "serve": {
+      "pt": "servir",
+      "forms": []
+    },
+    "leaders": {
+      "pt": "líderes",
+      "forms": [],
+      "highlight": true
+    },
+    "young": {
+      "pt": "jovem",
+      "forms": []
+    },
+    "sick": {
+      "pt": "doente",
+      "forms": []
+    },
+    "events": {
+      "pt": "eventos",
+      "forms": [],
+      "highlight": true
+    },
+    "arrived": {
+      "pt": "chegou",
+      "forms": [],
+      "highlight": true
+    },
+    "buenos": {
+      "pt": "Buenos (Buenos Aires, capital da Argentina)",
+      "forms": []
+    },
+    "aires": {
+      "pt": "Aires (Buenos Aires, capital da Argentina)",
+      "forms": []
+    },
+    "papal": {
+      "pt": "do papa",
+      "forms": []
+    },
+    "javier": {
+      "pt": "Javier, nome do presidente da Argentina",
+      "forms": []
+    },
+    "airport": {
+      "pt": "aeroporto",
+      "forms": []
+    },
+    "minutes": {
+      "pt": "minutos",
+      "forms": []
+    },
+    "speech": {
+      "pt": "discurso",
+      "forms": []
+    },
+    "power": {
+      "pt": "poder",
+      "forms": []
+    },
+    "limits": {
+      "pt": "limites",
+      "forms": []
+    },
+    "spoke": {
+      "pt": "falou",
+      "forms": []
+    },
+    "families": {
+      "pt": "famílias",
+      "forms": []
+    },
+    "follow": {
+      "pt": "seguir",
+      "forms": []
+    },
+    "dreams": {
+      "pt": "sonhos",
+      "forms": []
+    },
+    "argentine": {
+      "pt": "argentino",
+      "forms": []
+    },
+    "press": {
+      "pt": "imprensa",
+      "forms": []
+    },
+    "comment": {
+      "pt": "comentário",
+      "forms": []
+    },
+    "cuts": {
+      "pt": "cortes",
+      "forms": [],
+      "highlight": true
+    },
+    "education": {
+      "pt": "educação",
+      "forms": []
+    },
+    "disability": {
+      "pt": "deficiência",
+      "forms": []
+    },
+    "support": {
+      "pt": "apoio",
+      "forms": []
+    },
+    "pensions": {
+      "pt": "aposentadorias",
+      "forms": []
+    },
+    "calm": {
+      "pt": "calmo",
+      "forms": []
+    },
+    "francis": {
+      "pt": "Francisco, papa que morreu",
+      "forms": []
+    },
+    "history": {
+      "pt": "história",
+      "forms": []
+    },
+    "seven": {
+      "pt": "sete",
+      "forms": []
+    },
+    "expected": {
+      "pt": "esperado",
+      "forms": []
+    },
+    "argentina's": {
+      "pt": "da Argentina",
+      "forms": []
+    },
+    "greeted": {
+      "pt": "recebeu",
+      "forms": []
+    },
+    "plane": {
+      "pt": "avião",
+      "forms": []
+    },
+    "held": {
+      "pt": "fez, realizou",
+      "forms": []
+    },
+    "minute": {
+      "pt": "minuto",
+      "forms": []
+    },
+    "private": {
+      "pt": "particular",
+      "forms": []
+    },
+    "authorities": {
+      "pt": "autoridades",
+      "forms": []
+    },
+    "urged": {
+      "pt": "pediu com força",
+      "forms": []
+    },
+    "recognise": {
+      "pt": "reconhecer",
+      "forms": []
+    },
+    "authority": {
+      "pt": "autoridade",
+      "forms": []
+    },
+    "carrying": {
+      "pt": "carregando",
+      "forms": []
+    },
+    "burden": {
+      "pt": "peso, carga",
+      "forms": []
+    },
+    "uncertainty": {
+      "pt": "incerteza",
+      "forms": []
+    },
+    "seeking": {
+      "pt": "procurando",
+      "forms": []
+    },
+    "land": {
+      "pt": "terra",
+      "forms": []
+    },
+    "fulfil": {
+      "pt": "realizar",
+      "forms": []
+    },
+    "mention": {
+      "pt": "mencionar",
+      "forms": []
+    },
+    "media": {
+      "pt": "imprensa",
+      "forms": []
+    },
+    "several": {
+      "pt": "vários",
+      "forms": []
+    },
+    "passages": {
+      "pt": "trechos",
+      "forms": []
+    },
+    "veiled": {
+      "pt": "disfarçado",
+      "forms": []
+    },
+    "criticism": {
+      "pt": "crítica",
+      "forms": []
+    },
+    "president's": {
+      "pt": "do presidente",
+      "forms": []
+    },
+    "country's": {
+      "pt": "do país",
+      "forms": []
+    },
+    "catholic": {
+      "pt": "católico",
+      "forms": []
+    },
+    "hierarchy": {
+      "pt": "liderança",
+      "forms": []
+    },
+    "critics": {
+      "pt": "críticos",
+      "forms": []
+    },
+    "government's": {
+      "pt": "do governo",
+      "forms": []
+    },
+    "austerity": {
+      "pt": "austeridade, corte de gastos",
+      "forms": [],
+      "highlight": true
+    },
+    "policies": {
+      "pt": "políticas",
+      "forms": []
+    },
+    "restrained": {
+      "pt": "contido",
+      "forms": []
+    },
+    "harshly": {
+      "pt": "com dureza",
+      "forms": []
+    },
+    "criticised": {
+      "pt": "criticou",
+      "forms": []
+    },
+    "expect": {
+      "pt": "esperar",
+      "forms": []
+    },
+    "pope's": {
+      "pt": "do papa",
+      "forms": []
+    },
+    "supported": {
+      "pt": "apoiado",
+      "forms": []
+    },
+    "volunteers": {
+      "pt": "voluntários",
+      "forms": []
+    }
+  }
+}

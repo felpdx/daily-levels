@@ -1,0 +1,315 @@
+{
+  "id": "2026-11-11-microsoft-patches-1259-flaws",
+  "date": "2026-11-11",
+  "topic": "hacking",
+  "source": {
+    "name": "The Hacker News",
+    "url": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
+    "publishedAt": "2026-11-11T08:17:53Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Microsoft fixes over 1,000 flaws again",
+      "text": "Microsoft fixed 1,259 flaws on Tuesday. It is the second month in a row with more than 1,000 fixes. One flaw is in Outlook. Hackers already use it. A user opens a bad message file. Then Outlook connects to the hacker's computer. The hacker can steal login data. Users should update now."
+    },
+    "2": {
+      "title": "Microsoft fixes 1,259 flaws, and hackers use one in Outlook",
+      "text": "Microsoft released fixes for 1,259 security flaws on Tuesday. It is the second month in a row with more than 1,000 fixes. Most of the flaws are in Windows, and many of them let an attacker get more power on a computer.\n\nOne flaw in Outlook is already used in real attacks. An attacker sends a special message file and asks the victim to open it. Then Outlook connects to the attacker's network without the usual warning. This can give away login data called an NTLMv2 hash. A hash like this can help the attacker pretend to be the user. Microsoft rated the flaw as moderate. A security expert from Action1 said that label is too soft. The US cyber agency CISA says government offices must install the fix by November 24."
+    },
+    "3": {
+      "title": "Microsoft patches 1,259 flaws, including an exploited Outlook bug",
+      "text": "Microsoft released patches on Tuesday for 1,259 vulnerabilities across its products. It is the second consecutive month with more than 1,000 flaws. Windows accounts for 726 of them, followed by Office with 174. More than 500 of the bugs allow elevation of privilege. According to Satnam Narang of Tenable, Microsoft has fixed over 5,100 flaws this year.\n\nOne of them, a spoofing flaw in Outlook, is already being exploited. An attacker sends a specially crafted message file and persuades the target to open it. Outlook then connects to a location controlled by the attacker without the usual external-content warning, which could expose an NTLMv2 hash and let the attacker impersonate the user. Microsoft labeled the flaw moderate and did not say who is behind the attacks. Jack Bicer of Action1 said the label undersells the risk.\n\nCISA added the flaw to its catalog of known exploited vulnerabilities, and federal agencies must apply the fix by November 24, 2026. Jake Knott of watchTowr advised teams to start with what is exposed to the internet and already exploited."
+    }
+  },
+  "glossary": {
+    "microsoft": {
+      "pt": "Microsoft, empresa de software"
+    },
+    "fixes": {
+      "pt": "correções"
+    },
+    "flaws": {
+      "pt": "falhas de segurança"
+    },
+    "fixed": {
+      "pt": "corrigido"
+    },
+    "tuesday": {
+      "pt": "terça-feira"
+    },
+    "row": {
+      "pt": "fila, seguida"
+    },
+    "flaw": {
+      "pt": "falha de segurança",
+      "highlight": true
+    },
+    "outlook": {
+      "pt": "Outlook, programa de e-mail da Microsoft"
+    },
+    "hackers": {
+      "pt": "hackers"
+    },
+    "user": {
+      "pt": "usuário"
+    },
+    "opens": {
+      "pt": "abre"
+    },
+    "message": {
+      "pt": "mensagem"
+    },
+    "file": {
+      "pt": "arquivo"
+    },
+    "connects": {
+      "pt": "conecta"
+    },
+    "hacker": {
+      "pt": "hacker"
+    },
+    "computer": {
+      "pt": "computador"
+    },
+    "steal": {
+      "pt": "roubar"
+    },
+    "login": {
+      "pt": "acesso com senha"
+    },
+    "data": {
+      "pt": "dados"
+    },
+    "users": {
+      "pt": "usuários"
+    },
+    "update": {
+      "pt": "atualizar, atualização"
+    },
+    "released": {
+      "pt": "lançou"
+    },
+    "security": {
+      "pt": "segurança"
+    },
+    "windows": {
+      "pt": "Windows, sistema da Microsoft"
+    },
+    "let": {
+      "pt": "deixar, permitir"
+    },
+    "attacker": {
+      "pt": "atacante",
+      "highlight": true
+    },
+    "power": {
+      "pt": "poder"
+    },
+    "attacks": {
+      "pt": "ataques"
+    },
+    "special": {
+      "pt": "especial"
+    },
+    "victim": {
+      "pt": "vítima"
+    },
+    "open": {
+      "pt": "abrir"
+    },
+    "network": {
+      "pt": "rede"
+    },
+    "usual": {
+      "pt": "de costume"
+    },
+    "warning": {
+      "pt": "aviso"
+    },
+    "hash": {
+      "pt": "hash, código de senha",
+      "highlight": true
+    },
+    "pretend": {
+      "pt": "fingir"
+    },
+    "rated": {
+      "pt": "classificou"
+    },
+    "moderate": {
+      "pt": "moderado"
+    },
+    "expert": {
+      "pt": "especialista"
+    },
+    "label": {
+      "pt": "rótulo"
+    },
+    "soft": {
+      "pt": "suave, fraco"
+    },
+    "cyber": {
+      "pt": "cibernético"
+    },
+    "agency": {
+      "pt": "órgão, agência"
+    },
+    "cisa": {
+      "pt": "CISA, agência de segurança cibernética dos EUA"
+    },
+    "offices": {
+      "pt": "escritórios, órgãos"
+    },
+    "install": {
+      "pt": "instalar"
+    },
+    "fix": {
+      "pt": "correção, corrigir"
+    },
+    "november": {
+      "pt": "novembro"
+    },
+    "patches": {
+      "pt": "correções (de programa)",
+      "highlight": true
+    },
+    "including": {
+      "pt": "incluindo"
+    },
+    "exploited": {
+      "pt": "explorado (por atacantes)",
+      "highlight": true
+    },
+    "bug": {
+      "pt": "falha de programa"
+    },
+    "vulnerabilities": {
+      "pt": "vulnerabilidades, falhas",
+      "highlight": true
+    },
+    "across": {
+      "pt": "em, por todo"
+    },
+    "products": {
+      "pt": "produtos"
+    },
+    "consecutive": {
+      "pt": "seguidos"
+    },
+    "accounts": {
+      "pt": "contas"
+    },
+    "followed": {
+      "pt": "seguido"
+    },
+    "office": {
+      "pt": "Office, programas de escritório da Microsoft"
+    },
+    "bugs": {
+      "pt": "falhas de programa"
+    },
+    "allow": {
+      "pt": "permitir"
+    },
+    "elevation": {
+      "pt": "aumento (de poder)"
+    },
+    "privilege": {
+      "pt": "privilégio, poder de acesso"
+    },
+    "according": {
+      "pt": "segundo"
+    },
+    "satnam": {
+      "pt": "Satnam, nome de pessoa"
+    },
+    "narang": {
+      "pt": "Narang, Satnam Narang, especialista da Tenable"
+    },
+    "tenable": {
+      "pt": "Tenable, empresa de segurança"
+    },
+    "spoofing": {
+      "pt": "falsificação de identidade"
+    },
+    "specially": {
+      "pt": "especialmente"
+    },
+    "crafted": {
+      "pt": "feito de propósito"
+    },
+    "persuades": {
+      "pt": "convence"
+    },
+    "target": {
+      "pt": "meta; alvo"
+    },
+    "location": {
+      "pt": "local"
+    },
+    "external": {
+      "pt": "externo"
+    },
+    "content": {
+      "pt": "conteúdo"
+    },
+    "expose": {
+      "pt": "expor"
+    },
+    "impersonate": {
+      "pt": "fingir ser outra pessoa",
+      "highlight": true
+    },
+    "labeled": {
+      "pt": "classificou"
+    },
+    "jack": {
+      "pt": "Jack, nome de pessoa"
+    },
+    "bicer": {
+      "pt": "Bicer, Jack Bicer, especialista da Action1"
+    },
+    "undersells": {
+      "pt": "faz parecer menor"
+    },
+    "risk": {
+      "pt": "risco"
+    },
+    "added": {
+      "pt": "adicionou"
+    },
+    "catalog": {
+      "pt": "catálogo, lista"
+    },
+    "federal": {
+      "pt": "federal"
+    },
+    "agencies": {
+      "pt": "órgãos"
+    },
+    "apply": {
+      "pt": "aplicar"
+    },
+    "jake": {
+      "pt": "Jake, nome de pessoa"
+    },
+    "knott": {
+      "pt": "Knott, Jake Knott, especialista da watchTowr"
+    },
+    "watchtowr": {
+      "pt": "watchTowr, empresa de segurança"
+    },
+    "advised": {
+      "pt": "aconselhou"
+    },
+    "teams": {
+      "pt": "equipes"
+    },
+    "exposed": {
+      "pt": "exposto"
+    },
+    "internet": {
+      "pt": "internet"
+    }
+  }
+}

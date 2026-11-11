@@ -1,0 +1,290 @@
+{
+  "id": "2026-11-11-anthropic-ipo-price-range",
+  "date": "2026-11-11",
+  "topic": "bolsa",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-11-10T17:56:12Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Anthropic sets its share price",
+      "text": "Anthropic is an AI company. It will sell its shares to the public this month. Each share will cost $70 to $78. The company could be worth about $1.3 trillion. It plans to raise up to $64 billion. But it lost money. Its loss was $80.7 billion in six months. Trading starts on November 19."
+    },
+    "2": {
+      "title": "Anthropic plans a huge stock market debut",
+      "text": "Anthropic, the company behind the Claude chatbot, will sell its shares to the public on the Nasdaq stock exchange this month. The price will be between $70 and $78 for each share. The company wants to raise up to $64 billion. This would value it at $1.1 trillion to $1.3 trillion. Trading starts on November 19 under the symbol ANT.\n\nIn the first six months of this year, its sales rose to $16.2 billion. But its loss before tax rose to $80.7 billion. The debut comes at a nervous time for tech stocks, after the Nasdaq fell last week. Last month, the company also warned that AI could be a serious risk to humanity. An analyst named Fiona Cincotta said the plan is fairly bullish."
+    },
+    "3": {
+      "title": "Anthropic sets price range for a stock market debut that could value it at $1.3tn",
+      "text": "Anthropic, the artificial intelligence company behind the Claude chatbot, has said it will offer its shares at between $70 and $78 each when it floats on the Nasdaq this month. It aims to raise up to $64bn, which would value the company at between $1.1tn and $1.3tn. That is below the $2tn that some backers predicted in the summer, according to the Financial Times. Trading is due to begin on November 19 under the symbol ANT.\n\nIn the six months to the end of June, revenues rose to $16.2bn from $1.1bn a year earlier, but the pre-tax loss grew to $80.7bn from $12.9bn. The listing comes at a volatile moment for big tech: the Nasdaq fell sharply after last week's midterm elections on fears that a Democrat-led Congress could slow AI development and data centre construction.\n\nFiona Cincotta, a senior market analyst at City Index, told Reuters the size of the offering is fairly bullish and shows the company is upbeat about demand. The company has also warned that advanced AI could pose catastrophic risks if not properly safeguarded. It will be the first fully AI-focused company to go public."
+    }
+  },
+  "glossary": {
+    "anthropic": {
+      "pt": "Anthropic, empresa de IA que criou o Claude"
+    },
+    "sets": {
+      "pt": "define"
+    },
+    "share": {
+      "pt": "ação (de empresa)"
+    },
+    "ai": {
+      "pt": "IA, inteligência artificial"
+    },
+    "shares": {
+      "pt": "ações (de empresa)",
+      "highlight": true
+    },
+    "public": {
+      "pt": "público"
+    },
+    "cost": {
+      "pt": "custo, custar"
+    },
+    "worth": {
+      "pt": "valendo"
+    },
+    "trillion": {
+      "pt": "trilhão",
+      "highlight": true
+    },
+    "raise": {
+      "pt": "levantar, aumentar"
+    },
+    "loss": {
+      "pt": "prejuízo"
+    },
+    "six": {
+      "pt": "seis"
+    },
+    "trading": {
+      "pt": "negociação"
+    },
+    "november": {
+      "pt": "novembro"
+    },
+    "huge": {
+      "pt": "enorme"
+    },
+    "stock": {
+      "pt": "ação, bolsa"
+    },
+    "market": {
+      "pt": "mercado"
+    },
+    "debut": {
+      "pt": "estreia",
+      "highlight": true
+    },
+    "claude": {
+      "pt": "Claude, chatbot da Anthropic"
+    },
+    "chatbot": {
+      "pt": "robô de conversa"
+    },
+    "nasdaq": {
+      "pt": "Nasdaq, bolsa de valores dos EUA"
+    },
+    "exchange": {
+      "pt": "bolsa de valores"
+    },
+    "value": {
+      "pt": "valor, avaliar"
+    },
+    "symbol": {
+      "pt": "símbolo"
+    },
+    "ant": {
+      "pt": "ANT, código das ações da Anthropic"
+    },
+    "sales": {
+      "pt": "vendas; Sales, nome de um juiz"
+    },
+    "rose": {
+      "pt": "subiu"
+    },
+    "tax": {
+      "pt": "imposto"
+    },
+    "nervous": {
+      "pt": "nervoso"
+    },
+    "tech": {
+      "pt": "tecnologia"
+    },
+    "stocks": {
+      "pt": "ações"
+    },
+    "warned": {
+      "pt": "alertou"
+    },
+    "serious": {
+      "pt": "sério"
+    },
+    "risk": {
+      "pt": "risco"
+    },
+    "humanity": {
+      "pt": "humanidade"
+    },
+    "analyst": {
+      "pt": "analista"
+    },
+    "fiona": {
+      "pt": "Fiona, nome de pessoa"
+    },
+    "cincotta": {
+      "pt": "Cincotta, Fiona Cincotta, analista da City Index"
+    },
+    "fairly": {
+      "pt": "bastante"
+    },
+    "bullish": {
+      "pt": "otimista (no mercado)",
+      "highlight": true
+    },
+    "range": {
+      "pt": "faixa"
+    },
+    "artificial": {
+      "pt": "artificial"
+    },
+    "intelligence": {
+      "pt": "inteligência"
+    },
+    "offer": {
+      "pt": "oferecer"
+    },
+    "floats": {
+      "pt": "abre capital (vende ações)",
+      "highlight": true
+    },
+    "aims": {
+      "pt": "pretende"
+    },
+    "below": {
+      "pt": "abaixo"
+    },
+    "backers": {
+      "pt": "apoiadores, investidores"
+    },
+    "predicted": {
+      "pt": "previu"
+    },
+    "summer": {
+      "pt": "verão"
+    },
+    "according": {
+      "pt": "segundo"
+    },
+    "financial": {
+      "pt": "financeiro"
+    },
+    "due": {
+      "pt": "previsto"
+    },
+    "june": {
+      "pt": "junho"
+    },
+    "revenues": {
+      "pt": "receitas"
+    },
+    "earlier": {
+      "pt": "antes"
+    },
+    "pre": {
+      "pt": "antes de"
+    },
+    "listing": {
+      "pt": "entrada na bolsa"
+    },
+    "volatile": {
+      "pt": "instável",
+      "highlight": true
+    },
+    "moment": {
+      "pt": "momento"
+    },
+    "sharply": {
+      "pt": "de forma forte"
+    },
+    "midterm": {
+      "pt": "de meio de mandato"
+    },
+    "elections": {
+      "pt": "eleições"
+    },
+    "fears": {
+      "pt": "medos"
+    },
+    "democrat": {
+      "pt": "democrata"
+    },
+    "congress": {
+      "pt": "Congresso dos EUA"
+    },
+    "slow": {
+      "pt": "desacelerar"
+    },
+    "development": {
+      "pt": "desenvolvimento"
+    },
+    "data": {
+      "pt": "dados"
+    },
+    "centre": {
+      "pt": "centro"
+    },
+    "construction": {
+      "pt": "construção"
+    },
+    "senior": {
+      "pt": "sênior"
+    },
+    "index": {
+      "pt": "índice"
+    },
+    "reuters": {
+      "pt": "Reuters, agência de notícias"
+    },
+    "size": {
+      "pt": "tamanho"
+    },
+    "offering": {
+      "pt": "oferta de ações"
+    },
+    "upbeat": {
+      "pt": "otimista"
+    },
+    "demand": {
+      "pt": "demanda"
+    },
+    "advanced": {
+      "pt": "avançado"
+    },
+    "pose": {
+      "pt": "representar (risco)"
+    },
+    "catastrophic": {
+      "pt": "catastrófico"
+    },
+    "risks": {
+      "pt": "riscos"
+    },
+    "properly": {
+      "pt": "de forma correta"
+    },
+    "safeguarded": {
+      "pt": "protegido"
+    },
+    "fully": {
+      "pt": "totalmente"
+    },
+    "focused": {
+      "pt": "focada"
+    }
+  }
+}

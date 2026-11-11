@@ -1,6 +1,41 @@
 {
   "articles": [
     {
+      "id": "2026-11-11-git-recursive-clone-flaw",
+      "date": "2026-11-11",
+      "topic": "hacking",
+      "title": "Git fixes a dangerous flaw",
+      "source": "The Hacker News"
+    },
+    {
+      "id": "2026-11-11-microsoft-patches-1259-flaws",
+      "date": "2026-11-11",
+      "topic": "hacking",
+      "title": "Microsoft fixes over 1,000 flaws again",
+      "source": "The Hacker News"
+    },
+    {
+      "id": "2026-11-11-anthropic-ipo-price-range",
+      "date": "2026-11-11",
+      "topic": "bolsa",
+      "title": "Anthropic sets its share price",
+      "source": "BBC News"
+    },
+    {
+      "id": "2026-11-11-us-inflation-october-faster",
+      "date": "2026-11-11",
+      "topic": "bolsa",
+      "title": "US prices rise faster than expected",
+      "source": "BBC News"
+    },
+    {
+      "id": "2026-11-11-trinidad-tobago-privy-council-ruling",
+      "date": "2026-11-11",
+      "topic": "mundo",
+      "title": "Court ends old laws in Trinidad and Tobago",
+      "source": "BBC News"
+    },
+    {
       "id": "2026-11-10-chrome-eighth-zero-day",
       "date": "2026-11-10",
       "topic": "hacking",

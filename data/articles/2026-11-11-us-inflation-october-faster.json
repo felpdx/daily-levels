@@ -1,0 +1,270 @@
+{
+  "id": "2026-11-11-us-inflation-october-faster",
+  "date": "2026-11-11",
+  "topic": "bolsa",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-11-10T14:45:46Z"
+  },
+  "levels": {
+    "1": {
+      "title": "US prices rise faster than expected",
+      "text": "US prices rose 0.4% in October. Experts thought they would rise 0.3%. In September, prices rose 0.6%. Housing, food and energy cost more. Oil was near $70 before the war with Iran. Now it is over $100. Because of this, the US central bank may raise interest rates in December."
+    },
+    "2": {
+      "title": "US inflation is higher than experts expected",
+      "text": "Prices in the United States rose 0.4% in October. Experts expected 0.3%. In September the rise was 0.6%, so the pace is slower, but it is still higher than the forecast. Housing, food and energy costs pushed prices up.\n\nThe news comes one week after the midterm elections, where the cost of living was a big topic. Oil was near $70 a barrel before the war between the US, Israel and Iran. Now it is over $100. The new numbers make a rate rise at the next meeting of the Federal Reserve in December more likely. A Fed official, Christopher Waller, also said he was leaning toward a rate rise."
+    },
+    "3": {
+      "title": "US inflation rises faster than expected in October",
+      "text": "Prices in the United States rose 0.4% in October, faster than the 0.3% that analysts had expected, according to official figures. The monthly increase was smaller than September's 0.6%, but the surprise strengthens the case for the Federal Reserve to raise interest rates at its December meeting. The figures arrive a week after midterm elections that were fought over cost-of-living pressures.\n\nHousing, food and energy costs drove the rise. Energy prices increased 0.7%, much less than the 5.2% jump seen in September. Crude oil traded at just over $70 a barrel before the US-Israel war with Iran began, but it is now above $100. The Bureau of Labor Statistics could not give the usual 12-month figure because it did not collect data in October 2025. For the 12 months to September, inflation was 3.7%, well above the Fed's 2% target.\n\nFed governor Christopher Waller, who spoke before the data came out, said he was leaning toward a rate increase in December. Research from the New York Fed also links tariffs to higher consumer prices."
+    }
+  },
+  "glossary": {
+    "rise": {
+      "pt": "aumento, subir"
+    },
+    "faster": {
+      "pt": "mais rápido"
+    },
+    "expected": {
+      "pt": "esperado"
+    },
+    "rose": {
+      "pt": "subiu"
+    },
+    "october": {
+      "pt": "outubro"
+    },
+    "experts": {
+      "pt": "especialistas"
+    },
+    "september": {
+      "pt": "setembro"
+    },
+    "housing": {
+      "pt": "moradia"
+    },
+    "food": {
+      "pt": "comida"
+    },
+    "energy": {
+      "pt": "energia"
+    },
+    "cost": {
+      "pt": "custo, custar"
+    },
+    "oil": {
+      "pt": "petróleo"
+    },
+    "near": {
+      "pt": "perto"
+    },
+    "war": {
+      "pt": "guerra"
+    },
+    "iran": {
+      "pt": "Irã"
+    },
+    "central": {
+      "pt": "central"
+    },
+    "bank": {
+      "pt": "banco"
+    },
+    "raise": {
+      "pt": "levantar, aumentar",
+      "highlight": true
+    },
+    "interest": {
+      "pt": "juros",
+      "highlight": true
+    },
+    "rates": {
+      "pt": "taxas"
+    },
+    "december": {
+      "pt": "dezembro"
+    },
+    "inflation": {
+      "pt": "inflação",
+      "highlight": true
+    },
+    "united": {
+      "pt": "unidos"
+    },
+    "states": {
+      "pt": "estados"
+    },
+    "pace": {
+      "pt": "ritmo"
+    },
+    "slower": {
+      "pt": "mais lento"
+    },
+    "forecast": {
+      "pt": "previsão",
+      "highlight": true
+    },
+    "costs": {
+      "pt": "custos"
+    },
+    "pushed": {
+      "pt": "empurrou"
+    },
+    "midterm": {
+      "pt": "de meio de mandato"
+    },
+    "elections": {
+      "pt": "eleições"
+    },
+    "living": {
+      "pt": "vida, sustento"
+    },
+    "topic": {
+      "pt": "assunto"
+    },
+    "barrel": {
+      "pt": "barril"
+    },
+    "israel": {
+      "pt": "Israel"
+    },
+    "rate": {
+      "pt": "taxa"
+    },
+    "federal": {
+      "pt": "federal"
+    },
+    "reserve": {
+      "pt": "reserva"
+    },
+    "likely": {
+      "pt": "provável"
+    },
+    "fed": {
+      "pt": "Fed, banco central dos EUA"
+    },
+    "official": {
+      "pt": "oficial, autoridade"
+    },
+    "christopher": {
+      "pt": "Christopher, nome de pessoa"
+    },
+    "waller": {
+      "pt": "Waller, Christopher Waller, diretor do Fed"
+    },
+    "leaning": {
+      "pt": "inclinado"
+    },
+    "toward": {
+      "pt": "em direção a"
+    },
+    "rises": {
+      "pt": "sobe"
+    },
+    "analysts": {
+      "pt": "analistas"
+    },
+    "according": {
+      "pt": "segundo"
+    },
+    "figures": {
+      "pt": "números, dados",
+      "highlight": true
+    },
+    "monthly": {
+      "pt": "mensal"
+    },
+    "increase": {
+      "pt": "aumento"
+    },
+    "smaller": {
+      "pt": "menor"
+    },
+    "surprise": {
+      "pt": "surpresa"
+    },
+    "strengthens": {
+      "pt": "reforça"
+    },
+    "case": {
+      "pt": "caso"
+    },
+    "arrive": {
+      "pt": "chegar"
+    },
+    "fought": {
+      "pt": "lutou"
+    },
+    "pressures": {
+      "pt": "pressões"
+    },
+    "drove": {
+      "pt": "levou, impulsionou"
+    },
+    "increased": {
+      "pt": "aumentou"
+    },
+    "jump": {
+      "pt": "salto"
+    },
+    "crude": {
+      "pt": "bruto (petróleo)",
+      "highlight": true
+    },
+    "traded": {
+      "pt": "foi negociado"
+    },
+    "above": {
+      "pt": "acima"
+    },
+    "bureau": {
+      "pt": "departamento"
+    },
+    "labor": {
+      "pt": "trabalho"
+    },
+    "statistics": {
+      "pt": "estatísticas"
+    },
+    "usual": {
+      "pt": "de costume"
+    },
+    "figure": {
+      "pt": "número"
+    },
+    "collect": {
+      "pt": "coletar"
+    },
+    "data": {
+      "pt": "dados"
+    },
+    "target": {
+      "pt": "meta; alvo"
+    },
+    "governor": {
+      "pt": "diretor, presidente (de banco central)"
+    },
+    "spoke": {
+      "pt": "falou"
+    },
+    "research": {
+      "pt": "pesquisa"
+    },
+    "york": {
+      "pt": "York, Nova York"
+    },
+    "links": {
+      "pt": "liga, relaciona"
+    },
+    "tariffs": {
+      "pt": "tarifas de importação",
+      "highlight": true
+    },
+    "consumer": {
+      "pt": "consumidor"
+    }
+  }
+}

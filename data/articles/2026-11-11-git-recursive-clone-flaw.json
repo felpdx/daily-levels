@@ -1,0 +1,288 @@
+{
+  "id": "2026-11-11-git-recursive-clone-flaw",
+  "date": "2026-11-11",
+  "topic": "hacking",
+  "source": {
+    "name": "The Hacker News",
+    "url": "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html",
+    "publishedAt": "2026-11-10T19:23:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Git fixes a dangerous flaw",
+      "text": "Git has a flaw. A bad project can run the attacker's code on your computer. This can happen when you copy the project with its smaller projects inside. The Git team fixed it this week. The new version is 2.56.1. Update Git now. GitHub already fixed the flaw on its website."
+    },
+    "2": {
+      "title": "Git fixes a flaw in bad projects",
+      "text": "The Git team fixed a flaw this week. A bad project can run an attacker's code on a computer that copies it with all its smaller projects inside, called submodules. The fix is in Git 2.56.1. Older series also got fixes.\n\nThe problem starts with a very long file path. Git checks it and thinks it is safe. But then Git saves it with a shorter name, and an attacker can make that name .git. This lets the attacker point the project to a folder with bad hooks. Hooks are small programs that Git runs by itself.\n\nGitHub says people should install a fixed version. GitHub already fixed the flaw on github.com. Git for Windows did not have a fixed version on Tuesday evening."
+    },
+    "3": {
+      "title": "Git patches a flaw that lets malicious repositories run code",
+      "text": "The Git project released fixes this week for a flaw that can let a malicious repository run an attacker's code on a computer that clones it recursively, together with its submodules. The fix is in Git 2.56.1, and matching updates exist for the 2.50 through 2.55 series.\n\nTracked as CVE-2026-111760, the flaw is an integer truncation in how Git handles its index. An extremely long path can pass Git's safety check, but Git then writes it to disk under a shorter name that an attacker can set to .git. That allows the attacker to replace a submodule's .git file with a symbolic link to a folder holding malicious hooks, which are programs Git runs at set points.\n\nGitHub advises installing a fixed version and updating any app that ships its own copy of Git. The company has already fixed github.com and GitHub Enterprise Cloud. The Hacker News reported that Git for Windows had not released a fixed build by Tuesday evening. The releases also fix five other flaws, including one that could affect servers running git merge-tree."
+    }
+  },
+  "glossary": {
+    "git": {
+      "pt": "Git, programa para guardar versões de código"
+    },
+    "fixes": {
+      "pt": "correções"
+    },
+    "dangerous": {
+      "pt": "perigoso"
+    },
+    "flaw": {
+      "pt": "falha de segurança",
+      "highlight": true
+    },
+    "project": {
+      "pt": "projeto"
+    },
+    "attacker": {
+      "pt": "atacante"
+    },
+    "code": {
+      "pt": "código"
+    },
+    "computer": {
+      "pt": "computador"
+    },
+    "copy": {
+      "pt": "copiar, cópia"
+    },
+    "smaller": {
+      "pt": "menor"
+    },
+    "projects": {
+      "pt": "projetos"
+    },
+    "inside": {
+      "pt": "dentro"
+    },
+    "team": {
+      "pt": "equipe"
+    },
+    "fixed": {
+      "pt": "corrigido"
+    },
+    "version": {
+      "pt": "versão"
+    },
+    "update": {
+      "pt": "atualizar, atualização"
+    },
+    "github": {
+      "pt": "GitHub, site de código"
+    },
+    "website": {
+      "pt": "site"
+    },
+    "copies": {
+      "pt": "copia"
+    },
+    "submodules": {
+      "pt": "subprojetos",
+      "highlight": true
+    },
+    "fix": {
+      "pt": "correção, corrigir"
+    },
+    "series": {
+      "pt": "série"
+    },
+    "file": {
+      "pt": "arquivo"
+    },
+    "path": {
+      "pt": "caminho (de arquivo)"
+    },
+    "checks": {
+      "pt": "verifica"
+    },
+    "safe": {
+      "pt": "seguro"
+    },
+    "saves": {
+      "pt": "salva"
+    },
+    "shorter": {
+      "pt": "mais curto"
+    },
+    "lets": {
+      "pt": "permite"
+    },
+    "point": {
+      "pt": "apontar"
+    },
+    "folder": {
+      "pt": "pasta"
+    },
+    "hooks": {
+      "pt": "ganchos, pequenos programas automáticos",
+      "highlight": true
+    },
+    "programs": {
+      "pt": "programas"
+    },
+    "install": {
+      "pt": "instalar"
+    },
+    "com": {
+      "pt": "com (parte de site)"
+    },
+    "windows": {
+      "pt": "Windows, sistema da Microsoft"
+    },
+    "tuesday": {
+      "pt": "terça-feira"
+    },
+    "evening": {
+      "pt": "noite"
+    },
+    "patches": {
+      "pt": "correções (de programa)"
+    },
+    "malicious": {
+      "pt": "malicioso",
+      "highlight": true
+    },
+    "repositories": {
+      "pt": "repositórios de código"
+    },
+    "released": {
+      "pt": "lançou"
+    },
+    "let": {
+      "pt": "deixar, permitir"
+    },
+    "repository": {
+      "pt": "repositório de código",
+      "highlight": true
+    },
+    "clones": {
+      "pt": "copia (um projeto)"
+    },
+    "recursively": {
+      "pt": "de forma recursiva, incluindo tudo dentro"
+    },
+    "matching": {
+      "pt": "correspondentes"
+    },
+    "updates": {
+      "pt": "atualizações"
+    },
+    "exist": {
+      "pt": "existir"
+    },
+    "tracked": {
+      "pt": "registrada com o código"
+    },
+    "integer": {
+      "pt": "número inteiro"
+    },
+    "truncation": {
+      "pt": "corte",
+      "highlight": true
+    },
+    "handles": {
+      "pt": "trata, lida com"
+    },
+    "index": {
+      "pt": "índice"
+    },
+    "extremely": {
+      "pt": "extremamente"
+    },
+    "pass": {
+      "pt": "passar"
+    },
+    "safety": {
+      "pt": "segurança"
+    },
+    "check": {
+      "pt": "verificação"
+    },
+    "disk": {
+      "pt": "disco (do computador)"
+    },
+    "set": {
+      "pt": "definir"
+    },
+    "allows": {
+      "pt": "permite"
+    },
+    "replace": {
+      "pt": "substituir"
+    },
+    "submodule": {
+      "pt": "subprojeto"
+    },
+    "symbolic": {
+      "pt": "simbólico",
+      "highlight": true
+    },
+    "link": {
+      "pt": "ligação"
+    },
+    "holding": {
+      "pt": "guardando"
+    },
+    "points": {
+      "pt": "aponta"
+    },
+    "advises": {
+      "pt": "aconselha"
+    },
+    "installing": {
+      "pt": "instalando"
+    },
+    "updating": {
+      "pt": "atualizando"
+    },
+    "app": {
+      "pt": "aplicativo"
+    },
+    "ships": {
+      "pt": "inclui, distribui"
+    },
+    "enterprise": {
+      "pt": "empresarial"
+    },
+    "cloud": {
+      "pt": "nuvem"
+    },
+    "hacker": {
+      "pt": "hacker"
+    },
+    "reported": {
+      "pt": "informou"
+    },
+    "build": {
+      "pt": "versão (do programa)"
+    },
+    "releases": {
+      "pt": "versões lançadas"
+    },
+    "five": {
+      "pt": "cinco"
+    },
+    "flaws": {
+      "pt": "falhas de segurança"
+    },
+    "including": {
+      "pt": "incluindo"
+    },
+    "affect": {
+      "pt": "afetar"
+    },
+    "servers": {
+      "pt": "servidores"
+    },
+    "merge": {
+      "pt": "juntar"
+    },
+    "tree": {
+      "pt": "árvore"
+    }
+  }
+}

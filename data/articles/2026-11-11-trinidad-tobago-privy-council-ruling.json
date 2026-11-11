@@ -1,0 +1,315 @@
+{
+  "id": "2026-11-11-trinidad-tobago-privy-council-ruling",
+  "date": "2026-11-11",
+  "topic": "mundo",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-11-10T18:04:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Court ends old laws in Trinidad and Tobago",
+      "text": "A court in London made a big decision. It ended laws that punished same-sex love in Trinidad and Tobago. Jason Jones, who is 62, fought for 11 years. The judges agreed with him. They said the laws were against the right to a private life. Jones said the message to gay people as criminals ends today."
+    },
+    "2": {
+      "title": "Court ends laws against gay people in Trinidad and Tobago",
+      "text": "A court in the UK has ended the laws that made same-sex love a crime in Trinidad and Tobago. The court is the Privy Council in London, and it is the final court of appeal for the islands. The judges all agreed. They said the laws did not respect the right to private and family life.\n\nJason Jones, 62, started the case 11 years ago. He won in 2018 in the High Court of Trinidad, but the government won on appeal. Now he has won again. He said the laws told gay people they were criminals and that this message ends today. The government had argued that old laws from the British time were protected. This is the first time the Privy Council has decided such a case. Before this, about 34 Commonwealth countries still had such laws."
+    },
+    "3": {
+      "title": "UK court overturns Trinidad and Tobago laws criminalising same-sex intimacy",
+      "text": "The Judicial Committee of the Privy Council in London, the final court of appeal for Trinidad and Tobago, has overturned laws that criminalised same-sex intimacy in the country. It unanimously ruled that the laws did not respect the fundamental right to private and family life. Lord Sales said they could not be regarded as justifiable in a society that properly respects individual rights.\n\nThe case was brought by Jason Jones, a 62-year-old dual citizen, after an 11-year legal battle. He had won in Trinidad's High Court in 2018, but the government successfully appealed. The Attorney General had argued that the laws were protected by savings clauses, which carried over existing British laws into newly independent states. Jones's lawyers countered that stricter punishments introduced in 1986 meant that protection no longer applied.\n\nIt is the first time the Privy Council has ruled on decriminalising same-sex intimacy, and campaigners hope it will inspire similar challenges elsewhere. Until now, Trinidad and Tobago was one of about 34 Commonwealth countries that criminalised homosexuality under colonial-era laws. Jones said he hoped the ruling would accelerate the fight for full equality."
+    }
+  },
+  "glossary": {
+    "court": {
+      "pt": "tribunal"
+    },
+    "laws": {
+      "pt": "leis"
+    },
+    "trinidad": {
+      "pt": "Trinidad, ilha que forma um país com Tobago"
+    },
+    "tobago": {
+      "pt": "Tobago, ilha que forma um país com Trinidad"
+    },
+    "london": {
+      "pt": "Londres"
+    },
+    "decision": {
+      "pt": "decisão"
+    },
+    "punished": {
+      "pt": "punia"
+    },
+    "sex": {
+      "pt": "sexo"
+    },
+    "love": {
+      "pt": "amor"
+    },
+    "jason": {
+      "pt": "Jason, nome de pessoa"
+    },
+    "jones": {
+      "pt": "Jones, Jason Jones, ativista de Trinidad e Tobago"
+    },
+    "fought": {
+      "pt": "lutou"
+    },
+    "judges": {
+      "pt": "juízes"
+    },
+    "agreed": {
+      "pt": "concordaram"
+    },
+    "private": {
+      "pt": "privado"
+    },
+    "life": {
+      "pt": "vida"
+    },
+    "message": {
+      "pt": "mensagem"
+    },
+    "gay": {
+      "pt": "gay"
+    },
+    "criminals": {
+      "pt": "criminosos"
+    },
+    "uk": {
+      "pt": "Reino Unido"
+    },
+    "crime": {
+      "pt": "crime"
+    },
+    "privy": {
+      "pt": "Privy Council, tribunal final de apelação"
+    },
+    "council": {
+      "pt": "conselho"
+    },
+    "final": {
+      "pt": "final"
+    },
+    "appeal": {
+      "pt": "recurso na justiça",
+      "highlight": true
+    },
+    "islands": {
+      "pt": "ilhas"
+    },
+    "respect": {
+      "pt": "respeito"
+    },
+    "family": {
+      "pt": "família"
+    },
+    "case": {
+      "pt": "caso"
+    },
+    "ago": {
+      "pt": "atrás (tempo)"
+    },
+    "won": {
+      "pt": "ganhou"
+    },
+    "argued": {
+      "pt": "argumentou"
+    },
+    "british": {
+      "pt": "britânico"
+    },
+    "protected": {
+      "pt": "protegido"
+    },
+    "decided": {
+      "pt": "decidiu"
+    },
+    "commonwealth": {
+      "pt": "Commonwealth, grupo de países ligados ao Reino Unido",
+      "highlight": true
+    },
+    "overturns": {
+      "pt": "derruba"
+    },
+    "criminalising": {
+      "pt": "que torna crime"
+    },
+    "intimacy": {
+      "pt": "intimidade"
+    },
+    "judicial": {
+      "pt": "judicial"
+    },
+    "committee": {
+      "pt": "comitê"
+    },
+    "overturned": {
+      "pt": "derrubou",
+      "highlight": true
+    },
+    "criminalised": {
+      "pt": "tornou crime"
+    },
+    "unanimously": {
+      "pt": "por unanimidade",
+      "highlight": true
+    },
+    "ruled": {
+      "pt": "decidiu (na justiça)"
+    },
+    "fundamental": {
+      "pt": "fundamental"
+    },
+    "lord": {
+      "pt": "lorde"
+    },
+    "sales": {
+      "pt": "vendas; Sales, nome de um juiz"
+    },
+    "regarded": {
+      "pt": "considerado"
+    },
+    "justifiable": {
+      "pt": "justificável"
+    },
+    "society": {
+      "pt": "sociedade"
+    },
+    "properly": {
+      "pt": "de forma correta"
+    },
+    "respects": {
+      "pt": "respeita"
+    },
+    "individual": {
+      "pt": "individual"
+    },
+    "rights": {
+      "pt": "direitos"
+    },
+    "brought": {
+      "pt": "trouxe, levou à justiça"
+    },
+    "dual": {
+      "pt": "duplo"
+    },
+    "citizen": {
+      "pt": "cidadão"
+    },
+    "legal": {
+      "pt": "legal, jurídico"
+    },
+    "battle": {
+      "pt": "batalha"
+    },
+    "successfully": {
+      "pt": "com sucesso"
+    },
+    "appealed": {
+      "pt": "recorreu"
+    },
+    "attorney": {
+      "pt": "procurador"
+    },
+    "general": {
+      "pt": "geral"
+    },
+    "savings": {
+      "pt": "de preservação"
+    },
+    "clauses": {
+      "pt": "cláusulas"
+    },
+    "carried": {
+      "pt": "levaram adiante"
+    },
+    "existing": {
+      "pt": "existentes"
+    },
+    "newly": {
+      "pt": "recentemente"
+    },
+    "independent": {
+      "pt": "independente"
+    },
+    "states": {
+      "pt": "estados"
+    },
+    "lawyers": {
+      "pt": "advogados"
+    },
+    "countered": {
+      "pt": "respondeu contra"
+    },
+    "stricter": {
+      "pt": "mais rígidas"
+    },
+    "punishments": {
+      "pt": "punições"
+    },
+    "introduced": {
+      "pt": "introduzidos"
+    },
+    "protection": {
+      "pt": "proteção"
+    },
+    "applied": {
+      "pt": "aplicou"
+    },
+    "decriminalising": {
+      "pt": "deixando de ser crime",
+      "highlight": true
+    },
+    "campaigners": {
+      "pt": "ativistas",
+      "highlight": true
+    },
+    "hope": {
+      "pt": "esperança"
+    },
+    "inspire": {
+      "pt": "inspirar"
+    },
+    "similar": {
+      "pt": "parecido"
+    },
+    "challenges": {
+      "pt": "contestações"
+    },
+    "elsewhere": {
+      "pt": "em outros lugares"
+    },
+    "homosexuality": {
+      "pt": "homossexualidade"
+    },
+    "colonial": {
+      "pt": "colonial"
+    },
+    "era": {
+      "pt": "época"
+    },
+    "hoped": {
+      "pt": "esperou"
+    },
+    "ruling": {
+      "pt": "decisão da justiça",
+      "highlight": true
+    },
+    "accelerate": {
+      "pt": "acelerar"
+    },
+    "fight": {
+      "pt": "luta"
+    },
+    "full": {
+      "pt": "completo"
+    },
+    "equality": {
+      "pt": "igualdade"
+    }
+  }
+}

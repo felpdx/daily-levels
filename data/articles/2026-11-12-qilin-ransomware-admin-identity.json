@@ -1,0 +1,277 @@
+{
+  "id": "2026-11-12-qilin-ransomware-admin-identity",
+  "date": "2026-11-12",
+  "topic": "hacking",
+  "source": {
+    "name": "Krebs on Security",
+    "url": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
+    "publishedAt": "2026-11-11T18:06:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Who runs the Qilin ransomware group?",
+      "text": "Qilin is a very active ransomware group. It said it hit at least 365 groups in three months. Its leader uses the name Haise. A security reporter says old accounts and leaked data point to a 36-year-old man in St. Petersburg, Russia. The reporter could not reach the man by email or phone."
+    },
+    "2": {
+      "title": "Reporter links Qilin leader to a man in Russia",
+      "text": "Qilin is now the most active ransomware affiliate group, says a report by NCC Group. It claimed at least 365 victims in three months. Its leader uses the name Haise.\n\nThe reporter Brian Krebs followed old forum names, such as Rjun and Alexbigboss44, and an old email address. Leaked data from a Russian government website, he says, links that address to Aleksey Yakovtsev, 36, from St. Petersburg. Krebs could not reach Yakovtsev by email or phone. The link is based on records from security firms, not on a court case."
+    },
+    "3": {
+      "title": "Krebs traces Qilin ransomware leader to Russian man",
+      "text": "Qilin has become the most active ransomware-as-a-service program in the world, with at least 365 victim organizations claimed in the past three months, according to a report this month by NCC Group. Its affiliates keep at least 80 percent of any ransom, and its leader says the group has worked with Scattered Spider and RansomHub. Its members use double extortion: they steal sensitive data, encrypt systems and threaten to publish the files online.\n\nThat leader goes by Haise. The cybersecurity reporter Brian Krebs says intelligence firms linked Haise to older identities, including Rjun and Alexbigboss44, and to an email address that appears in records from a breached Russian government portal. Those records, he reports, name the owner as Aleksey Yakovtsev, a 36-year-old from St. Petersburg. A platform called IntelHawk shared the link with him.\n\nKrebs says he could not reach Yakovtsev by email or phone. The identification comes from breached records and analysis by private firms, and no court has confirmed it."
+    }
+  },
+  "glossary": {
+    "according": {
+      "pt": "segundo"
+    },
+    "accounts": {
+      "pt": "contas"
+    },
+    "active": {
+      "pt": "ativo"
+    },
+    "address": {
+      "pt": "endereço"
+    },
+    "affiliate": {
+      "pt": "afiliado"
+    },
+    "affiliates": {
+      "pt": "afiliados"
+    },
+    "aleksey": {
+      "pt": "Aleksey"
+    },
+    "analysis": {
+      "pt": "análise"
+    },
+    "appears": {
+      "pt": "aparece"
+    },
+    "based": {
+      "pt": "baseado"
+    },
+    "breached": {
+      "pt": "invadido",
+      "highlight": true
+    },
+    "brian": {
+      "pt": "Brian"
+    },
+    "case": {
+      "pt": "caso"
+    },
+    "claimed": {
+      "pt": "afirmou ter atingido",
+      "highlight": true
+    },
+    "confirmed": {
+      "pt": "confirmado"
+    },
+    "court": {
+      "pt": "tribunal"
+    },
+    "cybersecurity": {
+      "pt": "segurança digital"
+    },
+    "data": {
+      "pt": "dados"
+    },
+    "double": {
+      "pt": "duplo"
+    },
+    "email": {
+      "pt": "e-mail"
+    },
+    "encrypt": {
+      "pt": "criptografar"
+    },
+    "extortion": {
+      "pt": "extorsão",
+      "highlight": true
+    },
+    "files": {
+      "pt": "arquivos"
+    },
+    "firms": {
+      "pt": "empresas"
+    },
+    "followed": {
+      "pt": "seguiu"
+    },
+    "forum": {
+      "pt": "fórum"
+    },
+    "haise": {
+      "pt": "Haise, apelido do líder do Qilin"
+    },
+    "hit": {
+      "pt": "atingir"
+    },
+    "identification": {
+      "pt": "identificação"
+    },
+    "identities": {
+      "pt": "identidades"
+    },
+    "including": {
+      "pt": "incluindo"
+    },
+    "intelhawk": {
+      "pt": "IntelHawk, empresa de análise"
+    },
+    "intelligence": {
+      "pt": "inteligência"
+    },
+    "krebs": {
+      "pt": "Krebs, repórter de segurança"
+    },
+    "leader": {
+      "pt": "líder",
+      "highlight": true
+    },
+    "leaked": {
+      "pt": "vazado",
+      "highlight": true
+    },
+    "least": {
+      "pt": "pelo menos"
+    },
+    "link": {
+      "pt": "ligação; ligar"
+    },
+    "linked": {
+      "pt": "ligado"
+    },
+    "links": {
+      "pt": "liga, relaciona"
+    },
+    "ncc": {
+      "pt": "NCC, empresa de segurança"
+    },
+    "organizations": {
+      "pt": "organizações"
+    },
+    "owner": {
+      "pt": "dono"
+    },
+    "past": {
+      "pt": "passado"
+    },
+    "petersburg": {
+      "pt": "São Petersburgo, cidade da Rússia"
+    },
+    "phone": {
+      "pt": "telefone"
+    },
+    "platform": {
+      "pt": "plataforma"
+    },
+    "point": {
+      "pt": "ponto; apontar"
+    },
+    "portal": {
+      "pt": "portal"
+    },
+    "private": {
+      "pt": "privado"
+    },
+    "program": {
+      "pt": "programa"
+    },
+    "publish": {
+      "pt": "publicar"
+    },
+    "qilin": {
+      "pt": "Qilin, grupo de ransomware"
+    },
+    "ransom": {
+      "pt": "resgate"
+    },
+    "ransomhub": {
+      "pt": "RansomHub, grupo de ransomware"
+    },
+    "ransomware": {
+      "pt": "ransomware, vírus que sequestra dados",
+      "highlight": true
+    },
+    "reach": {
+      "pt": "alcançar, contatar"
+    },
+    "records": {
+      "pt": "registros",
+      "highlight": true
+    },
+    "report": {
+      "pt": "relatório"
+    },
+    "reporter": {
+      "pt": "repórter"
+    },
+    "reports": {
+      "pt": "relata"
+    },
+    "rjun": {
+      "pt": "Rjun, apelido antigo"
+    },
+    "russia": {
+      "pt": "Rússia"
+    },
+    "russian": {
+      "pt": "russo"
+    },
+    "scattered": {
+      "pt": "Scattered (Scattered Spider, grupo de hackers)"
+    },
+    "security": {
+      "pt": "segurança"
+    },
+    "sensitive": {
+      "pt": "sensível"
+    },
+    "service": {
+      "pt": "serviço"
+    },
+    "shared": {
+      "pt": "compartilhou"
+    },
+    "spider": {
+      "pt": "Spider"
+    },
+    "st": {
+      "pt": "São (St.)"
+    },
+    "steal": {
+      "pt": "roubar"
+    },
+    "systems": {
+      "pt": "sistemas"
+    },
+    "threaten": {
+      "pt": "ameaçar"
+    },
+    "three": {
+      "pt": "três"
+    },
+    "traces": {
+      "pt": "rastreia"
+    },
+    "victim": {
+      "pt": "vítima"
+    },
+    "victims": {
+      "pt": "vítimas",
+      "highlight": true
+    },
+    "website": {
+      "pt": "site"
+    },
+    "yakovtsev": {
+      "pt": "Yakovtsev, homem de São Petersburgo"
+    },
+    "rate": {
+      "pt": "ritmo; taxa"
+    }
+  }
+}

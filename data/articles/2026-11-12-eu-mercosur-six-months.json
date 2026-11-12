@@ -1,0 +1,271 @@
+{
+  "id": "2026-11-12-eu-mercosur-six-months",
+  "date": "2026-11-12",
+  "topic": "bolsa",
+  "source": {
+    "name": "MercoPress",
+    "url": "https://en.mercopress.com/2026/11/11/eu-mercosur-deal-six-months-on-winners-losers-and-the-question-mark-over-europe-s-top-court",
+    "publishedAt": "2026-11-11T11:02:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "A trade deal with Europe, six months later",
+      "text": "The EU and Mercosur started a trade deal on May 1. Brazil is part of Mercosur. Experts say Brazil could grow up to 1.5 points more in GDP. Some farmers in Europe are against the deal. A European court will give an opinion, and that may take until early 2028."
+    },
+    "2": {
+      "title": "EU-Mercosur trade deal, six months later",
+      "text": "The trade deal between the European Union and Mercosur, which includes Brazil, has been in use since May 1. Mercosur will slowly remove taxes on 91% of imports from the EU. The EU will do the same for 92% of imports from Mercosur.\n\nEstimates say the deal could add up to one and a half percentage points to Brazil's GDP. Some farmers in Europe are against it. A European court will give an opinion on the deal, and that may take until early 2028. Experts say this doubt makes it hard for companies to make plans."
+    },
+    "3": {
+      "title": "EU-Mercosur deal six months on: gains, losses and legal doubt",
+      "text": "The interim trade agreement between the European Union and Mercosur, signed in January, has applied since May 1. Mercosur will gradually remove tariffs on 91% of imports from the EU, and the EU will do so for 92% of imports from Mercosur. Supporters point to tariff savings of about €4 billion. Estimates cited in the report suggest a boost of up to one and a half percentage points of GDP for Brazil and up to half a point for Argentina.\n\nBBVA Research economist Juan Ruiz says European beef, sugar and bioethanol producers, and industry in Mercosur, are set to lose. The deal includes quotas, price safeguards and a €45 billion reserve for European farmers. Farming groups such as Spain's ASAJA say competition is not fair. In September the European Commission stopped imports of meat, eggs and honey from Brazil over antibiotic use, pending an audit.\n\nThe EU Court of Justice must still give an opinion on the deal, which may take until early 2028. Andersen tax head Mar Guardiola says this doubt stops companies from planning."
+    }
+  },
+  "glossary": {
+    "add": {
+      "pt": "somar"
+    },
+    "agreement": {
+      "pt": "acordo"
+    },
+    "andersen": {
+      "pt": "Andersen, empresa de consultoria"
+    },
+    "antibiotic": {
+      "pt": "antibiótico"
+    },
+    "applied": {
+      "pt": "aplicado, em vigor"
+    },
+    "argentina": {
+      "pt": "Argentina"
+    },
+    "asaja": {
+      "pt": "ASAJA, grupo de agricultores da Espanha"
+    },
+    "audit": {
+      "pt": "auditoria"
+    },
+    "bbva": {
+      "pt": "BBVA, banco espanhol"
+    },
+    "beef": {
+      "pt": "carne bovina"
+    },
+    "bioethanol": {
+      "pt": "bioetanol"
+    },
+    "boost": {
+      "pt": "impulso"
+    },
+    "brazil": {
+      "pt": "Brasil"
+    },
+    "cited": {
+      "pt": "citado"
+    },
+    "commission": {
+      "pt": "Comissão (da UE)"
+    },
+    "competition": {
+      "pt": "concorrência"
+    },
+    "court": {
+      "pt": "tribunal"
+    },
+    "deal": {
+      "pt": "acordo"
+    },
+    "doubt": {
+      "pt": "dúvida"
+    },
+    "economist": {
+      "pt": "economista"
+    },
+    "eggs": {
+      "pt": "ovos"
+    },
+    "estimates": {
+      "pt": "estimativas"
+    },
+    "eu": {
+      "pt": "UE, União Europeia"
+    },
+    "europe": {
+      "pt": "Europa"
+    },
+    "european": {
+      "pt": "europeu"
+    },
+    "experts": {
+      "pt": "especialistas"
+    },
+    "fair": {
+      "pt": "justo"
+    },
+    "farmers": {
+      "pt": "agricultores",
+      "highlight": true
+    },
+    "farming": {
+      "pt": "agricultura"
+    },
+    "gains": {
+      "pt": "ganhos",
+      "highlight": true
+    },
+    "gdp": {
+      "pt": "PIB"
+    },
+    "gradually": {
+      "pt": "aos poucos",
+      "highlight": true
+    },
+    "guardiola": {
+      "pt": "Guardiola"
+    },
+    "half": {
+      "pt": "metade"
+    },
+    "hard": {
+      "pt": "difícil"
+    },
+    "head": {
+      "pt": "chefe"
+    },
+    "honey": {
+      "pt": "mel"
+    },
+    "imports": {
+      "pt": "importações",
+      "highlight": true
+    },
+    "includes": {
+      "pt": "inclui"
+    },
+    "industry": {
+      "pt": "indústria"
+    },
+    "interim": {
+      "pt": "provisório"
+    },
+    "january": {
+      "pt": "janeiro"
+    },
+    "juan": {
+      "pt": "Juan"
+    },
+    "justice": {
+      "pt": "justiça"
+    },
+    "legal": {
+      "pt": "legal, jurídico"
+    },
+    "losses": {
+      "pt": "perdas"
+    },
+    "mar": {
+      "pt": "Mar"
+    },
+    "meat": {
+      "pt": "carne"
+    },
+    "mercosur": {
+      "pt": "Mercosul, bloco da América do Sul"
+    },
+    "opinion": {
+      "pt": "opinião, parecer",
+      "highlight": true
+    },
+    "pending": {
+      "pt": "à espera de"
+    },
+    "percentage": {
+      "pt": "porcentagem"
+    },
+    "point": {
+      "pt": "ponto; apontar"
+    },
+    "points": {
+      "pt": "pontos"
+    },
+    "producers": {
+      "pt": "produtores"
+    },
+    "quotas": {
+      "pt": "cotas"
+    },
+    "remove": {
+      "pt": "remover"
+    },
+    "report": {
+      "pt": "relatório"
+    },
+    "research": {
+      "pt": "pesquisa"
+    },
+    "reserve": {
+      "pt": "reserva"
+    },
+    "ruiz": {
+      "pt": "Ruiz"
+    },
+    "safeguards": {
+      "pt": "salvaguardas, proteções",
+      "highlight": true
+    },
+    "savings": {
+      "pt": "economia",
+      "highlight": true
+    },
+    "september": {
+      "pt": "setembro"
+    },
+    "set": {
+      "pt": "pronto, destinado"
+    },
+    "signed": {
+      "pt": "assinado"
+    },
+    "six": {
+      "pt": "seis"
+    },
+    "slowly": {
+      "pt": "devagar"
+    },
+    "spain": {
+      "pt": "Espanha"
+    },
+    "sugar": {
+      "pt": "açúcar"
+    },
+    "suggest": {
+      "pt": "sugerir"
+    },
+    "supporters": {
+      "pt": "apoiadores"
+    },
+    "tariff": {
+      "pt": "tarifa"
+    },
+    "tariffs": {
+      "pt": "tarifas, taxas de importação",
+      "highlight": true
+    },
+    "tax": {
+      "pt": "imposto"
+    },
+    "taxes": {
+      "pt": "impostos"
+    },
+    "trade": {
+      "pt": "comércio"
+    },
+    "union": {
+      "pt": "união"
+    },
+    "rate": {
+      "pt": "ritmo; taxa"
+    }
+  }
+}

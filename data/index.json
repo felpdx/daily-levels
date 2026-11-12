@@ -1,6 +1,41 @@
 {
   "articles": [
     {
+      "id": "2026-11-12-apache-http2-critical-flaw",
+      "date": "2026-11-12",
+      "topic": "hacking",
+      "title": "A serious flaw in Apache web servers",
+      "source": "The Hacker News"
+    },
+    {
+      "id": "2026-11-12-qilin-ransomware-admin-identity",
+      "date": "2026-11-12",
+      "topic": "hacking",
+      "title": "Who runs the Qilin ransomware group?",
+      "source": "Krebs on Security"
+    },
+    {
+      "id": "2026-11-12-eu-mercosur-six-months",
+      "date": "2026-11-12",
+      "topic": "bolsa",
+      "title": "A trade deal with Europe, six months later",
+      "source": "MercoPress"
+    },
+    {
+      "id": "2026-11-12-uk-economy-fastest-growth",
+      "date": "2026-11-12",
+      "topic": "bolsa",
+      "title": "The UK economy grows fast",
+      "source": "BBC News"
+    },
+    {
+      "id": "2026-11-12-ukraine-power-supply-critical",
+      "date": "2026-11-12",
+      "topic": "mundo",
+      "title": "Ukraine has little power in winter",
+      "source": "BBC News"
+    },
+    {
       "id": "2026-11-11-git-recursive-clone-flaw",
       "date": "2026-11-11",
       "topic": "hacking",

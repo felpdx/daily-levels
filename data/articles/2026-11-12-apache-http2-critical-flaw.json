@@ -1,0 +1,229 @@
+{
+  "id": "2026-11-12-apache-http2-critical-flaw",
+  "date": "2026-11-12",
+  "topic": "hacking",
+  "source": {
+    "name": "The Hacker News",
+    "url": "https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html",
+    "publishedAt": "2026-11-12T05:12:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "A serious flaw in Apache web servers",
+      "text": "A serious flaw hit the Apache web server. It is in a part called mod_http2. A hacker does not need a password to use it. The hacker could run code on the server and take control. The flaw is CVE-2026-119618. The fix is in version 2.4.71. Admins can also turn off HTTP/2 until they update."
+    },
+    "2": {
+      "title": "Critical Apache flaw lets hackers run code",
+      "text": "A serious flaw was found in the HTTP/2 part of the Apache web server, called mod_http2. The flaw is CVE-2026-119618. A hacker does not need a password. He could run code on the server and take full control of it.\n\nThe flaw affects versions 2.4.55 to 2.4.70, and only servers with HTTP/2 turned on. Version 2.4.71 fixes it. Red Hat rates it 9.8 out of 10 on the CVSS scale. Wiz said that no exploit was available and that no attacks had been seen. Admins who cannot update yet can remove h2 and h2c from the Protocols setting."
+    },
+    "3": {
+      "title": "Critical flaw in Apache HTTP/2 module allows remote code execution",
+      "text": "A critical flaw in mod_http2, the HTTP/2 module of the Apache HTTP Server, can let a remote attacker run code on a server. The flaw, CVE-2026-119618, affects versions 2.4.55 through 2.4.70 and is fixed in version 2.4.71. No login is needed to exploit it, and Red Hat rates it 9.8 out of 10 on the CVSS scale.\n\nOnly servers with HTTP/2 enabled are affected. Red Hat says public research has shown a reliable exploit, but it does not name that research. Wiz said later that no exploit was available and that no exploitation in the wild had been reported. Red Hat rates the flaw Important, not Critical, on its Enterprise Linux 9 and 10, where an attack is much harder.\n\nAnthropic's OSS Scanner reported the flaw on October 26. Admins who cannot update can remove h2 and h2c from the Protocols directive, leaving http/1.1. The standalone mod_h2 project, which is archived, has no fixed release so far."
+    }
+  },
+  "glossary": {
+    "admins": {
+      "pt": "administradores de sistemas"
+    },
+    "affected": {
+      "pt": "afetado",
+      "highlight": true
+    },
+    "affects": {
+      "pt": "afeta"
+    },
+    "allows": {
+      "pt": "permite"
+    },
+    "anthropic": {
+      "pt": "Anthropic, empresa de IA"
+    },
+    "apache": {
+      "pt": "Apache, programa que roda sites"
+    },
+    "archived": {
+      "pt": "arquivado"
+    },
+    "attack": {
+      "pt": "ataque"
+    },
+    "attacker": {
+      "pt": "atacante",
+      "highlight": true
+    },
+    "attacks": {
+      "pt": "ataques"
+    },
+    "available": {
+      "pt": "disponível"
+    },
+    "code": {
+      "pt": "código"
+    },
+    "critical": {
+      "pt": "crítico",
+      "highlight": true
+    },
+    "cvss": {
+      "pt": "CVSS, nota de gravidade de falhas"
+    },
+    "directive": {
+      "pt": "diretiva, comando de configuração"
+    },
+    "enabled": {
+      "pt": "ligado, ativado"
+    },
+    "enterprise": {
+      "pt": "empresarial"
+    },
+    "execution": {
+      "pt": "execução"
+    },
+    "exploit": {
+      "pt": "ataque pronto para usar a falha",
+      "highlight": true
+    },
+    "exploitation": {
+      "pt": "uso da falha para atacar"
+    },
+    "fix": {
+      "pt": "correção; corrigir"
+    },
+    "fixed": {
+      "pt": "corrigido"
+    },
+    "fixes": {
+      "pt": "corrige"
+    },
+    "flaw": {
+      "pt": "falha",
+      "highlight": true
+    },
+    "full": {
+      "pt": "total"
+    },
+    "hacker": {
+      "pt": "hacker, invasor"
+    },
+    "hackers": {
+      "pt": "hackers, invasores"
+    },
+    "harder": {
+      "pt": "mais difícil"
+    },
+    "hat": {
+      "pt": "Hat (Red Hat, empresa de Linux)"
+    },
+    "hit": {
+      "pt": "atingir"
+    },
+    "http": {
+      "pt": "HTTP, protocolo da web"
+    },
+    "let": {
+      "pt": "deixar, permitir"
+    },
+    "lets": {
+      "pt": "deixa, permite"
+    },
+    "linux": {
+      "pt": "Linux, sistema operacional"
+    },
+    "login": {
+      "pt": "acesso com senha"
+    },
+    "mod": {
+      "pt": "mod (módulo do Apache)"
+    },
+    "module": {
+      "pt": "módulo"
+    },
+    "october": {
+      "pt": "outubro"
+    },
+    "oss": {
+      "pt": "OSS (software de código aberto)"
+    },
+    "password": {
+      "pt": "senha"
+    },
+    "project": {
+      "pt": "projeto"
+    },
+    "protocols": {
+      "pt": "protocolos"
+    },
+    "public": {
+      "pt": "público"
+    },
+    "rates": {
+      "pt": "classifica"
+    },
+    "red": {
+      "pt": "Red"
+    },
+    "release": {
+      "pt": "lançamento, versão"
+    },
+    "reliable": {
+      "pt": "confiável",
+      "highlight": true
+    },
+    "remote": {
+      "pt": "remoto"
+    },
+    "remove": {
+      "pt": "remover",
+      "highlight": true
+    },
+    "reported": {
+      "pt": "relatou"
+    },
+    "research": {
+      "pt": "pesquisa"
+    },
+    "scale": {
+      "pt": "escala"
+    },
+    "scanner": {
+      "pt": "scanner, ferramenta que procura falhas"
+    },
+    "serious": {
+      "pt": "grave"
+    },
+    "server": {
+      "pt": "servidor"
+    },
+    "servers": {
+      "pt": "servidores"
+    },
+    "setting": {
+      "pt": "configuração"
+    },
+    "standalone": {
+      "pt": "independente"
+    },
+    "update": {
+      "pt": "atualizar",
+      "highlight": true
+    },
+    "version": {
+      "pt": "versão"
+    },
+    "versions": {
+      "pt": "versões"
+    },
+    "web": {
+      "pt": "web, internet"
+    },
+    "wild": {
+      "pt": "mundo real (in the wild)"
+    },
+    "wiz": {
+      "pt": "Wiz, empresa de segurança"
+    },
+    "rate": {
+      "pt": "ritmo; taxa"
+    }
+  }
+}

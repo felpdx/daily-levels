@@ -1,0 +1,274 @@
+{
+  "id": "2026-11-12-ukraine-power-supply-critical",
+  "date": "2026-11-12",
+  "topic": "mundo",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-11-12T07:59:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Ukraine has little power in winter",
+      "text": "Russia attacks Ukraine's power grid. In Kyiv, many families have power for only a few hours a day. One mother, Daryna, says: two hours with power, then eight hours without. A big power plant is broken after a missile attack. Repairs may take until next summer."
+    },
+    "2": {
+      "title": "Ukraine's power supply is close to critical",
+      "text": "Russian attacks on Ukraine's energy grid are getting stronger. Ukraine has started planned power cuts earlier this year than last winter, and they last longer. In Kyiv, some families have outages of up to 20 hours.\n\nDaryna Kulchytska, a single mother, says that she has power for two hours and then none for eight hours. One of Ukraine's biggest power stations was hit by a missile at 3am. The head of DTEK, Maxim Timchenko, says repairs will take until at least next summer. Ukraine has responded by hitting Russian oil refineries."
+    },
+    "3": {
+      "title": "Ukraine's power supply close to critical as Russian strikes bring darkness and cold",
+      "text": "Ukrainians face rolling power cuts as Russian attacks on the energy grid intensify. The cuts began earlier this year than last winter and last longer. Officials fear life will become unsustainable if power cannot be kept for at least four hours a day, and some warn this is close, with outages of up to 20 hours in Kyiv.\n\nDaryna Kulchytska, a single mother in Kyiv, says her family sometimes has two hours of electricity and then eight without. One of Ukraine's largest power stations was reduced to twisted metal and rubble after a ballistic missile strike at 3am. Repair work is hampered by air raid alerts every 15 to 30 minutes.\n\nPresident Volodymyr Zelensky says generating capacity is still enough, but getting power to homes is the problem. Maxim Timchenko, CEO of DTEK, says the attacks have doubled in power and scale, and that rebuilding the plant will take until next summer. Ukraine has responded by striking Russian oil refineries."
+    }
+  },
+  "glossary": {
+    "air": {
+      "pt": "ar"
+    },
+    "alerts": {
+      "pt": "alertas"
+    },
+    "attack": {
+      "pt": "ataque"
+    },
+    "attacks": {
+      "pt": "ataques"
+    },
+    "ballistic": {
+      "pt": "balístico"
+    },
+    "bring": {
+      "pt": "trazer"
+    },
+    "broken": {
+      "pt": "quebrado"
+    },
+    "capacity": {
+      "pt": "capacidade",
+      "highlight": true
+    },
+    "ceo": {
+      "pt": "presidente-executivo"
+    },
+    "cold": {
+      "pt": "frio"
+    },
+    "critical": {
+      "pt": "crítico"
+    },
+    "cuts": {
+      "pt": "cortes"
+    },
+    "darkness": {
+      "pt": "escuridão"
+    },
+    "daryna": {
+      "pt": "Daryna, mãe de Kiev"
+    },
+    "doubled": {
+      "pt": "dobrou"
+    },
+    "dtek": {
+      "pt": "DTEK, maior empresa privada de energia da Ucrânia"
+    },
+    "earlier": {
+      "pt": "mais cedo"
+    },
+    "eight": {
+      "pt": "oito"
+    },
+    "electricity": {
+      "pt": "eletricidade"
+    },
+    "energy": {
+      "pt": "energia"
+    },
+    "enough": {
+      "pt": "suficiente"
+    },
+    "face": {
+      "pt": "enfrentar"
+    },
+    "families": {
+      "pt": "famílias"
+    },
+    "family": {
+      "pt": "família"
+    },
+    "fear": {
+      "pt": "temer"
+    },
+    "four": {
+      "pt": "quatro"
+    },
+    "generating": {
+      "pt": "que gera"
+    },
+    "grid": {
+      "pt": "rede elétrica",
+      "highlight": true
+    },
+    "hampered": {
+      "pt": "atrapalhado",
+      "highlight": true
+    },
+    "head": {
+      "pt": "chefe"
+    },
+    "hit": {
+      "pt": "atingir"
+    },
+    "hitting": {
+      "pt": "atingindo"
+    },
+    "homes": {
+      "pt": "casas"
+    },
+    "hours": {
+      "pt": "horas"
+    },
+    "intensify": {
+      "pt": "ficar mais intensos"
+    },
+    "kulchytska": {
+      "pt": "Kulchytska, sobrenome de Daryna"
+    },
+    "kyiv": {
+      "pt": "Kiev, capital da Ucrânia"
+    },
+    "least": {
+      "pt": "pelo menos"
+    },
+    "life": {
+      "pt": "vida"
+    },
+    "maxim": {
+      "pt": "Maxim"
+    },
+    "metal": {
+      "pt": "metal"
+    },
+    "minutes": {
+      "pt": "minutos"
+    },
+    "missile": {
+      "pt": "míssil"
+    },
+    "mother": {
+      "pt": "mãe"
+    },
+    "none": {
+      "pt": "nenhum"
+    },
+    "officials": {
+      "pt": "autoridades"
+    },
+    "oil": {
+      "pt": "petróleo"
+    },
+    "outages": {
+      "pt": "quedas de energia",
+      "highlight": true
+    },
+    "plant": {
+      "pt": "usina"
+    },
+    "power": {
+      "pt": "energia elétrica; poder"
+    },
+    "raid": {
+      "pt": "ataque aéreo"
+    },
+    "rebuilding": {
+      "pt": "reconstruir"
+    },
+    "reduced": {
+      "pt": "reduzido"
+    },
+    "refineries": {
+      "pt": "refinarias"
+    },
+    "repair": {
+      "pt": "reparo"
+    },
+    "repairs": {
+      "pt": "reparos",
+      "highlight": true
+    },
+    "responded": {
+      "pt": "respondeu"
+    },
+    "rolling": {
+      "pt": "em rodízio",
+      "highlight": true
+    },
+    "rubble": {
+      "pt": "escombros",
+      "highlight": true
+    },
+    "russia": {
+      "pt": "Rússia"
+    },
+    "russian": {
+      "pt": "russo"
+    },
+    "scale": {
+      "pt": "escala"
+    },
+    "single": {
+      "pt": "solteira, sozinha"
+    },
+    "sometimes": {
+      "pt": "às vezes"
+    },
+    "stations": {
+      "pt": "usinas"
+    },
+    "strike": {
+      "pt": "ataque; atacar"
+    },
+    "strikes": {
+      "pt": "ataques"
+    },
+    "striking": {
+      "pt": "atacando"
+    },
+    "summer": {
+      "pt": "verão"
+    },
+    "supply": {
+      "pt": "fornecimento"
+    },
+    "timchenko": {
+      "pt": "Timchenko, chefe da DTEK"
+    },
+    "twisted": {
+      "pt": "retorcido"
+    },
+    "ukraine": {
+      "pt": "Ucrânia"
+    },
+    "ukrainians": {
+      "pt": "ucranianos"
+    },
+    "unsustainable": {
+      "pt": "insustentável",
+      "highlight": true
+    },
+    "volodymyr": {
+      "pt": "Volodymyr"
+    },
+    "warn": {
+      "pt": "alertar"
+    },
+    "winter": {
+      "pt": "inverno"
+    },
+    "zelensky": {
+      "pt": "Zelensky, presidente da Ucrânia"
+    },
+    "rate": {
+      "pt": "ritmo; taxa"
+    }
+  }
+}

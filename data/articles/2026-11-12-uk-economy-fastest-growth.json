@@ -1,0 +1,241 @@
+{
+  "id": "2026-11-12-uk-economy-fastest-growth",
+  "date": "2026-11-12",
+  "topic": "bolsa",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-11-12T08:46:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "The UK economy grows fast",
+      "text": "The UK economy grew 0.7% from July to September. This is the fastest growth in more than two years. Services helped most, and so did computer programming. The Prime Minister called the news welcome. But energy bills will rise in January. An expert says growth may slow."
+    },
+    "2": {
+      "title": "UK economy grows at its fastest pace in two years",
+      "text": "The UK economy grew by 0.7% in the three months to September. This is the fastest growth in more than two years, official figures show. Services, such as computer programming, helped most, and spending on AI was part of the reason. The Office for National Statistics said growth could have been even stronger without the war in the Middle East. But families may not feel better off, because prices and wages matter more to them.\n\nThe Prime Minister, Andy Burnham, called the numbers welcome news. But Jake Finney, an economist at PwC, said growth will probably slow unless energy markets become stable. Energy bills are expected to rise sharply in January."
+    },
+    "3": {
+      "title": "UK economy grows at fastest rate for more than two years",
+      "text": "The UK economy expanded by 0.7% in the three months to September, its fastest growth in more than two years, official figures show. Strong growth in services drove the result. Computer programming grew at its fastest rate in three years, helped by spending linked to AI. The boost from computer programming and consultancy services has been the biggest driver of growth so far this year.\n\nGrant Fitzner, chief economist at the Office for National Statistics, said growth could have been even stronger without the war in the Middle East, but households may not feel better off because inflation and wages matter more to them. Prime Minister Andy Burnham called the figures welcome news.\n\nThe data put the UK on course to be the second fastest growing economy in the G7. However, Jake Finney, a senior economist at PwC, warned that growth is likely to slow unless energy markets stabilise. A sharp rise in energy bills is forecast for January, which could hurt spending and confidence."
+    }
+  },
+  "glossary": {
+    "ai": {
+      "pt": "IA, inteligência artificial"
+    },
+    "andy": {
+      "pt": "Andy"
+    },
+    "bills": {
+      "pt": "contas"
+    },
+    "boost": {
+      "pt": "impulso"
+    },
+    "burnham": {
+      "pt": "Burnham, primeiro-ministro do Reino Unido"
+    },
+    "chief": {
+      "pt": "chefe"
+    },
+    "computer": {
+      "pt": "computador"
+    },
+    "confidence": {
+      "pt": "confiança"
+    },
+    "consultancy": {
+      "pt": "consultoria"
+    },
+    "course": {
+      "pt": "rumo"
+    },
+    "data": {
+      "pt": "dados"
+    },
+    "driver": {
+      "pt": "motor, causa"
+    },
+    "drove": {
+      "pt": "impulsionou"
+    },
+    "east": {
+      "pt": "leste"
+    },
+    "economist": {
+      "pt": "economista"
+    },
+    "economy": {
+      "pt": "economia"
+    },
+    "energy": {
+      "pt": "energia"
+    },
+    "expanded": {
+      "pt": "cresceu"
+    },
+    "expected": {
+      "pt": "esperado"
+    },
+    "expert": {
+      "pt": "especialista"
+    },
+    "families": {
+      "pt": "famílias"
+    },
+    "fastest": {
+      "pt": "mais rápido",
+      "highlight": true
+    },
+    "feel": {
+      "pt": "sentir"
+    },
+    "figures": {
+      "pt": "números"
+    },
+    "finney": {
+      "pt": "Finney, economista da PwC"
+    },
+    "fitzner": {
+      "pt": "Fitzner, economista do órgão de estatísticas"
+    },
+    "forecast": {
+      "pt": "previsão",
+      "highlight": true
+    },
+    "grant": {
+      "pt": "Grant"
+    },
+    "growth": {
+      "pt": "crescimento",
+      "highlight": true
+    },
+    "households": {
+      "pt": "famílias, lares",
+      "highlight": true
+    },
+    "hurt": {
+      "pt": "prejudicar"
+    },
+    "inflation": {
+      "pt": "inflação",
+      "highlight": true
+    },
+    "jake": {
+      "pt": "Jake"
+    },
+    "january": {
+      "pt": "janeiro"
+    },
+    "july": {
+      "pt": "julho"
+    },
+    "likely": {
+      "pt": "provável"
+    },
+    "linked": {
+      "pt": "ligado"
+    },
+    "markets": {
+      "pt": "mercados"
+    },
+    "matter": {
+      "pt": "importar"
+    },
+    "middle": {
+      "pt": "meio"
+    },
+    "minister": {
+      "pt": "ministro"
+    },
+    "national": {
+      "pt": "nacional"
+    },
+    "office": {
+      "pt": "escritório, órgão"
+    },
+    "official": {
+      "pt": "oficial"
+    },
+    "pace": {
+      "pt": "ritmo"
+    },
+    "prime": {
+      "pt": "primeiro"
+    },
+    "probably": {
+      "pt": "provavelmente"
+    },
+    "programming": {
+      "pt": "programação"
+    },
+    "pwc": {
+      "pt": "PwC, empresa de consultoria"
+    },
+    "result": {
+      "pt": "resultado"
+    },
+    "rise": {
+      "pt": "aumentar"
+    },
+    "senior": {
+      "pt": "sênior"
+    },
+    "september": {
+      "pt": "setembro"
+    },
+    "services": {
+      "pt": "serviços"
+    },
+    "sharp": {
+      "pt": "forte"
+    },
+    "sharply": {
+      "pt": "de forma forte"
+    },
+    "slow": {
+      "pt": "desacelerar"
+    },
+    "spending": {
+      "pt": "gastos"
+    },
+    "stabilise": {
+      "pt": "estabilizar"
+    },
+    "stable": {
+      "pt": "estável"
+    },
+    "statistics": {
+      "pt": "estatísticas"
+    },
+    "three": {
+      "pt": "três"
+    },
+    "uk": {
+      "pt": "Reino Unido"
+    },
+    "unless": {
+      "pt": "a menos que",
+      "highlight": true
+    },
+    "wages": {
+      "pt": "salários",
+      "highlight": true
+    },
+    "war": {
+      "pt": "guerra"
+    },
+    "warned": {
+      "pt": "alertou",
+      "highlight": true
+    },
+    "welcome": {
+      "pt": "bem-vindo"
+    },
+    "rate": {
+      "pt": "ritmo; taxa"
+    }
+  }
+}

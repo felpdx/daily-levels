@@ -1,0 +1,347 @@
+{
+  "id": "2026-11-13-check-point-php2shell-tsga",
+  "date": "2026-11-13",
+  "topic": "hacking",
+  "source": {
+    "name": "The Hacker News",
+    "url": "https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html",
+    "publishedAt": "2026-11-13T08:05:49Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Hackers attack Check Point gateways",
+      "text": "Hackers attacked Check Point security gateways. They used flaws that already had a fix. Then they installed a backdoor, a secret way back into the device. The attacks began on October 30. At first, most targets were in Israel. In some cases, the hackers also deleted files on a server. Check Point says it cannot be sure who did this."
+    },
+    "2": {
+      "title": "Hackers hit Check Point gateways and install a backdoor",
+      "text": "Check Point says an unknown group attacked security gateways that had not been updated. The group used flaws called PHP2Shell to get in. Then it used a second flaw, not reported before, in the Gaia operating system to gain full control. The first attacks began on October 30, about a week after a fix was released, and targeted organizations in Israel. A wider wave came on November 2 and hit organizations in several countries.\n\nAfter getting in, the hackers installed a backdoor called TSGA. In some cases they moved from the gateway to a VMware ESXi server and deployed a wiper, a program that deletes data. Check Point says some signs point to a group linked to China, but it does not have enough evidence to name anyone."
+    },
+    "3": {
+      "title": "Unknown attackers exploit Check Point gateways, deploy TSGA backdoor and wiper",
+      "text": "An unknown threat actor has been breaking into Check Point Security Gateways that were not updated, according to a report from the company. The activity began on October 30, 2026, about a week after a security fix became available, and focused on Israeli organizations. A broader wave on November 2 reached organizations in several countries and sectors, with no clear preference.\n\nThe attackers first used the PHP2Shell flaws in Mobile Access portals to get in. They then used a previously unreported flaw in the Gaia operating system, tracked as CVE-2026-123039, to gain root access. Check Point says it saw this exploit used against a couple of dozen customers. Next, the hackers installed web shells and a persistent backdoor called TSGA. In at least one case, they moved from the gateway to a VMware ESXi host and ran a wiper, leaving politically themed notes.\n\nParts of the toolkit resemble a kit linked to a China-nexus espionage group, and the scanning times matched Chinese working hours. Even so, Check Point says the evidence is not strong enough to assign the attack to any known group. It says the destructive step could also have been a smoke screen."
+    }
+  },
+  "glossary": {
+    "access": {
+      "pt": "acesso"
+    },
+    "according": {
+      "pt": "segundo"
+    },
+    "activity": {
+      "pt": "atividade"
+    },
+    "actor": {
+      "pt": "agente, autor"
+    },
+    "anyone": {
+      "pt": "ninguém, qualquer pessoa"
+    },
+    "assign": {
+      "pt": "atribuir"
+    },
+    "attack": {
+      "pt": "ataque"
+    },
+    "attacked": {
+      "pt": "atacou"
+    },
+    "attackers": {
+      "pt": "atacantes"
+    },
+    "attacks": {
+      "pt": "ataques"
+    },
+    "available": {
+      "pt": "disponível"
+    },
+    "backdoor": {
+      "pt": "porta dos fundos (acesso secreto)",
+      "highlight": true
+    },
+    "breaking": {
+      "pt": "invadindo"
+    },
+    "broader": {
+      "pt": "mais amplo"
+    },
+    "case": {
+      "pt": "caso"
+    },
+    "cases": {
+      "pt": "casos"
+    },
+    "check": {
+      "pt": "Check, nome da empresa de segurança Check Point"
+    },
+    "china": {
+      "pt": "China"
+    },
+    "chinese": {
+      "pt": "chinês"
+    },
+    "couple": {
+      "pt": "par"
+    },
+    "customers": {
+      "pt": "clientes"
+    },
+    "data": {
+      "pt": "dados"
+    },
+    "deleted": {
+      "pt": "apagou"
+    },
+    "deletes": {
+      "pt": "apaga"
+    },
+    "deploy": {
+      "pt": "instalar"
+    },
+    "deployed": {
+      "pt": "instalou"
+    },
+    "destructive": {
+      "pt": "destrutivo",
+      "highlight": true
+    },
+    "device": {
+      "pt": "aparelho"
+    },
+    "dozen": {
+      "pt": "dúzia"
+    },
+    "enough": {
+      "pt": "suficiente"
+    },
+    "espionage": {
+      "pt": "espionagem"
+    },
+    "esxi": {
+      "pt": "ESXi, sistema de servidores virtuais da VMware"
+    },
+    "evidence": {
+      "pt": "prova, indício",
+      "highlight": true
+    },
+    "exploit": {
+      "pt": "explorar, usar uma falha",
+      "highlight": true
+    },
+    "files": {
+      "pt": "arquivos"
+    },
+    "fix": {
+      "pt": "correção"
+    },
+    "flaw": {
+      "pt": "falha"
+    },
+    "flaws": {
+      "pt": "falhas"
+    },
+    "focused": {
+      "pt": "focou"
+    },
+    "full": {
+      "pt": "total"
+    },
+    "gaia": {
+      "pt": "Gaia, sistema operacional da Check Point"
+    },
+    "gain": {
+      "pt": "ganhar"
+    },
+    "gateway": {
+      "pt": "gateway, porta de entrada da rede",
+      "highlight": true
+    },
+    "gateways": {
+      "pt": "gateways, portas de entrada da rede"
+    },
+    "hackers": {
+      "pt": "hackers"
+    },
+    "hit": {
+      "pt": "atingiu"
+    },
+    "host": {
+      "pt": "servidor hospedeiro"
+    },
+    "hours": {
+      "pt": "horas"
+    },
+    "install": {
+      "pt": "instalar"
+    },
+    "installed": {
+      "pt": "instalou"
+    },
+    "israel": {
+      "pt": "Israel"
+    },
+    "israeli": {
+      "pt": "israelense"
+    },
+    "kit": {
+      "pt": "kit, conjunto de ferramentas"
+    },
+    "least": {
+      "pt": "pelo menos"
+    },
+    "linked": {
+      "pt": "ligado"
+    },
+    "matched": {
+      "pt": "combinaram"
+    },
+    "mobile": {
+      "pt": "móvel"
+    },
+    "nexus": {
+      "pt": "ligação (grupo ligado à China)"
+    },
+    "notes": {
+      "pt": "bilhetes, notas"
+    },
+    "november": {
+      "pt": "novembro"
+    },
+    "october": {
+      "pt": "outubro"
+    },
+    "operating": {
+      "pt": "operacional"
+    },
+    "organizations": {
+      "pt": "organizações"
+    },
+    "persistent": {
+      "pt": "persistente, que fica",
+      "highlight": true
+    },
+    "point": {
+      "pt": "Point, nome da empresa de segurança Check Point"
+    },
+    "politically": {
+      "pt": "politicamente"
+    },
+    "portals": {
+      "pt": "portais"
+    },
+    "preference": {
+      "pt": "preferência"
+    },
+    "previously": {
+      "pt": "antes"
+    },
+    "program": {
+      "pt": "programa"
+    },
+    "reached": {
+      "pt": "alcançou"
+    },
+    "released": {
+      "pt": "lançada"
+    },
+    "report": {
+      "pt": "relatório"
+    },
+    "reported": {
+      "pt": "relatada"
+    },
+    "resemble": {
+      "pt": "lembrar, parecer com"
+    },
+    "root": {
+      "pt": "acesso total (root)"
+    },
+    "scanning": {
+      "pt": "varredura",
+      "highlight": true
+    },
+    "screen": {
+      "pt": "tela"
+    },
+    "secret": {
+      "pt": "secreto"
+    },
+    "sectors": {
+      "pt": "setores"
+    },
+    "security": {
+      "pt": "segurança"
+    },
+    "server": {
+      "pt": "servidor"
+    },
+    "several": {
+      "pt": "vários"
+    },
+    "shells": {
+      "pt": "shells, programas de controle remoto"
+    },
+    "signs": {
+      "pt": "sinais"
+    },
+    "smoke": {
+      "pt": "fumaça",
+      "highlight": true
+    },
+    "step": {
+      "pt": "etapa"
+    },
+    "sure": {
+      "pt": "certo"
+    },
+    "system": {
+      "pt": "sistema"
+    },
+    "targeted": {
+      "pt": "teve como alvo"
+    },
+    "targets": {
+      "pt": "alvos"
+    },
+    "themed": {
+      "pt": "com tema"
+    },
+    "threat": {
+      "pt": "ameaça"
+    },
+    "toolkit": {
+      "pt": "conjunto de ferramentas"
+    },
+    "tracked": {
+      "pt": "registrada"
+    },
+    "tsga": {
+      "pt": "TSGA, nome de um backdoor"
+    },
+    "unknown": {
+      "pt": "desconhecido"
+    },
+    "unreported": {
+      "pt": "não relatada antes"
+    },
+    "updated": {
+      "pt": "atualizados"
+    },
+    "vmware": {
+      "pt": "VMware, empresa de software de servidores virtuais"
+    },
+    "wave": {
+      "pt": "onda"
+    },
+    "web": {
+      "pt": "web, internet"
+    },
+    "wider": {
+      "pt": "mais amplo"
+    },
+    "wiper": {
+      "pt": "programa que apaga dados (wiper)",
+      "highlight": true
+    }
+  }
+}

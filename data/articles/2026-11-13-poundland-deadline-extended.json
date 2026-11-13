@@ -1,0 +1,307 @@
+{
+  "id": "2026-11-13-poundland-deadline-extended",
+  "date": "2026-11-13",
+  "topic": "bolsa",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-11-12T14:29:59Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Poundland gets more time",
+      "text": "Poundland is a cheap shop chain. It has 11,000 workers and 600 shops. Its owner is Gordon Brothers. The company was close to failing. Now a court has given it 10 more days to find a buyer. Gordon Brothers says it is talking to three buyers. Members of parliament are worried about jobs."
+    },
+    "2": {
+      "title": "Poundland gets 10 more days to find a buyer",
+      "text": "Poundland has avoided immediate collapse after a court gave the discount chain 10 more days to find a buyer. The chain has 11,000 employees and about 600 shops. Its owner, Gordon Brothers, bought it for just £1 last year. The BBC understands that about £50m was frozen, so managers could not buy new stock.\n\nA group of MPs questioned Gordon Brothers. The committee chairman, Liam Byrne, said he was \"deeply concerned\". Gordon Brothers denies accusations that it wants to profit from selling the shops piece by piece. It says it is talking to three parties about buying the whole business and has received offers for large parts of it."
+    },
+    "3": {
+      "title": "Poundland gets more time to secure a rescue deal as emergency talks continue",
+      "text": "Poundland has avoided immediate collapse after a court extended a deadline by 10 days for finding a rescue deal. The discount chain, which has 11,000 employees and about 600 shops, had been edging towards administration after its owner, Gordon Brothers, blocked it from using cash in its bank accounts. The BBC understands that about £50m was frozen, leaving managers unable to restock shelves before the key Christmas trading period. Gordon Brothers has agreed to release a further £11m, on top of £10m announced earlier.\n\nMPs questioned the investment firm, which bought Poundland for £1 last year, over accusations that it hoped to profit from selling off the shops and stock piecemeal. Gordon Brothers denies this. Business and trade committee chairman Liam Byrne said he was \"deeply concerned\" and said the firm refused to put jobs and stores ahead of its own returns.\n\nGordon Brothers says it is in talks with three parties about buying the whole business, and has received offers for large parts of it from established retailers. Poundland's boss says like-for-like sales rose 11.4%, while the owners call the chain \"challenged and vulnerable\". The main question is whether a piecemeal sale would protect more jobs."
+    }
+  },
+  "glossary": {
+    "accounts": {
+      "pt": "contas"
+    },
+    "earlier": {
+      "pt": "antes"
+    },
+    "accusations": {
+      "pt": "acusações",
+      "highlight": true
+    },
+    "administration": {
+      "pt": "administração judicial (falência)",
+      "highlight": true
+    },
+    "agreed": {
+      "pt": "concordou"
+    },
+    "ahead": {
+      "pt": "antes, à frente"
+    },
+    "announced": {
+      "pt": "anunciados"
+    },
+    "avoided": {
+      "pt": "evitou"
+    },
+    "bank": {
+      "pt": "banco"
+    },
+    "bbc": {
+      "pt": "BBC, rede de notícias do Reino Unido"
+    },
+    "blocked": {
+      "pt": "bloqueou"
+    },
+    "boss": {
+      "pt": "chefe"
+    },
+    "brothers": {
+      "pt": "Brothers, parte do nome Gordon Brothers"
+    },
+    "buyer": {
+      "pt": "comprador"
+    },
+    "buyers": {
+      "pt": "compradores"
+    },
+    "byrne": {
+      "pt": "Byrne, sobrenome de Liam Byrne"
+    },
+    "cash": {
+      "pt": "dinheiro"
+    },
+    "chain": {
+      "pt": "rede de lojas"
+    },
+    "chairman": {
+      "pt": "presidente (de comitê)"
+    },
+    "challenged": {
+      "pt": "desafiada"
+    },
+    "cheap": {
+      "pt": "barata"
+    },
+    "christmas": {
+      "pt": "Natal"
+    },
+    "collapse": {
+      "pt": "colapso, quebra",
+      "highlight": true
+    },
+    "committee": {
+      "pt": "comitê"
+    },
+    "concerned": {
+      "pt": "preocupado"
+    },
+    "continue": {
+      "pt": "continuam"
+    },
+    "court": {
+      "pt": "tribunal"
+    },
+    "deadline": {
+      "pt": "prazo",
+      "highlight": true
+    },
+    "deal": {
+      "pt": "acordo"
+    },
+    "deeply": {
+      "pt": "profundamente"
+    },
+    "denies": {
+      "pt": "nega"
+    },
+    "discount": {
+      "pt": "de desconto",
+      "highlight": true
+    },
+    "edging": {
+      "pt": "chegando perto"
+    },
+    "emergency": {
+      "pt": "de emergência"
+    },
+    "employees": {
+      "pt": "funcionários"
+    },
+    "established": {
+      "pt": "estabelecidas"
+    },
+    "extended": {
+      "pt": "prorrogou"
+    },
+    "failing": {
+      "pt": "falindo"
+    },
+    "firm": {
+      "pt": "empresa"
+    },
+    "frozen": {
+      "pt": "congelado",
+      "highlight": true
+    },
+    "further": {
+      "pt": "mais"
+    },
+    "gordon": {
+      "pt": "Gordon, parte do nome Gordon Brothers, dona da Poundland"
+    },
+    "hoped": {
+      "pt": "esperava"
+    },
+    "immediate": {
+      "pt": "imediato"
+    },
+    "investment": {
+      "pt": "investimento"
+    },
+    "jobs": {
+      "pt": "empregos"
+    },
+    "key": {
+      "pt": "importante"
+    },
+    "liam": {
+      "pt": "Liam"
+    },
+    "managers": {
+      "pt": "gerentes"
+    },
+    "mps": {
+      "pt": "deputados britânicos"
+    },
+    "offers": {
+      "pt": "ofertas"
+    },
+    "owner": {
+      "pt": "dona"
+    },
+    "owners": {
+      "pt": "donos"
+    },
+    "parliament": {
+      "pt": "parlamento"
+    },
+    "parties": {
+      "pt": "partes, empresas"
+    },
+    "period": {
+      "pt": "período"
+    },
+    "piece": {
+      "pt": "pedaço"
+    },
+    "piecemeal": {
+      "pt": "aos poucos, em partes",
+      "highlight": true
+    },
+    "poundland": {
+      "pt": "Poundland, rede britânica de lojas baratas"
+    },
+    "poundland's": {
+      "pt": "da Poundland"
+    },
+    "profit": {
+      "pt": "lucrar"
+    },
+    "protect": {
+      "pt": "proteger"
+    },
+    "question": {
+      "pt": "questão"
+    },
+    "questioned": {
+      "pt": "questionou"
+    },
+    "received": {
+      "pt": "recebeu"
+    },
+    "refused": {
+      "pt": "recusou"
+    },
+    "release": {
+      "pt": "liberar"
+    },
+    "rescue": {
+      "pt": "resgate"
+    },
+    "restock": {
+      "pt": "repor o estoque"
+    },
+    "retailers": {
+      "pt": "varejistas"
+    },
+    "returns": {
+      "pt": "retornos, lucros"
+    },
+    "rose": {
+      "pt": "subiram"
+    },
+    "sale": {
+      "pt": "venda"
+    },
+    "sales": {
+      "pt": "vendas"
+    },
+    "secure": {
+      "pt": "garantir"
+    },
+    "shelves": {
+      "pt": "prateleiras"
+    },
+    "shop": {
+      "pt": "loja"
+    },
+    "shops": {
+      "pt": "lojas"
+    },
+    "stock": {
+      "pt": "estoque"
+    },
+    "stores": {
+      "pt": "lojas"
+    },
+    "three": {
+      "pt": "três"
+    },
+    "top": {
+      "pt": "principal"
+    },
+    "towards": {
+      "pt": "em direção a"
+    },
+    "trade": {
+      "pt": "comércio"
+    },
+    "trading": {
+      "pt": "vendas"
+    },
+    "unable": {
+      "pt": "incapaz"
+    },
+    "understands": {
+      "pt": "entende, soube"
+    },
+    "vulnerable": {
+      "pt": "vulnerável",
+      "highlight": true
+    },
+    "whether": {
+      "pt": "se"
+    },
+    "whole": {
+      "pt": "inteiro"
+    },
+    "worried": {
+      "pt": "preocupados"
+    }
+  }
+}

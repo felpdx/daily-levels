@@ -1,0 +1,290 @@
+{
+  "id": "2026-11-13-paraguay-ueno-bank-superintendent",
+  "date": "2026-11-13",
+  "topic": "bolsa",
+  "source": {
+    "name": "MercoPress",
+    "url": "https://en.mercopress.com/2026/11/12/paraguay-s-banking-superintendent-arrested-in-the-ueno-bank-investigation?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+    "publishedAt": "2026-11-12T11:20:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Bank supervisor arrested in Paraguay",
+      "text": "Paraguay's top bank supervisor was arrested on Thursday. His name is Holger Insfran. Prosecutors are looking into the collapse of Ueno Bank. The bank had almost three million customers. Former president Santiago Pena is also in detention. He says he is innocent. The central bank says customers are getting some money back."
+    },
+    "2": {
+      "title": "Paraguay arrests its bank supervisor over Ueno Bank",
+      "text": "Holger Insfran, Paraguay's Superintendent of Banks, was arrested on Thursday in the investigation into the collapse of Ueno Bank. The charges against him have not been made public. Before him, former president Santiago Pena and former central bank head Carlos Carvallo were also placed in pre-trial detention.\n\nProsecutors say Ueno received large amounts of public money, including from five pension funds, while allegedly giving irregular loans to companies owned by its owners. The bank had 2.94 million customers. Pena says he is innocent. The central bank says all customers covered by the state guarantee have received an advance of up to about US$19,600, and it has until Monday to finish paying up to the guarantee limit."
+    },
+    "3": {
+      "title": "Paraguay's banking superintendent arrested in the Ueno Bank investigation",
+      "text": "Paraguay's Superintendent of Banks, Holger Insfran, was arrested on Thursday as part of the investigation into the collapse of Ueno Bank, according to prosecution sources cited by the news agency EFE. The charges against him have not been disclosed. His office is part of the Central Bank and supervises the country's financial institutions, including Ueno.\n\nThe case has already led to the pre-trial detention of former president Santiago Pena, whom the Senate removed on November 6, and former Central Bank president Carlos Carvallo. Prosecutors say Ueno received large amounts of public funds during Pena's term, including from five pension funds, while granting allegedly irregular loans to companies owned by its owners, the Vazquez Group. Pena is charged with breach of trust and self-serving administration and could face up to 15 years in prison. He says he is innocent.\n\nMeanwhile, the Central Bank says all customers covered by the state guarantee have received an advance of up to 40 minimum wages, roughly US$19,600. It has until Monday to complete repayments up to the guarantee ceiling of 75 minimum wages, roughly US$36,600. The bank had 2.94 million customers."
+    }
+  },
+  "glossary": {
+    "according": {
+      "pt": "segundo"
+    },
+    "administration": {
+      "pt": "administração"
+    },
+    "advance": {
+      "pt": "adiantamento",
+      "highlight": true
+    },
+    "agency": {
+      "pt": "agência"
+    },
+    "allegedly": {
+      "pt": "supostamente",
+      "highlight": true
+    },
+    "amounts": {
+      "pt": "quantias"
+    },
+    "arrested": {
+      "pt": "preso"
+    },
+    "arrests": {
+      "pt": "prende"
+    },
+    "bank": {
+      "pt": "banco"
+    },
+    "banking": {
+      "pt": "bancário"
+    },
+    "banks": {
+      "pt": "bancos"
+    },
+    "breach": {
+      "pt": "quebra (de confiança)",
+      "highlight": true
+    },
+    "carlos": {
+      "pt": "Carlos"
+    },
+    "carvallo": {
+      "pt": "Carvallo, ex-presidente do banco central do Paraguai"
+    },
+    "case": {
+      "pt": "caso"
+    },
+    "ceiling": {
+      "pt": "teto",
+      "highlight": true
+    },
+    "central": {
+      "pt": "central"
+    },
+    "charged": {
+      "pt": "acusado"
+    },
+    "charges": {
+      "pt": "acusações"
+    },
+    "cited": {
+      "pt": "citadas"
+    },
+    "collapse": {
+      "pt": "colapso, quebra",
+      "highlight": true
+    },
+    "complete": {
+      "pt": "completar"
+    },
+    "covered": {
+      "pt": "cobertos"
+    },
+    "customers": {
+      "pt": "clientes"
+    },
+    "detention": {
+      "pt": "prisão preventiva",
+      "highlight": true
+    },
+    "disclosed": {
+      "pt": "divulgadas"
+    },
+    "efe": {
+      "pt": "EFE, agência de notícias espanhola"
+    },
+    "face": {
+      "pt": "enfrentar"
+    },
+    "financial": {
+      "pt": "financeiras"
+    },
+    "finish": {
+      "pt": "terminar"
+    },
+    "five": {
+      "pt": "cinco"
+    },
+    "former": {
+      "pt": "ex"
+    },
+    "funds": {
+      "pt": "fundos"
+    },
+    "granting": {
+      "pt": "concedendo"
+    },
+    "guarantee": {
+      "pt": "garantia",
+      "highlight": true
+    },
+    "head": {
+      "pt": "chefe"
+    },
+    "holger": {
+      "pt": "Holger"
+    },
+    "including": {
+      "pt": "incluindo"
+    },
+    "innocent": {
+      "pt": "inocente"
+    },
+    "insfran": {
+      "pt": "Insfran, supervisor de bancos do Paraguai"
+    },
+    "institutions": {
+      "pt": "instituições"
+    },
+    "investigation": {
+      "pt": "investigação"
+    },
+    "irregular": {
+      "pt": "irregulares"
+    },
+    "limit": {
+      "pt": "limite"
+    },
+    "loans": {
+      "pt": "empréstimos"
+    },
+    "meanwhile": {
+      "pt": "enquanto isso"
+    },
+    "minimum": {
+      "pt": "mínimo"
+    },
+    "monday": {
+      "pt": "segunda-feira"
+    },
+    "november": {
+      "pt": "novembro"
+    },
+    "office": {
+      "pt": "órgão, escritório"
+    },
+    "owned": {
+      "pt": "pertencentes"
+    },
+    "owners": {
+      "pt": "donos"
+    },
+    "paraguay": {
+      "pt": "Paraguai"
+    },
+    "paraguay's": {
+      "pt": "do Paraguai"
+    },
+    "pena": {
+      "pt": "Pena, ex-presidente do Paraguai"
+    },
+    "pena's": {
+      "pt": "de Pena"
+    },
+    "pension": {
+      "pt": "aposentadoria"
+    },
+    "placed": {
+      "pt": "colocados"
+    },
+    "pre": {
+      "pt": "antes de"
+    },
+    "prison": {
+      "pt": "prisão"
+    },
+    "prosecution": {
+      "pt": "Ministério Público"
+    },
+    "prosecutors": {
+      "pt": "promotores"
+    },
+    "public": {
+      "pt": "públicos"
+    },
+    "received": {
+      "pt": "recebeu"
+    },
+    "removed": {
+      "pt": "destituiu"
+    },
+    "repayments": {
+      "pt": "pagamentos"
+    },
+    "roughly": {
+      "pt": "cerca de"
+    },
+    "santiago": {
+      "pt": "Santiago"
+    },
+    "self": {
+      "pt": "próprio"
+    },
+    "senate": {
+      "pt": "Senado"
+    },
+    "serving": {
+      "pt": "em benefício"
+    },
+    "sources": {
+      "pt": "fontes"
+    },
+    "state": {
+      "pt": "Estado"
+    },
+    "superintendent": {
+      "pt": "superintendente",
+      "highlight": true
+    },
+    "supervises": {
+      "pt": "supervisiona",
+      "highlight": true
+    },
+    "supervisor": {
+      "pt": "supervisor"
+    },
+    "term": {
+      "pt": "mandato"
+    },
+    "three": {
+      "pt": "três"
+    },
+    "thursday": {
+      "pt": "quinta-feira"
+    },
+    "top": {
+      "pt": "principal"
+    },
+    "trial": {
+      "pt": "julgamento"
+    },
+    "trust": {
+      "pt": "confiança"
+    },
+    "ueno": {
+      "pt": "Ueno, banco do Paraguai"
+    },
+    "vazquez": {
+      "pt": "Vazquez, sobrenome da família dona do Ueno"
+    },
+    "wages": {
+      "pt": "salários"
+    }
+  }
+}

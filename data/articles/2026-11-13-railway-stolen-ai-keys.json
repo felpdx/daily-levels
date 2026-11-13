@@ -1,0 +1,255 @@
+{
+  "id": "2026-11-13-railway-stolen-ai-keys",
+  "date": "2026-11-13",
+  "topic": "hacking",
+  "source": {
+    "name": "The Hacker News",
+    "url": "https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html",
+    "publishedAt": "2026-11-11T07:49:04Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Stolen AI keys cost $740,000",
+      "text": "Railway is a company that runs apps for other companies. In October, a hacker broke into its systems. The hacker stole AI keys from customers. These keys were used to spend about $740,000. Railway says it will pay these costs when an AI company will not give the money back. It also told customers to replace their keys."
+    },
+    "2": {
+      "title": "Stolen AI keys lead to $740,000 in charges",
+      "text": "Railway, a company that builds and runs apps for customers, says a hacker stole AI keys that customers had stored on its platform. The keys were used to run up about $740,000 in unauthorized charges, according to the company's estimate. Railway says it will pay these charges itself when an AI provider refuses to refund them.\n\nThe attack began on October 20, when the hacker used an unknown flaw in the build system. This gave the hacker a credential, and later more access to internal systems. In the end, the hacker decrypted secrets in at most 1.85% of workspaces, about 100,000. Railway advises customers to replace sensitive keys and revoke them with the provider that issued them."
+    },
+    "3": {
+      "title": "Railway says stolen customer AI keys led to $740,000 in unauthorized charges",
+      "text": "Railway, a platform that builds and runs apps for customers, says AI provider keys stolen in an October breach were used for an estimated $740,000 in unauthorized spending. The company has promised to pay those charges itself if an AI provider will not refund them. Earlier, on October 26, it had told customers it could not refund spending done with compromised keys.\n\nAccording to the incident report, the attack began at 07:28 UTC on October 20, when the attacker exploited a previously unknown flaw to partly escape the isolation around a build. That gave the attacker a credential used by build servers. Later, a misconfigured cloud setting led to more credentials, and finally to one that could decrypt customer variables. The attacker decrypted variables in at most 1.85% of workspaces, about 100,000, and the database queries looked for AI provider keys.\n\nRailway also reset tokens for 1,852 users. It says no customer databases appeared to have been accessed. The report does not explain how the $740,000 figure was estimated. Customers are advised to revoke and replace sensitive variables and to report charges they did not make."
+    }
+  },
+  "glossary": {
+    "access": {
+      "pt": "acesso"
+    },
+    "accessed": {
+      "pt": "acessados"
+    },
+    "according": {
+      "pt": "segundo"
+    },
+    "advised": {
+      "pt": "aconselhados"
+    },
+    "advises": {
+      "pt": "aconselha"
+    },
+    "ai": {
+      "pt": "IA, inteligência artificial"
+    },
+    "appeared": {
+      "pt": "pareceram"
+    },
+    "apps": {
+      "pt": "aplicativos"
+    },
+    "attack": {
+      "pt": "ataque"
+    },
+    "attacker": {
+      "pt": "atacante"
+    },
+    "breach": {
+      "pt": "violação, invasão"
+    },
+    "broke": {
+      "pt": "invadiu"
+    },
+    "build": {
+      "pt": "compilação (montar o software)"
+    },
+    "builds": {
+      "pt": "compilações"
+    },
+    "charges": {
+      "pt": "cobranças"
+    },
+    "cloud": {
+      "pt": "nuvem"
+    },
+    "compromised": {
+      "pt": "comprometidas",
+      "highlight": true
+    },
+    "cost": {
+      "pt": "custou"
+    },
+    "costs": {
+      "pt": "custos"
+    },
+    "credential": {
+      "pt": "credencial (dado de acesso)",
+      "highlight": true
+    },
+    "credentials": {
+      "pt": "credenciais"
+    },
+    "customer": {
+      "pt": "cliente"
+    },
+    "customers": {
+      "pt": "clientes"
+    },
+    "database": {
+      "pt": "banco de dados"
+    },
+    "databases": {
+      "pt": "bancos de dados"
+    },
+    "decrypt": {
+      "pt": "descriptografar",
+      "highlight": true
+    },
+    "decrypted": {
+      "pt": "descriptografou"
+    },
+    "earlier": {
+      "pt": "antes"
+    },
+    "escape": {
+      "pt": "escapar"
+    },
+    "estimate": {
+      "pt": "estimativa"
+    },
+    "estimated": {
+      "pt": "estimado"
+    },
+    "explain": {
+      "pt": "explicar"
+    },
+    "exploited": {
+      "pt": "explorou"
+    },
+    "figure": {
+      "pt": "valor, número"
+    },
+    "finally": {
+      "pt": "por fim"
+    },
+    "flaw": {
+      "pt": "falha"
+    },
+    "hacker": {
+      "pt": "hacker"
+    },
+    "incident": {
+      "pt": "incidente"
+    },
+    "internal": {
+      "pt": "interno"
+    },
+    "isolation": {
+      "pt": "isolamento",
+      "highlight": true
+    },
+    "issued": {
+      "pt": "emitiu"
+    },
+    "keys": {
+      "pt": "chaves"
+    },
+    "misconfigured": {
+      "pt": "mal configurada"
+    },
+    "october": {
+      "pt": "outubro"
+    },
+    "platform": {
+      "pt": "plataforma"
+    },
+    "previously": {
+      "pt": "antes"
+    },
+    "promised": {
+      "pt": "prometeu"
+    },
+    "provider": {
+      "pt": "provedor"
+    },
+    "queries": {
+      "pt": "consultas"
+    },
+    "railway": {
+      "pt": "Railway, empresa que roda aplicativos para clientes"
+    },
+    "refund": {
+      "pt": "reembolso, reembolsar"
+    },
+    "refuses": {
+      "pt": "recusa"
+    },
+    "replace": {
+      "pt": "trocar"
+    },
+    "report": {
+      "pt": "relatório"
+    },
+    "reset": {
+      "pt": "redefiniu"
+    },
+    "revoke": {
+      "pt": "revogar, cancelar",
+      "highlight": true
+    },
+    "secrets": {
+      "pt": "segredos, senhas"
+    },
+    "sensitive": {
+      "pt": "sensível"
+    },
+    "servers": {
+      "pt": "servidores"
+    },
+    "setting": {
+      "pt": "configuração"
+    },
+    "spend": {
+      "pt": "gastar"
+    },
+    "spending": {
+      "pt": "gasto"
+    },
+    "stole": {
+      "pt": "roubou"
+    },
+    "stolen": {
+      "pt": "roubadas"
+    },
+    "stored": {
+      "pt": "guardadas"
+    },
+    "system": {
+      "pt": "sistema"
+    },
+    "systems": {
+      "pt": "sistemas"
+    },
+    "tokens": {
+      "pt": "tokens, códigos de acesso"
+    },
+    "unauthorized": {
+      "pt": "não autorizado",
+      "highlight": true
+    },
+    "unknown": {
+      "pt": "desconhecida"
+    },
+    "users": {
+      "pt": "usuários"
+    },
+    "utc": {
+      "pt": "UTC, hora universal"
+    },
+    "variables": {
+      "pt": "variáveis",
+      "highlight": true
+    },
+    "workspaces": {
+      "pt": "espaços de trabalho"
+    }
+  }
+}

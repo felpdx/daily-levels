@@ -1,0 +1,298 @@
+{
+  "id": "2026-11-13-zelensky-europe-peace-talks",
+  "date": "2026-11-13",
+  "topic": "mundo",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-11-13T02:01:35Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Europe may join peace talks",
+      "text": "Ukraine's president, Volodymyr Zelensky, is happy about a new plan. US envoys Jared Kushner and Steve Witkoff met him in Dublin. They said European delegates will join the next peace talks with Russia. Russia and Ukraine also agreed to a new exchange of prisoners. It will be the largest since the full invasion in 2022."
+    },
+    "2": {
+      "title": "Zelensky welcomes Europe joining Russia-Ukraine peace talks",
+      "text": "Ukraine's president, Volodymyr Zelensky, has welcomed a pledge by US envoys Jared Kushner and Steve Witkoff to include European Union delegates in the next round of peace talks with Russia. Zelensky says this gives the EU a voice in the negotiations. The two envoys met him in Dublin on Thursday evening, after meeting Vladimir Putin in Moscow. Putin said Russia's position on the war and its demand for territory has not changed.\n\nThursday also brought one agreement: Russia and Ukraine will hold another prisoner exchange, the largest since the full-scale invasion in 2022. Kushner said thousands of people would return to their families, but gave no details. The EU's top diplomat, Kaja Kallas, doubted that Russia is moving toward a peace deal."
+    },
+    "3": {
+      "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+      "text": "Ukrainian President Volodymyr Zelensky has welcomed a pledge from US envoys Jared Kushner and Steve Witkoff to include European Union delegates in the next round of peace talks with Russia. Zelensky said it would give the EU a voice in negotiations. He has called for this for years, partly because of Ukraine's long-term ambition to join the bloc.\n\nThe envoys met Zelensky in Dublin on Thursday evening after meeting Vladimir Putin in Moscow, who said Russia's position on the war, and its demand for territory, has not changed. Kushner said he stressed to Putin the importance of having Europeans \"at the table\", adding that Putin was \"willing to give it a try\". The meetings follow talks in Abu Dhabi last week that produced no breakthrough.\n\nOn Thursday, Russia and Ukraine also agreed to another prisoner exchange, the largest since the full-scale invasion in 2022. Kushner said it would return thousands of people to their families but gave no details. EU diplomat Kaja Kallas doubted there was Russian momentum toward a deal. Tensions were also visible: Zelensky said the military faced more restrictions on Starlink's military service, making it harder to intercept Russian drones."
+    }
+  },
+  "glossary": {
+    "abu": {
+      "pt": "Abu, parte de Abu Dhabi"
+    },
+    "top": {
+      "pt": "principal"
+    },
+    "adding": {
+      "pt": "acrescentando"
+    },
+    "agreed": {
+      "pt": "concordaram"
+    },
+    "agreement": {
+      "pt": "acordo"
+    },
+    "ambition": {
+      "pt": "ambição",
+      "highlight": true
+    },
+    "bloc": {
+      "pt": "bloco",
+      "highlight": true
+    },
+    "breakthrough": {
+      "pt": "avanço importante",
+      "highlight": true
+    },
+    "bringing": {
+      "pt": "trazendo"
+    },
+    "brought": {
+      "pt": "trouxe"
+    },
+    "deal": {
+      "pt": "acordo"
+    },
+    "delegates": {
+      "pt": "delegados",
+      "highlight": true
+    },
+    "demand": {
+      "pt": "exigência"
+    },
+    "details": {
+      "pt": "detalhes"
+    },
+    "dhabi": {
+      "pt": "Dhabi, parte de Abu Dhabi, cidade dos Emirados Árabes"
+    },
+    "diplomat": {
+      "pt": "diplomata",
+      "highlight": true
+    },
+    "doubted": {
+      "pt": "duvidou"
+    },
+    "drones": {
+      "pt": "drones"
+    },
+    "dublin": {
+      "pt": "Dublin, capital da Irlanda"
+    },
+    "envoys": {
+      "pt": "enviados",
+      "highlight": true
+    },
+    "eu": {
+      "pt": "UE, União Europeia"
+    },
+    "eu's": {
+      "pt": "da União Europeia"
+    },
+    "europe": {
+      "pt": "Europa"
+    },
+    "european": {
+      "pt": "europeu"
+    },
+    "europeans": {
+      "pt": "europeus"
+    },
+    "evening": {
+      "pt": "noite"
+    },
+    "exchange": {
+      "pt": "troca",
+      "highlight": true
+    },
+    "faced": {
+      "pt": "enfrentou"
+    },
+    "families": {
+      "pt": "famílias"
+    },
+    "follow": {
+      "pt": "seguem"
+    },
+    "full": {
+      "pt": "completa"
+    },
+    "happy": {
+      "pt": "feliz"
+    },
+    "harder": {
+      "pt": "mais difícil"
+    },
+    "hold": {
+      "pt": "realizar"
+    },
+    "importance": {
+      "pt": "importância"
+    },
+    "include": {
+      "pt": "incluir"
+    },
+    "intercept": {
+      "pt": "interceptar"
+    },
+    "invasion": {
+      "pt": "invasão"
+    },
+    "jared": {
+      "pt": "Jared"
+    },
+    "join": {
+      "pt": "participar"
+    },
+    "joining": {
+      "pt": "participando"
+    },
+    "kaja": {
+      "pt": "Kaja"
+    },
+    "kallas": {
+      "pt": "Kallas, chefe da diplomacia da União Europeia"
+    },
+    "kushner": {
+      "pt": "Kushner, enviado dos EUA"
+    },
+    "meetings": {
+      "pt": "reuniões"
+    },
+    "military": {
+      "pt": "militares"
+    },
+    "momentum": {
+      "pt": "impulso"
+    },
+    "moscow": {
+      "pt": "Moscou"
+    },
+    "negotiations": {
+      "pt": "negociações"
+    },
+    "peace": {
+      "pt": "paz"
+    },
+    "pledge": {
+      "pt": "promessa",
+      "highlight": true
+    },
+    "position": {
+      "pt": "posição"
+    },
+    "prisoner": {
+      "pt": "prisioneiros"
+    },
+    "prisoners": {
+      "pt": "prisioneiros"
+    },
+    "produced": {
+      "pt": "produziu"
+    },
+    "putin": {
+      "pt": "Putin, presidente da Rússia"
+    },
+    "restrictions": {
+      "pt": "restrições"
+    },
+    "return": {
+      "pt": "devolver"
+    },
+    "round": {
+      "pt": "rodada"
+    },
+    "russia": {
+      "pt": "Rússia"
+    },
+    "russia's": {
+      "pt": "da Rússia"
+    },
+    "russian": {
+      "pt": "russos"
+    },
+    "scale": {
+      "pt": "escala"
+    },
+    "service": {
+      "pt": "serviço"
+    },
+    "starlink's": {
+      "pt": "da Starlink, internet por satélite"
+    },
+    "steve": {
+      "pt": "Steve"
+    },
+    "stressed": {
+      "pt": "enfatizou"
+    },
+    "table": {
+      "pt": "mesa"
+    },
+    "tensions": {
+      "pt": "tensões"
+    },
+    "term": {
+      "pt": "longo prazo"
+    },
+    "territory": {
+      "pt": "território"
+    },
+    "thousands": {
+      "pt": "milhares"
+    },
+    "thursday": {
+      "pt": "quinta-feira"
+    },
+    "toward": {
+      "pt": "em direção a"
+    },
+    "ukraine": {
+      "pt": "Ucrânia"
+    },
+    "ukraine's": {
+      "pt": "da Ucrânia"
+    },
+    "ukrainian": {
+      "pt": "ucraniano"
+    },
+    "union": {
+      "pt": "união"
+    },
+    "visible": {
+      "pt": "visíveis"
+    },
+    "vladimir": {
+      "pt": "Vladimir"
+    },
+    "voice": {
+      "pt": "voz"
+    },
+    "volodymyr": {
+      "pt": "Volodymyr"
+    },
+    "war": {
+      "pt": "guerra"
+    },
+    "welcomed": {
+      "pt": "recebeu bem"
+    },
+    "welcomes": {
+      "pt": "recebe bem"
+    },
+    "willing": {
+      "pt": "disposto"
+    },
+    "witkoff": {
+      "pt": "Witkoff, enviado dos EUA"
+    },
+    "zelensky": {
+      "pt": "Zelensky, presidente da Ucrânia"
+    }
+  }
+}

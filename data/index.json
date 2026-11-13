@@ -1,6 +1,41 @@
 {
   "articles": [
     {
+      "id": "2026-11-13-check-point-php2shell-tsga",
+      "date": "2026-11-13",
+      "topic": "hacking",
+      "title": "Hackers attack Check Point gateways",
+      "source": "The Hacker News"
+    },
+    {
+      "id": "2026-11-13-railway-stolen-ai-keys",
+      "date": "2026-11-13",
+      "topic": "hacking",
+      "title": "Stolen AI keys cost $740,000",
+      "source": "The Hacker News"
+    },
+    {
+      "id": "2026-11-13-paraguay-ueno-bank-superintendent",
+      "date": "2026-11-13",
+      "topic": "bolsa",
+      "title": "Bank supervisor arrested in Paraguay",
+      "source": "MercoPress"
+    },
+    {
+      "id": "2026-11-13-poundland-deadline-extended",
+      "date": "2026-11-13",
+      "topic": "bolsa",
+      "title": "Poundland gets more time",
+      "source": "BBC News"
+    },
+    {
+      "id": "2026-11-13-zelensky-europe-peace-talks",
+      "date": "2026-11-13",
+      "topic": "mundo",
+      "title": "Europe may join peace talks",
+      "source": "BBC News"
+    },
+    {
       "id": "2026-11-12-apache-http2-critical-flaw",
       "date": "2026-11-12",
       "topic": "hacking",

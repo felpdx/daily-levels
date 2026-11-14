@@ -1,0 +1,306 @@
+{
+  "id": "2026-11-14-nvidia-lutnick-bessent-megaspeed",
+  "date": "2026-11-14",
+  "topic": "bolsa",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-11-13T19:53:57Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Trouble for a US minister after the Nvidia scandal",
+      "text": "Jensen Huang quit as head of Nvidia after an affair with a woman suspected of spying for China. Now people ask questions about Howard Lutnick, a US minister. His office was slow to act on a chip company. Scott Bessent, another minister, says other agencies wanted new limits months ago. Lutnick will talk to the Senate in December."
+    },
+    "2": {
+      "title": "Pressure grows on a US minister after Nvidia scandal",
+      "text": "Jensen Huang left his job as Nvidia boss after an affair with a woman who is suspected of being a Chinese spy. Now the scandal is reaching President Trump's government. Howard Lutnick, the Commerce Secretary, must answer questions from the Senate in December.\n\nTreasury Secretary Scott Bessent says several agencies wanted the company Megaspeed on a trade blacklist for months. He said the Commerce Department \"has the pen\", so the delay was its decision. Bessent also asked if Nvidia knew its customers well enough. A Commerce spokesperson said Lutnick agreed to appear."
+    },
+    "3": {
+      "title": "Pressure grows on Lutnick after Nvidia scandal",
+      "text": "The Nvidia scandal is now reaching President Trump's cabinet. Jensen Huang was removed as chief executive after an affair with a businesswoman who is suspected of working as a Chinese intelligence asset. China has rejected that claim. Commerce Secretary Howard Lutnick must now appear before the Senate Banking Committee in December over how his department handled exports of advanced AI chips.\n\nTreasury Secretary Scott Bessent told CNBC that several agencies \"were in favour of putting Megaspeed on the entity list for months\", but that \"Commerce has the pen\". Megaspeed, the Singapore firm where the woman worked, was reportedly investigated over suspected chip smuggling. Bessent also said Nvidia should answer whether it knew its clients and checked for shell companies.\n\nDemocrats asked the department to keep all records, and two senior Democrats started investigations. A Commerce spokesperson said Lutnick had agreed to appear. Nvidia says it has no reason to believe national security was harmed."
+    }
+  },
+  "glossary": {
+    "scandal": {
+      "pt": "escândalo",
+      "highlight": true
+    },
+    "affair": {
+      "pt": "caso extramatrimonial",
+      "highlight": true
+    },
+    "spy": {
+      "pt": "espião; espionar",
+      "forms": [
+        "spying"
+      ]
+    },
+    "chip": {
+      "pt": "chip, peça eletrônica",
+      "forms": [
+        "chips"
+      ],
+      "highlight": true
+    },
+    "minister": {
+      "pt": "ministro"
+    },
+    "secretary": {
+      "pt": "secretário, ministro nos EUA"
+    },
+    "Senate": {
+      "pt": "Senado dos EUA",
+      "highlight": true
+    },
+    "committee": {
+      "pt": "comissão"
+    },
+    "blacklist": {
+      "pt": "lista de empresas barradas",
+      "highlight": true
+    },
+    "export": {
+      "pt": "exportação",
+      "forms": [
+        "exports"
+      ],
+      "highlight": true
+    },
+    "customer": {
+      "pt": "cliente",
+      "forms": [
+        "customers",
+        "clients",
+        "client"
+      ]
+    },
+    "smuggling": {
+      "pt": "contrabando",
+      "highlight": true
+    },
+    "cabinet": {
+      "pt": "conjunto de ministros do governo"
+    },
+    "Nvidia": {
+      "pt": "empresa de chips de inteligência artificial"
+    },
+    "Jensen Huang": {
+      "pt": "ex-presidente da Nvidia",
+      "forms": [
+        "Huang",
+        "Jensen"
+      ]
+    },
+    "Howard Lutnick": {
+      "pt": "secretário de Comércio dos EUA",
+      "forms": [
+        "Lutnick",
+        "Howard"
+      ]
+    },
+    "Scott Bessent": {
+      "pt": "secretário do Tesouro dos EUA",
+      "forms": [
+        "Bessent",
+        "Scott"
+      ]
+    },
+    "Megaspeed": {
+      "pt": "empresa de Singapura ligada ao caso"
+    },
+    "Commerce": {
+      "pt": "Departamento de Comércio dos EUA"
+    },
+    "Treasury": {
+      "pt": "Departamento do Tesouro dos EUA"
+    },
+    "Trump": {
+      "pt": "Donald Trump, presidente dos EUA"
+    },
+    "CNBC": {
+      "pt": "canal de notícias de negócios dos EUA"
+    },
+    "Democrats": {
+      "pt": "Partido Democrata"
+    },
+    "Singapore": {
+      "pt": "Singapura",
+      "forms": [
+        "Singaporean"
+      ]
+    },
+    "China": {
+      "pt": "China",
+      "forms": [
+        "Chinese"
+      ]
+    },
+    "AI": {
+      "pt": "inteligência artificial"
+    },
+    "Banking": {
+      "pt": "sobre bancos e finanças"
+    },
+    "entity list": {
+      "pt": "lista de empresas com restrições de venda"
+    },
+    "intelligence": {
+      "pt": "serviço de espionagem"
+    },
+    "asset": {
+      "pt": "agente, informante"
+    },
+    "investigate": {
+      "pt": "investigar",
+      "forms": [
+        "investigated",
+        "investigations"
+      ]
+    },
+    "spokesperson": {
+      "pt": "porta-voz"
+    },
+    "act": {
+      "pt": "agir"
+    },
+    "advanced": {
+      "pt": "avançado"
+    },
+    "agencies": {
+      "pt": "agências, órgãos do governo"
+    },
+    "ago": {
+      "pt": "atrás (no tempo)"
+    },
+    "agreed": {
+      "pt": "concordou"
+    },
+    "answer": {
+      "pt": "responder"
+    },
+    "appear": {
+      "pt": "aparecer, comparecer"
+    },
+    "boss": {
+      "pt": "chefe"
+    },
+    "businesswoman": {
+      "pt": "mulher de negócios"
+    },
+    "checked": {
+      "pt": "verificou"
+    },
+    "chief": {
+      "pt": "principal, chefe"
+    },
+    "claim": {
+      "pt": "afirmação"
+    },
+    "december": {
+      "pt": "dezembro"
+    },
+    "decision": {
+      "pt": "decisão"
+    },
+    "delay": {
+      "pt": "atraso"
+    },
+    "department": {
+      "pt": "departamento, ministério"
+    },
+    "enough": {
+      "pt": "o suficiente"
+    },
+    "entity": {
+      "pt": "entidade, empresa"
+    },
+    "executive": {
+      "pt": "executivo"
+    },
+    "favour": {
+      "pt": "a favor"
+    },
+    "firm": {
+      "pt": "empresa"
+    },
+    "handled": {
+      "pt": "tratou, lidou com"
+    },
+    "harmed": {
+      "pt": "prejudicado"
+    },
+    "head": {
+      "pt": "chefe, comando"
+    },
+    "job": {
+      "pt": "emprego, cargo"
+    },
+    "limits": {
+      "pt": "limites"
+    },
+    "list": {
+      "pt": "lista"
+    },
+    "national": {
+      "pt": "nacional"
+    },
+    "office": {
+      "pt": "cargo, escritório"
+    },
+    "pen": {
+      "pt": "caneta (quem decide)"
+    },
+    "pressure": {
+      "pt": "pressão"
+    },
+    "questions": {
+      "pt": "perguntas"
+    },
+    "quit": {
+      "pt": "deixou o cargo"
+    },
+    "reaching": {
+      "pt": "chegando a"
+    },
+    "records": {
+      "pt": "registros, documentos"
+    },
+    "rejected": {
+      "pt": "rejeitou"
+    },
+    "removed": {
+      "pt": "removido, afastado"
+    },
+    "reportedly": {
+      "pt": "segundo relatos"
+    },
+    "security": {
+      "pt": "segurança"
+    },
+    "senior": {
+      "pt": "alto, de alto escalão"
+    },
+    "several": {
+      "pt": "vários"
+    },
+    "shell": {
+      "pt": "de fachada (empresa sem atividade real)"
+    },
+    "slow": {
+      "pt": "lento"
+    },
+    "suspected": {
+      "pt": "suspeito"
+    },
+    "trade": {
+      "pt": "comércio"
+    },
+    "trouble": {
+      "pt": "problema"
+    },
+    "whether": {
+      "pt": "se"
+    }
+  }
+}

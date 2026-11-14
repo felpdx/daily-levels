@@ -1,0 +1,264 @@
+{
+  "id": "2026-11-14-fbi-facestealer-north-korea-deepfake",
+  "date": "2026-11-14",
+  "topic": "hacking",
+  "source": {
+    "name": "The Hacker News",
+    "url": "https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html",
+    "publishedAt": "2026-11-13T14:28:58Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Fake video calls steal crypto",
+      "text": "The FBI says hackers linked to North Korea stole more than $400 million in crypto. They used fake video calls. The hackers sent invitations to a meeting. Then they showed a fake error and a link. The link installed malware. The US also seized more than $1.2 billion in crypto stolen from Binance."
+    },
+    "2": {
+      "title": "FBI links $400 million crypto theft to fake video calls",
+      "text": "The FBI says hackers linked to North Korea stole more than $400 million in cryptocurrency in the last 18 months. The scheme is called FaceStealer. The US government also seized the cloud servers used in the campaign.\n\nThe hackers invited people to video meetings from stolen accounts. In the meeting, victims saw a recorded video of someone they knew, and sometimes deepfake videos of famous people. After a few seconds, a fake error appeared with a link to fix it. The link installed malware. The Justice Department also seized more than $1.2 billion in crypto stolen from the Binance hack."
+    },
+    "3": {
+      "title": "FBI ties $400 million crypto theft to deepfake video calls",
+      "text": "The FBI says hackers tied to North Korea have stolen more than $400 million in cryptocurrency over the last 18 months in a scheme called FaceStealer. US authorities seized the cloud servers behind the campaign. In a separate action, the Justice Department seized more than $1.2 billion in crypto recently stolen from the Binance exchange by a North Korea-linked group called TraderTraitor, saying the money funds the country's weapons program.\n\nAccording to the Justice Department, the attackers sent video meeting invitations from accounts taken from earlier victims. Targets saw a recorded video of a person they knew, and sometimes deepfake videos of well-known people. A few seconds in, a fake technical error told them to click a link, which installed malware on their computers.\n\nThe FBI also seized more than 900 recordings of victims' webcams. Security company Arctic Wolf said most targets were founders and executives in crypto and finance."
+    }
+  },
+  "glossary": {
+    "hacker": {
+      "pt": "pessoa que invade sistemas",
+      "forms": [
+        "hackers"
+      ]
+    },
+    "cryptocurrency": {
+      "pt": "moeda digital",
+      "highlight": true
+    },
+    "crypto": {
+      "pt": "moeda digital (abreviação)"
+    },
+    "deepfake": {
+      "pt": "vídeo falso feito com inteligência artificial",
+      "forms": [
+        "deepfakes"
+      ],
+      "highlight": true
+    },
+    "scheme": {
+      "pt": "esquema, plano para enganar",
+      "highlight": true
+    },
+    "campaign": {
+      "pt": "campanha, série de ataques planejados"
+    },
+    "seize": {
+      "pt": "apreender",
+      "forms": [
+        "seized"
+      ],
+      "highlight": true
+    },
+    "link": {
+      "pt": "endereço clicável na internet"
+    },
+    "install": {
+      "pt": "instalar",
+      "forms": [
+        "installed"
+      ]
+    },
+    "malware": {
+      "pt": "programa criado para causar dano",
+      "highlight": true
+    },
+    "invitation": {
+      "pt": "convite",
+      "forms": [
+        "invitations"
+      ]
+    },
+    "victim": {
+      "pt": "vítima",
+      "forms": [
+        "victims"
+      ],
+      "highlight": true
+    },
+    "weapon": {
+      "pt": "arma",
+      "forms": [
+        "weapons"
+      ]
+    },
+    "exchange": {
+      "pt": "plataforma de compra e venda de moedas digitais"
+    },
+    "North Korea": {
+      "pt": "Coreia do Norte",
+      "forms": [
+        "North",
+        "Korea",
+        "Korean"
+      ]
+    },
+    "FBI": {
+      "pt": "polícia federal dos EUA"
+    },
+    "FaceStealer": {
+      "pt": "nome do golpe: \"ladrão de rostos\""
+    },
+    "Binance": {
+      "pt": "empresa de criptomoedas"
+    },
+    "TraderTraitor": {
+      "pt": "nome de um grupo de hackers ligado à Coreia do Norte"
+    },
+    "Arctic Wolf": {
+      "pt": "empresa de segurança digital"
+    },
+    "cloud": {
+      "pt": "nuvem, computadores na internet"
+    },
+    "steal": {
+      "pt": "roubar",
+      "forms": [
+        "stole",
+        "stolen"
+      ],
+      "highlight": true
+    },
+    "webcam": {
+      "pt": "câmera do computador",
+      "forms": [
+        "webcams"
+      ]
+    },
+    "accounts": {
+      "pt": "contas"
+    },
+    "action": {
+      "pt": "ação"
+    },
+    "appeared": {
+      "pt": "apareceu"
+    },
+    "arctic": {
+      "pt": "Ártico (parte do nome da empresa Arctic Wolf)"
+    },
+    "attackers": {
+      "pt": "atacantes"
+    },
+    "authorities": {
+      "pt": "autoridades"
+    },
+    "click": {
+      "pt": "clicar"
+    },
+    "computers": {
+      "pt": "computadores"
+    },
+    "department": {
+      "pt": "departamento, ministério"
+    },
+    "earlier": {
+      "pt": "antes, mais cedo"
+    },
+    "error": {
+      "pt": "erro"
+    },
+    "executives": {
+      "pt": "executivos"
+    },
+    "fake": {
+      "pt": "falso"
+    },
+    "famous": {
+      "pt": "famoso"
+    },
+    "finance": {
+      "pt": "finanças"
+    },
+    "fix": {
+      "pt": "consertar, correção"
+    },
+    "founders": {
+      "pt": "fundadores"
+    },
+    "funds": {
+      "pt": "financia, dá dinheiro para"
+    },
+    "hack": {
+      "pt": "invasão"
+    },
+    "invited": {
+      "pt": "convidou"
+    },
+    "justice": {
+      "pt": "justiça"
+    },
+    "linked": {
+      "pt": "ligado"
+    },
+    "links": {
+      "pt": "links, endereços clicáveis"
+    },
+    "meetings": {
+      "pt": "reuniões"
+    },
+    "program": {
+      "pt": "programa"
+    },
+    "recently": {
+      "pt": "recentemente"
+    },
+    "recorded": {
+      "pt": "gravado"
+    },
+    "recordings": {
+      "pt": "gravações"
+    },
+    "seconds": {
+      "pt": "segundos"
+    },
+    "security": {
+      "pt": "segurança"
+    },
+    "separate": {
+      "pt": "separado"
+    },
+    "servers": {
+      "pt": "servidores"
+    },
+    "someone": {
+      "pt": "alguém"
+    },
+    "sometimes": {
+      "pt": "às vezes"
+    },
+    "targets": {
+      "pt": "alvos"
+    },
+    "technical": {
+      "pt": "técnico"
+    },
+    "theft": {
+      "pt": "roubo"
+    },
+    "tied": {
+      "pt": "ligado"
+    },
+    "ties": {
+      "pt": "liga"
+    },
+    "video": {
+      "pt": "vídeo"
+    },
+    "videos": {
+      "pt": "vídeos"
+    },
+    "wolf": {
+      "pt": "lobo"
+    },
+    "according": {
+      "pt": "segundo, de acordo com"
+    }
+  }
+}

@@ -1,6 +1,34 @@
 {
   "articles": [
     {
+      "id": "2026-11-14-fbi-facestealer-north-korea-deepfake",
+      "date": "2026-11-14",
+      "topic": "hacking",
+      "title": "Fake video calls steal crypto",
+      "source": "The Hacker News"
+    },
+    {
+      "id": "2026-11-14-operation-endgame-gootloader",
+      "date": "2026-11-14",
+      "topic": "hacking",
+      "title": "Police stop three big malware tools",
+      "source": "The Hacker News"
+    },
+    {
+      "id": "2026-11-14-nvidia-lutnick-bessent-megaspeed",
+      "date": "2026-11-14",
+      "topic": "bolsa",
+      "title": "Trouble for a US minister after the Nvidia scandal",
+      "source": "BBC News"
+    },
+    {
+      "id": "2026-11-14-trump-putin-xi-meeting-shenzhen",
+      "date": "2026-11-14",
+      "topic": "mundo",
+      "title": "Trump, Putin and Xi plan to meet",
+      "source": "BBC News"
+    },
+    {
       "id": "2026-11-13-check-point-php2shell-tsga",
       "date": "2026-11-13",
       "topic": "hacking",

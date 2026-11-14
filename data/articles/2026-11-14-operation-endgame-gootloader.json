@@ -1,0 +1,257 @@
+{
+  "id": "2026-11-14-operation-endgame-gootloader",
+  "date": "2026-11-14",
+  "topic": "hacking",
+  "source": {
+    "name": "The Hacker News",
+    "url": "https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html",
+    "publishedAt": "2026-11-13T10:55:03Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Police stop three big malware tools",
+      "text": "Police in many countries shut down servers this week. The servers ran three malware tools: Gootloader, CastleRAT and StealC. Criminals used them to steal passwords and to start ransomware attacks. Police took 235 servers and 257 domains. They also found 6.4 million stolen logins. No one was arrested."
+    },
+    "2": {
+      "title": "Police take down servers behind three malware tools",
+      "text": "An international police operation shut down servers behind Gootloader, CastleRAT and StealC this week. Criminals used these tools to enter computers, steal passwords and start ransomware attacks. Across the three tools, police took 235 servers and 257 domains. They also found about 6.4 million stolen logins that belong to more than 40,000 victims, according to German police.\n\nNo arrests were announced. Dutch police made a service called Check your hack, where people can type an email address. If it is in the stolen data, police send an email with steps to remove the malware. Police warn that emails with links, saying they come from the police, are fake."
+    },
+    "3": {
+      "title": "Operation Endgame hits Gootloader, CastleRAT and StealC",
+      "text": "An international police operation has taken down servers behind three malware tools: Gootloader, CastleRAT and StealC. Police seized 235 servers and 257 domains in total, according to Europol. German police also said they recovered about 6.4 million stolen logins that belong to more than 40,000 victims.\n\nGootloader spread through fake legal documents on hacked websites, and its operators sold access to infected computers to ransomware criminals. The US Justice Department said it infected at least 25,000 computers since 2018. Police also cleaned malware from 681 hacked websites. StealC, a tool that steals passwords, came back after a June operation, but police shut down its servers again.\n\nNo arrests were announced. Dutch police added data stolen by CastleRAT to Check your hack, a service where people enter an email address to see if it was affected. Police say criminals may still have the logins even after the seizure, and that fake emails claiming to come from the police are a scam."
+    }
+  },
+  "glossary": {
+    "malware": {
+      "pt": "programa criado para causar dano",
+      "forms": "malwares",
+      "highlight": true
+    },
+    "ransomware": {
+      "pt": "vírus que bloqueia dados e pede dinheiro",
+      "highlight": true
+    },
+    "server": {
+      "pt": "servidor, computador que guarda sites e dados",
+      "forms": [
+        "servers"
+      ],
+      "highlight": true
+    },
+    "login": {
+      "pt": "dados de acesso, como usuário e senha",
+      "forms": [
+        "logins"
+      ],
+      "highlight": true
+    },
+    "victim": {
+      "pt": "vítima",
+      "forms": [
+        "victims"
+      ],
+      "highlight": true
+    },
+    "seize": {
+      "pt": "apreender",
+      "forms": [
+        "seized",
+        "seizes",
+        "seizure"
+      ],
+      "highlight": true
+    },
+    "domain": {
+      "pt": "endereço de site na internet",
+      "forms": [
+        "domains"
+      ]
+    },
+    "steal": {
+      "pt": "roubar",
+      "forms": [
+        "stole",
+        "stolen",
+        "steals"
+      ],
+      "highlight": true
+    },
+    "take down": {
+      "pt": "derrubar"
+    },
+    "arrest": {
+      "pt": "prisão, detenção",
+      "forms": [
+        "arrests",
+        "arrested"
+      ],
+      "highlight": true
+    },
+    "scam": {
+      "pt": "golpe",
+      "highlight": true
+    },
+    "access": {
+      "pt": "acesso"
+    },
+    "according": {
+      "pt": "segundo, de acordo com"
+    },
+    "across": {
+      "pt": "ao longo de, em"
+    },
+    "added": {
+      "pt": "adicionou"
+    },
+    "address": {
+      "pt": "endereço"
+    },
+    "affected": {
+      "pt": "afetado"
+    },
+    "announced": {
+      "pt": "anunciou"
+    },
+    "attacks": {
+      "pt": "ataques"
+    },
+    "belong": {
+      "pt": "pertencer"
+    },
+    "castlerat": {
+      "pt": "nome de um malware de controle remoto"
+    },
+    "check": {
+      "pt": "verificar"
+    },
+    "claiming": {
+      "pt": "afirmando"
+    },
+    "cleaned": {
+      "pt": "limpou"
+    },
+    "computers": {
+      "pt": "computadores"
+    },
+    "criminals": {
+      "pt": "criminosos"
+    },
+    "data": {
+      "pt": "dados"
+    },
+    "department": {
+      "pt": "departamento, ministério"
+    },
+    "documents": {
+      "pt": "documentos"
+    },
+    "dutch": {
+      "pt": "holandês"
+    },
+    "email": {
+      "pt": "e-mail"
+    },
+    "emails": {
+      "pt": "e-mails"
+    },
+    "endgame": {
+      "pt": "\"jogo final\", nome da operação policial"
+    },
+    "enter": {
+      "pt": "entrar, digitar"
+    },
+    "europol": {
+      "pt": "polícia europeia"
+    },
+    "fake": {
+      "pt": "falso"
+    },
+    "german": {
+      "pt": "alemão"
+    },
+    "gootloader": {
+      "pt": "nome de um malware que abre portas para outros vírus"
+    },
+    "hack": {
+      "pt": "invasão"
+    },
+    "hacked": {
+      "pt": "invadido"
+    },
+    "hits": {
+      "pt": "atinge"
+    },
+    "infected": {
+      "pt": "infectado"
+    },
+    "international": {
+      "pt": "internacional"
+    },
+    "june": {
+      "pt": "junho"
+    },
+    "justice": {
+      "pt": "justiça"
+    },
+    "least": {
+      "pt": "pelo menos"
+    },
+    "legal": {
+      "pt": "jurídico"
+    },
+    "links": {
+      "pt": "links, endereços clicáveis"
+    },
+    "operation": {
+      "pt": "operação"
+    },
+    "operators": {
+      "pt": "operadores, responsáveis"
+    },
+    "passwords": {
+      "pt": "senhas"
+    },
+    "recovered": {
+      "pt": "recuperou"
+    },
+    "remove": {
+      "pt": "remover"
+    },
+    "service": {
+      "pt": "serviço"
+    },
+    "shut": {
+      "pt": "fechou, desligou"
+    },
+    "spread": {
+      "pt": "se espalhou"
+    },
+    "stealc": {
+      "pt": "nome de um malware que rouba senhas"
+    },
+    "steps": {
+      "pt": "passos"
+    },
+    "three": {
+      "pt": "três"
+    },
+    "tool": {
+      "pt": "ferramenta"
+    },
+    "tools": {
+      "pt": "ferramentas"
+    },
+    "total": {
+      "pt": "total"
+    },
+    "type": {
+      "pt": "digitar"
+    },
+    "warn": {
+      "pt": "avisar"
+    },
+    "websites": {
+      "pt": "sites"
+    }
+  }
+}

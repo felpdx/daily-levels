@@ -1,0 +1,248 @@
+{
+  "id": "2026-11-14-trump-putin-xi-meeting-shenzhen",
+  "date": "2026-11-14",
+  "topic": "mundo",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-11-14T05:52:31Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Trump, Putin and Xi plan to meet",
+      "text": "The White House says Donald Trump, Vladimir Putin and Xi Jinping will meet next week in China. Trump will go to a summit in Shenzhen. He wants to talk about fewer nuclear weapons. Iran may also be a topic. Ukraine will not. No deal is expected. A nuclear treaty between the US and Russia ended in February."
+    },
+    "2": {
+      "title": "Trump, Putin and Xi plan a historic meeting in China",
+      "text": "The White House says Donald Trump, Vladimir Putin and Xi Jinping will meet next week in China. The meeting will happen at the Apec summit in Shenzhen. Trump will also have talks with Xi on Thursday.\n\nThe White House says Trump wants to talk about reducing nuclear weapons. Iran may also be discussed, but Ukraine will not. A senior US official said no agreement is expected. Russia and China have not yet commented. A nuclear treaty between the US and Russia ended in February, so the world's biggest nuclear powers have few limits now."
+    },
+    "3": {
+      "title": "Trump, Putin and Xi plan historic joint meeting in China",
+      "text": "The leaders of the US, Russia and China plan to meet next week on the sidelines of the Apec summit in Shenzhen, the White House has said. Spokeswoman Olivia Wales said Donald Trump wants to discuss reducing nuclear weapons. Iran may also come up, but Ukraine will not. A senior US official told news agencies that no agreement was expected.\n\nTrump will arrive in Shenzhen late on Wednesday and hold bilateral talks with Xi Jinping on Thursday, their fourth meeting since he returned to office in 2025. The trilateral meeting will close his visit. Moscow and Beijing had not commented, though the Kremlin has spoken of \"signals\" of readiness for such talks.\n\nA nuclear treaty between the US and Russia expired in February, leaving the biggest arsenals with few limits. Trump has said a new deal should include China, which is building up its arsenal. Xi hosted both Putin and Trump in Beijing earlier this year."
+    }
+  },
+  "glossary": {
+    "summit": {
+      "pt": "encontro de líderes",
+      "highlight": true
+    },
+    "nuclear": {
+      "pt": "nuclear",
+      "highlight": true
+    },
+    "treaty": {
+      "pt": "tratado",
+      "highlight": true
+    },
+    "weapon": {
+      "pt": "arma",
+      "forms": [
+        "weapons"
+      ]
+    },
+    "White House": {
+      "pt": "sede do governo dos EUA"
+    },
+    "Donald Trump": {
+      "pt": "presidente dos EUA",
+      "forms": [
+        "Trump"
+      ]
+    },
+    "Vladimir Putin": {
+      "pt": "presidente da Rússia",
+      "forms": [
+        "Putin",
+        "Vladimir"
+      ]
+    },
+    "Xi Jinping": {
+      "pt": "presidente da China",
+      "forms": [
+        "Xi",
+        "Jinping"
+      ]
+    },
+    "Shenzhen": {
+      "pt": "cidade do sul da China"
+    },
+    "Apec": {
+      "pt": "fórum de cooperação econômica da Ásia e do Pacífico"
+    },
+    "Iran": {
+      "pt": "Irã"
+    },
+    "Ukraine": {
+      "pt": "Ucrânia"
+    },
+    "Russia": {
+      "pt": "Rússia",
+      "forms": [
+        "Russian"
+      ]
+    },
+    "China": {
+      "pt": "China"
+    },
+    "Moscow": {
+      "pt": "Moscou, governo russo"
+    },
+    "Beijing": {
+      "pt": "Pequim, governo chinês"
+    },
+    "Kremlin": {
+      "pt": "governo da Rússia"
+    },
+    "Olivia Wales": {
+      "pt": "porta-voz da Casa Branca",
+      "forms": [
+        "Olivia",
+        "Wales"
+      ]
+    },
+    "bilateral": {
+      "pt": "entre dois países"
+    },
+    "trilateral": {
+      "pt": "entre três países",
+      "highlight": true
+    },
+    "arsenal": {
+      "pt": "estoque de armas",
+      "forms": [
+        "arsenals"
+      ],
+      "highlight": true
+    },
+    "historic": {
+      "pt": "histórico"
+    },
+    "agreement": {
+      "pt": "acordo",
+      "highlight": true
+    },
+    "official": {
+      "pt": "autoridade"
+    },
+    "spokeswoman": {
+      "pt": "porta-voz"
+    },
+    "sidelines": {
+      "pt": "à margem, nos bastidores"
+    },
+    "expire": {
+      "pt": "acabar, vencer",
+      "forms": [
+        "expired"
+      ]
+    },
+    "reduce": {
+      "pt": "reduzir",
+      "forms": [
+        "reducing"
+      ]
+    },
+    "agencies": {
+      "pt": "agências, órgãos do governo"
+    },
+    "arrive": {
+      "pt": "chegar"
+    },
+    "building": {
+      "pt": "construindo, aumentando"
+    },
+    "commented": {
+      "pt": "comentou"
+    },
+    "deal": {
+      "pt": "acordo"
+    },
+    "discuss": {
+      "pt": "discutir"
+    },
+    "discussed": {
+      "pt": "discutido"
+    },
+    "donald": {
+      "pt": "Donald (nome de Trump)"
+    },
+    "earlier": {
+      "pt": "antes, mais cedo"
+    },
+    "expected": {
+      "pt": "esperado"
+    },
+    "february": {
+      "pt": "fevereiro"
+    },
+    "fewer": {
+      "pt": "menos"
+    },
+    "fourth": {
+      "pt": "quarto"
+    },
+    "hold": {
+      "pt": "realizar, manter"
+    },
+    "hosted": {
+      "pt": "recebeu como anfitrião"
+    },
+    "house": {
+      "pt": "casa"
+    },
+    "include": {
+      "pt": "incluir"
+    },
+    "joint": {
+      "pt": "conjunto"
+    },
+    "late": {
+      "pt": "tarde"
+    },
+    "leaders": {
+      "pt": "líderes"
+    },
+    "limits": {
+      "pt": "limites"
+    },
+    "office": {
+      "pt": "cargo, escritório"
+    },
+    "powers": {
+      "pt": "potências"
+    },
+    "readiness": {
+      "pt": "disposição"
+    },
+    "returned": {
+      "pt": "voltou"
+    },
+    "senior": {
+      "pt": "alto, de alto escalão"
+    },
+    "signals": {
+      "pt": "sinais"
+    },
+    "spoken": {
+      "pt": "falou"
+    },
+    "though": {
+      "pt": "embora"
+    },
+    "thursday": {
+      "pt": "quinta-feira"
+    },
+    "topic": {
+      "pt": "assunto"
+    },
+    "visit": {
+      "pt": "visita"
+    },
+    "wednesday": {
+      "pt": "quarta-feira"
+    },
+    "white": {
+      "pt": "branco"
+    }
+  }
+}

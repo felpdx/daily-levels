@@ -1,0 +1,299 @@
+{
+  "id": "2026-11-15-trezor-implants-cryptobilis",
+  "date": "2026-11-15",
+  "topic": "hacking",
+  "source": {
+    "name": "The Hacker News",
+    "url": "https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html",
+    "publishedAt": "2026-11-13T13:54:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Hidden parts found in crypto wallets",
+      "text": "Trezor makes wallets for crypto. The company found a hidden part in three of its wallets. Someone put an extra circuit board inside them. The board copies the secret recovery words. Then it sends them to the attackers over the mobile network. The wallets came from a seller called CryptoBilis. The company says nobody lost money so far. A new update helps, but it cannot fix words copied before."
+    },
+    "2": {
+      "title": "Trezor confirms hidden implants in wallets from one reseller",
+      "text": "Trezor, a maker of crypto wallets, says three Safe 5 wallets sold by the reseller CryptoBilis had a hidden implant. It is an extra circuit board that reads the recovery phrase from the screen and sends it to a server controlled by attackers over the mobile network.\n\nThe company says nobody has lost money so far. A firmware update, version 2.13.1, stops the implants found until now from capturing new data. But the update cannot protect a phrase that was copied before it.\n\nCryptoBilis was an official seller in Southeast Asia until October 9, when Trezor removed it. Another maker, Ledger, found a similar implant in a wallet from the same seller. Trezor is still investigating and has not said who fitted the implants."
+    },
+    "3": {
+      "title": "Trezor confirms hidden hardware in wallets sold by CryptoBilis",
+      "text": "Hardware wallet maker Trezor says three Safe 5 devices bought from the reseller CryptoBilis contain an implant, an extra circuit board that can copy recovery phrases. The company examined one wallet in its lab and identified the other two from photos sent by their owners. It reports no lost funds.\n\nAccording to Trezor, the board sits between the main board and the screen. It copies the phrase when the wallet shows it, either while a backup is created or when someone restores a wallet, and it also copies a passphrase if one appears. It encrypts the data and sends it over the mobile network, and it keeps trying until it connects.\n\nFirmware version 2.13.1 stops the implants found so far from capturing anything, the company said, but it cannot protect a backup captured earlier. The three wallets were bought between August 20 and September 23.\n\nCryptoBilis was an official reseller in Southeast Asia until October 9, the day Trezor removed it and Ledger began investigating losses among its customers. Ledger later confirmed a similar implant. Trezor says 48 buyers have contacted it and that it is still checking their devices. It has not said who fitted the implants."
+    }
+  },
+  "glossary": {
+    "trezor": {
+      "pt": "Trezor, empresa que fabrica carteiras de criptomoedas"
+    },
+    "cryptobilis": {
+      "pt": "CryptoBilis, revendedor de carteiras no Sudeste Asiático"
+    },
+    "ledger": {
+      "pt": "Ledger, outra fabricante de carteiras de cripto"
+    },
+    "safe": {
+      "pt": "Safe 5, modelo de carteira da Trezor"
+    },
+    "wallet": {
+      "pt": "carteira (dispositivo que guarda chaves de criptomoedas)",
+      "forms": [
+        "wallets"
+      ],
+      "highlight": true
+    },
+    "crypto": {
+      "pt": "criptomoeda"
+    },
+    "implant": {
+      "pt": "peça escondida colocada dentro de um aparelho",
+      "forms": [
+        "implants"
+      ],
+      "highlight": true
+    },
+    "recovery": {
+      "pt": "recuperação",
+      "highlight": true
+    },
+    "phrase": {
+      "pt": "frase (sequência de palavras secretas)",
+      "forms": [
+        "phrases"
+      ]
+    },
+    "reseller": {
+      "pt": "revendedor",
+      "forms": [
+        "resellers"
+      ],
+      "highlight": true
+    },
+    "firmware": {
+      "pt": "programa interno de um aparelho",
+      "highlight": true
+    },
+    "circuit": {
+      "pt": "circuito"
+    },
+    "board": {
+      "pt": "placa"
+    },
+    "mobile": {
+      "pt": "móvel, celular"
+    },
+    "network": {
+      "pt": "rede"
+    },
+    "attacker": {
+      "pt": "atacante",
+      "forms": [
+        "attackers"
+      ],
+      "highlight": true
+    },
+    "server": {
+      "pt": "servidor"
+    },
+    "passphrase": {
+      "pt": "senha extra em forma de frase"
+    },
+    "encrypt": {
+      "pt": "criptografar",
+      "forms": [
+        "encrypts"
+      ]
+    },
+    "capture": {
+      "pt": "capturar, copiar",
+      "forms": [
+        "captured",
+        "capturing"
+      ],
+      "highlight": true
+    },
+    "backup": {
+      "pt": "cópia de segurança"
+    },
+    "restore": {
+      "pt": "restaurar"
+    },
+    "screen": {
+      "pt": "tela"
+    },
+    "lab": {
+      "pt": "laboratório"
+    },
+    "photo": {
+      "pt": "foto",
+      "forms": [
+        "photos"
+      ]
+    },
+    "fund": {
+      "pt": "dinheiro, fundos",
+      "forms": [
+        "funds"
+      ]
+    },
+    "hardware": {
+      "pt": "equipamento físico"
+    },
+    "version": {
+      "pt": "versão"
+    },
+    "update": {
+      "pt": "atualização"
+    },
+    "maker": {
+      "pt": "fabricante"
+    },
+    "southeast": {
+      "pt": "sudeste"
+    },
+    "asia": {
+      "pt": "Ásia"
+    },
+    "investigate": {
+      "pt": "investigar",
+      "forms": [
+        "investigating"
+      ]
+    },
+    "fit": {
+      "pt": "instalar, encaixar",
+      "forms": [
+        "fitted"
+      ]
+    },
+    "device": {
+      "pt": "aparelho",
+      "forms": [
+        "devices"
+      ]
+    },
+    "similar": {
+      "pt": "parecido"
+    },
+    "confirm": {
+      "pt": "confirmar",
+      "forms": [
+        "confirms",
+        "confirmed"
+      ]
+    },
+    "hidden": {
+      "pt": "escondido"
+    },
+    "copy": {
+      "pt": "copiar",
+      "forms": [
+        "copies"
+      ]
+    },
+    "extra": {
+      "pt": "extra, a mais"
+    },
+    "three": {
+      "pt": "três"
+    },
+    "someone": {
+      "pt": "alguém"
+    },
+    "inside": {
+      "pt": "dentro"
+    },
+    "secret": {
+      "pt": "secreto"
+    },
+    "seller": {
+      "pt": "vendedor"
+    },
+    "fix": {
+      "pt": "consertar; correção"
+    },
+    "copied": {
+      "pt": "copiado"
+    },
+    "data": {
+      "pt": "dados"
+    },
+    "protect": {
+      "pt": "proteger"
+    },
+    "official": {
+      "pt": "oficial"
+    },
+    "october": {
+      "pt": "outubro"
+    },
+    "removed": {
+      "pt": "retirou"
+    },
+    "contain": {
+      "pt": "conter"
+    },
+    "examined": {
+      "pt": "examinou"
+    },
+    "identified": {
+      "pt": "identificou"
+    },
+    "owners": {
+      "pt": "donos"
+    },
+    "reports": {
+      "pt": "relatos"
+    },
+    "according": {
+      "pt": "de acordo com"
+    },
+    "sits": {
+      "pt": "fica"
+    },
+    "either": {
+      "pt": "seja... ou"
+    },
+    "created": {
+      "pt": "criado"
+    },
+    "restores": {
+      "pt": "restaura"
+    },
+    "appears": {
+      "pt": "aparece"
+    },
+    "connects": {
+      "pt": "conecta"
+    },
+    "anything": {
+      "pt": "qualquer coisa"
+    },
+    "earlier": {
+      "pt": "antes"
+    },
+    "august": {
+      "pt": "agosto"
+    },
+    "september": {
+      "pt": "setembro"
+    },
+    "losses": {
+      "pt": "perdas"
+    },
+    "among": {
+      "pt": "entre"
+    },
+    "customers": {
+      "pt": "clientes"
+    },
+    "buyers": {
+      "pt": "compradores"
+    },
+    "contacted": {
+      "pt": "entrou em contato"
+    },
+    "checking": {
+      "pt": "verificando"
+    }
+  }
+}

@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": "2026-11-15-trezor-implants-cryptobilis",
+      "date": "2026-11-15",
+      "topic": "hacking",
+      "title": "Hidden parts found in crypto wallets",
+      "source": "The Hacker News"
+    },
+    {
+      "id": "2026-11-15-unrealircd-exploited-cisa",
+      "date": "2026-11-15",
+      "topic": "hacking",
+      "title": "Attackers use a flaw in a chat server",
+      "source": "The Hacker News"
+    },
+    {
+      "id": "2026-11-15-us-flight-ground-stop-copper",
+      "date": "2026-11-15",
+      "topic": "mundo",
+      "title": "A phone line upgrade stops US flights",
+      "source": "BBC News"
+    },
+    {
       "id": "2026-11-14-fbi-facestealer-north-korea-deepfake",
       "date": "2026-11-14",
       "topic": "hacking",

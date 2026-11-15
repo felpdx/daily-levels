@@ -1,0 +1,355 @@
+{
+  "id": "2026-11-15-us-flight-ground-stop-copper",
+  "date": "2026-11-15",
+  "topic": "mundo",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-11-14T23:11:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "A phone line upgrade stops US flights",
+      "text": "On Friday, all flights in the US stopped for more than four hours. A company was changing old copper wires to new fibre. A router sent too many messages and caused problems. Thousands of flights were late or cancelled. The US government says it was not a cyber-attack. It says the system needs a big fix."
+    },
+    "2": {
+      "title": "Upgrade of old wires caused US flight stop",
+      "text": "A nationwide stop of flights in the US on Friday came from an upgrade of an old telecoms network, the transport secretary, Sean Duffy, said. A company called L3Harris was changing copper wires for fibre when it installed a router. The router started flooding other equipment with connection attempts.\n\nBecause of this, 17 of 22 air traffic control centres had problems with voice communication. The aviation agency needed 45 minutes to find the cause, because maintenance is written on paper. It then grounded all flights.\n\nMore than 8,500 flights were delayed and nearly 8,000 were cancelled on Friday, according to FlightAware. Duffy said the system needs a $50bn overhaul. A security official said there was no sign of a cyber-attack."
+    },
+    "3": {
+      "title": "Old copper wiring upgrade behind longest US flight grounding since 9/11",
+      "text": "An upgrade to a decades-old telecoms network caused the longest nationwide grounding of flights in the US since the 11 September 2001 attacks, Transportation Secretary Sean Duffy said on Saturday. Part of a key communications system was being switched from copper wiring, so old it has been discontinued, to fibre.\n\nThe contractor L3Harris installed a router that began flooding others with 1,000 connection attempts every four to five seconds, Duffy said. FAA administrator Bryan Bedford said 17 of 22 air route traffic control centres had instability in voice and ground communications. It took 45 minutes to find the problem because maintenance is logged on paper, he admitted, so the agency grounded all flights as a precaution.\n\nPlanes were on the ground for more than four hours. FlightAware counted more than 8,500 delayed and nearly 8,000 cancelled flights on Friday. Homeland Security Secretary Markwayne Mullin said there was no sign of a cyber-attack.\n\nDuffy said the system needs a complete overhaul that could cost $50bn. L3Harris said it is supporting the FAA investigation. An analyst, Miles O'Brien, described the system as a house about to be condemned."
+    }
+  },
+  "glossary": {
+    "copper": {
+      "pt": "cobre",
+      "highlight": true
+    },
+    "fibre": {
+      "pt": "fibra óptica"
+    },
+    "router": {
+      "pt": "roteador (aparelho que direciona dados)",
+      "forms": [
+        "routers"
+      ],
+      "highlight": true
+    },
+    "cyber": {
+      "pt": "digital, de computadores"
+    },
+    "attack": {
+      "pt": "ataque",
+      "forms": [
+        "attacks"
+      ]
+    },
+    "ground": {
+      "pt": "manter em terra; terra",
+      "forms": [
+        "grounded",
+        "grounding"
+      ],
+      "highlight": true
+    },
+    "nationwide": {
+      "pt": "em todo o país"
+    },
+    "telecoms": {
+      "pt": "telecomunicações"
+    },
+    "network": {
+      "pt": "rede"
+    },
+    "upgrade": {
+      "pt": "atualização, modernização",
+      "highlight": true
+    },
+    "contractor": {
+      "pt": "empresa contratada"
+    },
+    "flood": {
+      "pt": "inundar, encher",
+      "forms": [
+        "flooding"
+      ],
+      "highlight": true
+    },
+    "attempt": {
+      "pt": "tentativa",
+      "forms": [
+        "attempts"
+      ]
+    },
+    "instability": {
+      "pt": "instabilidade"
+    },
+    "communication": {
+      "pt": "comunicação",
+      "forms": [
+        "communications"
+      ]
+    },
+    "traffic": {
+      "pt": "tráfego"
+    },
+    "control": {
+      "pt": "controle"
+    },
+    "centre": {
+      "pt": "centro",
+      "forms": [
+        "centres"
+      ]
+    },
+    "aviation": {
+      "pt": "aviação"
+    },
+    "maintenance": {
+      "pt": "manutenção"
+    },
+    "log": {
+      "pt": "registrar",
+      "forms": [
+        "logged"
+      ]
+    },
+    "overhaul": {
+      "pt": "reforma completa",
+      "highlight": true
+    },
+    "precaution": {
+      "pt": "precaução"
+    },
+    "analyst": {
+      "pt": "analista"
+    },
+    "condemn": {
+      "pt": "condenar (declarar impróprio)",
+      "forms": [
+        "condemned"
+      ]
+    },
+    "cancel": {
+      "pt": "cancelar",
+      "forms": [
+        "cancelled"
+      ]
+    },
+    "delay": {
+      "pt": "atrasar",
+      "forms": [
+        "delayed"
+      ]
+    },
+    "secretary": {
+      "pt": "secretário, ministro"
+    },
+    "transportation": {
+      "pt": "transporte"
+    },
+    "transport": {
+      "pt": "transporte"
+    },
+    "homeland": {
+      "pt": "pátria; segurança interna"
+    },
+    "security": {
+      "pt": "segurança"
+    },
+    "federal": {
+      "pt": "federal"
+    },
+    "discontinue": {
+      "pt": "deixar de fabricar",
+      "forms": [
+        "discontinued"
+      ]
+    },
+    "administrator": {
+      "pt": "administrador"
+    },
+    "decade": {
+      "pt": "década",
+      "forms": [
+        "decades",
+        "decades-old"
+      ]
+    },
+    "admit": {
+      "pt": "admitir",
+      "forms": [
+        "admitted"
+      ]
+    },
+    "voice": {
+      "pt": "voz"
+    },
+    "route": {
+      "pt": "rota"
+    },
+    "sean": {
+      "pt": "Sean, nome de Duffy"
+    },
+    "duffy": {
+      "pt": "Sean Duffy, ministro dos Transportes dos EUA"
+    },
+    "bryan": {
+      "pt": "Bryan, nome de Bedford"
+    },
+    "bedford": {
+      "pt": "Bryan Bedford, chefe da agência de aviação dos EUA"
+    },
+    "markwayne": {
+      "pt": "Markwayne, nome de Mullin"
+    },
+    "mullin": {
+      "pt": "Markwayne Mullin, ministro da Segurança Interna dos EUA"
+    },
+    "miles": {
+      "pt": "Miles, nome de O'Brien"
+    },
+    "o'brien": {
+      "pt": "Miles O'Brien, analista de aviação"
+    },
+    "l3harris": {
+      "pt": "L3Harris, empresa de tecnologia contratada pelo governo dos EUA"
+    },
+    "faa": {
+      "pt": "FAA, agência de aviação dos EUA"
+    },
+    "flightaware": {
+      "pt": "FlightAware, site que acompanha voos"
+    },
+    "friday": {
+      "pt": "sexta-feira"
+    },
+    "saturday": {
+      "pt": "sábado"
+    },
+    "september": {
+      "pt": "setembro"
+    },
+    "fix": {
+      "pt": "consertar; correção"
+    },
+    "official": {
+      "pt": "oficial"
+    },
+    "according": {
+      "pt": "de acordo com"
+    },
+    "attacks": {
+      "pt": "ataques"
+    },
+    "described": {
+      "pt": "descreveu"
+    },
+    "phone": {
+      "pt": "telefone"
+    },
+    "line": {
+      "pt": "linha"
+    },
+    "flights": {
+      "pt": "voos"
+    },
+    "four": {
+      "pt": "quatro"
+    },
+    "hours": {
+      "pt": "horas"
+    },
+    "wires": {
+      "pt": "fios"
+    },
+    "messages": {
+      "pt": "mensagens"
+    },
+    "caused": {
+      "pt": "causou"
+    },
+    "thousands": {
+      "pt": "milhares"
+    },
+    "late": {
+      "pt": "atrasado"
+    },
+    "system": {
+      "pt": "sistema"
+    },
+    "flight": {
+      "pt": "voo"
+    },
+    "installed": {
+      "pt": "instalou"
+    },
+    "equipment": {
+      "pt": "equipamento"
+    },
+    "connection": {
+      "pt": "conexão"
+    },
+    "air": {
+      "pt": "ar, aéreo"
+    },
+    "agency": {
+      "pt": "agência"
+    },
+    "minutes": {
+      "pt": "minutos"
+    },
+    "cause": {
+      "pt": "causa"
+    },
+    "paper": {
+      "pt": "papel"
+    },
+    "nearly": {
+      "pt": "quase"
+    },
+    "sign": {
+      "pt": "sinal"
+    },
+    "wiring": {
+      "pt": "fiação"
+    },
+    "longest": {
+      "pt": "mais longo"
+    },
+    "key": {
+      "pt": "chave, importante"
+    },
+    "switched": {
+      "pt": "trocado"
+    },
+    "five": {
+      "pt": "cinco"
+    },
+    "seconds": {
+      "pt": "segundos"
+    },
+    "planes": {
+      "pt": "aviões"
+    },
+    "counted": {
+      "pt": "contou"
+    },
+    "complete": {
+      "pt": "completo"
+    },
+    "cost": {
+      "pt": "custar"
+    },
+    "supporting": {
+      "pt": "apoiando"
+    },
+    "investigation": {
+      "pt": "investigação"
+    },
+    "house": {
+      "pt": "casa"
+    }
+  }
+}

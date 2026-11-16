@@ -1,0 +1,414 @@
+{
+  "id": "2026-11-16-libya-derna-rebuilt-haftar",
+  "date": "2026-11-16",
+  "topic": "mundo",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cr0qjz77j4k1o",
+    "publishedAt": "2026-11-16T00:11:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "A Libyan city is built again",
+      "text": "In 2023, a flood killed thousands of people in Derna, Libya. Now the city has new homes, roads and schools. The Haftar family, who control the east of Libya, paid for the work. They say it is a model for the country. Some experts ask where the money went. The Haftars deny any corruption."
+    },
+    "2": {
+      "title": "Derna is rebuilt, but questions remain",
+      "text": "In September 2023, a storm broke two dams above Derna, a city in eastern Libya. The flood killed about 4,000 people, and some estimates are higher. Now about $2bn is being used to rebuild the city.\n\nMany survivors received free new homes. One of them, a port worker named Abdulwahab Damdoum, says he is very grateful. The work is led by Belkacem Haftar, a son of Khalifa Haftar, who controls eastern Libya.\n\nBut there are no public records of how the money was spent. One expert says there is \"zero accountability\". Belkacem Haftar says the fund is audited and denies corruption, but he did not show the BBC the audits."
+    },
+    "3": {
+      "title": "Libyan town rebuilt after floods becomes a showcase for a strongman",
+      "text": "Three years after the world's deadliest flood this century, the eastern Libyan city of Derna has been largely rebuilt. A rapid $2bn project, led by a son of the warlord Khalifa Haftar, has produced new homes, a hospital, schools and roads. Survivors such as the port worker Abdulwahab Damdoum have received free apartments.\n\nThe money comes from Libya's state coffers, but no records of how it was spent have been published. Claudia Gazzini of the International Crisis Group says there is \"zero accountability\". Jalel Harchaoui, a Libya expert, says foreign firms told him that local partners linked to powerful families often take about half of the money, which suggests overpricing. Belkacem Haftar denies corruption and says the fund is independently audited. He promised the BBC the audits, but has not provided them.\n\nHuman rights groups have accused the authorities in eastern Libya of serious abuses, which the Haftars deny. Analysts say Derna is a showcase of what the family offers the rest of Libya, a country split between rival governments in the east and the west."
+    }
+  },
+  "glossary": {
+    "libyan": {
+      "pt": "da Líbia"
+    },
+    "build": {
+      "pt": "construir",
+      "forms": [
+        "built"
+      ]
+    },
+    "flood": {
+      "pt": "enchente",
+      "forms": [
+        "floods"
+      ],
+      "highlight": true
+    },
+    "kill": {
+      "pt": "matar",
+      "forms": [
+        "killed"
+      ]
+    },
+    "thousand": {
+      "pt": "mil",
+      "forms": [
+        "thousands"
+      ]
+    },
+    "derna": {
+      "pt": "Derna, cidade da Líbia"
+    },
+    "libya": {
+      "pt": "Líbia",
+      "forms": [
+        "libya's"
+      ]
+    },
+    "home": {
+      "pt": "casa",
+      "forms": [
+        "homes"
+      ]
+    },
+    "road": {
+      "pt": "estrada",
+      "forms": [
+        "roads"
+      ]
+    },
+    "school": {
+      "pt": "escola",
+      "forms": [
+        "schools"
+      ]
+    },
+    "haftar": {
+      "pt": "Haftar, família que controla o leste da Líbia"
+    },
+    "family": {
+      "pt": "família",
+      "forms": [
+        "families"
+      ]
+    },
+    "east": {
+      "pt": "leste"
+    },
+    "model": {
+      "pt": "modelo"
+    },
+    "deny": {
+      "pt": "negar",
+      "forms": [
+        "denies",
+        "haftars"
+      ]
+    },
+    "corruption": {
+      "pt": "corrupção",
+      "highlight": true
+    },
+    "rebuild": {
+      "pt": "reconstruir",
+      "forms": [
+        "rebuilt"
+      ],
+      "highlight": true
+    },
+    "question": {
+      "pt": "pergunta, dúvida",
+      "forms": [
+        "questions"
+      ]
+    },
+    "remain": {
+      "pt": "continuar"
+    },
+    "september": {
+      "pt": "setembro"
+    },
+    "storm": {
+      "pt": "tempestade"
+    },
+    "break": {
+      "pt": "romper",
+      "forms": [
+        "broke"
+      ]
+    },
+    "dam": {
+      "pt": "barragem",
+      "forms": [
+        "dams"
+      ]
+    },
+    "above": {
+      "pt": "acima"
+    },
+    "eastern": {
+      "pt": "do leste"
+    },
+    "estimate": {
+      "pt": "estimativa",
+      "forms": [
+        "estimates"
+      ]
+    },
+    "receive": {
+      "pt": "receber",
+      "forms": [
+        "received"
+      ]
+    },
+    "free": {
+      "pt": "grátis"
+    },
+    "port": {
+      "pt": "porto"
+    },
+    "abdulwahab": {
+      "pt": "Abdulwahab, nome de homem"
+    },
+    "damdoum": {
+      "pt": "Damdoum, sobrenome de homem"
+    },
+    "grateful": {
+      "pt": "grato"
+    },
+    "belkacem": {
+      "pt": "Belkacem, nome de homem"
+    },
+    "son": {
+      "pt": "filho"
+    },
+    "khalifa": {
+      "pt": "Khalifa, nome de homem"
+    },
+    "public": {
+      "pt": "público"
+    },
+    "spend": {
+      "pt": "gastar",
+      "forms": [
+        "spent"
+      ]
+    },
+    "zero": {
+      "pt": "zero"
+    },
+    "accountability": {
+      "pt": "prestação de contas",
+      "highlight": true
+    },
+    "fund": {
+      "pt": "fundo de dinheiro"
+    },
+    "audit": {
+      "pt": "auditar",
+      "forms": [
+        "audited",
+        "audits"
+      ],
+      "highlight": true
+    },
+    "bbc": {
+      "pt": "BBC, emissora do Reino Unido"
+    },
+    "town": {
+      "pt": "cidade pequena"
+    },
+    "showcase": {
+      "pt": "vitrine",
+      "highlight": true
+    },
+    "strongman": {
+      "pt": "líder autoritário",
+      "highlight": true
+    },
+    "three": {
+      "pt": "três"
+    },
+    "deadliest": {
+      "pt": "mais mortal"
+    },
+    "century": {
+      "pt": "século"
+    },
+    "largely": {
+      "pt": "em grande parte"
+    },
+    "rapid": {
+      "pt": "rápido"
+    },
+    "project": {
+      "pt": "projeto"
+    },
+    "warlord": {
+      "pt": "chefe militar"
+    },
+    "produce": {
+      "pt": "produzir",
+      "forms": [
+        "produced"
+      ]
+    },
+    "hospital": {
+      "pt": "hospital"
+    },
+    "survivor": {
+      "pt": "sobrevivente",
+      "forms": [
+        "survivors"
+      ],
+      "highlight": true
+    },
+    "apartment": {
+      "pt": "apartamento",
+      "forms": [
+        "apartments"
+      ]
+    },
+    "state": {
+      "pt": "Estado"
+    },
+    "coffer": {
+      "pt": "cofre",
+      "forms": [
+        "coffers"
+      ]
+    },
+    "publish": {
+      "pt": "publicar",
+      "forms": [
+        "published"
+      ]
+    },
+    "claudia": {
+      "pt": "Claudia, nome de mulher"
+    },
+    "gazzini": {
+      "pt": "Gazzini, sobrenome de especialista"
+    },
+    "international": {
+      "pt": "internacional"
+    },
+    "crisis": {
+      "pt": "crise"
+    },
+    "jalel": {
+      "pt": "Jalel, nome de homem"
+    },
+    "harchaoui": {
+      "pt": "Harchaoui, sobrenome de especialista"
+    },
+    "foreign": {
+      "pt": "estrangeiro"
+    },
+    "firms": {
+      "pt": "empresas"
+    },
+    "local": {
+      "pt": "local"
+    },
+    "partner": {
+      "pt": "parceiro",
+      "forms": [
+        "partners"
+      ]
+    },
+    "link": {
+      "pt": "ligar",
+      "forms": [
+        "linked"
+      ]
+    },
+    "powerful": {
+      "pt": "poderoso"
+    },
+    "half": {
+      "pt": "metade"
+    },
+    "overpricing": {
+      "pt": "preço inflado"
+    },
+    "independently": {
+      "pt": "de forma independente"
+    },
+    "promise": {
+      "pt": "prometer",
+      "forms": [
+        "promised"
+      ]
+    },
+    "provide": {
+      "pt": "fornecer",
+      "forms": [
+        "provided"
+      ]
+    },
+    "human": {
+      "pt": "humano"
+    },
+    "rights": {
+      "pt": "direitos"
+    },
+    "accuse": {
+      "pt": "acusar",
+      "forms": [
+        "accused"
+      ]
+    },
+    "authority": {
+      "pt": "autoridade",
+      "forms": [
+        "authorities"
+      ]
+    },
+    "abuse": {
+      "pt": "abuso",
+      "forms": [
+        "abuses"
+      ]
+    },
+    "analyst": {
+      "pt": "analista",
+      "forms": [
+        "analysts"
+      ]
+    },
+    "offer": {
+      "pt": "oferecer",
+      "forms": [
+        "offers"
+      ]
+    },
+    "rest": {
+      "pt": "resto"
+    },
+    "split": {
+      "pt": "dividido"
+    },
+    "rival": {
+      "pt": "rival"
+    },
+    "west": {
+      "pt": "oeste"
+    },
+    "expert": {
+      "pt": "especialista",
+      "forms": [
+        "experts"
+      ]
+    },
+    "record": {
+      "pt": "registro",
+      "forms": [
+        "records"
+      ]
+    },
+    "suggest": {
+      "pt": "sugerir",
+      "forms": [
+        "suggests"
+      ]
+    },
+    "serious": {
+      "pt": "sério"
+    }
+  }
+}

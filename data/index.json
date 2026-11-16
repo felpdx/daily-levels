@@ -1,6 +1,41 @@
 {
   "articles": [
     {
+      "id": "2026-11-16-amazon-ai-agents-steal-keys",
+      "date": "2026-11-16",
+      "topic": "hacking",
+      "title": "AI agents hunt for secret keys",
+      "source": "The Hacker News"
+    },
+    {
+      "id": "2026-11-16-bo-team-log4shell-code-signing",
+      "date": "2026-11-16",
+      "topic": "hacking",
+      "title": "Hackers get inside a Russian company",
+      "source": "The Hacker News"
+    },
+    {
+      "id": "2026-11-16-intel-shareholders-lawsuit",
+      "date": "2026-11-16",
+      "topic": "bolsa",
+      "title": "Investors sue Intel",
+      "source": "BBC News"
+    },
+    {
+      "id": "2026-11-16-uruguay-productivity-eclac",
+      "date": "2026-11-16",
+      "topic": "bolsa",
+      "title": "Uruguay works well, but grows slowly",
+      "source": "MercoPress"
+    },
+    {
+      "id": "2026-11-16-libya-derna-rebuilt-haftar",
+      "date": "2026-11-16",
+      "topic": "mundo",
+      "title": "A Libyan city is built again",
+      "source": "BBC News"
+    },
+    {
       "id": "2026-11-15-trezor-implants-cryptobilis",
       "date": "2026-11-15",
       "topic": "hacking",

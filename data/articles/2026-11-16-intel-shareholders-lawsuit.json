@@ -1,0 +1,343 @@
+{
+  "id": "2026-11-16-intel-shareholders-lawsuit",
+  "date": "2026-11-16",
+  "topic": "bolsa",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cw62p42p288do",
+    "publishedAt": "2026-11-16T03:00:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Investors sue Intel",
+      "text": "Some investors are suing Intel. They say the company hid bad news about computer sales. On 30 October, Intel shares fell almost 29 percent in one day. The investors say Intel told them too late. The case is in California. Intel has not answered in this story."
+    },
+    "2": {
+      "title": "Shareholders sue Intel after its stock fell",
+      "text": "Some shareholders have sued the chip company Intel in California. They say Intel hid how weak computer sales were. They also say this kept the share price too high.\n\nIntel shares fell almost 29 percent on 30 October, one day after the company said its next report would be weaker than expected. The lawsuit includes people who owned shares between 23 July and 29 October. It names Intel and its chief executive, Tan Lip-Bu.\n\nThe lawsuit says sales of computer chips fell sharply, and earnings dropped 9 percent to $8.1bn. Shares are down 37.5 percent in the past month, but are still up 51 percent this year."
+    },
+    "3": {
+      "title": "Investors sue Intel over its 29% stock plunge",
+      "text": "Shareholders have sued the US chip giant Intel, accusing it of hiding how serious the slump in personal computer sales was. They say this caused a one-day fall of nearly 29 percent in the company's shares on 30 October.\n\nThe proposed class action, filed in San Jose, California, by the law firm Robbins Geller Rudman & Dowd, covers owners of Intel shares between 23 July and 29 October. It names the company, its chief executive Tan Lip-Bu and other leaders. The complaint says Intel made \"materially false and/or misleading\" statements and did not disclose the slowdown in PC sales.\n\nIt says weak demand caused quarterly earnings to fall 9 percent, about $800m, to $8.1bn. Intel has invested heavily to meet demand for AI computing, and as more chips go to data centres, chips for PCs have become more expensive. Tan said in October that the industry faced an \"unprecedented memory crunch\". Intel shares have fallen 37.5 percent in a month, but remain up 51 percent this year."
+    }
+  },
+  "glossary": {
+    "investor": {
+      "pt": "investidor",
+      "forms": [
+        "investors"
+      ]
+    },
+    "sue": {
+      "pt": "processar",
+      "forms": [
+        "suing",
+        "sued"
+      ],
+      "highlight": true
+    },
+    "intel": {
+      "pt": "Intel, fabricante de chips"
+    },
+    "hide": {
+      "pt": "esconder",
+      "forms": [
+        "hid"
+      ]
+    },
+    "computer": {
+      "pt": "computador"
+    },
+    "sale": {
+      "pt": "venda",
+      "forms": [
+        "sales"
+      ]
+    },
+    "october": {
+      "pt": "outubro"
+    },
+    "share": {
+      "pt": "ação",
+      "forms": [
+        "shares"
+      ]
+    },
+    "late": {
+      "pt": "tarde"
+    },
+    "case": {
+      "pt": "caso"
+    },
+    "california": {
+      "pt": "Califórnia, estado dos EUA"
+    },
+    "answer": {
+      "pt": "responder",
+      "forms": [
+        "answered"
+      ]
+    },
+    "shareholder": {
+      "pt": "acionista",
+      "forms": [
+        "shareholders"
+      ],
+      "highlight": true
+    },
+    "stock": {
+      "pt": "ações, bolsa",
+      "highlight": true
+    },
+    "chip": {
+      "pt": "chip, componente eletrônico",
+      "forms": [
+        "chips"
+      ]
+    },
+    "weak": {
+      "pt": "fraco"
+    },
+    "report": {
+      "pt": "relatório"
+    },
+    "weaker": {
+      "pt": "mais fraco"
+    },
+    "expect": {
+      "pt": "esperar",
+      "forms": [
+        "expected"
+      ]
+    },
+    "lawsuit": {
+      "pt": "processo judicial",
+      "highlight": true
+    },
+    "owned": {
+      "pt": "tinha, possuía"
+    },
+    "july": {
+      "pt": "julho"
+    },
+    "chief": {
+      "pt": "chefe"
+    },
+    "executive": {
+      "pt": "executivo"
+    },
+    "tan": {
+      "pt": "Tan, sobrenome do presidente da Intel"
+    },
+    "lip": {
+      "pt": "Lip, nome do presidente da Intel"
+    },
+    "bu": {
+      "pt": "Bu, nome do presidente da Intel"
+    },
+    "sharply": {
+      "pt": "bruscamente"
+    },
+    "earnings": {
+      "pt": "lucros",
+      "highlight": true
+    },
+    "drop": {
+      "pt": "cair",
+      "forms": [
+        "dropped"
+      ]
+    },
+    "past": {
+      "pt": "passado"
+    },
+    "plunge": {
+      "pt": "queda forte"
+    },
+    "giant": {
+      "pt": "gigante"
+    },
+    "accuse": {
+      "pt": "acusar",
+      "forms": [
+        "accusing"
+      ]
+    },
+    "hiding": {
+      "pt": "esconder"
+    },
+    "serious": {
+      "pt": "sério"
+    },
+    "slump": {
+      "pt": "queda forte, crise",
+      "highlight": true
+    },
+    "personal": {
+      "pt": "pessoal"
+    },
+    "cause": {
+      "pt": "causar",
+      "forms": [
+        "caused"
+      ]
+    },
+    "nearly": {
+      "pt": "quase"
+    },
+    "propose": {
+      "pt": "propor",
+      "forms": [
+        "proposed"
+      ]
+    },
+    "class": {
+      "pt": "classe"
+    },
+    "action": {
+      "pt": "ação judicial"
+    },
+    "file": {
+      "pt": "apresentar",
+      "forms": [
+        "filed"
+      ]
+    },
+    "san": {
+      "pt": "San, parte do nome da cidade"
+    },
+    "jose": {
+      "pt": "Jose, parte do nome da cidade"
+    },
+    "law": {
+      "pt": "lei"
+    },
+    "firm": {
+      "pt": "empresa"
+    },
+    "robbins": {
+      "pt": "Robbins, nome de escritório de advocacia"
+    },
+    "geller": {
+      "pt": "Geller, nome de escritório de advocacia"
+    },
+    "rudman": {
+      "pt": "Rudman, nome de escritório de advocacia"
+    },
+    "dowd": {
+      "pt": "Dowd, nome de escritório de advocacia"
+    },
+    "cover": {
+      "pt": "cobrir, incluir",
+      "forms": [
+        "covers"
+      ]
+    },
+    "owner": {
+      "pt": "dono",
+      "forms": [
+        "owners"
+      ]
+    },
+    "leader": {
+      "pt": "líder",
+      "forms": [
+        "leaders"
+      ]
+    },
+    "complaint": {
+      "pt": "queixa formal"
+    },
+    "materially": {
+      "pt": "de forma importante"
+    },
+    "false": {
+      "pt": "falso"
+    },
+    "misleading": {
+      "pt": "enganoso"
+    },
+    "statement": {
+      "pt": "declaração",
+      "forms": [
+        "statements"
+      ]
+    },
+    "slowdown": {
+      "pt": "desaceleração"
+    },
+    "pc": {
+      "pt": "PC, computador pessoal",
+      "forms": [
+        "pcs"
+      ]
+    },
+    "demand": {
+      "pt": "demanda, procura"
+    },
+    "quarterly": {
+      "pt": "trimestral"
+    },
+    "invest": {
+      "pt": "investir",
+      "forms": [
+        "invested"
+      ]
+    },
+    "heavily": {
+      "pt": "muito"
+    },
+    "computing": {
+      "pt": "computação"
+    },
+    "data": {
+      "pt": "dados"
+    },
+    "centre": {
+      "pt": "centro",
+      "forms": [
+        "centres"
+      ]
+    },
+    "expensive": {
+      "pt": "caro"
+    },
+    "industry": {
+      "pt": "setor"
+    },
+    "face": {
+      "pt": "enfrentar",
+      "forms": [
+        "faced"
+      ]
+    },
+    "unprecedented": {
+      "pt": "sem precedentes"
+    },
+    "memory": {
+      "pt": "memória"
+    },
+    "crunch": {
+      "pt": "aperto, falta"
+    },
+    "remain": {
+      "pt": "continuar"
+    },
+    "forecast": {
+      "pt": "previsão",
+      "highlight": true
+    },
+    "include": {
+      "pt": "incluir",
+      "forms": [
+        "includes"
+      ]
+    },
+    "disclose": {
+      "pt": "revelar"
+    },
+    "ai": {
+      "pt": "IA"
+    }
+  }
+}

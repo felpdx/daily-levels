@@ -1,0 +1,249 @@
+{
+  "id": "2026-11-16-uruguay-productivity-eclac",
+  "date": "2026-11-16",
+  "topic": "bolsa",
+  "source": {
+    "name": "MercoPress",
+    "url": "https://en.mercopress.com/2026/11/16/uruguay-among-the-region-s-most-productive-countries-but-with-below-average-growth",
+    "publishedAt": "2026-11-16T01:00:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Uruguay works well, but grows slowly",
+      "text": "A new report looks at 28 economies in Latin America. Uruguay is fourth for work done per hour. Brazil is behind Uruguay. But Uruguay grew only 0.6 percent in 2025. The average for the region was 0.7 percent. The group that wrote the report says the region still grows slowly."
+    },
+    "2": {
+      "title": "Uruguay is productive but grows slowly",
+      "text": "A new report from ECLAC, a United Nations group for Latin America, compares work done per hour in 28 economies. Uruguay is fourth in the region. Only Guyana, the Bahamas and Barbados are ahead. Panama, Costa Rica, Chile, Argentina and Brazil are behind.\n\nBut Uruguay's productivity grew only 0.6 percent in 2025, below the regional average of 0.7 percent. Paraguay grew 3.3 percent, Argentina 3.1 percent and Chile 3 percent.\n\nECLAC says the region is stuck in low growth. In October, the International Monetary Fund lowered its 2026 growth forecast for Uruguay to 1.3 percent."
+    },
+    "3": {
+      "title": "Uruguay ranks high in productivity but grows below average",
+      "text": "Uruguay ranked fourth in Latin America and the Caribbean for labour productivity per hour worked in 2025, according to a report by the Economic Commission for Latin America and the Caribbean (ECLAC). But its productivity grew by only 0.6 percent, below the regional average of 0.7 percent.\n\nThe report compares 28 economies. Uruguay is behind only Guyana, the Bahamas and Barbados, and ahead of Panama, Costa Rica, Chile, Argentina and Brazil. Other economies grew much faster, such as Paraguay (3.3 percent), Argentina (3.1 percent) and Chile (3 percent). Guyana grew 18.7 percent. Across the region, productivity rose 0.7 percent in 2025, down from 0.8 percent in 2024.\n\nECLAC warns that the region remains trapped in a low-growth dynamic. At the current pace, it would not regain its 2013 productivity and employment conditions until around 2029. It recommends better technology use by companies and worker training that fits the needs of each sector. In October, the International Monetary Fund cut its 2026 growth forecast for Uruguay to 1.3 percent."
+    }
+  },
+  "glossary": {
+    "uruguay": {
+      "pt": "Uruguai",
+      "forms": [
+        "uruguay's"
+      ]
+    },
+    "slowly": {
+      "pt": "devagar"
+    },
+    "report": {
+      "pt": "relatório"
+    },
+    "economy": {
+      "pt": "economia",
+      "forms": [
+        "economies"
+      ],
+      "highlight": true
+    },
+    "latin": {
+      "pt": "latino"
+    },
+    "america": {
+      "pt": "América"
+    },
+    "fourth": {
+      "pt": "quarto"
+    },
+    "per": {
+      "pt": "por"
+    },
+    "hour": {
+      "pt": "hora"
+    },
+    "brazil": {
+      "pt": "Brasil"
+    },
+    "average": {
+      "pt": "média",
+      "highlight": true
+    },
+    "region": {
+      "pt": "região"
+    },
+    "productive": {
+      "pt": "produtivo"
+    },
+    "eclac": {
+      "pt": "CEPAL, órgão da ONU para a América Latina"
+    },
+    "united": {
+      "pt": "unidas"
+    },
+    "nation": {
+      "pt": "nação",
+      "forms": [
+        "nations"
+      ]
+    },
+    "compare": {
+      "pt": "comparar",
+      "forms": [
+        "compares"
+      ]
+    },
+    "guyana": {
+      "pt": "Guiana, país"
+    },
+    "bahamas": {
+      "pt": "Bahamas, país"
+    },
+    "barbados": {
+      "pt": "Barbados, país"
+    },
+    "ahead": {
+      "pt": "à frente"
+    },
+    "panama": {
+      "pt": "Panamá, país"
+    },
+    "costa": {
+      "pt": "Costa, parte do nome Costa Rica"
+    },
+    "rica": {
+      "pt": "Rica, parte do nome Costa Rica"
+    },
+    "chile": {
+      "pt": "Chile, país"
+    },
+    "argentina": {
+      "pt": "Argentina, país"
+    },
+    "productivity": {
+      "pt": "produtividade",
+      "highlight": true
+    },
+    "below": {
+      "pt": "abaixo"
+    },
+    "regional": {
+      "pt": "da região"
+    },
+    "paraguay": {
+      "pt": "Paraguai, país"
+    },
+    "stuck": {
+      "pt": "preso"
+    },
+    "growth": {
+      "pt": "crescimento",
+      "highlight": true
+    },
+    "october": {
+      "pt": "outubro"
+    },
+    "monetary": {
+      "pt": "monetário"
+    },
+    "lowered": {
+      "pt": "baixou"
+    },
+    "forecast": {
+      "pt": "previsão",
+      "highlight": true
+    },
+    "rank": {
+      "pt": "ficar em posição",
+      "forms": [
+        "ranks",
+        "ranked"
+      ]
+    },
+    "caribbean": {
+      "pt": "Caribe"
+    },
+    "labour": {
+      "pt": "trabalho"
+    },
+    "economic": {
+      "pt": "econômico"
+    },
+    "commission": {
+      "pt": "comissão"
+    },
+    "faster": {
+      "pt": "mais rápido"
+    },
+    "across": {
+      "pt": "em toda"
+    },
+    "rose": {
+      "pt": "subiu"
+    },
+    "warn": {
+      "pt": "alertar",
+      "forms": [
+        "warns"
+      ]
+    },
+    "trapped": {
+      "pt": "preso",
+      "highlight": true
+    },
+    "dynamic": {
+      "pt": "situação em movimento"
+    },
+    "current": {
+      "pt": "atual"
+    },
+    "pace": {
+      "pt": "ritmo"
+    },
+    "regain": {
+      "pt": "recuperar"
+    },
+    "employment": {
+      "pt": "emprego"
+    },
+    "condition": {
+      "pt": "condição",
+      "forms": [
+        "conditions"
+      ]
+    },
+    "recommend": {
+      "pt": "recomendar",
+      "forms": [
+        "recommends"
+      ]
+    },
+    "technology": {
+      "pt": "tecnologia"
+    },
+    "training": {
+      "pt": "treinamento"
+    },
+    "fit": {
+      "pt": "combinar",
+      "forms": [
+        "fits"
+      ]
+    },
+    "sector": {
+      "pt": "setor"
+    },
+    "cut": {
+      "pt": "cortar"
+    },
+    "international": {
+      "pt": "internacional"
+    },
+    "fund": {
+      "pt": "fundo"
+    },
+    "according": {
+      "pt": "segundo"
+    },
+    "remain": {
+      "pt": "continuar",
+      "forms": [
+        "remains"
+      ]
+    }
+  }
+}

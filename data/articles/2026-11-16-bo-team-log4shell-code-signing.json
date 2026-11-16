@@ -1,0 +1,341 @@
+{
+  "id": "2026-11-16-bo-team-log4shell-code-signing",
+  "date": "2026-11-16",
+  "topic": "hacking",
+  "source": {
+    "name": "The Hacker News",
+    "url": "https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html",
+    "publishedAt": "2026-11-16T06:53:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Hackers get inside a Russian company",
+      "text": "Experts at Kaspersky found a long attack on a Russian software company. A group called BO Team used an old flaw to get in. The hackers also reached a server that signs the company's programs. Experts say they may have wanted to hide bad code in a real program. The attack was stopped."
+    },
+    "2": {
+      "title": "Hackers break into a Russian software company",
+      "text": "Kaspersky says a group called BO Team spent months inside the network of a Russian software company. The company called Kaspersky for help in June 2025. The name of the company was not shared.\n\nThe hackers got in through a server with open remote access. Then they used an old flaw called Log4Shell on a VMware server and left a hidden backdoor. They also reached the server that signs the company's programs. Kaspersky believes they may have wanted to hide bad code in a real program, or steal the digital signature.\n\nKaspersky says the group may be of Ukrainian origin."
+    },
+    "3": {
+      "title": "BO Team used Log4Shell to reach a code-signing server",
+      "text": "Kaspersky's ICS CERT team has documented a months-long compromise of a Russian software developer's network. The group behind it is called BO Team, also known as Black Owl. The developer asked Kaspersky for help in June 2025, and its name was not disclosed.\n\nAccording to Kaspersky, the attackers entered through an exposed SSH service on a Linux server. They then used Log4Shell, a flaw from 2021, in a VMware vCenter server to get a command line with root privileges. They planted a backdoor that ran every hour, and they reached the server that signs the company's software.\n\nKaspersky says this suggests an attempt at a supply chain attack, or at stealing the digital signature to sign malware. The attackers mostly used system tools, such as RDP and SSH, to avoid detection. The group is assessed to be of Ukrainian origin and focuses on espionage and hacktivism against Russian targets. Kaspersky says the attackers later sent a phishing email to collect employee passwords, but it was detected and stopped."
+    }
+  },
+  "glossary": {
+    "hacker": {
+      "pt": "hacker",
+      "forms": [
+        "hackers"
+      ]
+    },
+    "inside": {
+      "pt": "dentro"
+    },
+    "russian": {
+      "pt": "russo"
+    },
+    "expert": {
+      "pt": "especialista",
+      "forms": [
+        "experts"
+      ]
+    },
+    "kaspersky": {
+      "pt": "Kaspersky, empresa russa de segurança",
+      "forms": [
+        "kaspersky's"
+      ]
+    },
+    "attack": {
+      "pt": "ataque"
+    },
+    "software": {
+      "pt": "programa de computador"
+    },
+    "bo": {
+      "pt": "BO, nome do grupo"
+    },
+    "team": {
+      "pt": "equipe"
+    },
+    "flaw": {
+      "pt": "falha",
+      "highlight": true
+    },
+    "reach": {
+      "pt": "alcançar",
+      "forms": [
+        "reached"
+      ]
+    },
+    "server": {
+      "pt": "servidor"
+    },
+    "sign": {
+      "pt": "assinar",
+      "forms": [
+        "signs",
+        "signing"
+      ]
+    },
+    "program": {
+      "pt": "programa",
+      "forms": [
+        "programs"
+      ]
+    },
+    "hide": {
+      "pt": "esconder",
+      "highlight": true
+    },
+    "code": {
+      "pt": "código"
+    },
+    "break": {
+      "pt": "invadir"
+    },
+    "spend": {
+      "pt": "passar (tempo)",
+      "forms": [
+        "spent"
+      ]
+    },
+    "network": {
+      "pt": "rede"
+    },
+    "june": {
+      "pt": "junho"
+    },
+    "share": {
+      "pt": "compartilhar",
+      "forms": [
+        "shared"
+      ]
+    },
+    "open": {
+      "pt": "aberto"
+    },
+    "remote": {
+      "pt": "remoto"
+    },
+    "access": {
+      "pt": "acesso"
+    },
+    "vmware": {
+      "pt": "VMware, empresa de virtualização"
+    },
+    "hidden": {
+      "pt": "escondido"
+    },
+    "backdoor": {
+      "pt": "porta dos fundos (acesso secreto)",
+      "highlight": true
+    },
+    "steal": {
+      "pt": "roubar"
+    },
+    "digital": {
+      "pt": "digital"
+    },
+    "signature": {
+      "pt": "assinatura",
+      "highlight": true
+    },
+    "ukrainian": {
+      "pt": "ucraniano"
+    },
+    "origin": {
+      "pt": "origem"
+    },
+    "document": {
+      "pt": "documentar",
+      "forms": [
+        "documented"
+      ]
+    },
+    "compromise": {
+      "pt": "invasão",
+      "highlight": true
+    },
+    "developer": {
+      "pt": "desenvolvedor",
+      "forms": [
+        "developer's"
+      ]
+    },
+    "ics": {
+      "pt": "ICS, sistemas industriais"
+    },
+    "cert": {
+      "pt": "CERT, equipe de resposta a ataques"
+    },
+    "black": {
+      "pt": "preto"
+    },
+    "owl": {
+      "pt": "coruja"
+    },
+    "disclose": {
+      "pt": "revelar",
+      "forms": [
+        "disclosed"
+      ]
+    },
+    "according": {
+      "pt": "segundo"
+    },
+    "enter": {
+      "pt": "entrar",
+      "forms": [
+        "entered"
+      ]
+    },
+    "expose": {
+      "pt": "expor",
+      "forms": [
+        "exposed"
+      ]
+    },
+    "ssh": {
+      "pt": "SSH, forma de acessar servidores"
+    },
+    "service": {
+      "pt": "serviço"
+    },
+    "linux": {
+      "pt": "Linux, sistema operacional"
+    },
+    "vcenter": {
+      "pt": "vCenter, programa da VMware"
+    },
+    "command": {
+      "pt": "comando"
+    },
+    "line": {
+      "pt": "linha"
+    },
+    "root": {
+      "pt": "acesso total (root)"
+    },
+    "privilege": {
+      "pt": "privilégio",
+      "forms": [
+        "privileges"
+      ]
+    },
+    "plant": {
+      "pt": "plantar",
+      "forms": [
+        "planted"
+      ]
+    },
+    "suggest": {
+      "pt": "sugerir",
+      "forms": [
+        "suggests"
+      ]
+    },
+    "attempt": {
+      "pt": "tentativa"
+    },
+    "supply": {
+      "pt": "fornecimento"
+    },
+    "chain": {
+      "pt": "cadeia"
+    },
+    "stealing": {
+      "pt": "roubo"
+    },
+    "malware": {
+      "pt": "programa malicioso"
+    },
+    "mostly": {
+      "pt": "principalmente"
+    },
+    "system": {
+      "pt": "sistema"
+    },
+    "tool": {
+      "pt": "ferramenta",
+      "forms": [
+        "tools"
+      ]
+    },
+    "rdp": {
+      "pt": "RDP, acesso remoto do Windows"
+    },
+    "avoid": {
+      "pt": "evitar"
+    },
+    "detection": {
+      "pt": "detecção",
+      "highlight": true
+    },
+    "assess": {
+      "pt": "avaliar",
+      "forms": [
+        "assessed"
+      ]
+    },
+    "focus": {
+      "pt": "focar",
+      "forms": [
+        "focuses"
+      ]
+    },
+    "espionage": {
+      "pt": "espionagem",
+      "highlight": true
+    },
+    "hacktivism": {
+      "pt": "ativismo hacker"
+    },
+    "target": {
+      "pt": "alvo",
+      "forms": [
+        "targets"
+      ]
+    },
+    "log4shell": {
+      "pt": "Log4Shell, falha famosa de 2021"
+    },
+    "attacker": {
+      "pt": "atacante",
+      "forms": [
+        "attackers"
+      ]
+    },
+    "phishing": {
+      "pt": "golpe de e-mail falso",
+      "highlight": true
+    },
+    "email": {
+      "pt": "e-mail"
+    },
+    "collect": {
+      "pt": "coletar"
+    },
+    "employee": {
+      "pt": "funcionário"
+    },
+    "detect": {
+      "pt": "detectar",
+      "forms": [
+        "detected"
+      ]
+    },
+    "password": {
+      "pt": "senha",
+      "forms": [
+        "passwords"
+      ]
+    },
+    "hour": {
+      "pt": "hora",
+      "forms": [
+        "hourly"
+      ]
+    }
+  }
+}

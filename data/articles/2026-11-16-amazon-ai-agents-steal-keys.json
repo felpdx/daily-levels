@@ -1,0 +1,431 @@
+{
+  "id": "2026-11-16-amazon-ai-agents-steal-keys",
+  "date": "2026-11-16",
+  "topic": "hacking",
+  "source": {
+    "name": "The Hacker News",
+    "url": "https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html",
+    "publishedAt": "2026-11-16T07:34:21Z"
+  },
+  "levels": {
+    "1": {
+      "title": "AI agents hunt for secret keys",
+      "text": "Amazon says attackers used AI agents to look for weak apps. The agents wanted to steal AI keys. These keys let people use AI services. Amazon built fake servers and saw the agents send their work records. The records suggest the groups may be linked to China. Amazon says it cannot check what the agents say they did."
+    },
+    "2": {
+      "title": "Amazon finds AI agents that steal keys",
+      "text": "Amazon's security team says attackers used AI agents to search for weak apps on the internet. The agents wanted the AI keys stored inside apps such as LiteLLM and Dify. With these keys, the attackers could run AI models and pay nothing.\n\nAmazon caught the agents' records with fake servers. The records show that the agents tried default passwords and known flaws. Amazon says it cannot check the results that the agents reported. It believes, with moderate confidence, that the attackers are separate groups linked to China, because of Chinese prompts and time settings.\n\nThe FBI also warned this week about a tool called ARTEX, which attackers have used since August."
+    },
+    "3": {
+      "title": "Amazon uncovers AI agent campaign aimed at API keys",
+      "text": "Amazon's threat intelligence team says attackers' AI agents have been searching for exposed AI apps, such as LiteLLM, One API and Dify, to steal the provider keys stored inside them. The team captured the agents' own records with decoy servers that pretended to be popular AI services.\n\nThe records include a playbook with default administrator credentials, unfinished installs and known flaws. Amazon says it cannot verify the outcomes the agents reported. It believes, with moderate confidence, that the agents ran on ARTEX, an open-source penetration testing tool, and that the operators were separate China-linked groups, citing Simplified Chinese prompts and China time zone settings.\n\nIn a separate case, Cloudflare's incident responders saw ARTEX use a compromised API token that had no limits, including 400 database dump requests in one hour. The FBI warned this week that attackers have used ARTEX since at least August. Amazon notified AWS customers who may have been affected."
+    }
+  },
+  "glossary": {
+    "ai": {
+      "pt": "IA, inteligência artificial"
+    },
+    "agent": {
+      "pt": "agente (programa que age sozinho)",
+      "forms": [
+        "agents"
+      ],
+      "highlight": true
+    },
+    "hunt": {
+      "pt": "caçar, procurar"
+    },
+    "secret": {
+      "pt": "secreto"
+    },
+    "key": {
+      "pt": "chave de acesso",
+      "forms": [
+        "keys"
+      ],
+      "highlight": true
+    },
+    "amazon": {
+      "pt": "Amazon, grande empresa de tecnologia dos EUA",
+      "forms": [
+        "amazon's"
+      ]
+    },
+    "attacker": {
+      "pt": "atacante",
+      "forms": [
+        "attackers"
+      ]
+    },
+    "weak": {
+      "pt": "fraco"
+    },
+    "app": {
+      "pt": "aplicativo",
+      "forms": [
+        "apps"
+      ]
+    },
+    "steal": {
+      "pt": "roubar",
+      "highlight": true
+    },
+    "let": {
+      "pt": "deixar, permitir"
+    },
+    "service": {
+      "pt": "serviço",
+      "forms": [
+        "services"
+      ]
+    },
+    "build": {
+      "pt": "construir",
+      "forms": [
+        "built"
+      ]
+    },
+    "fake": {
+      "pt": "falso"
+    },
+    "server": {
+      "pt": "servidor",
+      "forms": [
+        "servers"
+      ]
+    },
+    "record": {
+      "pt": "registro",
+      "forms": [
+        "records"
+      ]
+    },
+    "suggest": {
+      "pt": "sugerir"
+    },
+    "link": {
+      "pt": "ligar, ligado",
+      "forms": [
+        "linked"
+      ]
+    },
+    "china": {
+      "pt": "China"
+    },
+    "check": {
+      "pt": "conferir, verificar"
+    },
+    "security": {
+      "pt": "segurança"
+    },
+    "team": {
+      "pt": "equipe"
+    },
+    "search": {
+      "pt": "procurar",
+      "forms": [
+        "searching"
+      ]
+    },
+    "internet": {
+      "pt": "internet"
+    },
+    "store": {
+      "pt": "guardar",
+      "forms": [
+        "stored"
+      ]
+    },
+    "inside": {
+      "pt": "dentro"
+    },
+    "litellm": {
+      "pt": "LiteLLM, programa que conecta modelos de IA"
+    },
+    "dify": {
+      "pt": "Dify, programa para criar apps de IA"
+    },
+    "model": {
+      "pt": "modelo",
+      "forms": [
+        "models"
+      ]
+    },
+    "nothing": {
+      "pt": "nada"
+    },
+    "catch": {
+      "pt": "pegar, capturar",
+      "forms": [
+        "caught"
+      ]
+    },
+    "default": {
+      "pt": "padrão"
+    },
+    "password": {
+      "pt": "senha",
+      "forms": [
+        "passwords"
+      ]
+    },
+    "flaw": {
+      "pt": "falha",
+      "forms": [
+        "flaws"
+      ],
+      "highlight": true
+    },
+    "result": {
+      "pt": "resultado",
+      "forms": [
+        "results"
+      ]
+    },
+    "report": {
+      "pt": "relatar",
+      "forms": [
+        "reported"
+      ]
+    },
+    "moderate": {
+      "pt": "moderado",
+      "highlight": true
+    },
+    "confidence": {
+      "pt": "confiança"
+    },
+    "separate": {
+      "pt": "separado"
+    },
+    "chinese": {
+      "pt": "chinês"
+    },
+    "prompt": {
+      "pt": "instrução enviada a uma IA",
+      "forms": [
+        "prompts"
+      ]
+    },
+    "setting": {
+      "pt": "configuração",
+      "forms": [
+        "settings"
+      ]
+    },
+    "fbi": {
+      "pt": "FBI, polícia federal dos EUA"
+    },
+    "warn": {
+      "pt": "avisar",
+      "forms": [
+        "warned"
+      ]
+    },
+    "tool": {
+      "pt": "ferramenta"
+    },
+    "artex": {
+      "pt": "ARTEX, ferramenta de testes de segurança usada por atacantes"
+    },
+    "august": {
+      "pt": "agosto"
+    },
+    "uncover": {
+      "pt": "descobrir",
+      "forms": [
+        "uncovers"
+      ]
+    },
+    "campaign": {
+      "pt": "campanha, série de ataques",
+      "highlight": true
+    },
+    "aim": {
+      "pt": "ter como alvo",
+      "forms": [
+        "aimed"
+      ]
+    },
+    "api": {
+      "pt": "API, forma de um programa falar com outro"
+    },
+    "threat": {
+      "pt": "ameaça",
+      "highlight": true
+    },
+    "intelligence": {
+      "pt": "inteligência"
+    },
+    "expose": {
+      "pt": "expor",
+      "forms": [
+        "exposed"
+      ],
+      "highlight": true
+    },
+    "provider": {
+      "pt": "provedor"
+    },
+    "capture": {
+      "pt": "capturar",
+      "forms": [
+        "captured"
+      ]
+    },
+    "decoy": {
+      "pt": "isca, armadilha",
+      "highlight": true
+    },
+    "pretend": {
+      "pt": "fingir",
+      "forms": [
+        "pretended"
+      ]
+    },
+    "popular": {
+      "pt": "popular"
+    },
+    "include": {
+      "pt": "incluir"
+    },
+    "playbook": {
+      "pt": "manual de táticas",
+      "highlight": true
+    },
+    "administrator": {
+      "pt": "administrador"
+    },
+    "credential": {
+      "pt": "credencial (login e senha)",
+      "forms": [
+        "credentials"
+      ]
+    },
+    "unfinished": {
+      "pt": "inacabado"
+    },
+    "install": {
+      "pt": "instalação",
+      "forms": [
+        "installs"
+      ]
+    },
+    "verify": {
+      "pt": "verificar"
+    },
+    "outcome": {
+      "pt": "resultado",
+      "forms": [
+        "outcomes"
+      ]
+    },
+    "open": {
+      "pt": "aberto"
+    },
+    "source": {
+      "pt": "fonte"
+    },
+    "penetration": {
+      "pt": "invasão (teste de segurança)"
+    },
+    "testing": {
+      "pt": "teste"
+    },
+    "operator": {
+      "pt": "operador, quem controla",
+      "forms": [
+        "operators"
+      ]
+    },
+    "cite": {
+      "pt": "citar",
+      "forms": [
+        "citing"
+      ]
+    },
+    "simplified": {
+      "pt": "simplificado"
+    },
+    "zone": {
+      "pt": "zona"
+    },
+    "case": {
+      "pt": "caso"
+    },
+    "cloudflare": {
+      "pt": "Cloudflare, empresa de segurança na internet",
+      "forms": [
+        "cloudflare's"
+      ]
+    },
+    "incident": {
+      "pt": "incidente"
+    },
+    "responder": {
+      "pt": "equipe que responde",
+      "forms": [
+        "responders"
+      ]
+    },
+    "compromise": {
+      "pt": "comprometer, invadir",
+      "forms": [
+        "compromised"
+      ],
+      "highlight": true
+    },
+    "token": {
+      "pt": "ficha digital de acesso",
+      "highlight": true
+    },
+    "limit": {
+      "pt": "limite",
+      "forms": [
+        "limits"
+      ]
+    },
+    "including": {
+      "pt": "incluindo"
+    },
+    "database": {
+      "pt": "banco de dados"
+    },
+    "dump": {
+      "pt": "despejo de dados"
+    },
+    "request": {
+      "pt": "pedido",
+      "forms": [
+        "requests"
+      ]
+    },
+    "hour": {
+      "pt": "hora"
+    },
+    "least": {
+      "pt": "pelo menos"
+    },
+    "notify": {
+      "pt": "avisar",
+      "forms": [
+        "notified"
+      ]
+    },
+    "aws": {
+      "pt": "AWS, nuvem da Amazon"
+    },
+    "customer": {
+      "pt": "cliente",
+      "forms": [
+        "customers"
+      ]
+    },
+    "affect": {
+      "pt": "afetar",
+      "forms": [
+        "affected"
+      ]
+    }
+  }
+}

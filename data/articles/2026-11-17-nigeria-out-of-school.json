@@ -1,0 +1,346 @@
+{
+  "id": "2026-11-17-nigeria-out-of-school",
+  "date": "2026-11-17",
+  "topic": "mundo",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/c3pw450ndyjqo?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-11-17T00:08:19Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Millions of Nigerian children miss school",
+      "text": "Hadiza is 15 years old. She left school at 13 to marry. Her family ran away from armed men. Now she lives in a camp. Nearly 19 million children in Nigeria do not go to school. That is about one in four. The BBC has started a new lesson program in the Hausa language. It uses radio, TV and social media."
+    },
+    "2": {
+      "title": "Why so many Nigerian children are out of school",
+      "text": "About 19 million children in Nigeria are missing school, says Unesco. That is about one in four. Hadiza, 15, lives in a camp in Goronyo after armed men raided her village. At 13 she left school to get married. Rukayya, 12, stopped going after bandits killed her father. Now she gathers firewood and begs for food for her siblings.\n\nIn north-west and central Nigeria, 670,000 people have left their homes because of robberies and kidnappings. Poverty, lack of teachers and unsafe schools also keep children at home.\n\nThe education minister says the government is doing everything possible and says education is its top priority. The BBC World Service has launched Dars Hausa, with English, maths and science lessons on radio, TV and social media."
+    },
+    "3": {
+      "title": "Kidnap, child marriage and poverty keep millions of Nigerian children out of school",
+      "text": "Nearly 19 million children in Nigeria are missing out on an education, according to Unesco estimates shared in 2024, about one in four of school-age children. The reasons are numerous. Hadiza, 15, left school at 13 to marry after her village was raided by armed men and her family moved to a displacement camp in Goronyo. Rukayya, 12, gave up school to gather firewood and beg after bandits killed her father.\n\nThe International Organization for Migration says 670,000 people in north-west and central Nigeria have been forced from their homes by armed robbery and kidnappings. Most attacks there are carried out by criminal gangs, though some are by militant Islamist groups. A teacher at the camp school says it lacks teachers and classrooms and that many parents keep children home because they need them to earn money. Nigerian law prohibits marriage under 18, but it is not always enforced.\n\nThe Minister of State for Education, Suwaiba Sa'id, admits that investment and oversight have been lacking, though she believes the number of out-of-school children is lower than reported. She says education is the government's number-one priority. Meanwhile, the BBC World Service has launched Dars Hausa, offering English, maths and science lessons in Hausa through social media, television and radio."
+    }
+  },
+  "glossary": {
+    "nigerian": {
+      "pt": "nigeriano"
+    },
+    "children": {
+      "pt": "crianças"
+    },
+    "miss": {
+      "pt": "perder"
+    },
+    "school": {
+      "pt": "escola"
+    },
+    "hadiza": {
+      "pt": "Hadiza, menina da Nigéria"
+    },
+    "marry": {
+      "pt": "casar"
+    },
+    "family": {
+      "pt": "família"
+    },
+    "armed": {
+      "pt": "armados",
+      "highlight": true
+    },
+    "lives": {
+      "pt": "vive"
+    },
+    "camp": {
+      "pt": "campo de deslocados"
+    },
+    "nearly": {
+      "pt": "quase"
+    },
+    "nigeria": {
+      "pt": "Nigéria, país da África"
+    },
+    "four": {
+      "pt": "quatro"
+    },
+    "bbc": {
+      "pt": "BBC, empresa de notícias do Reino Unido"
+    },
+    "lesson": {
+      "pt": "aula"
+    },
+    "program": {
+      "pt": "programa"
+    },
+    "hausa": {
+      "pt": "hauçá, língua da África Ocidental"
+    },
+    "language": {
+      "pt": "língua"
+    },
+    "radio": {
+      "pt": "rádio"
+    },
+    "tv": {
+      "pt": "TV"
+    },
+    "social": {
+      "pt": "social"
+    },
+    "media": {
+      "pt": "mídia"
+    },
+    "missing": {
+      "pt": "sem"
+    },
+    "unesco": {
+      "pt": "Unesco, órgão da ONU para educação"
+    },
+    "goronyo": {
+      "pt": "Goronyo, cidade da Nigéria"
+    },
+    "raided": {
+      "pt": "invadida"
+    },
+    "village": {
+      "pt": "vila"
+    },
+    "married": {
+      "pt": "casou"
+    },
+    "rukayya": {
+      "pt": "Rukayya, menina da Nigéria"
+    },
+    "bandits": {
+      "pt": "bandidos"
+    },
+    "killed": {
+      "pt": "matou"
+    },
+    "father": {
+      "pt": "pai"
+    },
+    "gathers": {
+      "pt": "junta"
+    },
+    "firewood": {
+      "pt": "lenha"
+    },
+    "begs": {
+      "pt": "pede esmola"
+    },
+    "food": {
+      "pt": "comida"
+    },
+    "siblings": {
+      "pt": "irmãos"
+    },
+    "north": {
+      "pt": "norte"
+    },
+    "west": {
+      "pt": "oeste"
+    },
+    "central": {
+      "pt": "central"
+    },
+    "homes": {
+      "pt": "casas"
+    },
+    "robberies": {
+      "pt": "roubos"
+    },
+    "kidnappings": {
+      "pt": "sequestros"
+    },
+    "poverty": {
+      "pt": "pobreza",
+      "highlight": true
+    },
+    "lack": {
+      "pt": "falta"
+    },
+    "teachers": {
+      "pt": "professores",
+      "highlight": true
+    },
+    "unsafe": {
+      "pt": "inseguras"
+    },
+    "schools": {
+      "pt": "escolas"
+    },
+    "home": {
+      "pt": "casa"
+    },
+    "education": {
+      "pt": "educação",
+      "highlight": true
+    },
+    "minister": {
+      "pt": "ministra"
+    },
+    "everything": {
+      "pt": "tudo"
+    },
+    "possible": {
+      "pt": "possível"
+    },
+    "top": {
+      "pt": "principal"
+    },
+    "priority": {
+      "pt": "prioridade",
+      "highlight": true
+    },
+    "service": {
+      "pt": "serviço"
+    },
+    "launched": {
+      "pt": "lançou"
+    },
+    "dars": {
+      "pt": "Dars, nome de um programa de aulas da BBC"
+    },
+    "english": {
+      "pt": "inglês"
+    },
+    "maths": {
+      "pt": "matemática"
+    },
+    "science": {
+      "pt": "ciência"
+    },
+    "lessons": {
+      "pt": "aulas"
+    },
+    "kidnap": {
+      "pt": "sequestro",
+      "highlight": true
+    },
+    "child": {
+      "pt": "criança"
+    },
+    "marriage": {
+      "pt": "casamento"
+    },
+    "according": {
+      "pt": "de acordo com"
+    },
+    "estimates": {
+      "pt": "estimativas"
+    },
+    "shared": {
+      "pt": "divulgadas"
+    },
+    "age": {
+      "pt": "idade"
+    },
+    "numerous": {
+      "pt": "numerosos"
+    },
+    "displacement": {
+      "pt": "deslocamento forçado"
+    },
+    "gather": {
+      "pt": "juntar"
+    },
+    "beg": {
+      "pt": "pedir esmola"
+    },
+    "international": {
+      "pt": "internacional"
+    },
+    "organization": {
+      "pt": "organização"
+    },
+    "migration": {
+      "pt": "migração"
+    },
+    "forced": {
+      "pt": "forçadas"
+    },
+    "robbery": {
+      "pt": "roubo"
+    },
+    "attacks": {
+      "pt": "ataques"
+    },
+    "carried": {
+      "pt": "realizados"
+    },
+    "criminal": {
+      "pt": "criminosas"
+    },
+    "gangs": {
+      "pt": "gangues"
+    },
+    "though": {
+      "pt": "embora"
+    },
+    "militant": {
+      "pt": "militantes"
+    },
+    "islamist": {
+      "pt": "islamitas"
+    },
+    "teacher": {
+      "pt": "professor"
+    },
+    "lacks": {
+      "pt": "não tem"
+    },
+    "classrooms": {
+      "pt": "salas de aula"
+    },
+    "parents": {
+      "pt": "pais",
+      "highlight": true
+    },
+    "earn": {
+      "pt": "ganhar dinheiro"
+    },
+    "law": {
+      "pt": "lei",
+      "highlight": true
+    },
+    "prohibits": {
+      "pt": "proíbe"
+    },
+    "enforced": {
+      "pt": "aplicada"
+    },
+    "state": {
+      "pt": "estado"
+    },
+    "suwaiba": {
+      "pt": "Suwaiba, primeiro nome da ministra da Educação da Nigéria"
+    },
+    "sa'id": {
+      "pt": "Sa'id, sobrenome da ministra da Educação da Nigéria"
+    },
+    "admits": {
+      "pt": "admite"
+    },
+    "investment": {
+      "pt": "investimento"
+    },
+    "oversight": {
+      "pt": "fiscalização"
+    },
+    "lacking": {
+      "pt": "em falta"
+    },
+    "reported": {
+      "pt": "noticiado"
+    },
+    "meanwhile": {
+      "pt": "enquanto isso"
+    },
+    "offering": {
+      "pt": "oferecendo"
+    },
+    "television": {
+      "pt": "televisão"
+    }
+  }
+}

@@ -1,6 +1,41 @@
 {
   "articles": [
     {
+      "id": "2026-11-17-optimizely-hijack",
+      "date": "2026-11-17",
+      "topic": "hacking",
+      "title": "Bad code hits big websites",
+      "source": "The Hacker News"
+    },
+    {
+      "id": "2026-11-17-retadup-coffeeloader",
+      "date": "2026-11-17",
+      "topic": "hacking",
+      "title": "An old computer worm is back",
+      "source": "The Hacker News"
+    },
+    {
+      "id": "2026-11-17-milei-budget-primaries",
+      "date": "2026-11-17",
+      "topic": "bolsa",
+      "title": "Argentina wants a budget before the year ends",
+      "source": "MercoPress"
+    },
+    {
+      "id": "2026-11-17-orsi-mercosur-lula",
+      "date": "2026-11-17",
+      "topic": "bolsa",
+      "title": "Uruguay's leader talks about Brazil and Mercosur",
+      "source": "MercoPress"
+    },
+    {
+      "id": "2026-11-17-nigeria-out-of-school",
+      "date": "2026-11-17",
+      "topic": "mundo",
+      "title": "Millions of Nigerian children miss school",
+      "source": "BBC News"
+    },
+    {
       "id": "2026-11-16-amazon-ai-agents-steal-keys",
       "date": "2026-11-16",
       "topic": "hacking",

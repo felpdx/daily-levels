@@ -1,0 +1,304 @@
+{
+  "id": "2026-11-17-retadup-coffeeloader",
+  "date": "2026-11-17",
+  "topic": "hacking",
+  "source": {
+    "name": "The Hacker News",
+    "url": "https://thehackernews.com/2026/11/retadup-worm-resurfaces-7-years-after.html",
+    "publishedAt": "2026-11-16T12:00:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "An old computer worm is back",
+      "text": "In 2019, French police stopped a worm called Retadup. It spread on USB drives. Now it is back. Someone began to use its old server names again. The servers now send a bad program called CoffeeLoader to infected computers. A company called Kaspersky says it stopped about 15,000 computers from getting the new worm. Most of them were in Peru, Angola, Russia and Bolivia."
+    },
+    "2": {
+      "title": "Old Retadup worm returns with new malware",
+      "text": "French police disrupted the Retadup worm in August 2019. It spreads through infected USB drives. Now security company Kaspersky says it is active again and spreads a bad program called CoffeeLoader.\n\nTwo years ago, someone started to register the old domain names that Retadup used for its control servers. At first these servers sent a downloader called SmokeLoader. In early 2025, they began to send CoffeeLoader instead.\n\nIt is not clear if the worm's author or another group is behind this. Kaspersky says it blocked about 15,000 systems from infection. Most were in Peru, Angola, Russia and Bolivia."
+    },
+    "3": {
+      "title": "Retadup worm resurfaces seven years after takedown",
+      "text": "Kaspersky has published an analysis of a new variant of CoffeeLoader, a malware family built to deliver other malicious programs. The researchers say it is spread by Retadup, a Windows worm that French law enforcement disrupted in August 2019 and that travels on infected USB drives.\n\nAccording to Kaspersky, someone began re-registering the domain names Retadup used for its command servers about two years ago, and used them to push third-party malware. At first the payload was the SmokeLoader downloader. In early 2025, the same servers started serving CoffeeLoader.\n\nThe new installer drops a patched copy of the 7-Zip library, 7z.dll, that contains a new version of a packer called Armoury. The packer decrypts code on the graphics card, now through the OpenGL library instead of OpenCL, and then downloads the main malware. To stay on the computer, it copies the library to system folders and sets an autorun key.\n\nIt remains unclear whether the worm's author or another group revived the servers. Kaspersky says it blocked about 15,000 systems from infection, mostly in Peru, Angola, Russia and Bolivia."
+    }
+  },
+  "glossary": {
+    "computer": {
+      "pt": "computador"
+    },
+    "worm": {
+      "pt": "worm, programa que se espalha sozinho",
+      "highlight": true
+    },
+    "french": {
+      "pt": "francesas"
+    },
+    "retadup": {
+      "pt": "Retadup, nome de um worm de computador"
+    },
+    "spread": {
+      "pt": "espalhar",
+      "highlight": true
+    },
+    "usb": {
+      "pt": "USB, tipo de conexão"
+    },
+    "drives": {
+      "pt": "pen drives"
+    },
+    "someone": {
+      "pt": "alguém"
+    },
+    "server": {
+      "pt": "servidor"
+    },
+    "servers": {
+      "pt": "servidores"
+    },
+    "program": {
+      "pt": "programa"
+    },
+    "coffeeloader": {
+      "pt": "CoffeeLoader, nome de um malware"
+    },
+    "infected": {
+      "pt": "infectados",
+      "highlight": true
+    },
+    "computers": {
+      "pt": "computadores"
+    },
+    "kaspersky": {
+      "pt": "Kaspersky, empresa de segurança"
+    },
+    "peru": {
+      "pt": "Peru, país"
+    },
+    "angola": {
+      "pt": "Angola, país da África"
+    },
+    "russia": {
+      "pt": "Rússia"
+    },
+    "bolivia": {
+      "pt": "Bolívia, país"
+    },
+    "returns": {
+      "pt": "volta"
+    },
+    "malware": {
+      "pt": "programa malicioso",
+      "highlight": true
+    },
+    "disrupted": {
+      "pt": "interrompeu",
+      "highlight": true
+    },
+    "august": {
+      "pt": "agosto"
+    },
+    "spreads": {
+      "pt": "espalha"
+    },
+    "security": {
+      "pt": "segurança"
+    },
+    "active": {
+      "pt": "ativo"
+    },
+    "ago": {
+      "pt": "atrás"
+    },
+    "register": {
+      "pt": "registrar"
+    },
+    "domain": {
+      "pt": "domínio de internet"
+    },
+    "downloader": {
+      "pt": "programa que baixa outros"
+    },
+    "smokeloader": {
+      "pt": "SmokeLoader, nome de um malware"
+    },
+    "instead": {
+      "pt": "em vez de"
+    },
+    "author": {
+      "pt": "autor"
+    },
+    "blocked": {
+      "pt": "bloqueou",
+      "highlight": true
+    },
+    "systems": {
+      "pt": "sistemas",
+      "highlight": true
+    },
+    "infection": {
+      "pt": "infecção"
+    },
+    "resurfaces": {
+      "pt": "reaparece"
+    },
+    "seven": {
+      "pt": "sete"
+    },
+    "takedown": {
+      "pt": "derrubada"
+    },
+    "published": {
+      "pt": "publicou"
+    },
+    "analysis": {
+      "pt": "análise"
+    },
+    "variant": {
+      "pt": "variante"
+    },
+    "family": {
+      "pt": "família"
+    },
+    "built": {
+      "pt": "construído"
+    },
+    "deliver": {
+      "pt": "entregar"
+    },
+    "malicious": {
+      "pt": "malicioso"
+    },
+    "programs": {
+      "pt": "programas"
+    },
+    "researchers": {
+      "pt": "pesquisadores",
+      "highlight": true
+    },
+    "windows": {
+      "pt": "Windows, sistema da Microsoft"
+    },
+    "law": {
+      "pt": "lei"
+    },
+    "enforcement": {
+      "pt": "aplicação da lei"
+    },
+    "travels": {
+      "pt": "viaja"
+    },
+    "according": {
+      "pt": "de acordo com"
+    },
+    "re": {
+      "pt": "parte de re-election e re-infected"
+    },
+    "registering": {
+      "pt": "registrando"
+    },
+    "command": {
+      "pt": "comando"
+    },
+    "push": {
+      "pt": "enviar"
+    },
+    "party": {
+      "pt": "partido"
+    },
+    "payload": {
+      "pt": "carga maliciosa"
+    },
+    "serving": {
+      "pt": "entregando"
+    },
+    "installer": {
+      "pt": "instalador"
+    },
+    "drops": {
+      "pt": "solta, instala"
+    },
+    "patched": {
+      "pt": "modificada"
+    },
+    "copy": {
+      "pt": "cópia"
+    },
+    "zip": {
+      "pt": "ZIP, tipo de arquivo compactado"
+    },
+    "library": {
+      "pt": "biblioteca de código"
+    },
+    "dll": {
+      "pt": "DLL, tipo de arquivo de programa"
+    },
+    "contains": {
+      "pt": "contém"
+    },
+    "version": {
+      "pt": "versão"
+    },
+    "packer": {
+      "pt": "programa que esconde outro programa"
+    },
+    "armoury": {
+      "pt": "Armoury, nome de um programa que esconde malware"
+    },
+    "decrypts": {
+      "pt": "decifra"
+    },
+    "code": {
+      "pt": "código"
+    },
+    "graphics": {
+      "pt": "gráfica"
+    },
+    "card": {
+      "pt": "cartão"
+    },
+    "opengl": {
+      "pt": "OpenGL, ferramenta de programação"
+    },
+    "opencl": {
+      "pt": "OpenCL, ferramenta de programação"
+    },
+    "downloads": {
+      "pt": "baixa"
+    },
+    "stay": {
+      "pt": "ficar"
+    },
+    "copies": {
+      "pt": "copia"
+    },
+    "system": {
+      "pt": "sistema"
+    },
+    "folders": {
+      "pt": "pastas"
+    },
+    "sets": {
+      "pt": "cria"
+    },
+    "autorun": {
+      "pt": "início automático"
+    },
+    "key": {
+      "pt": "chave"
+    },
+    "remains": {
+      "pt": "continua"
+    },
+    "unclear": {
+      "pt": "pouco claro"
+    },
+    "whether": {
+      "pt": "se"
+    },
+    "revived": {
+      "pt": "reativou"
+    },
+    "mostly": {
+      "pt": "na maioria"
+    }
+  }
+}

@@ -1,0 +1,358 @@
+{
+  "id": "2026-11-17-optimizely-hijack",
+  "date": "2026-11-17",
+  "topic": "hacking",
+  "source": {
+    "name": "The Hacker News",
+    "url": "https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html",
+    "publishedAt": "2026-11-17T07:12:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Bad code hits big websites",
+      "text": "A hacker found a flaw in Optimizely. Many websites use this service. The hacker added bad code to the scripts of some customers. Sites of at least 178 groups got the code on Monday. CNN, the BBC and Zoom were on the list. The code could steal card numbers. It could also change crypto addresses. Optimizely says it fixed the flaw and removed the code."
+    },
+    "2": {
+      "title": "Hacker puts bad code on big sites through Optimizely",
+      "text": "Optimizely said a hacker used a flaw in its Web Experimentation service to add bad code to some scripts that customer websites load. A security company called Report URI says visitors to sites of at least 178 organizations got the code on Monday. CNN, the BBC and Zoom were among them.\n\nThe code was made to swap crypto wallet addresses for the hacker's own and to take card details typed into website forms. On iPhones and iPads, it also tried to load tools that attack the phone, but researchers saw no phone actually taken over.\n\nOptimizely says it fixed the flaw and removed the code. Its notice does not explain how the flaw worked or what customers should do. Report URI says one site was cleaned and then infected again, which suggests the hacker still had access for a while."
+    },
+    "3": {
+      "title": "Hijacked Optimizely scripts delivered card skimmer and iPhone exploit kits",
+      "text": "An attacker exploited a vulnerability in Optimizely Web Experimentation and planted malicious code in scripts that customer websites load from the service, the vendor said in an incident notice. According to Report URI, a firm that monitors website scripts, visitors to at least 178 organizations, including CNN, the BBC and Zoom, received the code on Monday.\n\nThe code was designed to replace crypto wallet addresses with the attacker's own and to capture card numbers, expiry dates and security codes submitted through site forms. It could not read cards typed into payment frames hosted by other providers. On iPhones and iPads, it also tried to load exploit kits that researchers call Coruna and DarkSword. Researchers who tested it with an emulated iPhone describe conditional delivery, not a successful compromise of a real device.\n\nOptimizely says it fixed the flaw, removed the code and secured affected accounts. The notice does not say how the flaw worked, how many projects were changed or what customers should do. Report URI says one customer's script was cleaned and then re-infected, a sign the attacker kept access for a time. By late Monday, the attacker's wallets had received about $7,040, though one analysis says it is unclear which transfers came from victims."
+    }
+  },
+  "glossary": {
+    "code": {
+      "pt": "código"
+    },
+    "hits": {
+      "pt": "atinge"
+    },
+    "websites": {
+      "pt": "sites"
+    },
+    "hacker": {
+      "pt": "hacker, invasor"
+    },
+    "flaw": {
+      "pt": "falha",
+      "highlight": true
+    },
+    "optimizely": {
+      "pt": "Optimizely, empresa de software para sites"
+    },
+    "service": {
+      "pt": "serviço"
+    },
+    "added": {
+      "pt": "adicionou"
+    },
+    "scripts": {
+      "pt": "scripts, códigos de site"
+    },
+    "customers": {
+      "pt": "clientes"
+    },
+    "sites": {
+      "pt": "sites"
+    },
+    "least": {
+      "pt": "pelo menos"
+    },
+    "monday": {
+      "pt": "segunda-feira"
+    },
+    "cnn": {
+      "pt": "CNN, rede de TV dos EUA"
+    },
+    "bbc": {
+      "pt": "BBC, empresa de notícias do Reino Unido"
+    },
+    "zoom": {
+      "pt": "Zoom, empresa de vídeo chamadas"
+    },
+    "list": {
+      "pt": "lista"
+    },
+    "steal": {
+      "pt": "roubar",
+      "highlight": true
+    },
+    "card": {
+      "pt": "cartão"
+    },
+    "crypto": {
+      "pt": "criptomoeda"
+    },
+    "addresses": {
+      "pt": "endereços"
+    },
+    "fixed": {
+      "pt": "consertou"
+    },
+    "removed": {
+      "pt": "removeu"
+    },
+    "web": {
+      "pt": "web, internet"
+    },
+    "experimentation": {
+      "pt": "experimentação"
+    },
+    "add": {
+      "pt": "adicionar"
+    },
+    "customer": {
+      "pt": "cliente"
+    },
+    "load": {
+      "pt": "carregar"
+    },
+    "security": {
+      "pt": "segurança",
+      "highlight": true
+    },
+    "report": {
+      "pt": "relatório"
+    },
+    "uri": {
+      "pt": "URI, parte do nome Report URI"
+    },
+    "visitors": {
+      "pt": "visitantes"
+    },
+    "organizations": {
+      "pt": "organizações"
+    },
+    "among": {
+      "pt": "entre"
+    },
+    "swap": {
+      "pt": "trocar"
+    },
+    "wallet": {
+      "pt": "carteira de criptomoeda"
+    },
+    "details": {
+      "pt": "dados"
+    },
+    "typed": {
+      "pt": "digitados"
+    },
+    "website": {
+      "pt": "site"
+    },
+    "forms": {
+      "pt": "formulários"
+    },
+    "iphones": {
+      "pt": "iPhones, celulares da Apple"
+    },
+    "ipads": {
+      "pt": "iPads, tablets da Apple"
+    },
+    "tools": {
+      "pt": "ferramentas"
+    },
+    "attack": {
+      "pt": "atacar, ataque",
+      "highlight": true
+    },
+    "phone": {
+      "pt": "celular"
+    },
+    "researchers": {
+      "pt": "pesquisadores",
+      "highlight": true
+    },
+    "actually": {
+      "pt": "de fato"
+    },
+    "notice": {
+      "pt": "aviso"
+    },
+    "explain": {
+      "pt": "explicar"
+    },
+    "site": {
+      "pt": "site"
+    },
+    "cleaned": {
+      "pt": "limpo"
+    },
+    "infected": {
+      "pt": "infectados",
+      "highlight": true
+    },
+    "suggests": {
+      "pt": "sugere"
+    },
+    "access": {
+      "pt": "acesso",
+      "highlight": true
+    },
+    "hijacked": {
+      "pt": "sequestrados"
+    },
+    "delivered": {
+      "pt": "entregou"
+    },
+    "skimmer": {
+      "pt": "programa que copia dados de cartão"
+    },
+    "iphone": {
+      "pt": "iPhone, celular da Apple"
+    },
+    "exploit": {
+      "pt": "ferramenta de ataque"
+    },
+    "kits": {
+      "pt": "kits"
+    },
+    "attacker": {
+      "pt": "atacante"
+    },
+    "exploited": {
+      "pt": "explorou"
+    },
+    "vulnerability": {
+      "pt": "falha de segurança",
+      "highlight": true
+    },
+    "planted": {
+      "pt": "plantou"
+    },
+    "malicious": {
+      "pt": "malicioso"
+    },
+    "vendor": {
+      "pt": "fornecedor"
+    },
+    "incident": {
+      "pt": "incidente"
+    },
+    "according": {
+      "pt": "de acordo com"
+    },
+    "firm": {
+      "pt": "empresa"
+    },
+    "monitors": {
+      "pt": "monitora"
+    },
+    "including": {
+      "pt": "incluindo"
+    },
+    "received": {
+      "pt": "recebeu"
+    },
+    "designed": {
+      "pt": "feito para"
+    },
+    "replace": {
+      "pt": "trocar"
+    },
+    "capture": {
+      "pt": "capturar"
+    },
+    "expiry": {
+      "pt": "validade"
+    },
+    "dates": {
+      "pt": "datas"
+    },
+    "codes": {
+      "pt": "códigos"
+    },
+    "submitted": {
+      "pt": "enviados"
+    },
+    "cards": {
+      "pt": "cartões"
+    },
+    "payment": {
+      "pt": "pagamento"
+    },
+    "frames": {
+      "pt": "quadros de página"
+    },
+    "hosted": {
+      "pt": "hospedados"
+    },
+    "providers": {
+      "pt": "empresas fornecedoras"
+    },
+    "coruna": {
+      "pt": "Coruna, nome de um kit de ataque para iPhone"
+    },
+    "darksword": {
+      "pt": "DarkSword, nome de um kit de ataque para iPhone"
+    },
+    "tested": {
+      "pt": "testaram"
+    },
+    "emulated": {
+      "pt": "simulado"
+    },
+    "describe": {
+      "pt": "descrevem"
+    },
+    "conditional": {
+      "pt": "condicional"
+    },
+    "delivery": {
+      "pt": "entrega"
+    },
+    "successful": {
+      "pt": "bem-sucedida"
+    },
+    "compromise": {
+      "pt": "invasão"
+    },
+    "device": {
+      "pt": "aparelho"
+    },
+    "secured": {
+      "pt": "protegeu"
+    },
+    "affected": {
+      "pt": "afetadas"
+    },
+    "accounts": {
+      "pt": "contas"
+    },
+    "projects": {
+      "pt": "projetos"
+    },
+    "script": {
+      "pt": "script, código de site"
+    },
+    "re": {
+      "pt": "parte de re-election e re-infected"
+    },
+    "sign": {
+      "pt": "sinal"
+    },
+    "late": {
+      "pt": "tarde"
+    },
+    "wallets": {
+      "pt": "carteiras de criptomoeda"
+    },
+    "though": {
+      "pt": "embora"
+    },
+    "analysis": {
+      "pt": "análise"
+    },
+    "unclear": {
+      "pt": "pouco claro"
+    },
+    "transfers": {
+      "pt": "transferências"
+    },
+    "victims": {
+      "pt": "vítimas"
+    }
+  }
+}

@@ -1,0 +1,346 @@
+{
+  "id": "2026-11-17-milei-budget-primaries",
+  "date": "2026-11-17",
+  "topic": "bolsa",
+  "source": {
+    "name": "MercoPress",
+    "url": "https://en.mercopress.com/2026/11/16/milei-s-government-races-to-suspend-primaries-and-pass-the-budget-before-year-end?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+    "publishedAt": "2026-11-16T18:00:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Argentina wants a budget before the year ends",
+      "text": "The government of Javier Milei has a busy end of year. It wants to pass the 2027 budget. It also wants to stop the open primary elections. It says this will save money. Congress has only two weeks of regular sessions left. The government says it will call extra sessions in December. Inflation is about 2 percent a month."
+    },
+    "2": {
+      "title": "Milei's government hurries to pass the 2027 budget",
+      "text": "Argentina's government is trying to pass several laws before the year ends. The main goals are to suspend the open primary elections, known as PASO, and to approve the 2027 budget. It also wants to change the rules of the Central Bank.\n\nThe government says suspending the primaries will cut public spending. A newspaper, El Pais, says it could also help Milei in the 2027 election, because the Peronist opposition has no single candidate. The ruling party has 33 senators ready to vote yes and needs at least four more.\n\nThe budget goes to a committee on Tuesday. The Chamber of Deputies plans to vote on November 25. Only two weeks of regular sessions remain, so extra sessions are planned for December. Inflation is about 2 percent a month and country risk is at its highest level in a year."
+    },
+    "3": {
+      "title": "Milei's government races to suspend primaries and pass the budget",
+      "text": "Javier Milei's government is speeding up its legislative agenda in the final weeks of the year. Its priority is suspending the open primary elections, known as PASO, along with approving the 2027 budget, reforming the Central Bank's charter and passing a sovereignty bill that toughens sanctions on companies operating in the Falklands without Argentine permission.\n\nThe stated aim of suspending the primaries is to cut public spending. According to the newspaper El Pais, it could also give Milei an advantage in the October 2027 presidential election, since the Peronist opposition has no common candidate and would be more likely to run divided. Patricia Bullrich, the ruling party's Senate leader, must secure the votes. Local media say the party has 33 senators in favour and needs at least four more.\n\nThe budget will be debated in committee on Tuesday, and the Chamber of Deputies plans to vote on it on November 25. Allied governors want more money for provincial infrastructure, while increases for universities, disability services and science remain unagreed. With only two weeks of ordinary sessions left, the government has said it will call extraordinary sessions in December. Monthly inflation is around 2 percent, according to El Pais, and country risk is at its highest level in a year."
+    }
+  },
+  "glossary": {
+    "argentina": {
+      "pt": "Argentina, país"
+    },
+    "budget": {
+      "pt": "orçamento",
+      "highlight": true
+    },
+    "javier": {
+      "pt": "Javier, primeiro nome de Milei"
+    },
+    "milei": {
+      "pt": "Javier Milei, presidente da Argentina"
+    },
+    "busy": {
+      "pt": "cheio, ocupado"
+    },
+    "pass": {
+      "pt": "aprovar"
+    },
+    "open": {
+      "pt": "abertas"
+    },
+    "primary": {
+      "pt": "primária"
+    },
+    "elections": {
+      "pt": "eleições"
+    },
+    "save": {
+      "pt": "economizar"
+    },
+    "congress": {
+      "pt": "Congresso"
+    },
+    "regular": {
+      "pt": "regulares"
+    },
+    "sessions": {
+      "pt": "sessões"
+    },
+    "extra": {
+      "pt": "extras"
+    },
+    "december": {
+      "pt": "dezembro"
+    },
+    "inflation": {
+      "pt": "inflação",
+      "highlight": true
+    },
+    "hurries": {
+      "pt": "apressa"
+    },
+    "several": {
+      "pt": "vários"
+    },
+    "laws": {
+      "pt": "leis"
+    },
+    "goals": {
+      "pt": "metas"
+    },
+    "suspend": {
+      "pt": "suspender"
+    },
+    "paso": {
+      "pt": "PASO, eleição primária da Argentina"
+    },
+    "approve": {
+      "pt": "aprovar"
+    },
+    "rules": {
+      "pt": "regras"
+    },
+    "central": {
+      "pt": "central"
+    },
+    "bank": {
+      "pt": "banco"
+    },
+    "suspending": {
+      "pt": "suspender"
+    },
+    "primaries": {
+      "pt": "eleições primárias"
+    },
+    "cut": {
+      "pt": "cortar"
+    },
+    "public": {
+      "pt": "público",
+      "highlight": true
+    },
+    "spending": {
+      "pt": "gastos",
+      "highlight": true
+    },
+    "el": {
+      "pt": "El, parte do nome do jornal El Pais"
+    },
+    "pais": {
+      "pt": "País, parte do nome do jornal El Pais"
+    },
+    "election": {
+      "pt": "eleição",
+      "highlight": true
+    },
+    "peronist": {
+      "pt": "peronista, de um movimento político argentino"
+    },
+    "opposition": {
+      "pt": "oposição",
+      "highlight": true
+    },
+    "single": {
+      "pt": "único"
+    },
+    "candidate": {
+      "pt": "candidato"
+    },
+    "ruling": {
+      "pt": "governista"
+    },
+    "party": {
+      "pt": "partido"
+    },
+    "senators": {
+      "pt": "senadores",
+      "highlight": true
+    },
+    "ready": {
+      "pt": "prontos"
+    },
+    "vote": {
+      "pt": "votar",
+      "highlight": true
+    },
+    "yes": {
+      "pt": "sim"
+    },
+    "least": {
+      "pt": "pelo menos"
+    },
+    "four": {
+      "pt": "quatro"
+    },
+    "committee": {
+      "pt": "comissão"
+    },
+    "tuesday": {
+      "pt": "terça-feira"
+    },
+    "chamber": {
+      "pt": "câmara"
+    },
+    "deputies": {
+      "pt": "deputados"
+    },
+    "november": {
+      "pt": "novembro"
+    },
+    "remain": {
+      "pt": "continuam"
+    },
+    "risk": {
+      "pt": "risco"
+    },
+    "level": {
+      "pt": "nível"
+    },
+    "races": {
+      "pt": "corre"
+    },
+    "speeding": {
+      "pt": "acelerando"
+    },
+    "legislative": {
+      "pt": "legislativa"
+    },
+    "agenda": {
+      "pt": "pauta de projetos"
+    },
+    "final": {
+      "pt": "últimas"
+    },
+    "priority": {
+      "pt": "prioridade"
+    },
+    "along": {
+      "pt": "junto com"
+    },
+    "approving": {
+      "pt": "aprovando"
+    },
+    "reforming": {
+      "pt": "reformando"
+    },
+    "charter": {
+      "pt": "estatuto"
+    },
+    "passing": {
+      "pt": "aprovando"
+    },
+    "sovereignty": {
+      "pt": "soberania"
+    },
+    "bill": {
+      "pt": "projeto de lei"
+    },
+    "toughens": {
+      "pt": "endurece"
+    },
+    "sanctions": {
+      "pt": "sanções"
+    },
+    "operating": {
+      "pt": "operando"
+    },
+    "falklands": {
+      "pt": "ilhas Malvinas (Falklands)"
+    },
+    "argentine": {
+      "pt": "argentina"
+    },
+    "permission": {
+      "pt": "permissão"
+    },
+    "stated": {
+      "pt": "declarado"
+    },
+    "aim": {
+      "pt": "objetivo"
+    },
+    "according": {
+      "pt": "de acordo com"
+    },
+    "advantage": {
+      "pt": "vantagem"
+    },
+    "october": {
+      "pt": "outubro"
+    },
+    "common": {
+      "pt": "comum"
+    },
+    "likely": {
+      "pt": "provável"
+    },
+    "divided": {
+      "pt": "dividida"
+    },
+    "patricia": {
+      "pt": "Patricia, primeiro nome de Bullrich"
+    },
+    "bullrich": {
+      "pt": "Patricia Bullrich, líder do partido de Milei no Senado"
+    },
+    "senate": {
+      "pt": "Senado"
+    },
+    "leader": {
+      "pt": "líder"
+    },
+    "secure": {
+      "pt": "garantir"
+    },
+    "votes": {
+      "pt": "votos"
+    },
+    "local": {
+      "pt": "local"
+    },
+    "media": {
+      "pt": "mídia"
+    },
+    "favour": {
+      "pt": "a favor"
+    },
+    "debated": {
+      "pt": "debatido"
+    },
+    "allied": {
+      "pt": "aliados"
+    },
+    "governors": {
+      "pt": "governadores"
+    },
+    "provincial": {
+      "pt": "das províncias"
+    },
+    "infrastructure": {
+      "pt": "infraestrutura"
+    },
+    "increases": {
+      "pt": "aumentos"
+    },
+    "universities": {
+      "pt": "universidades"
+    },
+    "disability": {
+      "pt": "deficiência"
+    },
+    "services": {
+      "pt": "serviços"
+    },
+    "science": {
+      "pt": "ciência"
+    },
+    "unagreed": {
+      "pt": "sem acordo"
+    },
+    "ordinary": {
+      "pt": "comuns"
+    },
+    "extraordinary": {
+      "pt": "extraordinárias"
+    },
+    "monthly": {
+      "pt": "mensal"
+    }
+  }
+}

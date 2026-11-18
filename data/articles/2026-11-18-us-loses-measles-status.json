@@ -1,0 +1,275 @@
+{
+  "id": "2026-11-18-us-loses-measles-status",
+  "date": "2026-11-18",
+  "topic": "mundo",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-11-17T21:04:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "The US loses its measles status",
+      "text": "The US lost its measles-free status. Measles spread in the country for more than a year. The US has 5,400 cases this year. Ten people died. Mexico and Bolivia also lost the status. Health experts say fewer people take the vaccine. The US health agency wants to get the status back."
+    },
+    "2": {
+      "title": "The US is no longer measles-free",
+      "text": "The Pan American Health Organization (PAHO) says the US lost its measles elimination status after 26 years. The same strain of the virus spread without a stop for more than 12 months. Mexico and Bolivia also lost their status.\n\nThe US has had 5,400 measles cases this year and 10 deaths. PAHO's director, Jarbas Barbosa, blamed gaps in vaccination. The US Centers for Disease Control and Prevention said it wants to get the status back by making vaccines easier to get.\n\nHealth Secretary Robert F Kennedy Jr said he recommends the MMR vaccine and wants to rebuild public trust."
+    },
+    "3": {
+      "title": "US loses measles elimination status after 26 years",
+      "text": "After more than two decades, the US has lost its measles-free status following two years of record case numbers. The Pan American Health Organization determined that the same strain of measles had spread without interruption for more than 12 months. Mexico and Bolivia also lost their status. PAHO director Jarbas Barbosa said the resurgence in the region reflects persistent gaps in vaccination.\n\nThe US has recorded 5,400 cases this year and 10 deaths, the most since the 1990s. The countries must now submit corrective action plans. The US Centers for Disease Control and Prevention said it is committed to regaining the status by expanding access to vaccines. Director Erica Schwartz said vaccination, not the designation, protects Americans.\n\nHealth Secretary Robert F Kennedy Jr has cast doubt on the safety of the MMR shot in the past. He said this week that he recommends the vaccine and wants to close vaccination gaps and rebuild public trust. The UK, Spain and Austria lost their status earlier this year."
+    }
+  },
+  "glossary": {
+    "measles": {
+      "pt": "sarampo",
+      "highlight": true
+    },
+    "vaccine": {
+      "pt": "vacina",
+      "forms": [
+        "vaccination",
+        "vaccines"
+      ],
+      "highlight": true
+    },
+    "strain": {
+      "pt": "variedade (cepa) de vírus",
+      "highlight": true
+    },
+    "status": {
+      "pt": "situação; condição"
+    },
+    "outbreak": {
+      "pt": "surto",
+      "forms": [
+        "outbreaks"
+      ],
+      "highlight": true
+    },
+    "gap": {
+      "pt": "lacuna",
+      "forms": [
+        "gaps"
+      ],
+      "highlight": true
+    },
+    "spread": {
+      "pt": "espalhar",
+      "highlight": true
+    },
+    "regain": {
+      "pt": "recuperar",
+      "forms": [
+        "regaining"
+      ],
+      "highlight": true
+    },
+    "resurgence": {
+      "pt": "volta de algo; aumento",
+      "highlight": true
+    },
+    "elimination": {
+      "pt": "eliminação"
+    },
+    "death": {
+      "pt": "morte",
+      "forms": [
+        "deaths"
+      ]
+    },
+    "free": {
+      "pt": "livre"
+    },
+    "cases": {
+      "pt": "casos"
+    },
+    "ten": {
+      "pt": "dez"
+    },
+    "died": {
+      "pt": "morreram"
+    },
+    "mexico": {
+      "pt": "México"
+    },
+    "bolivia": {
+      "pt": "Bolívia"
+    },
+    "health": {
+      "pt": "saúde"
+    },
+    "experts": {
+      "pt": "especialistas"
+    },
+    "fewer": {
+      "pt": "menos"
+    },
+    "agency": {
+      "pt": "agência"
+    },
+    "pan": {
+      "pt": "pan (todo, das Américas)"
+    },
+    "american": {
+      "pt": "americano"
+    },
+    "organization": {
+      "pt": "organização"
+    },
+    "paho": {
+      "pt": "PAHO, organização de saúde das Américas"
+    },
+    "virus": {
+      "pt": "vírus"
+    },
+    "paho's": {
+      "pt": "da PAHO"
+    },
+    "director": {
+      "pt": "diretor"
+    },
+    "jarbas": {
+      "pt": "Jarbas (nome)"
+    },
+    "barbosa": {
+      "pt": "Barbosa, sobrenome do diretor da PAHO"
+    },
+    "blamed": {
+      "pt": "culpou"
+    },
+    "centers": {
+      "pt": "centros"
+    },
+    "disease": {
+      "pt": "doença"
+    },
+    "prevention": {
+      "pt": "prevenção"
+    },
+    "easier": {
+      "pt": "mais fácil"
+    },
+    "secretary": {
+      "pt": "secretário"
+    },
+    "robert": {
+      "pt": "Robert (nome)"
+    },
+    "f": {
+      "pt": "F (inicial)"
+    },
+    "kennedy": {
+      "pt": "Kennedy, ministro da Saúde dos EUA"
+    },
+    "jr": {
+      "pt": "Júnior"
+    },
+    "recommends": {
+      "pt": "recomenda"
+    },
+    "mmr": {
+      "pt": "MMR, vacina tríplice viral"
+    },
+    "rebuild": {
+      "pt": "reconstruir"
+    },
+    "public": {
+      "pt": "público"
+    },
+    "trust": {
+      "pt": "confiança"
+    },
+    "decades": {
+      "pt": "décadas"
+    },
+    "following": {
+      "pt": "depois de"
+    },
+    "record": {
+      "pt": "recorde"
+    },
+    "case": {
+      "pt": "caso"
+    },
+    "determined": {
+      "pt": "concluiu"
+    },
+    "interruption": {
+      "pt": "interrupção"
+    },
+    "region": {
+      "pt": "região"
+    },
+    "reflects": {
+      "pt": "reflete"
+    },
+    "persistent": {
+      "pt": "persistente"
+    },
+    "recorded": {
+      "pt": "registrou"
+    },
+    "submit": {
+      "pt": "entregar"
+    },
+    "corrective": {
+      "pt": "corretivo"
+    },
+    "action": {
+      "pt": "ação; medida"
+    },
+    "committed": {
+      "pt": "comprometido"
+    },
+    "expanding": {
+      "pt": "ampliando"
+    },
+    "access": {
+      "pt": "acesso"
+    },
+    "erica": {
+      "pt": "Erica (nome)"
+    },
+    "schwartz": {
+      "pt": "Schwartz (sobrenome)"
+    },
+    "designation": {
+      "pt": "título; status oficial"
+    },
+    "protects": {
+      "pt": "protege"
+    },
+    "americans": {
+      "pt": "americanos"
+    },
+    "cast": {
+      "pt": "lançou (dúvida)"
+    },
+    "doubt": {
+      "pt": "dúvida"
+    },
+    "safety": {
+      "pt": "segurança"
+    },
+    "shot": {
+      "pt": "injeção (vacina)"
+    },
+    "past": {
+      "pt": "passado"
+    },
+    "uk": {
+      "pt": "Reino Unido"
+    },
+    "spain": {
+      "pt": "Espanha"
+    },
+    "austria": {
+      "pt": "Áustria"
+    },
+    "earlier": {
+      "pt": "mais cedo; antes"
+    }
+  }
+}

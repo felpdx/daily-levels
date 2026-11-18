@@ -1,0 +1,267 @@
+{
+  "id": "2026-11-18-java4shell-flaw-ai",
+  "date": "2026-11-18",
+  "topic": "hacking",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-11-18T08:47:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "AI finds a big Java flaw",
+      "text": "A small tech company used AI to find a serious flaw in Java. Java is a very popular programming language. Banks, hospitals and big companies use it. The flaw is in how Java handles memory. Oracle owns Java. It sent a security update on Tuesday. Experts worry hackers could find the flaw too."
+    },
+    "2": {
+      "title": "AI finds a serious flaw in Java",
+      "text": "A tech start-up called Calif used artificial intelligence to find a serious flaw in Java, one of the most popular programming languages. Java is used by many big companies, banks, hospitals and governments.\n\nThe flaw, named Java4Shell, is in the way Java handles memory. It could let an attacker run unwanted commands from far away. The AI that found it was a new OpenAI model, GPT-6 Cyber, which is not public yet.\n\nOracle, the owner of Java, has not talked about the bug, but it released a critical security update on Tuesday. Experts fear that hackers could find the flaw if it is not fixed."
+    },
+    "3": {
+      "title": "AI helps uncover critical flaw in Java",
+      "text": "A cyber-security firm has used artificial intelligence to uncover a critical flaw in Java, the programming language that many of the world's top companies, banks, hospitals and governments rely on. The start-up, Calif, found the bug in Java's memory functions. It had previously found a flaw in another language, PHP.\n\nThe flaw, called Java4Shell, would allow an adversary to remotely run unwanted commands. It was found by OpenAI's recently released model GPT-6 Cyber, which is not yet available to the public. Professor Toby Walsh said the flaw was unlikely and serious, because Java is meant to make systems safer by managing memory.\n\nOracle, which owns Java, has not acknowledged the bug, but released a critical patch update on Tuesday. It is unclear whether any company has been affected. The discovery follows several tech outages this week. US Secretary of State Marco Rubio said there was zero evidence that the incidents were related."
+    }
+  },
+  "glossary": {
+    "flaw": {
+      "pt": "falha",
+      "forms": [
+        "flaws"
+      ],
+      "highlight": true
+    },
+    "memory": {
+      "pt": "memória",
+      "highlight": true
+    },
+    "bug": {
+      "pt": "erro de programa",
+      "highlight": true
+    },
+    "remote": {
+      "pt": "remoto, à distância",
+      "forms": [
+        "remotely"
+      ],
+      "highlight": true
+    },
+    "patch": {
+      "pt": "correção de segurança",
+      "highlight": true
+    },
+    "uncover": {
+      "pt": "descobrir",
+      "highlight": true
+    },
+    "adversary": {
+      "pt": "adversário; atacante",
+      "highlight": true
+    },
+    "language": {
+      "pt": "linguagem"
+    },
+    "artificial": {
+      "pt": "artificial"
+    },
+    "ai": {
+      "pt": "IA, inteligência artificial"
+    },
+    "java": {
+      "pt": "Java, linguagem de programação"
+    },
+    "tech": {
+      "pt": "tecnologia"
+    },
+    "serious": {
+      "pt": "grave"
+    },
+    "popular": {
+      "pt": "popular"
+    },
+    "programming": {
+      "pt": "programação"
+    },
+    "banks": {
+      "pt": "bancos"
+    },
+    "hospitals": {
+      "pt": "hospitais"
+    },
+    "handles": {
+      "pt": "cuida de"
+    },
+    "oracle": {
+      "pt": "Oracle, empresa de tecnologia"
+    },
+    "owns": {
+      "pt": "é dono de"
+    },
+    "security": {
+      "pt": "segurança"
+    },
+    "update": {
+      "pt": "atualização"
+    },
+    "tuesday": {
+      "pt": "terça-feira"
+    },
+    "experts": {
+      "pt": "especialistas"
+    },
+    "worry": {
+      "pt": "preocupar"
+    },
+    "hackers": {
+      "pt": "invasores"
+    },
+    "calif": {
+      "pt": "Calif, empresa de segurança"
+    },
+    "intelligence": {
+      "pt": "inteligência"
+    },
+    "languages": {
+      "pt": "linguagens"
+    },
+    "let": {
+      "pt": "deixar; permitir"
+    },
+    "attacker": {
+      "pt": "atacante"
+    },
+    "unwanted": {
+      "pt": "indesejado"
+    },
+    "commands": {
+      "pt": "comandos"
+    },
+    "openai": {
+      "pt": "OpenAI, empresa de IA"
+    },
+    "model": {
+      "pt": "modelo"
+    },
+    "cyber": {
+      "pt": "cibernético"
+    },
+    "public": {
+      "pt": "público"
+    },
+    "owner": {
+      "pt": "dono"
+    },
+    "released": {
+      "pt": "lançou"
+    },
+    "critical": {
+      "pt": "crítico"
+    },
+    "fear": {
+      "pt": "temem"
+    },
+    "fixed": {
+      "pt": "consertado"
+    },
+    "firm": {
+      "pt": "empresa"
+    },
+    "top": {
+      "pt": "principal"
+    },
+    "rely": {
+      "pt": "depender"
+    },
+    "java's": {
+      "pt": "do Java"
+    },
+    "functions": {
+      "pt": "funções"
+    },
+    "previously": {
+      "pt": "antes"
+    },
+    "php": {
+      "pt": "PHP, linguagem de programação"
+    },
+    "allow": {
+      "pt": "permitir"
+    },
+    "openai's": {
+      "pt": "da OpenAI"
+    },
+    "recently": {
+      "pt": "recentemente"
+    },
+    "available": {
+      "pt": "disponível"
+    },
+    "professor": {
+      "pt": "professor"
+    },
+    "toby": {
+      "pt": "Toby (nome)"
+    },
+    "walsh": {
+      "pt": "Walsh (sobrenome)"
+    },
+    "unlikely": {
+      "pt": "improvável"
+    },
+    "systems": {
+      "pt": "sistemas"
+    },
+    "safer": {
+      "pt": "mais seguro"
+    },
+    "managing": {
+      "pt": "gerenciando"
+    },
+    "acknowledged": {
+      "pt": "reconheceu"
+    },
+    "unclear": {
+      "pt": "pouco claro"
+    },
+    "whether": {
+      "pt": "se"
+    },
+    "affected": {
+      "pt": "afetado"
+    },
+    "discovery": {
+      "pt": "descoberta"
+    },
+    "follows": {
+      "pt": "vem depois de"
+    },
+    "several": {
+      "pt": "vários"
+    },
+    "outages": {
+      "pt": "quedas de serviço"
+    },
+    "secretary": {
+      "pt": "secretário"
+    },
+    "state": {
+      "pt": "estado"
+    },
+    "marco": {
+      "pt": "Marco (nome)"
+    },
+    "rubio": {
+      "pt": "Rubio, secretário de Estado dos EUA"
+    },
+    "zero": {
+      "pt": "zero"
+    },
+    "evidence": {
+      "pt": "prova"
+    },
+    "incidents": {
+      "pt": "incidentes"
+    },
+    "related": {
+      "pt": "relacionado"
+    }
+  }
+}

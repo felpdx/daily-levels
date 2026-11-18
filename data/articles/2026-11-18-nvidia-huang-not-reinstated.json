@@ -1,0 +1,283 @@
+{
+  "id": "2026-11-18-nvidia-huang-not-reinstated",
+  "date": "2026-11-18",
+  "topic": "bolsa",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-11-18T01:18:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Nvidia sales double",
+      "text": "Nvidia said its sales doubled. In three months, it sold $115.8bn. Jensen Huang left the company last week. He said he wants to come back. The board said no. Colette Kress is the interim chief. She said it is business as usual. Shares went up 4.8% after hours."
+    },
+    "2": {
+      "title": "Nvidia grows fast but will not take Huang back",
+      "text": "Nvidia said its sales doubled to $115.8bn in the three months to October 25. Profit also doubled, to $65bn. Shares rose 4.8% in after-hours trading.\n\nThese are the first results since co-founder Jensen Huang left the company last week after reports of affairs, including one with a suspected spy for China. Huang said he would be honoured to return. But the chair, Harvey Jones, said the board does not plan to take him back.\n\nInterim chief executive Colette Kress said it is business as usual. She also said Nvidia has stopped shipping Hopper chips to China, but she did not say why."
+    },
+    "3": {
+      "title": "Nvidia reports soaring sales, rules out Huang's return",
+      "text": "Nvidia has firmly ruled out letting ousted co-founder Jensen Huang return as it revealed that sales doubled to more than $100bn. Revenue for the three months to October 25 rose to $115.8bn, and profit doubled to $65bn. Data centre sales also doubled, to $107bn. Shares jumped 4.8% in after-hours trading, and the company expects revenue to rise another 13% next quarter.\n\nIt was the first report since Huang quit last week following alleged extramarital affairs, including one with a suspected spy for China. Earlier, Huang said he would be honoured to come back. Chair Harvey Jones replied that the board does not intend to reinstate him, and said the company is searching for a permanent chief executive.\n\nInterim chief executive Colette Kress told investors it was business as usual. Analyst Daniela Hathorn said the results ease worries about cooling demand for AI, but asked whether Nvidia can keep the advantage Huang helped build. Kress also said Nvidia no longer ships Hopper chips to China, without explaining why."
+    }
+  },
+  "glossary": {
+    "sales": {
+      "pt": "vendas",
+      "highlight": true
+    },
+    "profit": {
+      "pt": "lucro",
+      "forms": [
+        "profits"
+      ],
+      "highlight": true
+    },
+    "share": {
+      "pt": "ação (de empresa)",
+      "forms": [
+        "shares"
+      ],
+      "highlight": true
+    },
+    "reinstate": {
+      "pt": "colocar de volta no cargo",
+      "highlight": true
+    },
+    "interim": {
+      "pt": "interino",
+      "highlight": true
+    },
+    "board": {
+      "pt": "conselho de administração",
+      "highlight": true
+    },
+    "revenue": {
+      "pt": "receita",
+      "highlight": true
+    },
+    "analyst": {
+      "pt": "analista",
+      "forms": [
+        "analysts"
+      ],
+      "highlight": true
+    },
+    "quit": {
+      "pt": "sair; renunciar"
+    },
+    "co-founder": {
+      "pt": "cofundador"
+    },
+    "ousted": {
+      "pt": "afastado à força"
+    },
+    "spy": {
+      "pt": "espião"
+    },
+    "chip": {
+      "pt": "chip",
+      "forms": [
+        "chips"
+      ]
+    },
+    "data centre": {
+      "pt": "centro de dados"
+    },
+    "nvidia": {
+      "pt": "Nvidia, fabricante de chips"
+    },
+    "double": {
+      "pt": "dobrar"
+    },
+    "doubled": {
+      "pt": "dobrou"
+    },
+    "three": {
+      "pt": "três"
+    },
+    "jensen": {
+      "pt": "Jensen (nome)"
+    },
+    "huang": {
+      "pt": "Huang, cofundador da Nvidia"
+    },
+    "colette": {
+      "pt": "Colette (nome)"
+    },
+    "kress": {
+      "pt": "Kress (sobrenome)"
+    },
+    "chief": {
+      "pt": "chefe"
+    },
+    "usual": {
+      "pt": "normal"
+    },
+    "hours": {
+      "pt": "horas"
+    },
+    "october": {
+      "pt": "outubro"
+    },
+    "rose": {
+      "pt": "subiu"
+    },
+    "trading": {
+      "pt": "negociação"
+    },
+    "results": {
+      "pt": "resultados"
+    },
+    "co": {
+      "pt": "co (junto)"
+    },
+    "founder": {
+      "pt": "fundador"
+    },
+    "reports": {
+      "pt": "relatórios; notícias"
+    },
+    "affairs": {
+      "pt": "casos amorosos"
+    },
+    "including": {
+      "pt": "incluindo"
+    },
+    "suspected": {
+      "pt": "suspeito"
+    },
+    "china": {
+      "pt": "China"
+    },
+    "honoured": {
+      "pt": "honrado"
+    },
+    "return": {
+      "pt": "voltar"
+    },
+    "chair": {
+      "pt": "presidente do conselho"
+    },
+    "harvey": {
+      "pt": "Harvey (nome)"
+    },
+    "jones": {
+      "pt": "Jones (sobrenome)"
+    },
+    "executive": {
+      "pt": "executivo"
+    },
+    "shipping": {
+      "pt": "enviando"
+    },
+    "hopper": {
+      "pt": "Hopper, tipo de chip da Nvidia"
+    },
+    "soaring": {
+      "pt": "disparando"
+    },
+    "rules": {
+      "pt": "descarta"
+    },
+    "huang's": {
+      "pt": "de Huang"
+    },
+    "firmly": {
+      "pt": "com firmeza"
+    },
+    "ruled": {
+      "pt": "descartou"
+    },
+    "letting": {
+      "pt": "deixando"
+    },
+    "revealed": {
+      "pt": "revelou"
+    },
+    "data": {
+      "pt": "dados"
+    },
+    "centre": {
+      "pt": "centro"
+    },
+    "jumped": {
+      "pt": "subiu muito"
+    },
+    "expects": {
+      "pt": "espera"
+    },
+    "rise": {
+      "pt": "alta; subir"
+    },
+    "quarter": {
+      "pt": "trimestre"
+    },
+    "report": {
+      "pt": "relatório"
+    },
+    "following": {
+      "pt": "depois de"
+    },
+    "alleged": {
+      "pt": "suposto"
+    },
+    "extramarital": {
+      "pt": "fora do casamento"
+    },
+    "earlier": {
+      "pt": "mais cedo; antes"
+    },
+    "replied": {
+      "pt": "respondeu"
+    },
+    "intend": {
+      "pt": "pretende"
+    },
+    "searching": {
+      "pt": "procurando"
+    },
+    "permanent": {
+      "pt": "permanente"
+    },
+    "investors": {
+      "pt": "investidores"
+    },
+    "daniela": {
+      "pt": "Daniela (nome)"
+    },
+    "hathorn": {
+      "pt": "Hathorn (sobrenome)"
+    },
+    "ease": {
+      "pt": "aliviar"
+    },
+    "worries": {
+      "pt": "preocupações"
+    },
+    "cooling": {
+      "pt": "esfriando"
+    },
+    "demand": {
+      "pt": "demanda"
+    },
+    "ai": {
+      "pt": "IA, inteligência artificial"
+    },
+    "whether": {
+      "pt": "se"
+    },
+    "advantage": {
+      "pt": "vantagem"
+    },
+    "build": {
+      "pt": "construir"
+    },
+    "ships": {
+      "pt": "envia"
+    },
+    "explaining": {
+      "pt": "explicando"
+    }
+  }
+}

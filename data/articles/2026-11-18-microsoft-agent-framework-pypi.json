@@ -1,0 +1,323 @@
+{
+  "id": "2026-11-18-microsoft-agent-framework-pypi",
+  "date": "2026-11-18",
+  "topic": "hacking",
+  "source": {
+    "name": "The Hacker News",
+    "url": "https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html",
+    "publishedAt": "2026-11-18T06:45:26Z"
+  },
+  "levels": {
+    "1": {
+      "title": "A Microsoft Python tool is hacked",
+      "text": "Hackers broke into a Microsoft package for Python. The package is called agent-framework. It helps people build AI agents. The hackers put in two bad versions on November 17. The bad code steals passwords and cloud keys. It runs every time Python starts. The two versions are now blocked."
+    },
+    "2": {
+      "title": "Hackers poison a Microsoft Python package",
+      "text": "Attackers broke into agent-framework, a Microsoft Python package used to build and run AI agents. Security firms such as Socket, Wiz and Endor Labs reported it.\n\nThe attackers published two bad versions, 1.26.1 and 1.26.2, on November 17, 2026. They came out 33 minutes apart. Each one adds a small file that runs a credential stealer every time Python starts, even if the package is not used.\n\nThe code collects passwords, cloud keys and other secrets, and sends them to a web address that the attackers control. Both versions have been blocked on PyPI. It is not clear how the attackers got publishing access."
+    },
+    "3": {
+      "title": "Attackers hijack Microsoft's AI agent package on PyPI",
+      "text": "Threat actors compromised agent-framework, the Python package behind Microsoft Agent Framework, an open-source toolkit for building and managing AI agents. Several security firms, including Socket, Wiz, Aikido and Endor Labs, reported the attack.\n\nThe malicious versions, 1.26.1 and 1.26.2, were published 33 minutes apart on November 17, 2026. Each wheel adds a .pth file to the site-packages folder, so the stealer runs whenever Python starts in that environment, even when nobody imports the package. Researchers say the code reads credentials stored on disk and also asks the cloud platform to issue new ones, such as Azure tokens. Version 1.26.2 also collects GitHub Actions tokens.\n\nStolen data is compressed and sent to a webhook address. Both versions are now quarantined on PyPI. How the attackers obtained publishing access is unclear. The package gets about 190,000 downloads a month. It is the second Microsoft-related PyPI package hit this year, after durabletask in May."
+    }
+  },
+  "glossary": {
+    "steal": {
+      "pt": "roubar",
+      "forms": [
+        "steals",
+        "stole",
+        "stolen"
+      ],
+      "highlight": true
+    },
+    "password": {
+      "pt": "senha",
+      "forms": [
+        "passwords"
+      ],
+      "highlight": true
+    },
+    "cloud": {
+      "pt": "nuvem (internet)",
+      "highlight": true
+    },
+    "hack": {
+      "pt": "invadir",
+      "forms": [
+        "hacked",
+        "hackers",
+        "hacker"
+      ],
+      "highlight": true
+    },
+    "block": {
+      "pt": "bloquear",
+      "forms": [
+        "blocked"
+      ],
+      "highlight": true
+    },
+    "attacker": {
+      "pt": "atacante",
+      "forms": [
+        "attackers"
+      ],
+      "highlight": true
+    },
+    "credential": {
+      "pt": "credencial; dado de acesso",
+      "forms": [
+        "credentials"
+      ],
+      "highlight": true
+    },
+    "compromise": {
+      "pt": "invadir; comprometer",
+      "forms": [
+        "compromised"
+      ],
+      "highlight": true
+    },
+    "quarantine": {
+      "pt": "isolar (bloquear)",
+      "forms": [
+        "quarantined"
+      ],
+      "highlight": true
+    },
+    "hijack": {
+      "pt": "sequestrar; tomar controle",
+      "highlight": true
+    },
+    "publish": {
+      "pt": "publicar",
+      "forms": [
+        "published"
+      ],
+      "highlight": true
+    },
+    "microsoft": {
+      "pt": "Microsoft, empresa de tecnologia"
+    },
+    "python": {
+      "pt": "Python, linguagem de programação"
+    },
+    "tool": {
+      "pt": "ferramenta"
+    },
+    "broke": {
+      "pt": "invadiu (passado de break)"
+    },
+    "package": {
+      "pt": "pacote (de programa)"
+    },
+    "agent": {
+      "pt": "agente"
+    },
+    "framework": {
+      "pt": "estrutura de programação (framework)"
+    },
+    "build": {
+      "pt": "construir"
+    },
+    "ai": {
+      "pt": "IA, inteligência artificial"
+    },
+    "agents": {
+      "pt": "agentes"
+    },
+    "versions": {
+      "pt": "versões"
+    },
+    "november": {
+      "pt": "novembro"
+    },
+    "code": {
+      "pt": "código"
+    },
+    "keys": {
+      "pt": "chaves"
+    },
+    "poison": {
+      "pt": "envenenar"
+    },
+    "security": {
+      "pt": "segurança"
+    },
+    "firms": {
+      "pt": "empresas"
+    },
+    "socket": {
+      "pt": "Socket, empresa de segurança"
+    },
+    "wiz": {
+      "pt": "Wiz, empresa de segurança"
+    },
+    "endor": {
+      "pt": "Endor, empresa de segurança"
+    },
+    "labs": {
+      "pt": "Labs (nome de empresa)"
+    },
+    "reported": {
+      "pt": "informou"
+    },
+    "minutes": {
+      "pt": "minutos"
+    },
+    "apart": {
+      "pt": "de distância"
+    },
+    "adds": {
+      "pt": "adiciona"
+    },
+    "file": {
+      "pt": "arquivo"
+    },
+    "stealer": {
+      "pt": "programa que rouba dados"
+    },
+    "collects": {
+      "pt": "coleta"
+    },
+    "secrets": {
+      "pt": "segredos"
+    },
+    "web": {
+      "pt": "web"
+    },
+    "address": {
+      "pt": "endereço"
+    },
+    "pypi": {
+      "pt": "PyPI, site de pacotes Python"
+    },
+    "publishing": {
+      "pt": "publicação"
+    },
+    "access": {
+      "pt": "acesso"
+    },
+    "microsoft's": {
+      "pt": "da Microsoft"
+    },
+    "threat": {
+      "pt": "ameaça"
+    },
+    "actors": {
+      "pt": "agentes (atores)"
+    },
+    "open": {
+      "pt": "aberto"
+    },
+    "source": {
+      "pt": "fonte"
+    },
+    "toolkit": {
+      "pt": "conjunto de ferramentas"
+    },
+    "building": {
+      "pt": "construir"
+    },
+    "managing": {
+      "pt": "gerenciando"
+    },
+    "several": {
+      "pt": "vários"
+    },
+    "including": {
+      "pt": "incluindo"
+    },
+    "aikido": {
+      "pt": "Aikido, empresa de segurança"
+    },
+    "attack": {
+      "pt": "ataque"
+    },
+    "malicious": {
+      "pt": "malicioso"
+    },
+    "wheel": {
+      "pt": "wheel (pacote Python)"
+    },
+    "pth": {
+      "pt": "pth (tipo de arquivo)"
+    },
+    "site": {
+      "pt": "site; local"
+    },
+    "packages": {
+      "pt": "pacotes"
+    },
+    "folder": {
+      "pt": "pasta"
+    },
+    "whenever": {
+      "pt": "sempre que"
+    },
+    "environment": {
+      "pt": "ambiente"
+    },
+    "imports": {
+      "pt": "importa"
+    },
+    "researchers": {
+      "pt": "pesquisadores"
+    },
+    "stored": {
+      "pt": "guardado"
+    },
+    "disk": {
+      "pt": "disco (do computador)"
+    },
+    "platform": {
+      "pt": "plataforma"
+    },
+    "issue": {
+      "pt": "emitir"
+    },
+    "azure": {
+      "pt": "Azure, nuvem da Microsoft"
+    },
+    "tokens": {
+      "pt": "chaves digitais (tokens)"
+    },
+    "version": {
+      "pt": "versão"
+    },
+    "github": {
+      "pt": "GitHub, site de programadores"
+    },
+    "actions": {
+      "pt": "ações"
+    },
+    "data": {
+      "pt": "dados"
+    },
+    "compressed": {
+      "pt": "comprimido"
+    },
+    "webhook": {
+      "pt": "webhook (endereço que recebe dados)"
+    },
+    "obtained": {
+      "pt": "obteve"
+    },
+    "unclear": {
+      "pt": "pouco claro"
+    },
+    "downloads": {
+      "pt": "downloads, baixas"
+    },
+    "related": {
+      "pt": "relacionado"
+    },
+    "hit": {
+      "pt": "atingido"
+    },
+    "durabletask": {
+      "pt": "durabletask, nome de um pacote"
+    }
+  }
+}

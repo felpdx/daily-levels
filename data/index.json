@@ -1,6 +1,41 @@
 {
   "articles": [
     {
+      "id": "2026-11-18-java4shell-flaw-ai",
+      "date": "2026-11-18",
+      "topic": "hacking",
+      "title": "AI finds a big Java flaw",
+      "source": "BBC News"
+    },
+    {
+      "id": "2026-11-18-microsoft-agent-framework-pypi",
+      "date": "2026-11-18",
+      "topic": "hacking",
+      "title": "A Microsoft Python tool is hacked",
+      "source": "The Hacker News"
+    },
+    {
+      "id": "2026-11-18-nvidia-huang-not-reinstated",
+      "date": "2026-11-18",
+      "topic": "bolsa",
+      "title": "Nvidia sales double",
+      "source": "BBC News"
+    },
+    {
+      "id": "2026-11-18-uk-inflation-fuel-october",
+      "date": "2026-11-18",
+      "topic": "bolsa",
+      "title": "UK prices rise again",
+      "source": "BBC News"
+    },
+    {
+      "id": "2026-11-18-us-loses-measles-status",
+      "date": "2026-11-18",
+      "topic": "mundo",
+      "title": "The US loses its measles status",
+      "source": "BBC News"
+    },
+    {
       "id": "2026-11-17-optimizely-hijack",
       "date": "2026-11-17",
       "topic": "hacking",

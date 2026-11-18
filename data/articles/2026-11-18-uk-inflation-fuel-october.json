@@ -1,0 +1,282 @@
+{
+  "id": "2026-11-18-uk-inflation-fuel-october",
+  "date": "2026-11-18",
+  "topic": "bolsa",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-11-18T08:45:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "UK prices rise again",
+      "text": "Prices in the UK went up 3.6% in the year to October. In September, they went up 3.5%. Fuel costs are the main reason. The price of diesel is the highest in 30 years. The Bank of England raised interest rates this month. Energy bills may go up 26% in January."
+    },
+    "2": {
+      "title": "Fuel prices push UK inflation higher",
+      "text": "Prices in the UK rose 3.6% in the year to October, up from 3.5% in September, official figures show. The Office for National Statistics said fuel was a big reason. Petrol reached 174.7p per litre, the highest since August 2022, and diesel averaged 199.5p per litre, the highest since records began 30 years ago.\n\nThe rise comes after the US-Iran war pushed up oil prices. Earlier this month the Bank of England raised interest rates from 3.75% to 4%. Gas and electricity bills may rise 26% in January, according to the firm Cornwall Insight. Food price inflation, however, was the slowest in five years."
+    },
+    "3": {
+      "title": "Higher fuel prices push UK inflation up again",
+      "text": "Higher petrol and diesel prices pushed the UK's inflation rate up again last month. Prices rose 3.6% in the year to October, up from 3.5% in September, the Office for National Statistics said. Petrol averaged 174.7p per litre, the highest since August 2022, while diesel reached 199.5p, the highest since records began 30 years ago.\n\nPrices have surged in recent months because of the US-Iran war. The Bank of England raised interest rates from 3.75% to 4% earlier this month, the first rise in three years, and signalled another could follow unless the conflict is resolved. The consultancy Cornwall Insight forecasts that gas and electricity bills will jump 26% in January.\n\nThe government has cut VAT on electricity bills to zero until next July and will give £100 to 20 million homes. Shadow chancellor Andrew Griffith blamed soaring energy costs and Labour's tax decisions. Food price inflation rose by 0.9%, the slowest pace in five years."
+    }
+  },
+  "glossary": {
+    "inflation": {
+      "pt": "inflação",
+      "highlight": true
+    },
+    "fuel": {
+      "pt": "combustível",
+      "highlight": true
+    },
+    "interest rate": {
+      "pt": "taxa de juros"
+    },
+    "petrol": {
+      "pt": "gasolina (no Reino Unido)",
+      "highlight": true
+    },
+    "diesel": {
+      "pt": "diesel"
+    },
+    "bill": {
+      "pt": "conta",
+      "forms": [
+        "bills"
+      ],
+      "highlight": true
+    },
+    "surge": {
+      "pt": "subir de repente",
+      "forms": [
+        "surged"
+      ],
+      "highlight": true
+    },
+    "forecast": {
+      "pt": "prever; previsão",
+      "forms": [
+        "forecasts"
+      ],
+      "highlight": true
+    },
+    "price": {
+      "pt": "preço",
+      "forms": [
+        "prices"
+      ]
+    },
+    "raise": {
+      "pt": "aumentar",
+      "forms": [
+        "raised"
+      ]
+    },
+    "litre": {
+      "pt": "litro",
+      "forms": [
+        "litres"
+      ]
+    },
+    "household": {
+      "pt": "casa; família",
+      "forms": [
+        "households"
+      ],
+      "highlight": true
+    },
+    "uk": {
+      "pt": "Reino Unido"
+    },
+    "rise": {
+      "pt": "alta; subir"
+    },
+    "october": {
+      "pt": "outubro"
+    },
+    "september": {
+      "pt": "setembro"
+    },
+    "costs": {
+      "pt": "custos"
+    },
+    "bank": {
+      "pt": "banco"
+    },
+    "england": {
+      "pt": "Inglaterra"
+    },
+    "interest": {
+      "pt": "juros"
+    },
+    "rates": {
+      "pt": "taxas"
+    },
+    "energy": {
+      "pt": "energia"
+    },
+    "january": {
+      "pt": "janeiro"
+    },
+    "push": {
+      "pt": "empurrar; elevar"
+    },
+    "rose": {
+      "pt": "subiu"
+    },
+    "official": {
+      "pt": "oficial"
+    },
+    "figures": {
+      "pt": "números"
+    },
+    "office": {
+      "pt": "escritório; órgão"
+    },
+    "national": {
+      "pt": "nacional"
+    },
+    "statistics": {
+      "pt": "estatísticas"
+    },
+    "reached": {
+      "pt": "chegou a"
+    },
+    "per": {
+      "pt": "por"
+    },
+    "august": {
+      "pt": "agosto"
+    },
+    "averaged": {
+      "pt": "teve média de"
+    },
+    "records": {
+      "pt": "registros"
+    },
+    "ago": {
+      "pt": "atrás"
+    },
+    "iran": {
+      "pt": "Irã"
+    },
+    "war": {
+      "pt": "guerra"
+    },
+    "pushed": {
+      "pt": "empurrou; elevou"
+    },
+    "oil": {
+      "pt": "petróleo"
+    },
+    "earlier": {
+      "pt": "mais cedo; antes"
+    },
+    "gas": {
+      "pt": "gás"
+    },
+    "electricity": {
+      "pt": "eletricidade"
+    },
+    "according": {
+      "pt": "segundo"
+    },
+    "firm": {
+      "pt": "empresa"
+    },
+    "cornwall": {
+      "pt": "Cornwall (nome de empresa)"
+    },
+    "insight": {
+      "pt": "Insight (nome de empresa)"
+    },
+    "food": {
+      "pt": "comida"
+    },
+    "slowest": {
+      "pt": "mais lento"
+    },
+    "five": {
+      "pt": "cinco"
+    },
+    "uk's": {
+      "pt": "do Reino Unido"
+    },
+    "rate": {
+      "pt": "taxa"
+    },
+    "recent": {
+      "pt": "recente"
+    },
+    "three": {
+      "pt": "três"
+    },
+    "signalled": {
+      "pt": "sinalizou"
+    },
+    "follow": {
+      "pt": "seguir"
+    },
+    "unless": {
+      "pt": "a menos que"
+    },
+    "conflict": {
+      "pt": "conflito"
+    },
+    "resolved": {
+      "pt": "resolvido"
+    },
+    "consultancy": {
+      "pt": "consultoria"
+    },
+    "jump": {
+      "pt": "saltar"
+    },
+    "cut": {
+      "pt": "cortou"
+    },
+    "vat": {
+      "pt": "VAT, imposto sobre valor agregado"
+    },
+    "zero": {
+      "pt": "zero"
+    },
+    "july": {
+      "pt": "julho"
+    },
+    "homes": {
+      "pt": "casas"
+    },
+    "shadow": {
+      "pt": "sombra (oposição)"
+    },
+    "chancellor": {
+      "pt": "ministro da Fazenda (Reino Unido)"
+    },
+    "andrew": {
+      "pt": "Andrew (nome)"
+    },
+    "griffith": {
+      "pt": "Griffith (sobrenome)"
+    },
+    "blamed": {
+      "pt": "culpou"
+    },
+    "soaring": {
+      "pt": "disparando"
+    },
+    "labour's": {
+      "pt": "do Partido Trabalhista"
+    },
+    "tax": {
+      "pt": "imposto"
+    },
+    "decisions": {
+      "pt": "decisões"
+    },
+    "pace": {
+      "pt": "ritmo"
+    }
+  }
+}

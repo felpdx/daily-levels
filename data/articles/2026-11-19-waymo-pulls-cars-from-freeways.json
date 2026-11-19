@@ -1,0 +1,382 @@
+{
+  "id": "2026-11-19-waymo-pulls-cars-from-freeways",
+  "date": "2026-11-19",
+  "topic": "mundo",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-11-18T03:07:22Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Waymo stops freeway rides in the US",
+      "text": "Waymo stopped its driverless taxis on all freeways in the US. Waymo is a company that makes driverless cars. California banned them from state freeways on November 11. The state saw a danger to the public. Some Waymo cars went into a construction zone. The taxis can still drive on city streets."
+    },
+    "2": {
+      "title": "Waymo pulls driverless taxis from all US freeways",
+      "text": "Waymo has temporarily stopped its driverless vehicles from using all freeways in the US. The decision comes after California banned the taxis from state freeways, following several traffic incidents.\n\nCalifornia's Department of Motor Vehicles said there was an \"imminent hazard to public safety.\" This month, several driverless Waymo cars entered an active construction zone on US Route 101. The company said no one was hurt and that no crashes were reported.\n\nThe California ban started on November 11. It will stay until Waymo shows that it has fixed the problems. Waymo runs driverless taxis in 15 US cities, but offered freeway rides in only a few of them. The taxis can still drive on regular city streets."
+    },
+    "3": {
+      "title": "Waymo pulls driverless taxis from all US freeways",
+      "text": "Waymo has temporarily suspended its driverless vehicles from operating on all US freeways, the company has said. The decision comes after California banned Waymo's driverless taxis from state freeways following a series of recent traffic incidents.\n\nCalifornia's Department of Motor Vehicles cited an \"imminent hazard to public safety,\" noting an incident this month in which several driverless Waymo vehicles entered an active construction zone on US Route 101. Waymo said no injuries or collisions were reported and that it was working with state officials to resume freeway operations. In another incident earlier this month, footage on social media appeared to show a Waymo car trying to overtake patrol vehicles that were deliberately slowing traffic on a San Francisco highway.\n\nThe ban took effect on November 11 and will remain until Waymo demonstrates that it has taken effective corrective actions. A spokesperson said the company had also temporarily restricted freeway operations in its other markets. Waymo operates in 15 US cities but offered freeway rides in only a handful, including San Francisco, Los Angeles and Miami. Its data suggests its cars are involved in 95% fewer crashes with serious injuries than human drivers. The taxis can continue to operate on regular city streets."
+    }
+  },
+  "glossary": {
+    "waymo": {
+      "pt": "Waymo, empresa de carros sem motorista",
+      "highlight": true
+    },
+    "freeway": {
+      "pt": "rodovia, via expressa",
+      "forms": [
+        "freeways"
+      ]
+    },
+    "ride": {
+      "pt": "corrida, viagem",
+      "forms": [
+        "rides"
+      ]
+    },
+    "driverless": {
+      "pt": "sem motorista",
+      "highlight": true
+    },
+    "taxi": {
+      "pt": "táxi",
+      "forms": [
+        "taxis"
+      ]
+    },
+    "car": {
+      "pt": "carro",
+      "forms": [
+        "cars"
+      ]
+    },
+    "california's": {
+      "pt": "da Califórnia"
+    },
+    "ban": {
+      "pt": "proibir",
+      "forms": [
+        "banned",
+        "bans"
+      ],
+      "highlight": true
+    },
+    "state": {
+      "pt": "estado"
+    },
+    "november": {
+      "pt": "novembro"
+    },
+    "danger": {
+      "pt": "perigo"
+    },
+    "public": {
+      "pt": "aberto ao público"
+    },
+    "construction": {
+      "pt": "obra, construção"
+    },
+    "zone": {
+      "pt": "zona"
+    },
+    "drive": {
+      "pt": "dirigir"
+    },
+    "street": {
+      "pt": "rua",
+      "forms": [
+        "streets"
+      ]
+    },
+    "pull": {
+      "pt": "retirar",
+      "forms": [
+        "pulls"
+      ]
+    },
+    "temporarily": {
+      "pt": "temporariamente"
+    },
+    "vehicle": {
+      "pt": "veículo",
+      "forms": [
+        "vehicles"
+      ]
+    },
+    "decision": {
+      "pt": "decisão"
+    },
+    "follow": {
+      "pt": "seguir",
+      "forms": [
+        "following"
+      ]
+    },
+    "several": {
+      "pt": "vários"
+    },
+    "traffic": {
+      "pt": "trânsito"
+    },
+    "incident": {
+      "pt": "incidente",
+      "forms": [
+        "incidents"
+      ]
+    },
+    "department": {
+      "pt": "departamento"
+    },
+    "motor": {
+      "pt": "de veículos"
+    },
+    "imminent": {
+      "pt": "iminente"
+    },
+    "hazard": {
+      "pt": "perigo",
+      "highlight": true
+    },
+    "safety": {
+      "pt": "segurança"
+    },
+    "enter": {
+      "pt": "entrar",
+      "forms": [
+        "entered"
+      ]
+    },
+    "active": {
+      "pt": "ativo"
+    },
+    "route": {
+      "pt": "rota"
+    },
+    "hurt": {
+      "pt": "ferido"
+    },
+    "crash": {
+      "pt": "batida",
+      "forms": [
+        "crashes"
+      ]
+    },
+    "report": {
+      "pt": "relatar",
+      "forms": [
+        "reported"
+      ]
+    },
+    "stay": {
+      "pt": "ficar, continuar"
+    },
+    "fixed": {
+      "pt": "corrigido"
+    },
+    "offer": {
+      "pt": "oferecer",
+      "forms": [
+        "offered"
+      ]
+    },
+    "regular": {
+      "pt": "comum"
+    },
+    "suspend": {
+      "pt": "suspender",
+      "forms": [
+        "suspended"
+      ],
+      "highlight": true
+    },
+    "operate": {
+      "pt": "operar",
+      "forms": [
+        "operating",
+        "operates"
+      ]
+    },
+    "series": {
+      "pt": "série"
+    },
+    "recent": {
+      "pt": "recente"
+    },
+    "cite": {
+      "pt": "citar",
+      "forms": [
+        "cited"
+      ]
+    },
+    "note": {
+      "pt": "notar",
+      "forms": [
+        "noting"
+      ]
+    },
+    "injury": {
+      "pt": "ferimento",
+      "forms": [
+        "injuries"
+      ]
+    },
+    "collision": {
+      "pt": "colisão",
+      "forms": [
+        "collisions"
+      ]
+    },
+    "official": {
+      "pt": "autoridade",
+      "forms": [
+        "officials"
+      ]
+    },
+    "resume": {
+      "pt": "retomar",
+      "highlight": true
+    },
+    "operation": {
+      "pt": "operação",
+      "forms": [
+        "operations"
+      ]
+    },
+    "earlier": {
+      "pt": "antes"
+    },
+    "footage": {
+      "pt": "imagens"
+    },
+    "social": {
+      "pt": "social"
+    },
+    "media": {
+      "pt": "mídia"
+    },
+    "appear": {
+      "pt": "parecer",
+      "forms": [
+        "appeared"
+      ]
+    },
+    "overtake": {
+      "pt": "ultrapassar",
+      "highlight": true
+    },
+    "patrol": {
+      "pt": "patrulha"
+    },
+    "deliberately": {
+      "pt": "de propósito"
+    },
+    "slow": {
+      "pt": "reduzir a velocidade",
+      "forms": [
+        "slowing"
+      ]
+    },
+    "san": {
+      "pt": "San (santo)"
+    },
+    "francisco": {
+      "pt": "Francisco"
+    },
+    "highway": {
+      "pt": "estrada"
+    },
+    "effect": {
+      "pt": "vigor"
+    },
+    "remain": {
+      "pt": "continuar"
+    },
+    "demonstrate": {
+      "pt": "demonstrar",
+      "forms": [
+        "demonstrates"
+      ]
+    },
+    "effective": {
+      "pt": "eficaz"
+    },
+    "corrective": {
+      "pt": "corretivo",
+      "highlight": true
+    },
+    "action": {
+      "pt": "ação",
+      "forms": [
+        "actions"
+      ]
+    },
+    "spokesperson": {
+      "pt": "porta-voz"
+    },
+    "restrict": {
+      "pt": "restringir",
+      "forms": [
+        "restricted"
+      ],
+      "highlight": true
+    },
+    "market": {
+      "pt": "mercado",
+      "forms": [
+        "markets"
+      ]
+    },
+    "handful": {
+      "pt": "pequeno número"
+    },
+    "including": {
+      "pt": "incluindo"
+    },
+    "los": {
+      "pt": "Los (espanhol: os)"
+    },
+    "angeles": {
+      "pt": "Angeles"
+    },
+    "miami": {
+      "pt": "Miami, cidade dos EUA"
+    },
+    "data": {
+      "pt": "dados"
+    },
+    "suggest": {
+      "pt": "sugerir",
+      "forms": [
+        "suggests"
+      ]
+    },
+    "involve": {
+      "pt": "envolver",
+      "forms": [
+        "involved"
+      ]
+    },
+    "fewer": {
+      "pt": "menos"
+    },
+    "serious": {
+      "pt": "grave"
+    },
+    "human": {
+      "pt": "humano"
+    },
+    "driver": {
+      "pt": "motorista",
+      "forms": [
+        "drivers"
+      ]
+    },
+    "continue": {
+      "pt": "continuar"
+    }
+  }
+}

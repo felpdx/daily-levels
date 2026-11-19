@@ -1,0 +1,358 @@
+{
+  "id": "2026-11-19-nginx-http2-flaw",
+  "date": "2026-11-19",
+  "topic": "hacking",
+  "source": {
+    "name": "The Hacker News",
+    "url": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html",
+    "publishedAt": "2026-11-18T18:31:17Z"
+  },
+  "levels": {
+    "1": {
+      "title": "NGINX flaw lets hackers run code",
+      "text": "A security problem was found in NGINX. NGINX is software that runs many websites. The problem is ten years old. An attacker can run code on a server without a password. The server must use HTTP/2. New fixed versions came out today. So far, no attacks were reported."
+    },
+    "2": {
+      "title": "Ten-year-old NGINX flaw allows remote code execution",
+      "text": "A ten-year-old flaw in NGINX can let an attacker run code on a server without logging in. The flaw, called CVE-2026-123007, exists in every version from 1.9.5, released in 2015, to 1.31.8. It affects servers that use HTTP/2.\n\nF5, the company behind NGINX, released fixed versions 1.31.9 and 1.30.7 today. Researchers at Wiz and Xint said they ran code through the flaw in tests. The attack works where a protection called ASLR is turned off or can be bypassed.\n\nSo far, F5 and the researchers at Wiz and Rapid7 have not reported real attacks. Until people update, one temporary option is to turn off HTTP/2."
+    },
+    "3": {
+      "title": "Decade-old NGINX flaw lets unauthenticated attackers execute code",
+      "text": "A decade-old flaw in NGINX, one of the most widely used web servers, can let unauthenticated attackers run code on servers that have HTTP/2 enabled. The bug, tracked as CVE-2026-123007 and nicknamed \"nginx2root,\" has been present since version 1.9.5, released on September 22, 2015. F5, the company behind NGINX, released fixed versions 1.31.9 and 1.30.7 today.\n\nAccording to F5, attackers can run code where ASLR, a memory protection, is turned off or can be bypassed. Researchers at Wiz said they bypassed ASLR in tests, and researchers at Xint said they needed only a reachable HTTP/2 port. The code gets the permissions of an NGINX worker process, so taking over the whole host requires a second bug. In Xint's tests, a separate Linux kernel flaw made that possible, even inside a Docker container.\n\nNeither F5 nor the researchers at Wiz and Rapid7 have reported attacks so far, and the flaw was not in the CISA catalog of exploited vulnerabilities today. The fixed releases also address four more flaws. The Computer Incident Response Center Luxembourg suggests turning off HTTP/2 as a temporary measure, which blocks two of the five flaws."
+    }
+  },
+  "glossary": {
+    "nginx": {
+      "pt": "NGINX, programa que roda muitos sites",
+      "highlight": true
+    },
+    "flaw": {
+      "pt": "falha",
+      "forms": [
+        "flaws"
+      ],
+      "highlight": true
+    },
+    "let": {
+      "pt": "deixar, permitir",
+      "forms": [
+        "lets"
+      ]
+    },
+    "hacker": {
+      "pt": "hacker, invasor",
+      "forms": [
+        "hackers"
+      ]
+    },
+    "code": {
+      "pt": "código (de programa)",
+      "highlight": true
+    },
+    "security": {
+      "pt": "segurança"
+    },
+    "software": {
+      "pt": "programa de computador"
+    },
+    "website": {
+      "pt": "site",
+      "forms": [
+        "websites"
+      ]
+    },
+    "ten": {
+      "pt": "dez"
+    },
+    "attacker": {
+      "pt": "atacante",
+      "forms": [
+        "attackers"
+      ],
+      "highlight": true
+    },
+    "server": {
+      "pt": "servidor",
+      "forms": [
+        "servers"
+      ],
+      "highlight": true
+    },
+    "password": {
+      "pt": "senha"
+    },
+    "http": {
+      "pt": "HTTP, protocolo usado na web"
+    },
+    "fixed": {
+      "pt": "corrigido"
+    },
+    "version": {
+      "pt": "versão",
+      "forms": [
+        "versions"
+      ]
+    },
+    "attack": {
+      "pt": "ataque",
+      "forms": [
+        "attacks"
+      ]
+    },
+    "report": {
+      "pt": "relatar",
+      "forms": [
+        "reported"
+      ]
+    },
+    "allow": {
+      "pt": "permitir",
+      "forms": [
+        "allows"
+      ]
+    },
+    "remote": {
+      "pt": "remoto"
+    },
+    "execution": {
+      "pt": "execução"
+    },
+    "log": {
+      "pt": "entrar (fazer login)",
+      "forms": [
+        "logging"
+      ]
+    },
+    "exist": {
+      "pt": "existir",
+      "forms": [
+        "exists"
+      ]
+    },
+    "release": {
+      "pt": "lançar",
+      "forms": [
+        "released",
+        "releases"
+      ]
+    },
+    "affect": {
+      "pt": "afetar",
+      "forms": [
+        "affects"
+      ]
+    },
+    "researcher": {
+      "pt": "pesquisador",
+      "forms": [
+        "researchers"
+      ]
+    },
+    "wiz": {
+      "pt": "Wiz, empresa de segurança"
+    },
+    "xint": {
+      "pt": "Xint, grupo de pesquisadores de segurança"
+    },
+    "test": {
+      "pt": "teste",
+      "forms": [
+        "tests"
+      ]
+    },
+    "protection": {
+      "pt": "proteção",
+      "highlight": true
+    },
+    "aslr": {
+      "pt": "ASLR, proteção de memória do sistema"
+    },
+    "bypass": {
+      "pt": "contornar",
+      "forms": [
+        "bypassed"
+      ],
+      "highlight": true
+    },
+    "update": {
+      "pt": "atualizar"
+    },
+    "temporary": {
+      "pt": "temporário"
+    },
+    "option": {
+      "pt": "opção"
+    },
+    "decade": {
+      "pt": "década",
+      "forms": [
+        "decade-old"
+      ]
+    },
+    "unauthenticated": {
+      "pt": "sem login, sem autenticação"
+    },
+    "execute": {
+      "pt": "executar"
+    },
+    "widely": {
+      "pt": "amplamente"
+    },
+    "web": {
+      "pt": "web, internet"
+    },
+    "enable": {
+      "pt": "ativar",
+      "forms": [
+        "enabled"
+      ]
+    },
+    "bug": {
+      "pt": "erro, defeito"
+    },
+    "track": {
+      "pt": "acompanhar, registrar",
+      "forms": [
+        "tracked"
+      ]
+    },
+    "nickname": {
+      "pt": "apelido",
+      "forms": [
+        "nicknamed"
+      ]
+    },
+    "present": {
+      "pt": "presente"
+    },
+    "september": {
+      "pt": "setembro"
+    },
+    "accord": {
+      "pt": "de acordo",
+      "forms": [
+        "according"
+      ]
+    },
+    "memory": {
+      "pt": "memória"
+    },
+    "reachable": {
+      "pt": "acessível"
+    },
+    "port": {
+      "pt": "porta (de rede)"
+    },
+    "permission": {
+      "pt": "permissão",
+      "forms": [
+        "permissions"
+      ]
+    },
+    "process": {
+      "pt": "processo"
+    },
+    "whole": {
+      "pt": "inteiro"
+    },
+    "host": {
+      "pt": "máquina hospedeira"
+    },
+    "require": {
+      "pt": "exigir",
+      "forms": [
+        "requires"
+      ]
+    },
+    "separate": {
+      "pt": "separado"
+    },
+    "linux": {
+      "pt": "Linux, sistema operacional"
+    },
+    "kernel": {
+      "pt": "núcleo do sistema operacional"
+    },
+    "possible": {
+      "pt": "possível"
+    },
+    "inside": {
+      "pt": "dentro de"
+    },
+    "docker": {
+      "pt": "Docker, ferramenta de contêineres"
+    },
+    "container": {
+      "pt": "contêiner"
+    },
+    "neither": {
+      "pt": "nem"
+    },
+    "nor": {
+      "pt": "nem"
+    },
+    "cisa": {
+      "pt": "CISA, agência de segurança dos EUA"
+    },
+    "catalog": {
+      "pt": "catálogo"
+    },
+    "exploit": {
+      "pt": "explorar (uma falha)",
+      "forms": [
+        "exploited"
+      ]
+    },
+    "vulnerability": {
+      "pt": "vulnerabilidade",
+      "forms": [
+        "vulnerabilities"
+      ]
+    },
+    "address": {
+      "pt": "tratar, corrigir"
+    },
+    "four": {
+      "pt": "quatro"
+    },
+    "computer": {
+      "pt": "computador",
+      "forms": [
+        "computers"
+      ]
+    },
+    "incident": {
+      "pt": "incidente",
+      "forms": [
+        "incidents"
+      ]
+    },
+    "response": {
+      "pt": "resposta"
+    },
+    "center": {
+      "pt": "centro"
+    },
+    "luxembourg": {
+      "pt": "Luxemburgo, país da Europa"
+    },
+    "suggest": {
+      "pt": "sugerir",
+      "forms": [
+        "suggests"
+      ]
+    },
+    "measure": {
+      "pt": "medida"
+    },
+    "block": {
+      "pt": "bloquear",
+      "forms": [
+        "blocks"
+      ]
+    },
+    "five": {
+      "pt": "cinco"
+    }
+  }
+}

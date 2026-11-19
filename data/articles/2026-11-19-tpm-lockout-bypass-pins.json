@@ -1,0 +1,417 @@
+{
+  "id": "2026-11-19-tpm-lockout-bypass-pins",
+  "date": "2026-11-19",
+  "topic": "hacking",
+  "source": {
+    "name": "The Hacker News",
+    "url": "https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html",
+    "publishedAt": "2026-11-18T12:28:30Z"
+  },
+  "levels": {
+    "1": {
+      "title": "PIN protection can be bypassed",
+      "text": "Researchers in Berlin found a way to guess PINs on some computers. The PINs protect Windows Hello and BitLocker. The attacker must open the computer. Then the attacker can reset the limit on wrong guesses. In tests, the researchers found PINs they had set in 236 tries. AMD says it will fix its chips from November to February 2027."
+    },
+    "2": {
+      "title": "Attack on flash chips bypasses TPM lockout",
+      "text": "Researchers at the Technical University of Berlin found a way to reset the lockout that protects Windows Hello and BitLocker PINs. It works on AMD computers and some Intel computers, but the attacker must open the case.\n\nThe lockout counts wrong guesses and is stored on the flash chip of the mainboard. The researchers put a small board between the processor and the chip, so the computer accepts an old copy with a lower count. On the Intel laptop, they also made the chip reveal a secret key with a brief drop in power.\n\nIn lab tests, they found a four-digit Hello PIN and a six-digit BitLocker PIN, both set by themselves, in 236 tries. AMD confirmed a firmware flaw and plans fixes from November to February 2027. The researchers advise adding at least two digits to the PIN. Neither the paper nor the vendors described attacks outside the lab."
+    },
+    "3": {
+      "title": "New attack bypasses TPM lockout to crack Windows Hello and BitLocker PINs",
+      "text": "Researchers at the Technical University of Berlin say that someone who opens a PC's case can reset the TPM lockout that protects Windows Hello and BitLocker PINs, leaving short PINs open to guessing. The attack works on AMD-based PCs and some Intel PCs.\n\nThe TPM in these machines is built into the processor, so it saves its state, including the count of wrong guesses, on the flash chip of the mainboard. If an attacker writes an old copy of that state back, the count goes back too. Newer PCs try to prevent this with counters in the flash chip, but on AMD PCs the firmware never checks that the counter increased. Chips from Winbond have a different weakness: a brief voltage drop makes them reveal the key that signs the counter.\n\nIn lab tests, the researchers found a four-digit Hello PIN on an AMD laptop and a six-digit BitLocker PIN on an Intel laptop, both set by themselves, within 236 tries. They calculate a worst case of 40 hours for a four-digit Hello PIN, instead of 69 days.\n\nAMD confirmed a firmware flaw and plans fixes between November and February 2027, though it says attacks that need physical access fall outside its threat model. Intel said the research did not demonstrate a vulnerability in an Intel component. The researchers advise adding at least two digits to PINs. Neither the paper nor the vendors describe attacks outside the lab."
+    }
+  },
+  "glossary": {
+    "pin": {
+      "pt": "PIN, senha numérica",
+      "forms": [
+        "pins"
+      ]
+    },
+    "protection": {
+      "pt": "proteção"
+    },
+    "bypass": {
+      "pt": "contornar",
+      "forms": [
+        "bypassed"
+      ]
+    },
+    "researcher": {
+      "pt": "pesquisador",
+      "forms": [
+        "researchers"
+      ]
+    },
+    "berlin": {
+      "pt": "Berlim, cidade da Alemanha"
+    },
+    "guess": {
+      "pt": "adivinhar",
+      "forms": [
+        "guesses",
+        "guessing"
+      ],
+      "highlight": true
+    },
+    "computer": {
+      "pt": "computador",
+      "forms": [
+        "computers"
+      ]
+    },
+    "protect": {
+      "pt": "proteger",
+      "forms": [
+        "protects"
+      ],
+      "highlight": true
+    },
+    "windows": {
+      "pt": "Windows, sistema da Microsoft"
+    },
+    "hello": {
+      "pt": "Windows Hello, login do Windows"
+    },
+    "bitlocker": {
+      "pt": "BitLocker, criptografia de disco do Windows"
+    },
+    "attacker": {
+      "pt": "atacante",
+      "forms": [
+        "attackers"
+      ]
+    },
+    "open": {
+      "pt": "abrir",
+      "forms": [
+        "opens"
+      ]
+    },
+    "reset": {
+      "pt": "reiniciar, zerar",
+      "highlight": true
+    },
+    "limit": {
+      "pt": "limite"
+    },
+    "wrong": {
+      "pt": "errado"
+    },
+    "test": {
+      "pt": "teste",
+      "forms": [
+        "tests"
+      ]
+    },
+    "set": {
+      "pt": "definir"
+    },
+    "amd": {
+      "pt": "AMD, fabricante de processadores"
+    },
+    "fix": {
+      "pt": "correção",
+      "forms": [
+        "fixes"
+      ]
+    },
+    "chip": {
+      "pt": "chip",
+      "forms": [
+        "chips"
+      ]
+    },
+    "november": {
+      "pt": "novembro"
+    },
+    "february": {
+      "pt": "fevereiro"
+    },
+    "attack": {
+      "pt": "ataque",
+      "forms": [
+        "attacks"
+      ]
+    },
+    "flash": {
+      "pt": "memória flash"
+    },
+    "bypasses": {
+      "pt": "contorna",
+      "highlight": true
+    },
+    "tpm": {
+      "pt": "TPM, chip de segurança do computador"
+    },
+    "lockout": {
+      "pt": "bloqueio após tentativas erradas",
+      "highlight": true
+    },
+    "technical": {
+      "pt": "técnico"
+    },
+    "university": {
+      "pt": "universidade"
+    },
+    "intel": {
+      "pt": "Intel, fabricante de processadores"
+    },
+    "case": {
+      "pt": "caixa, gabinete"
+    },
+    "count": {
+      "pt": "contar, contagem",
+      "forms": [
+        "counts"
+      ]
+    },
+    "store": {
+      "pt": "guardar",
+      "forms": [
+        "stored"
+      ]
+    },
+    "mainboard": {
+      "pt": "placa-mãe"
+    },
+    "board": {
+      "pt": "placa"
+    },
+    "processor": {
+      "pt": "processador"
+    },
+    "accept": {
+      "pt": "aceitar",
+      "forms": [
+        "accepts"
+      ]
+    },
+    "copy": {
+      "pt": "cópia"
+    },
+    "laptop": {
+      "pt": "notebook"
+    },
+    "reveal": {
+      "pt": "revelar",
+      "highlight": true
+    },
+    "secret": {
+      "pt": "secreto"
+    },
+    "key": {
+      "pt": "principal"
+    },
+    "brief": {
+      "pt": "breve"
+    },
+    "drop": {
+      "pt": "queda"
+    },
+    "power": {
+      "pt": "energia"
+    },
+    "lab": {
+      "pt": "laboratório"
+    },
+    "four": {
+      "pt": "quatro"
+    },
+    "digit": {
+      "pt": "dígito",
+      "forms": [
+        "digits"
+      ]
+    },
+    "six": {
+      "pt": "seis"
+    },
+    "confirm": {
+      "pt": "confirmar",
+      "forms": [
+        "confirmed"
+      ]
+    },
+    "firmware": {
+      "pt": "programa interno de um chip",
+      "highlight": true
+    },
+    "flaw": {
+      "pt": "falha",
+      "forms": [
+        "flaws"
+      ]
+    },
+    "advise": {
+      "pt": "aconselhar"
+    },
+    "add": {
+      "pt": "adicionar",
+      "forms": [
+        "adding"
+      ]
+    },
+    "least": {
+      "pt": "pelo menos"
+    },
+    "neither": {
+      "pt": "nem"
+    },
+    "paper": {
+      "pt": "artigo científico"
+    },
+    "nor": {
+      "pt": "nem"
+    },
+    "vendor": {
+      "pt": "fabricante",
+      "forms": [
+        "vendors"
+      ]
+    },
+    "describe": {
+      "pt": "descrever",
+      "forms": [
+        "described"
+      ]
+    },
+    "outside": {
+      "pt": "fora de"
+    },
+    "crack": {
+      "pt": "quebrar, descobrir"
+    },
+    "someone": {
+      "pt": "alguém"
+    },
+    "pc": {
+      "pt": "computador (PC)",
+      "forms": [
+        "pcs"
+      ]
+    },
+    "guessing": {
+      "pt": "adivinhação"
+    },
+    "base": {
+      "pt": "basear",
+      "forms": [
+        "based"
+      ]
+    },
+    "machine": {
+      "pt": "máquina",
+      "forms": [
+        "machines"
+      ]
+    },
+    "build": {
+      "pt": "construir",
+      "forms": [
+        "built"
+      ]
+    },
+    "save": {
+      "pt": "guardar",
+      "forms": [
+        "saves"
+      ]
+    },
+    "state": {
+      "pt": "estado"
+    },
+    "including": {
+      "pt": "incluindo"
+    },
+    "new": {
+      "pt": "novo",
+      "forms": [
+        "newer"
+      ]
+    },
+    "prevent": {
+      "pt": "impedir"
+    },
+    "counter": {
+      "pt": "contador",
+      "forms": [
+        "counters"
+      ]
+    },
+    "check": {
+      "pt": "verificar",
+      "forms": [
+        "checks"
+      ]
+    },
+    "increase": {
+      "pt": "aumentar",
+      "forms": [
+        "increased"
+      ]
+    },
+    "winbond": {
+      "pt": "Winbond, fabricante de chips de memória"
+    },
+    "weakness": {
+      "pt": "ponto fraco",
+      "highlight": true
+    },
+    "voltage": {
+      "pt": "tensão elétrica",
+      "highlight": true
+    },
+    "sign": {
+      "pt": "assinar",
+      "forms": [
+        "signs"
+      ]
+    },
+    "calculate": {
+      "pt": "calcular"
+    },
+    "hour": {
+      "pt": "hora",
+      "forms": [
+        "hours"
+      ]
+    },
+    "instead": {
+      "pt": "em vez disso"
+    },
+    "though": {
+      "pt": "embora"
+    },
+    "physical": {
+      "pt": "físico"
+    },
+    "access": {
+      "pt": "acesso"
+    },
+    "threat": {
+      "pt": "ameaça"
+    },
+    "model": {
+      "pt": "modelo"
+    },
+    "research": {
+      "pt": "pesquisa"
+    },
+    "demonstrate": {
+      "pt": "demonstrar",
+      "forms": [
+        "demonstrates"
+      ]
+    },
+    "vulnerability": {
+      "pt": "vulnerabilidade",
+      "forms": [
+        "vulnerabilities"
+      ]
+    },
+    "component": {
+      "pt": "componente"
+    }
+  }
+}

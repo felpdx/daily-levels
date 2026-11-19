@@ -1,0 +1,384 @@
+{
+  "id": "2026-11-19-anthropic-ipo-valuation",
+  "date": "2026-11-19",
+  "topic": "bolsa",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-11-19T02:20:15Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Anthropic goes public on Thursday",
+      "text": "Anthropic is going public on Thursday. Anthropic makes the chatbot Claude. Its shares will cost $83 each. The company will be worth $1.5 trillion. It will trade on Nasdaq in New York. Many investors want to buy shares. Some people worry about money in the AI industry."
+    },
+    "2": {
+      "title": "Anthropic valued at $1.5 trillion before stock market debut",
+      "text": "Anthropic, the company behind the chatbot Claude, will be valued at $1.5 trillion when it starts trading on the Nasdaq on Thursday. Its shares will be priced at $83. Earlier this month, the company had said the price would be between $70 and $78.\n\nAn early investor told the BBC, without giving a name, that demand was more than 10 times higher than the number of shares available. Anthropic will be the first US company focused only on AI to go public. Its seven founders will become multi-billionaires.\n\nSome people see risks. Yang Wang, of Counterpoint Research, said the question is whether the business can keep pace as hundreds of billions of dollars in obligations come due in the next couple of years. The Federal Reserve also expressed concern about AI-related debt."
+    },
+    "3": {
+      "title": "Anthropic valued at $1.5tn ahead of record stock market debut",
+      "text": "Anthropic will be valued at $1.5 trillion when the five-year-old AI firm makes its stock market debut on Thursday, becoming one of the most valuable companies in the world. Shares will be priced at $83 on the Nasdaq, above the $70 to $78 range the company offered earlier this month. It will be the first US firm focused only on AI to go public, and its seven founders will become multi-billionaires.\n\nAn early investor who spoke to the BBC anonymously said shares were more than 10 times oversubscribed. Leah Bramwell of Canaccord Wealth said demand was \"well supported across the board\" by institutional and retail investors. Anthropic will raise more than $68 billion from investors and another $26 billion from sales to technology firms including Nvidia. SpaceX went public in June worth $2.2 trillion, but its share price fell sharply in the weeks after.\n\nThere is also concern about future revenue and profits. Yang Wang of Counterpoint Research said the key issue is whether the business can keep pace as hundreds of billions of dollars in financial obligations come due in the next couple of years. The Federal Reserve has also warned about AI-related debt financed through complex and opaque structures, according to minutes of its October meeting."
+    }
+  },
+  "glossary": {
+    "anthropic": {
+      "pt": "Anthropic, empresa de inteligência artificial",
+      "highlight": true
+    },
+    "public": {
+      "pt": "aberto ao público"
+    },
+    "thursday": {
+      "pt": "quinta-feira"
+    },
+    "chatbot": {
+      "pt": "chatbot, robô de conversa"
+    },
+    "claude": {
+      "pt": "Claude, chatbot da Anthropic"
+    },
+    "share": {
+      "pt": "ação",
+      "forms": [
+        "shares"
+      ],
+      "highlight": true
+    },
+    "cost": {
+      "pt": "custar"
+    },
+    "worth": {
+      "pt": "valer"
+    },
+    "trillion": {
+      "pt": "trilhão"
+    },
+    "trade": {
+      "pt": "negociar",
+      "forms": [
+        "trading"
+      ]
+    },
+    "nasdaq": {
+      "pt": "Nasdaq, bolsa de valores dos EUA"
+    },
+    "york": {
+      "pt": "Nova York"
+    },
+    "investor": {
+      "pt": "investidor",
+      "forms": [
+        "investors"
+      ],
+      "highlight": true
+    },
+    "worry": {
+      "pt": "preocupar-se"
+    },
+    "ai": {
+      "pt": "IA (inteligência artificial)"
+    },
+    "industry": {
+      "pt": "indústria, setor"
+    },
+    "value": {
+      "pt": "avaliar",
+      "forms": [
+        "valued"
+      ],
+      "highlight": true
+    },
+    "stock": {
+      "pt": "ação, bolsa",
+      "highlight": true
+    },
+    "market": {
+      "pt": "mercado",
+      "forms": [
+        "markets"
+      ]
+    },
+    "debut": {
+      "pt": "estreia",
+      "highlight": true
+    },
+    "price": {
+      "pt": "precificar",
+      "forms": [
+        "priced"
+      ]
+    },
+    "earlier": {
+      "pt": "antes"
+    },
+    "bbc": {
+      "pt": "BBC, rede de notícias britânica"
+    },
+    "demand": {
+      "pt": "demanda"
+    },
+    "available": {
+      "pt": "disponível"
+    },
+    "focus": {
+      "pt": "focar",
+      "forms": [
+        "focused"
+      ]
+    },
+    "seven": {
+      "pt": "sete"
+    },
+    "founder": {
+      "pt": "fundador",
+      "forms": [
+        "founders"
+      ],
+      "highlight": true
+    },
+    "multi": {
+      "pt": "vários"
+    },
+    "billionaire": {
+      "pt": "bilionário",
+      "forms": [
+        "billionaires"
+      ]
+    },
+    "risk": {
+      "pt": "risco",
+      "forms": [
+        "risks"
+      ],
+      "highlight": true
+    },
+    "yang": {
+      "pt": "Yang (nome)"
+    },
+    "wang": {
+      "pt": "Wang (sobrenome)"
+    },
+    "counterpoint": {
+      "pt": "Counterpoint, empresa de pesquisa"
+    },
+    "research": {
+      "pt": "pesquisa"
+    },
+    "question": {
+      "pt": "pergunta, questão"
+    },
+    "whether": {
+      "pt": "se"
+    },
+    "pace": {
+      "pt": "ritmo"
+    },
+    "hundred": {
+      "pt": "centena",
+      "forms": [
+        "hundreds"
+      ]
+    },
+    "dollar": {
+      "pt": "dólar",
+      "forms": [
+        "dollars"
+      ]
+    },
+    "obligation": {
+      "pt": "obrigação, dívida",
+      "forms": [
+        "obligations"
+      ]
+    },
+    "due": {
+      "pt": "a vencer"
+    },
+    "couple": {
+      "pt": "par, alguns"
+    },
+    "federal": {
+      "pt": "federal"
+    },
+    "reserve": {
+      "pt": "reserva"
+    },
+    "express": {
+      "pt": "expressar",
+      "forms": [
+        "expressed"
+      ]
+    },
+    "concern": {
+      "pt": "preocupação"
+    },
+    "related": {
+      "pt": "relacionado"
+    },
+    "debt": {
+      "pt": "dívida"
+    },
+    "ahead": {
+      "pt": "adiante, antes"
+    },
+    "record": {
+      "pt": "recorde"
+    },
+    "five": {
+      "pt": "cinco"
+    },
+    "firm": {
+      "pt": "empresa",
+      "forms": [
+        "firms"
+      ]
+    },
+    "valuable": {
+      "pt": "valioso"
+    },
+    "above": {
+      "pt": "acima de"
+    },
+    "range": {
+      "pt": "faixa"
+    },
+    "offer": {
+      "pt": "oferecer",
+      "forms": [
+        "offered"
+      ]
+    },
+    "spoke": {
+      "pt": "falou"
+    },
+    "anonymously": {
+      "pt": "sem dar o nome"
+    },
+    "oversubscribed": {
+      "pt": "com mais pedidos do que ações"
+    },
+    "leah": {
+      "pt": "Leah (nome)"
+    },
+    "bramwell": {
+      "pt": "Bramwell (sobrenome)"
+    },
+    "canaccord": {
+      "pt": "Canaccord, empresa de investimentos"
+    },
+    "wealth": {
+      "pt": "riqueza"
+    },
+    "support": {
+      "pt": "apoiar",
+      "forms": [
+        "supported"
+      ]
+    },
+    "across": {
+      "pt": "em todo"
+    },
+    "board": {
+      "pt": "placa"
+    },
+    "institutional": {
+      "pt": "institucional"
+    },
+    "retail": {
+      "pt": "varejo, pequenos investidores"
+    },
+    "raise": {
+      "pt": "aumentar",
+      "forms": [
+        "raised",
+        "raising"
+      ]
+    },
+    "sale": {
+      "pt": "venda",
+      "forms": [
+        "sales"
+      ]
+    },
+    "technology": {
+      "pt": "tecnologia"
+    },
+    "including": {
+      "pt": "incluindo"
+    },
+    "nvidia": {
+      "pt": "Nvidia, fabricante de chips"
+    },
+    "spacex": {
+      "pt": "SpaceX, empresa de foguetes"
+    },
+    "june": {
+      "pt": "junho"
+    },
+    "sharply": {
+      "pt": "bruscamente"
+    },
+    "future": {
+      "pt": "futuro"
+    },
+    "revenue": {
+      "pt": "receita"
+    },
+    "profit": {
+      "pt": "lucro",
+      "forms": [
+        "profits"
+      ]
+    },
+    "key": {
+      "pt": "principal"
+    },
+    "issue": {
+      "pt": "questão"
+    },
+    "financial": {
+      "pt": "financeiro"
+    },
+    "warn": {
+      "pt": "alertar",
+      "forms": [
+        "warns",
+        "warned"
+      ]
+    },
+    "finance": {
+      "pt": "financiar",
+      "forms": [
+        "financed"
+      ]
+    },
+    "complex": {
+      "pt": "complexo"
+    },
+    "opaque": {
+      "pt": "pouco claro"
+    },
+    "structure": {
+      "pt": "estrutura",
+      "forms": [
+        "structures"
+      ]
+    },
+    "accord": {
+      "pt": "de acordo",
+      "forms": [
+        "according"
+      ]
+    },
+    "minute": {
+      "pt": "ata (de reunião)",
+      "forms": [
+        "minutes"
+      ]
+    },
+    "october": {
+      "pt": "outubro"
+    }
+  }
+}

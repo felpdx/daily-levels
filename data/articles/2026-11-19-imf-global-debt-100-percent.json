@@ -1,0 +1,318 @@
+{
+  "id": "2026-11-19-imf-global-debt-100-percent",
+  "date": "2026-11-19",
+  "topic": "bolsa",
+  "source": {
+    "name": "MercoPress",
+    "url": "https://en.mercopress.com/2026/11/19/imf-warns-global-debt-will-soon-reach-100-of-gdp-the-highest-since-world-war-ii?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+    "publishedAt": "2026-11-19T03:00:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "IMF warns about world debt",
+      "text": "The head of the IMF warned about world debt. Her name is Kristalina Georgieva. She said public debt will soon reach 100% of the world economy. This is the highest level since World War II. She spoke at a summit in China. She also said countries must prepare for artificial intelligence."
+    },
+    "2": {
+      "title": "IMF says global debt will soon reach 100% of GDP",
+      "text": "Kristalina Georgieva, the head of the International Monetary Fund (IMF), warned on Thursday that global public debt will soon reach 100% of the world's gross domestic product. She said this is the highest level since World War II and needs urgent attention.\n\nShe spoke at the APEC leaders' summit in the Chinese city of Shenzhen. She said inflation is rising again because of the energy crisis caused by the war in the Middle East and because of growing demand for technology to build artificial intelligence systems. As a result, many countries raised interest rates, which makes debt more expensive to pay.\n\nGeorgieva also said 2026 was the first year in which artificial intelligence had a clear effect on global growth. She asked countries to prepare quickly for the changes it will bring."
+    },
+    "3": {
+      "title": "IMF chief warns global debt will soon match the size of the world economy",
+      "text": "The head of the International Monetary Fund, Kristalina Georgieva, warned on Thursday that global public debt will soon reach 100% of world gross domestic product, the highest level since World War II. She said the situation requires urgent attention from governments.\n\nGeorgieva spoke at the plenary session of the Asia-Pacific Economic Cooperation (APEC) leaders' summit in the Chinese city of Shenzhen. Her warning comes as global inflation is rebounding. She attributed the rebound to two causes: the energy crisis triggered by the war in the Middle East, and rising demand for technology linked to the construction of artificial intelligence infrastructure.\n\nAccording to Georgieva, the rebound has led many countries to tighten monetary policy by raising interest rates, which makes debt more expensive to service. In the same speech, she noted that 2026 has been the first year in which artificial intelligence has had a tangible impact on global growth, and she called on countries to prepare quickly for the changes it will bring."
+    }
+  },
+  "glossary": {
+    "imf": {
+      "pt": "FMI (Fundo Monetário Internacional)",
+      "highlight": true
+    },
+    "warn": {
+      "pt": "alertar",
+      "forms": [
+        "warns",
+        "warned"
+      ]
+    },
+    "debt": {
+      "pt": "dívida",
+      "highlight": true
+    },
+    "head": {
+      "pt": "chefe"
+    },
+    "kristalina": {
+      "pt": "Kristalina (nome)"
+    },
+    "georgieva": {
+      "pt": "Georgieva, diretora-gerente do FMI"
+    },
+    "public": {
+      "pt": "aberto ao público"
+    },
+    "reach": {
+      "pt": "alcançar"
+    },
+    "economy": {
+      "pt": "economia"
+    },
+    "level": {
+      "pt": "nível"
+    },
+    "war": {
+      "pt": "guerra"
+    },
+    "ii": {
+      "pt": "II (dois)"
+    },
+    "spoke": {
+      "pt": "falou"
+    },
+    "summit": {
+      "pt": "cúpula, encontro de líderes"
+    },
+    "china": {
+      "pt": "China"
+    },
+    "prepare": {
+      "pt": "preparar-se"
+    },
+    "artificial": {
+      "pt": "artificial"
+    },
+    "intelligence": {
+      "pt": "inteligência"
+    },
+    "global": {
+      "pt": "global, mundial"
+    },
+    "gdp": {
+      "pt": "PIB"
+    },
+    "international": {
+      "pt": "internacional"
+    },
+    "monetary": {
+      "pt": "monetário"
+    },
+    "fund": {
+      "pt": "fundo"
+    },
+    "thursday": {
+      "pt": "quinta-feira"
+    },
+    "gross": {
+      "pt": "bruto"
+    },
+    "domestic": {
+      "pt": "interno"
+    },
+    "product": {
+      "pt": "produto"
+    },
+    "urgent": {
+      "pt": "urgente"
+    },
+    "attention": {
+      "pt": "atenção"
+    },
+    "apec": {
+      "pt": "APEC, fórum econômico Ásia-Pacífico"
+    },
+    "leader": {
+      "pt": "líder",
+      "forms": [
+        "leaders"
+      ]
+    },
+    "chinese": {
+      "pt": "chinês"
+    },
+    "shenzhen": {
+      "pt": "Shenzhen, cidade da China"
+    },
+    "inflation": {
+      "pt": "inflação",
+      "highlight": true
+    },
+    "rise": {
+      "pt": "subir",
+      "forms": [
+        "rising"
+      ]
+    },
+    "energy": {
+      "pt": "energia"
+    },
+    "crisis": {
+      "pt": "crise",
+      "highlight": true
+    },
+    "cause": {
+      "pt": "causar, causa",
+      "forms": [
+        "caused",
+        "causes"
+      ]
+    },
+    "middle": {
+      "pt": "meio"
+    },
+    "east": {
+      "pt": "leste"
+    },
+    "demand": {
+      "pt": "demanda"
+    },
+    "technology": {
+      "pt": "tecnologia"
+    },
+    "build": {
+      "pt": "construir",
+      "forms": [
+        "building"
+      ]
+    },
+    "system": {
+      "pt": "sistema",
+      "forms": [
+        "systems"
+      ]
+    },
+    "result": {
+      "pt": "resultado"
+    },
+    "raise": {
+      "pt": "aumentar",
+      "forms": [
+        "raised",
+        "raising"
+      ]
+    },
+    "interest": {
+      "pt": "juros",
+      "highlight": true
+    },
+    "rate": {
+      "pt": "taxa",
+      "forms": [
+        "rates"
+      ]
+    },
+    "expensive": {
+      "pt": "caro"
+    },
+    "effect": {
+      "pt": "vigor"
+    },
+    "growth": {
+      "pt": "crescimento"
+    },
+    "quickly": {
+      "pt": "rapidamente"
+    },
+    "bring": {
+      "pt": "trazer"
+    },
+    "chief": {
+      "pt": "chefe"
+    },
+    "match": {
+      "pt": "igualar"
+    },
+    "size": {
+      "pt": "tamanho"
+    },
+    "situation": {
+      "pt": "situação"
+    },
+    "require": {
+      "pt": "exigir",
+      "forms": [
+        "requires"
+      ]
+    },
+    "plenary": {
+      "pt": "plenária"
+    },
+    "session": {
+      "pt": "sessão"
+    },
+    "asia": {
+      "pt": "Ásia"
+    },
+    "pacific": {
+      "pt": "Pacífico"
+    },
+    "economic": {
+      "pt": "econômico"
+    },
+    "cooperation": {
+      "pt": "cooperação"
+    },
+    "warning": {
+      "pt": "alerta"
+    },
+    "rebound": {
+      "pt": "retomada, recuperação",
+      "forms": [
+        "rebounding"
+      ],
+      "highlight": true
+    },
+    "attribute": {
+      "pt": "atribuir",
+      "forms": [
+        "attributed"
+      ]
+    },
+    "trigger": {
+      "pt": "provocar",
+      "forms": [
+        "triggered"
+      ]
+    },
+    "link": {
+      "pt": "ligar",
+      "forms": [
+        "linked"
+      ]
+    },
+    "construction": {
+      "pt": "obra, construção"
+    },
+    "infrastructure": {
+      "pt": "infraestrutura"
+    },
+    "accord": {
+      "pt": "de acordo",
+      "forms": [
+        "according"
+      ]
+    },
+    "tighten": {
+      "pt": "apertar, endurecer",
+      "highlight": true
+    },
+    "policy": {
+      "pt": "política"
+    },
+    "service": {
+      "pt": "pagar (uma dívida)"
+    },
+    "speech": {
+      "pt": "discurso"
+    },
+    "note": {
+      "pt": "notar",
+      "forms": [
+        "noted"
+      ]
+    },
+    "tangible": {
+      "pt": "concreto"
+    },
+    "impact": {
+      "pt": "impacto"
+    }
+  }
+}

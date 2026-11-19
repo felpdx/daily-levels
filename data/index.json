@@ -1,6 +1,41 @@
 {
   "articles": [
     {
+      "id": "2026-11-19-nginx-http2-flaw",
+      "date": "2026-11-19",
+      "topic": "hacking",
+      "title": "NGINX flaw lets hackers run code",
+      "source": "The Hacker News"
+    },
+    {
+      "id": "2026-11-19-tpm-lockout-bypass-pins",
+      "date": "2026-11-19",
+      "topic": "hacking",
+      "title": "PIN protection can be bypassed",
+      "source": "The Hacker News"
+    },
+    {
+      "id": "2026-11-19-anthropic-ipo-valuation",
+      "date": "2026-11-19",
+      "topic": "bolsa",
+      "title": "Anthropic goes public on Thursday",
+      "source": "BBC News"
+    },
+    {
+      "id": "2026-11-19-imf-global-debt-100-percent",
+      "date": "2026-11-19",
+      "topic": "bolsa",
+      "title": "IMF warns about world debt",
+      "source": "MercoPress"
+    },
+    {
+      "id": "2026-11-19-waymo-pulls-cars-from-freeways",
+      "date": "2026-11-19",
+      "topic": "mundo",
+      "title": "Waymo stops freeway rides in the US",
+      "source": "BBC News"
+    },
+    {
       "id": "2026-11-18-java4shell-flaw-ai",
       "date": "2026-11-18",
       "topic": "hacking",

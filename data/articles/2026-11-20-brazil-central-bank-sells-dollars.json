@@ -1,0 +1,336 @@
+{
+  "id": "2026-11-20-brazil-central-bank-sells-dollars",
+  "date": "2026-11-20",
+  "topic": "bolsa",
+  "source": {
+    "name": "MercoPress",
+    "url": "https://en.mercopress.com/2026/11/20/brazil-s-central-bank-sells-us-1-billion-to-curb-the-dollar-s-rise?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+    "publishedAt": "2026-11-20T04:27:00.000Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Brazil sells dollars to help the real",
+      "text": "Brazil's Central Bank sold US$1 billion on Thursday. It wanted to slow the rise of the dollar. The dollar came close to 5.93 reais. Investors do not trust the government's plan to cut spending. The dollar fell at first. Later in the day it rose again."
+    },
+    "2": {
+      "title": "Brazil's Central Bank sells US$1 billion to slow the dollar",
+      "text": "Brazil's Central Bank sold US$1 billion from its reserves on Thursday to slow the rise of the dollar, which came close to 5.93 reais. The move helped at first, but the dollar rose again in the afternoon.\n\nInvestors do not trust the government's plan to control spending. Public debt is above 92% of the country's economic output. The plan was approved by the Senate and will be voted on in the Chamber of Deputies next week. One part of it limits spending growth above inflation to 2% a year.\n\nPresident Lula said some people are trying to make money from speculation and rumours. He has not yet named his economy minister."
+    },
+    "3": {
+      "title": "Brazil's Central Bank sells US$1 billion to curb the dollar's rise",
+      "text": "Brazil's Central Bank sold US$1 billion from its international reserves on Thursday in an attempt to curb the rise of the dollar, which approached 5.93 reais. The move brought initial relief, but the currency rose again in the afternoon. The real's fall makes imports, especially fuel, more expensive and adds pressure on inflation.\n\nInvestors doubt the government's ability to control spending and stabilise public debt, which exceeds 92% of gross domestic product. The spending plan, already approved by the Senate, goes to the Chamber of Deputies next week. The government estimates savings of 50 billion to 60 billion reais in 2027, although amendments may change that. Part of the market considers the plan insufficient, while some on the Brazilian left fear cuts to health and education.\n\nLula, who was re-elected on October 25, told the market that some people were trying to profit from speculation and rumours. He has not announced who will be his economy minister. The Central Bank's latest survey of analysts expects growth of 1.7% this year and 1% in 2027, and the Selic rate stands at 13.75% a year."
+    }
+  },
+  "glossary": {
+    "brazil": {
+      "pt": "Brasil",
+      "forms": [
+        "brazil's",
+        "brazilian"
+      ]
+    },
+    "dollar": {
+      "pt": "dólar",
+      "forms": [
+        "dollars",
+        "dollar's"
+      ]
+    },
+    "central": {
+      "pt": "central"
+    },
+    "bank": {
+      "pt": "banco",
+      "forms": [
+        "bank's"
+      ]
+    },
+    "thursday": {
+      "pt": "quinta-feira"
+    },
+    "slow": {
+      "pt": "frear, desacelerar"
+    },
+    "rise": {
+      "pt": "alta, subida",
+      "forms": [
+        "rose"
+      ]
+    },
+    "reais": {
+      "pt": "reais, moeda do Brasil"
+    },
+    "investor": {
+      "pt": "investidor",
+      "forms": [
+        "investors"
+      ]
+    },
+    "trust": {
+      "pt": "confiar"
+    },
+    "cut": {
+      "pt": "cortar; corte",
+      "forms": [
+        "cuts"
+      ]
+    },
+    "spending": {
+      "pt": "gastos",
+      "highlight": true
+    },
+    "reserve": {
+      "pt": "reservas",
+      "forms": [
+        "reserves"
+      ],
+      "highlight": true
+    },
+    "afternoon": {
+      "pt": "tarde"
+    },
+    "public": {
+      "pt": "público"
+    },
+    "debt": {
+      "pt": "dívida",
+      "highlight": true
+    },
+    "above": {
+      "pt": "acima de"
+    },
+    "economic": {
+      "pt": "econômico"
+    },
+    "output": {
+      "pt": "produção"
+    },
+    "approve": {
+      "pt": "aprovar",
+      "forms": [
+        "approved"
+      ]
+    },
+    "senate": {
+      "pt": "Senado"
+    },
+    "vote": {
+      "pt": "votar",
+      "forms": [
+        "voted"
+      ]
+    },
+    "chamber": {
+      "pt": "Câmara"
+    },
+    "deputy": {
+      "pt": "deputado",
+      "forms": [
+        "deputies"
+      ]
+    },
+    "limit": {
+      "pt": "limitar",
+      "forms": [
+        "limits"
+      ]
+    },
+    "growth": {
+      "pt": "crescimento"
+    },
+    "inflation": {
+      "pt": "inflação",
+      "highlight": true
+    },
+    "lula": {
+      "pt": "Lula, presidente do Brasil"
+    },
+    "speculation": {
+      "pt": "especulação",
+      "highlight": true
+    },
+    "rumour": {
+      "pt": "boato",
+      "forms": [
+        "rumours"
+      ]
+    },
+    "economy": {
+      "pt": "economia"
+    },
+    "minister": {
+      "pt": "ministro"
+    },
+    "curb": {
+      "pt": "conter",
+      "highlight": true
+    },
+    "international": {
+      "pt": "internacional"
+    },
+    "attempt": {
+      "pt": "tentativa"
+    },
+    "approach": {
+      "pt": "aproximar-se",
+      "forms": [
+        "approached"
+      ]
+    },
+    "bring": {
+      "pt": "trazer",
+      "forms": [
+        "brought"
+      ]
+    },
+    "initial": {
+      "pt": "inicial"
+    },
+    "relief": {
+      "pt": "alívio"
+    },
+    "currency": {
+      "pt": "moeda",
+      "highlight": true
+    },
+    "import": {
+      "pt": "importação",
+      "forms": [
+        "imports"
+      ]
+    },
+    "especially": {
+      "pt": "especialmente"
+    },
+    "fuel": {
+      "pt": "combustível"
+    },
+    "expensive": {
+      "pt": "caro"
+    },
+    "add": {
+      "pt": "somar, acrescentar",
+      "forms": [
+        "adds"
+      ]
+    },
+    "pressure": {
+      "pt": "pressão"
+    },
+    "doubt": {
+      "pt": "duvidar"
+    },
+    "ability": {
+      "pt": "capacidade"
+    },
+    "stabilise": {
+      "pt": "estabilizar"
+    },
+    "exceed": {
+      "pt": "superar",
+      "forms": [
+        "exceeds"
+      ]
+    },
+    "gross": {
+      "pt": "bruto"
+    },
+    "domestic": {
+      "pt": "interno, nacional"
+    },
+    "product": {
+      "pt": "produto"
+    },
+    "estimate": {
+      "pt": "estimar",
+      "forms": [
+        "estimates"
+      ]
+    },
+    "saving": {
+      "pt": "economia de dinheiro",
+      "forms": [
+        "savings"
+      ]
+    },
+    "amendment": {
+      "pt": "emenda",
+      "forms": [
+        "amendments"
+      ]
+    },
+    "market": {
+      "pt": "mercado"
+    },
+    "consider": {
+      "pt": "considerar",
+      "forms": [
+        "considers"
+      ]
+    },
+    "insufficient": {
+      "pt": "insuficiente",
+      "highlight": true
+    },
+    "fear": {
+      "pt": "temer"
+    },
+    "health": {
+      "pt": "saúde"
+    },
+    "education": {
+      "pt": "educação"
+    },
+    "re": {
+      "pt": "de novo (re-elected = reeleito)"
+    },
+    "elect": {
+      "pt": "eleger",
+      "forms": [
+        "elected"
+      ]
+    },
+    "october": {
+      "pt": "outubro"
+    },
+    "profit": {
+      "pt": "lucrar"
+    },
+    "announce": {
+      "pt": "anunciar",
+      "forms": [
+        "announced"
+      ]
+    },
+    "latest": {
+      "pt": "mais recente"
+    },
+    "survey": {
+      "pt": "pesquisa"
+    },
+    "analyst": {
+      "pt": "analista",
+      "forms": [
+        "analysts"
+      ]
+    },
+    "expect": {
+      "pt": "esperar",
+      "forms": [
+        "expects"
+      ]
+    },
+    "selic": {
+      "pt": "Selic, taxa básica de juros do Brasil"
+    },
+    "rate": {
+      "pt": "taxa"
+    },
+    "stand": {
+      "pt": "ficar, estar",
+      "forms": [
+        "stands"
+      ]
+    }
+  }
+}

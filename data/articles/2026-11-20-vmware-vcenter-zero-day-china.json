@@ -1,0 +1,335 @@
+{
+  "id": "2026-11-20-vmware-vcenter-zero-day-china",
+  "date": "2026-11-20",
+  "topic": "hacking",
+  "source": {
+    "name": "The Hacker News",
+    "url": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
+    "publishedAt": "2026-11-20T06:33:31.000Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Hackers used a VMware flaw",
+      "text": "Hackers used a flaw in VMware vCenter. Google says a group linked to China did it. The group is called Armory Castle. They used the flaw in early September 2026. It let them become an administrator. VMware fixed the flaw on November 19. The flaw has a score of 9.8 out of 10."
+    },
+    "2": {
+      "title": "China-linked hackers exploit VMware vCenter flaw",
+      "text": "A hacking group linked to China used a serious flaw in VMware vCenter before anyone knew about it. Google's threat team says the group, called Armory Castle, used the flaw in early September 2026. The flaw is called CVE-2026-123890 and has a score of 9.8 out of 10.\n\nThe flaw lets a hacker skip the login step and become an administrator. Google says the group used a tool called BONESAW to steal data and to create a new administrator account. The attackers had already entered the network through another flaw, in BeyondTrust Remote Support.\n\nVMware released fixes on November 19, 2026. This is the second VMware flaw the group has used as a zero-day this year."
+    },
+    "3": {
+      "title": "China-linked hackers exploit critical VMware vCenter zero-day",
+      "text": "A suspected China-linked espionage group known as Armory Castle, formerly UNC5221, exploited a critical flaw in VMware vCenter Server as a zero-day in early September 2026, according to Google Threat Intelligence Group and Mandiant. The bug, tracked as CVE-2026-123890, has a CVSS score of 9.8 and affects the VMware Directory Service.\n\nGoogle says the flaw allows a remote attacker to bypass authentication and open a session as administrator. The group used a Golang tool called BONESAW to steal a database, take over the single sign-on system and create a new administrator account. The attack was part of a wider campaign. Before reaching vCenter, the hackers used another zero-day, in BeyondTrust Remote Support, to enter the network, move to a Linux appliance and gain root access.\n\nPatches were released on November 19, 2026. Google noted that Armory Castle had already abused a different VMware ESX flaw this year, which CrowdStrike reported last month. Google said that using two zero-days and three sets of specialized malware in one campaign shows strong resources behind the group."
+    }
+  },
+  "glossary": {
+    "china": {
+      "pt": "China"
+    },
+    "three": {
+      "pt": "três"
+    },
+    "step": {
+      "pt": "passo"
+    },
+    "hacker": {
+      "pt": "hacker",
+      "forms": [
+        "hackers"
+      ]
+    },
+    "vmware": {
+      "pt": "VMware, empresa de software"
+    },
+    "flaw": {
+      "pt": "falha",
+      "highlight": true
+    },
+    "vcenter": {
+      "pt": "vCenter, programa da VMware para gerenciar servidores"
+    },
+    "google": {
+      "pt": "Google",
+      "forms": [
+        "google's"
+      ]
+    },
+    "link": {
+      "pt": "ligar, ligado",
+      "forms": [
+        "linked"
+      ]
+    },
+    "armory": {
+      "pt": "Armory (Armory Castle, grupo de hackers)"
+    },
+    "castle": {
+      "pt": "Castle (Armory Castle, grupo de hackers)"
+    },
+    "september": {
+      "pt": "setembro"
+    },
+    "let": {
+      "pt": "deixar, permitir",
+      "forms": [
+        "lets"
+      ]
+    },
+    "administrator": {
+      "pt": "administrador",
+      "highlight": true
+    },
+    "fix": {
+      "pt": "corrigir; correção",
+      "forms": [
+        "fixed",
+        "fixes"
+      ]
+    },
+    "november": {
+      "pt": "novembro"
+    },
+    "score": {
+      "pt": "nota, pontuação"
+    },
+    "exploit": {
+      "pt": "explorar (uma falha)",
+      "forms": [
+        "exploited"
+      ],
+      "highlight": true
+    },
+    "hacking": {
+      "pt": "de hackers"
+    },
+    "serious": {
+      "pt": "sério, grave"
+    },
+    "anyone": {
+      "pt": "alguém"
+    },
+    "threat": {
+      "pt": "ameaça",
+      "highlight": true
+    },
+    "team": {
+      "pt": "equipe"
+    },
+    "skip": {
+      "pt": "pular"
+    },
+    "login": {
+      "pt": "entrada com senha"
+    },
+    "tool": {
+      "pt": "ferramenta"
+    },
+    "bonesaw": {
+      "pt": "BONESAW, ferramenta dos hackers"
+    },
+    "steal": {
+      "pt": "roubar"
+    },
+    "data": {
+      "pt": "dados"
+    },
+    "create": {
+      "pt": "criar"
+    },
+    "account": {
+      "pt": "conta"
+    },
+    "attacker": {
+      "pt": "invasor",
+      "forms": [
+        "attackers"
+      ]
+    },
+    "enter": {
+      "pt": "entrar",
+      "forms": [
+        "entered"
+      ]
+    },
+    "network": {
+      "pt": "rede"
+    },
+    "beyondtrust": {
+      "pt": "BeyondTrust, empresa de software"
+    },
+    "remote": {
+      "pt": "remoto, à distância"
+    },
+    "support": {
+      "pt": "suporte"
+    },
+    "release": {
+      "pt": "lançar",
+      "forms": [
+        "released"
+      ]
+    },
+    "zero": {
+      "pt": "zero (zero-day = falha desconhecida)",
+      "highlight": true
+    },
+    "critical": {
+      "pt": "crítico"
+    },
+    "suspected": {
+      "pt": "suspeito"
+    },
+    "espionage": {
+      "pt": "espionagem",
+      "highlight": true
+    },
+    "formerly": {
+      "pt": "antes chamado de"
+    },
+    "server": {
+      "pt": "servidor"
+    },
+    "according": {
+      "pt": "de acordo com"
+    },
+    "intelligence": {
+      "pt": "inteligência"
+    },
+    "mandiant": {
+      "pt": "Mandiant, empresa de segurança"
+    },
+    "bug": {
+      "pt": "falha, erro"
+    },
+    "track": {
+      "pt": "acompanhar",
+      "forms": [
+        "tracked"
+      ]
+    },
+    "cvss": {
+      "pt": "CVSS, escala de gravidade de falhas"
+    },
+    "affect": {
+      "pt": "afetar",
+      "forms": [
+        "affects"
+      ]
+    },
+    "directory": {
+      "pt": "diretório"
+    },
+    "service": {
+      "pt": "serviço"
+    },
+    "allow": {
+      "pt": "permitir",
+      "forms": [
+        "allows"
+      ]
+    },
+    "bypass": {
+      "pt": "contornar",
+      "highlight": true
+    },
+    "authentication": {
+      "pt": "autenticação"
+    },
+    "open": {
+      "pt": "abrir"
+    },
+    "session": {
+      "pt": "sessão"
+    },
+    "golang": {
+      "pt": "Golang, linguagem de programação"
+    },
+    "database": {
+      "pt": "banco de dados"
+    },
+    "single": {
+      "pt": "único"
+    },
+    "sign": {
+      "pt": "assinar; entrar (single sign-on = login único)"
+    },
+    "system": {
+      "pt": "sistema"
+    },
+    "attack": {
+      "pt": "ataque"
+    },
+    "wider": {
+      "pt": "mais amplo"
+    },
+    "campaign": {
+      "pt": "campanha"
+    },
+    "reach": {
+      "pt": "chegar a",
+      "forms": [
+        "reaching"
+      ]
+    },
+    "gain": {
+      "pt": "ganhar, obter"
+    },
+    "linux": {
+      "pt": "Linux, sistema operacional"
+    },
+    "appliance": {
+      "pt": "aparelho de rede"
+    },
+    "root": {
+      "pt": "acesso total (root)"
+    },
+    "access": {
+      "pt": "acesso"
+    },
+    "patch": {
+      "pt": "correção de segurança",
+      "forms": [
+        "patches"
+      ],
+      "highlight": true
+    },
+    "note": {
+      "pt": "notar",
+      "forms": [
+        "noted"
+      ]
+    },
+    "abused": {
+      "pt": "usado de forma errada"
+    },
+    "esx": {
+      "pt": "ESX, programa da VMware"
+    },
+    "crowdstrike": {
+      "pt": "CrowdStrike, empresa de segurança"
+    },
+    "report": {
+      "pt": "relatar; relatório",
+      "forms": [
+        "reported"
+      ]
+    },
+    "set": {
+      "pt": "conjunto",
+      "forms": [
+        "sets"
+      ]
+    },
+    "specialized": {
+      "pt": "especializado"
+    },
+    "malware": {
+      "pt": "programa malicioso"
+    },
+    "resource": {
+      "pt": "recurso",
+      "forms": [
+        "resources"
+      ]
+    }
+  }
+}

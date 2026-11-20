@@ -1,0 +1,376 @@
+{
+  "id": "2026-11-20-trump-putin-xi-first-summit",
+  "date": "2026-11-20",
+  "topic": "mundo",
+  "source": {
+    "name": "MercoPress",
+    "url": "https://en.mercopress.com/2026/11/19/trump-putin-and-xi-hold-their-first-three-way-summit-rich-in-symbolism-but-short-on-announcements?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+    "publishedAt": "2026-11-19T18:38:00.000Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Trump, Putin and Xi meet",
+      "text": "The leaders of the US, Russia and China met on Thursday. They are Donald Trump, Vladimir Putin and Xi Jinping. It was their first meeting of the three together. They met in Shenzhen, China. They said they will talk about reducing nuclear risks. They did not announce any real measures."
+    },
+    "2": {
+      "title": "Trump, Putin and Xi hold a first three-way summit",
+      "text": "US President Donald Trump, Russian President Vladimir Putin and Chinese President Xi Jinping met together for the first time on Thursday in Shenzhen, China. The meeting lasted about an hour and a half and took place during the APEC summit.\n\nThe leaders agreed to talk about reducing nuclear risks, but they announced no concrete steps. The old New START treaty, which limited US and Russian nuclear weapons, ended in February 2026. Trump wants a new deal that includes China. China says the US and Russia should cut their weapons first.\n\nSome people were not impressed. An arms control expert said that more than photo opportunities are needed. Trump and Xi will meet again in Florida on December 14 and 15."
+    },
+    "3": {
+      "title": "Trump, Putin and Xi hold first three-way summit, rich in symbolism but short on announcements",
+      "text": "US President Donald Trump, Russian President Vladimir Putin and Chinese President Xi Jinping held the first three-way meeting between their countries in Shenzhen on Thursday, on the sidelines of the APEC summit. The talks lasted nearly an hour and a half and ended with a commitment to dialogue on reducing nuclear risks, but no concrete measures.\n\nTrump said the three were \"making history\", while Xi said everything possible must be done to prevent a nuclear war. The declaration also called for reform of the United Nations and said the International Criminal Court should not abuse its jurisdiction. The court has an outstanding arrest warrant for Putin.\n\nThe New START treaty expired in February 2026. Trump has proposed replacing it with an agreement that includes China, which demands that Washington and Moscow first cut their arsenals. Daryl Kimball, of the Arms Control Association, said more than diplomatic theatre is needed. Trump called Putin a friend, and Polish Prime Minister Donald Tusk replied critically on X. Trump and Xi are due to meet again at the G20 summit in Florida on December 14 and 15; Putin has not decided whether to attend."
+    }
+  },
+  "glossary": {
+    "thursday": {
+      "pt": "quinta-feira"
+    },
+    "cut": {
+      "pt": "cortar; corte"
+    },
+    "limit": {
+      "pt": "limitar",
+      "forms": [
+        "limited"
+      ]
+    },
+    "minister": {
+      "pt": "ministro"
+    },
+    "international": {
+      "pt": "internacional"
+    },
+    "announce": {
+      "pt": "anunciar",
+      "forms": [
+        "announced"
+      ]
+    },
+    "trump": {
+      "pt": "Trump, presidente dos EUA"
+    },
+    "putin": {
+      "pt": "Putin, presidente da Rússia"
+    },
+    "xi": {
+      "pt": "Xi Jinping, presidente da China"
+    },
+    "jinping": {
+      "pt": "Jinping (Xi Jinping), presidente da China"
+    },
+    "leader": {
+      "pt": "líder",
+      "forms": [
+        "leaders"
+      ]
+    },
+    "russia": {
+      "pt": "Rússia",
+      "forms": [
+        "russian"
+      ]
+    },
+    "china": {
+      "pt": "China",
+      "forms": [
+        "chinese"
+      ]
+    },
+    "donald": {
+      "pt": "Donald (Trump)"
+    },
+    "vladimir": {
+      "pt": "Vladimir (Putin)"
+    },
+    "three": {
+      "pt": "três"
+    },
+    "shenzhen": {
+      "pt": "Shenzhen, cidade da China"
+    },
+    "reduce": {
+      "pt": "reduzir",
+      "forms": [
+        "reducing"
+      ]
+    },
+    "nuclear": {
+      "pt": "nuclear",
+      "highlight": true
+    },
+    "risk": {
+      "pt": "risco",
+      "forms": [
+        "risks"
+      ]
+    },
+    "measure": {
+      "pt": "medida",
+      "forms": [
+        "measures"
+      ]
+    },
+    "hold": {
+      "pt": "realizar (reunião)",
+      "forms": [
+        "held"
+      ]
+    },
+    "summit": {
+      "pt": "cúpula, reunião de líderes",
+      "highlight": true
+    },
+    "hour": {
+      "pt": "hora"
+    },
+    "half": {
+      "pt": "metade"
+    },
+    "place": {
+      "pt": "lugar"
+    },
+    "apec": {
+      "pt": "APEC, fórum econômico da Ásia e do Pacífico"
+    },
+    "agree": {
+      "pt": "concordar",
+      "forms": [
+        "agreed"
+      ]
+    },
+    "concrete": {
+      "pt": "concreto",
+      "highlight": true
+    },
+    "step": {
+      "pt": "passo",
+      "forms": [
+        "steps"
+      ]
+    },
+    "treaty": {
+      "pt": "tratado",
+      "highlight": true
+    },
+    "weapon": {
+      "pt": "arma",
+      "forms": [
+        "weapons"
+      ]
+    },
+    "february": {
+      "pt": "fevereiro"
+    },
+    "deal": {
+      "pt": "acordo"
+    },
+    "include": {
+      "pt": "incluir",
+      "forms": [
+        "includes"
+      ]
+    },
+    "impress": {
+      "pt": "impressionar",
+      "forms": [
+        "impressed"
+      ]
+    },
+    "arm": {
+      "pt": "armas (arms control = controle de armas)",
+      "forms": [
+        "arms"
+      ]
+    },
+    "expert": {
+      "pt": "especialista"
+    },
+    "photo": {
+      "pt": "foto"
+    },
+    "opportunity": {
+      "pt": "oportunidade",
+      "forms": [
+        "opportunities"
+      ]
+    },
+    "florida": {
+      "pt": "Flórida, estado dos EUA"
+    },
+    "december": {
+      "pt": "dezembro"
+    },
+    "rich": {
+      "pt": "rico, cheio de"
+    },
+    "symbolism": {
+      "pt": "simbolismo"
+    },
+    "announcement": {
+      "pt": "anúncio",
+      "forms": [
+        "announcements"
+      ]
+    },
+    "sideline": {
+      "pt": "à margem (de um evento)",
+      "forms": [
+        "sidelines"
+      ]
+    },
+    "nearly": {
+      "pt": "quase"
+    },
+    "commitment": {
+      "pt": "compromisso"
+    },
+    "dialogue": {
+      "pt": "diálogo"
+    },
+    "history": {
+      "pt": "história"
+    },
+    "everything": {
+      "pt": "tudo"
+    },
+    "possible": {
+      "pt": "possível"
+    },
+    "prevent": {
+      "pt": "evitar"
+    },
+    "war": {
+      "pt": "guerra"
+    },
+    "declaration": {
+      "pt": "declaração"
+    },
+    "reform": {
+      "pt": "reforma",
+      "highlight": true
+    },
+    "united": {
+      "pt": "unido"
+    },
+    "nation": {
+      "pt": "nação",
+      "forms": [
+        "nations"
+      ]
+    },
+    "criminal": {
+      "pt": "criminal"
+    },
+    "court": {
+      "pt": "tribunal"
+    },
+    "abuse": {
+      "pt": "abusar"
+    },
+    "jurisdiction": {
+      "pt": "jurisdição"
+    },
+    "outstanding": {
+      "pt": "pendente"
+    },
+    "arrest": {
+      "pt": "prisão"
+    },
+    "warrant": {
+      "pt": "mandado",
+      "highlight": true
+    },
+    "expire": {
+      "pt": "vencer, acabar",
+      "forms": [
+        "expired"
+      ]
+    },
+    "propose": {
+      "pt": "propor",
+      "forms": [
+        "proposed"
+      ]
+    },
+    "replace": {
+      "pt": "substituir",
+      "forms": [
+        "replacing"
+      ]
+    },
+    "agreement": {
+      "pt": "acordo"
+    },
+    "demand": {
+      "pt": "exigir; pedir",
+      "forms": [
+        "demands"
+      ]
+    },
+    "washington": {
+      "pt": "Washington, governo dos EUA"
+    },
+    "moscow": {
+      "pt": "Moscou, governo da Rússia"
+    },
+    "arsenal": {
+      "pt": "arsenal",
+      "forms": [
+        "arsenals"
+      ],
+      "highlight": true
+    },
+    "daryl": {
+      "pt": "Daryl (Kimball)"
+    },
+    "kimball": {
+      "pt": "Kimball, diretor da Arms Control Association"
+    },
+    "association": {
+      "pt": "associação"
+    },
+    "diplomatic": {
+      "pt": "diplomático",
+      "highlight": true
+    },
+    "theatre": {
+      "pt": "teatro, encenação"
+    },
+    "polish": {
+      "pt": "polonês"
+    },
+    "prime": {
+      "pt": "primeiro (prime minister = primeiro-ministro)"
+    },
+    "tusk": {
+      "pt": "Tusk, primeiro-ministro da Polônia"
+    },
+    "reply": {
+      "pt": "responder",
+      "forms": [
+        "replied"
+      ]
+    },
+    "critically": {
+      "pt": "de forma crítica"
+    },
+    "x": {
+      "pt": "X, rede social"
+    },
+    "due": {
+      "pt": "previsto"
+    },
+    "decide": {
+      "pt": "decidir",
+      "forms": [
+        "decided"
+      ]
+    },
+    "whether": {
+      "pt": "se"
+    },
+    "attend": {
+      "pt": "comparecer"
+    }
+  }
+}

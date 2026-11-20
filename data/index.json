@@ -1,6 +1,34 @@
 {
   "articles": [
     {
+      "id": "2026-11-20-romulus-clickfix-rat",
+      "date": "2026-11-20",
+      "topic": "hacking",
+      "title": "A new spying program spreads",
+      "source": "The Hacker News"
+    },
+    {
+      "id": "2026-11-20-vmware-vcenter-zero-day-china",
+      "date": "2026-11-20",
+      "topic": "hacking",
+      "title": "Hackers used a VMware flaw",
+      "source": "The Hacker News"
+    },
+    {
+      "id": "2026-11-20-brazil-central-bank-sells-dollars",
+      "date": "2026-11-20",
+      "topic": "bolsa",
+      "title": "Brazil sells dollars to help the real",
+      "source": "MercoPress"
+    },
+    {
+      "id": "2026-11-20-trump-putin-xi-first-summit",
+      "date": "2026-11-20",
+      "topic": "mundo",
+      "title": "Trump, Putin and Xi meet",
+      "source": "MercoPress"
+    },
+    {
       "id": "2026-11-19-nginx-http2-flaw",
       "date": "2026-11-19",
       "topic": "hacking",

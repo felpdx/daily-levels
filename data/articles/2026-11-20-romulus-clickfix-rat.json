@@ -1,0 +1,401 @@
+{
+  "id": "2026-11-20-romulus-clickfix-rat",
+  "date": "2026-11-20",
+  "topic": "hacking",
+  "source": {
+    "name": "The Hacker News",
+    "url": "https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html",
+    "publishedAt": "2026-11-20T07:11:39.000Z"
+  },
+  "levels": {
+    "1": {
+      "title": "A new spying program spreads",
+      "text": "Security researchers found a new program that can spy on computers. A service called ROMULUS delivers it. The attackers use a trick called ClickFix. The program is a remote access trojan. It can show the victim's screen. It can also use the camera and the microphone. Blackpoint Cyber wrote the report."
+    },
+    "2": {
+      "title": "ROMULUS delivers a new spying RAT",
+      "text": "Researchers at Blackpoint Cyber say a service called ROMULUS is spreading a new type of malware. ROMULUS uses ClickFix attacks to deliver its programs. The malware is a remote access trojan, or RAT, similar to one called CNCMachineRMS.\n\nIn one attack, a PowerShell command runs a bad installer that pretends to be a Stardock tool. The installer then loads a bad file and starts the RAT. The RAT lets attackers control the computer from far away. It can stream the screen, record sound with the microphone and use the camera. It can also manage files and run other programs.\n\nResearchers say the same RAT was also delivered through ChatGPT Custom GPTs that sent people to bad websites."
+    },
+    "3": {
+      "title": "ROMULUS ClickFix attacks deliver RAT that can spy on users",
+      "text": "Blackpoint Cyber researchers report that ROMULUS, a malware delivery platform that uses ClickFix lures, is distributing a previously undocumented remote access trojan similar to CNCMachineRMS. Forescout Research first documented ROMULUS last month.\n\nAccording to Blackpoint, ROMULUS likely works as a delivery service. It spreads CNCMachineRMS and Legion Loader through separate infection chains. In one chain, a PowerShell command runs a malicious MSI installer disguised as the Stardock Smart DeElevation Tool. The installer uses DLL sideloading to run a malicious DLL, which decodes shellcode and launches the RAT.\n\nThe trojan allows remote desktop control, screen streaming, microphone and camera capture, file management and system reconnaissance. It can also run more payloads on demand, and it talks to the attackers' servers through DNS over HTTPS. The researchers add that the same implant reached victims through ChatGPT Custom GPTs that sent people to malicious sites. They say the malware's structure helps defenders connect related activity even when the attackers change their loaders."
+    }
+  },
+  "glossary": {
+    "add": {
+      "pt": "somar, acrescentar"
+    },
+    "demand": {
+      "pt": "exigir; pedir"
+    },
+    "let": {
+      "pt": "deixar, permitir",
+      "forms": [
+        "lets"
+      ]
+    },
+    "tool": {
+      "pt": "ferramenta"
+    },
+    "attacker": {
+      "pt": "invasor",
+      "forms": [
+        "attackers"
+      ]
+    },
+    "remote": {
+      "pt": "remoto, à distância",
+      "highlight": true
+    },
+    "server": {
+      "pt": "servidor",
+      "forms": [
+        "servers"
+      ]
+    },
+    "according": {
+      "pt": "de acordo com"
+    },
+    "service": {
+      "pt": "serviço"
+    },
+    "allow": {
+      "pt": "permitir",
+      "forms": [
+        "allows"
+      ]
+    },
+    "system": {
+      "pt": "sistema"
+    },
+    "attack": {
+      "pt": "ataque",
+      "forms": [
+        "attacks"
+      ]
+    },
+    "reach": {
+      "pt": "chegar a",
+      "forms": [
+        "reached"
+      ]
+    },
+    "access": {
+      "pt": "acesso"
+    },
+    "report": {
+      "pt": "relatar; relatório"
+    },
+    "malware": {
+      "pt": "programa malicioso",
+      "forms": [
+        "malware's"
+      ]
+    },
+    "spy": {
+      "pt": "espionar",
+      "highlight": true
+    },
+    "spying": {
+      "pt": "de espionagem"
+    },
+    "program": {
+      "pt": "programa",
+      "forms": [
+        "programs"
+      ]
+    },
+    "spread": {
+      "pt": "espalhar",
+      "forms": [
+        "spreads",
+        "spreading"
+      ]
+    },
+    "security": {
+      "pt": "segurança"
+    },
+    "researcher": {
+      "pt": "pesquisador",
+      "forms": [
+        "researchers"
+      ]
+    },
+    "computer": {
+      "pt": "computador",
+      "forms": [
+        "computers"
+      ]
+    },
+    "romulus": {
+      "pt": "ROMULUS, serviço que entrega programas maliciosos"
+    },
+    "deliver": {
+      "pt": "entregar",
+      "forms": [
+        "delivers",
+        "delivered"
+      ],
+      "highlight": true
+    },
+    "trick": {
+      "pt": "truque"
+    },
+    "clickfix": {
+      "pt": "ClickFix, truque para enganar usuários"
+    },
+    "trojan": {
+      "pt": "trojan, programa malicioso disfarçado",
+      "highlight": true
+    },
+    "victim": {
+      "pt": "vítima",
+      "forms": [
+        "victim's",
+        "victims"
+      ],
+      "highlight": true
+    },
+    "screen": {
+      "pt": "tela"
+    },
+    "camera": {
+      "pt": "câmera"
+    },
+    "microphone": {
+      "pt": "microfone"
+    },
+    "blackpoint": {
+      "pt": "Blackpoint, empresa de segurança"
+    },
+    "cyber": {
+      "pt": "cibernético"
+    },
+    "type": {
+      "pt": "tipo"
+    },
+    "similar": {
+      "pt": "parecido"
+    },
+    "cncmachinerms": {
+      "pt": "CNCMachineRMS, nome de um programa malicioso"
+    },
+    "powershell": {
+      "pt": "PowerShell, ferramenta de comandos do Windows"
+    },
+    "command": {
+      "pt": "comando"
+    },
+    "installer": {
+      "pt": "instalador"
+    },
+    "pretend": {
+      "pt": "fingir",
+      "forms": [
+        "pretends"
+      ]
+    },
+    "stardock": {
+      "pt": "Stardock, empresa de software"
+    },
+    "load": {
+      "pt": "carregar",
+      "forms": [
+        "loads"
+      ]
+    },
+    "file": {
+      "pt": "arquivo",
+      "forms": [
+        "files"
+      ]
+    },
+    "stream": {
+      "pt": "transmitir",
+      "forms": [
+        "streaming"
+      ]
+    },
+    "record": {
+      "pt": "gravar"
+    },
+    "sound": {
+      "pt": "som"
+    },
+    "manage": {
+      "pt": "gerenciar"
+    },
+    "management": {
+      "pt": "gerenciamento"
+    },
+    "chatgpt": {
+      "pt": "ChatGPT, chatbot de IA"
+    },
+    "custom": {
+      "pt": "personalizado"
+    },
+    "gpt": {
+      "pt": "GPT, modelo de IA",
+      "forms": [
+        "gpts"
+      ]
+    },
+    "website": {
+      "pt": "site",
+      "forms": [
+        "websites",
+        "sites"
+      ]
+    },
+    "users": {
+      "pt": "usuários"
+    },
+    "delivery": {
+      "pt": "entrega"
+    },
+    "platform": {
+      "pt": "plataforma"
+    },
+    "lure": {
+      "pt": "isca",
+      "forms": [
+        "lures"
+      ]
+    },
+    "distribute": {
+      "pt": "distribuir",
+      "forms": [
+        "distributing"
+      ]
+    },
+    "previously": {
+      "pt": "antes"
+    },
+    "undocumented": {
+      "pt": "não documentado"
+    },
+    "forescout": {
+      "pt": "Forescout, empresa de segurança"
+    },
+    "research": {
+      "pt": "pesquisa"
+    },
+    "document": {
+      "pt": "documentar",
+      "forms": [
+        "documented"
+      ]
+    },
+    "likely": {
+      "pt": "provavelmente"
+    },
+    "legion": {
+      "pt": "Legion (Legion Loader, programa malicioso)"
+    },
+    "loader": {
+      "pt": "carregador de malware",
+      "forms": [
+        "loaders"
+      ]
+    },
+    "separate": {
+      "pt": "separado"
+    },
+    "infection": {
+      "pt": "infecção",
+      "highlight": true
+    },
+    "chain": {
+      "pt": "cadeia",
+      "forms": [
+        "chains"
+      ]
+    },
+    "malicious": {
+      "pt": "malicioso",
+      "highlight": true
+    },
+    "msi": {
+      "pt": "MSI, tipo de instalador do Windows"
+    },
+    "disguise": {
+      "pt": "disfarçar",
+      "forms": [
+        "disguised"
+      ]
+    },
+    "smart": {
+      "pt": "inteligente"
+    },
+    "deelevation": {
+      "pt": "DeElevation (nome de uma ferramenta)"
+    },
+    "dll": {
+      "pt": "DLL, tipo de arquivo de programa"
+    },
+    "sideloading": {
+      "pt": "sideloading, carregar um arquivo malicioso junto de um programa legítimo"
+    },
+    "decode": {
+      "pt": "decodificar",
+      "forms": [
+        "decodes"
+      ]
+    },
+    "shellcode": {
+      "pt": "shellcode, código usado para tomar controle"
+    },
+    "launch": {
+      "pt": "iniciar",
+      "forms": [
+        "launches"
+      ]
+    },
+    "desktop": {
+      "pt": "área de trabalho"
+    },
+    "capture": {
+      "pt": "captura"
+    },
+    "reconnaissance": {
+      "pt": "reconhecimento, coleta de informações"
+    },
+    "payload": {
+      "pt": "carga maliciosa",
+      "forms": [
+        "payloads"
+      ],
+      "highlight": true
+    },
+    "dns": {
+      "pt": "DNS, sistema de nomes da internet"
+    },
+    "https": {
+      "pt": "HTTPS, conexão segura da web"
+    },
+    "implant": {
+      "pt": "programa instalado em segredo"
+    },
+    "defender": {
+      "pt": "defensor",
+      "forms": [
+        "defenders"
+      ]
+    },
+    "connect": {
+      "pt": "conectar"
+    },
+    "related": {
+      "pt": "relacionado"
+    },
+    "activity": {
+      "pt": "atividade"
+    },
+    "structure": {
+      "pt": "estrutura"
+    },
+    "rat": {
+      "pt": "RAT, programa de controle remoto malicioso"
+    }
+  }
+}

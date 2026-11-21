@@ -1,0 +1,262 @@
+{
+  "id": "2026-11-21-windows-fastunlock-zero-day",
+  "date": "2026-11-21",
+  "topic": "hacking",
+  "source": {
+    "name": "The Hacker News",
+    "url": "https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html",
+    "publishedAt": "2026-11-20T05:30:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "A new Windows lock screen problem",
+      "text": "A researcher shared a new Windows trick called FastUnlock. It lets a person with a locked computer start programs. The person needs the computer in their hands. The person does not get full control. They only get a limited account. Microsoft has no fix yet. Nobody has used the trick in a real attack. A firm called ThreatLocker tested it and said it works."
+    },
+    "2": {
+      "title": "New Windows zero-day lets someone run programs on a locked PC",
+      "text": "A researcher who uses the names MSNightmare and Nightmare Eclipse shared a new Windows trick called FastUnlock. It lets someone with physical access to a locked computer start programs without signing in. The person gets only a limited account, not administrator control.\n\nA security firm, ThreatLocker, tested the trick on the same day and said it works. It needs a Microsoft account that can be reached from the lock screen, and it uses the Narrator screen reader. Microsoft has not released a fix yet, and nothing shows that the trick was used in a real attack. Microsoft advises using a startup PIN and shutting down or hibernating computers when someone may touch them."
+    },
+    "3": {
+      "title": "Unpatched Windows zero-day FastUnlock lets someone run programs on a locked PC",
+      "text": "A newly disclosed and unpatched technique called FastUnlock allows someone with physical access to a locked Windows computer to start programs without signing in. The attacker gets only a limited account, not administrator control. The method was posted by a researcher who uses the handles MSNightmare and Nightmare Eclipse, and the security firm ThreatLocker tested it the same day and found that it works.\n\nThe technique needs a Microsoft account reachable through the lock screen's recovery options, and it uses the built-in screen reader, Narrator. In its test, ThreatLocker ran a program in a limited account that it said is not an administrator account.\n\nBitLocker does not stop it in a common setup, because a chip called the TPM unlocks the drive when the computer starts. FastUnlock does not break the encryption. Microsoft has released no fix and no list of affected versions, and nothing shows that the method was used in a real attack. Microsoft's guidance recommends a startup PIN and shutting down or hibernating machines."
+    }
+  },
+  "glossary": {
+    "windows": {
+      "pt": "Windows, sistema da Microsoft"
+    },
+    "lock": {
+      "pt": "bloqueio"
+    },
+    "screen": {
+      "pt": "tela"
+    },
+    "researcher": {
+      "pt": "pesquisador"
+    },
+    "shared": {
+      "pt": "compartilhou"
+    },
+    "trick": {
+      "pt": "truque"
+    },
+    "fastunlock": {
+      "pt": "FastUnlock, nome de uma técnica de ataque"
+    },
+    "lets": {
+      "pt": "deixa, permite"
+    },
+    "locked": {
+      "pt": "bloqueado"
+    },
+    "computer": {
+      "pt": "computador"
+    },
+    "programs": {
+      "pt": "programas"
+    },
+    "hands": {
+      "pt": "mãos"
+    },
+    "full": {
+      "pt": "completo"
+    },
+    "limited": {
+      "pt": "limitado"
+    },
+    "account": {
+      "pt": "conta"
+    },
+    "microsoft": {
+      "pt": "Microsoft, empresa do Windows"
+    },
+    "fix": {
+      "pt": "correção"
+    },
+    "attack": {
+      "pt": "ataque"
+    },
+    "firm": {
+      "pt": "empresa"
+    },
+    "threatlocker": {
+      "pt": "ThreatLocker, empresa de segurança"
+    },
+    "tested": {
+      "pt": "testou"
+    },
+    "zero": {
+      "pt": "zero (zero-day, falha sem correção)"
+    },
+    "someone": {
+      "pt": "alguém"
+    },
+    "pc": {
+      "pt": "computador"
+    },
+    "msnightmare": {
+      "pt": "MSNightmare, apelido de um pesquisador"
+    },
+    "nightmare": {
+      "pt": "Nightmare, parte de um apelido de pesquisador"
+    },
+    "eclipse": {
+      "pt": "Eclipse, parte de um apelido de pesquisador"
+    },
+    "physical": {
+      "pt": "físico",
+      "highlight": true
+    },
+    "access": {
+      "pt": "acesso",
+      "highlight": true
+    },
+    "signing": {
+      "pt": "entrando com login"
+    },
+    "administrator": {
+      "pt": "administrador",
+      "highlight": true
+    },
+    "security": {
+      "pt": "segurança"
+    },
+    "reached": {
+      "pt": "alcançou"
+    },
+    "narrator": {
+      "pt": "Narrator, leitor de tela do Windows"
+    },
+    "reader": {
+      "pt": "leitor"
+    },
+    "released": {
+      "pt": "lançou"
+    },
+    "nothing": {
+      "pt": "nada"
+    },
+    "advises": {
+      "pt": "aconselha"
+    },
+    "startup": {
+      "pt": "inicialização"
+    },
+    "pin": {
+      "pt": "PIN, código curto de acesso"
+    },
+    "shutting": {
+      "pt": "desligando"
+    },
+    "hibernating": {
+      "pt": "hibernando"
+    },
+    "computers": {
+      "pt": "computadores"
+    },
+    "touch": {
+      "pt": "tocar"
+    },
+    "unpatched": {
+      "pt": "sem correção",
+      "highlight": true
+    },
+    "newly": {
+      "pt": "recentemente"
+    },
+    "disclosed": {
+      "pt": "divulgado",
+      "highlight": true
+    },
+    "technique": {
+      "pt": "técnica",
+      "highlight": true
+    },
+    "allows": {
+      "pt": "permite"
+    },
+    "attacker": {
+      "pt": "atacante"
+    },
+    "method": {
+      "pt": "método"
+    },
+    "posted": {
+      "pt": "publicou"
+    },
+    "handles": {
+      "pt": "apelidos de usuário"
+    },
+    "reachable": {
+      "pt": "acessível"
+    },
+    "screen's": {
+      "pt": "da tela"
+    },
+    "recovery": {
+      "pt": "recuperação"
+    },
+    "options": {
+      "pt": "opções"
+    },
+    "built": {
+      "pt": "construído"
+    },
+    "test": {
+      "pt": "teste"
+    },
+    "program": {
+      "pt": "programa"
+    },
+    "bitlocker": {
+      "pt": "BitLocker, recurso do Windows que criptografa o disco"
+    },
+    "common": {
+      "pt": "comum"
+    },
+    "setup": {
+      "pt": "configuração"
+    },
+    "chip": {
+      "pt": "chip"
+    },
+    "tpm": {
+      "pt": "TPM, chip de segurança do computador"
+    },
+    "unlocks": {
+      "pt": "desbloqueia"
+    },
+    "drive": {
+      "pt": "disco, unidade de armazenamento"
+    },
+    "break": {
+      "pt": "quebrar"
+    },
+    "encryption": {
+      "pt": "criptografia",
+      "highlight": true
+    },
+    "list": {
+      "pt": "lista"
+    },
+    "affected": {
+      "pt": "afetado"
+    },
+    "versions": {
+      "pt": "versões"
+    },
+    "microsoft's": {
+      "pt": "da Microsoft"
+    },
+    "guidance": {
+      "pt": "orientação",
+      "highlight": true
+    },
+    "recommends": {
+      "pt": "recomenda"
+    },
+    "machines": {
+      "pt": "máquinas"
+    }
+  }
+}

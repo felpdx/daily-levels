@@ -1,0 +1,286 @@
+{
+  "id": "2026-11-21-tech-selloff-anthropic-shares-fall",
+  "date": "2026-11-21",
+  "topic": "bolsa",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo",
+    "publishedAt": "2026-11-20T22:42:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Tech stocks fall hard",
+      "text": "Stock markets in the US fell a lot on Friday. Tech companies lost the most. The Nasdaq index fell 5.3%. The S&P 500 fell 3.7%. Shares of Anthropic fell 8.5% after a good first day. Shares of Nvidia fell 13.7%. Many people worry about the big money spent on AI."
+    },
+    "2": {
+      "title": "Tech sell-off drags markets down as Anthropic shares slide",
+      "text": "US stock markets fell sharply on Friday because of a big sell-off in technology companies. The S&P 500 closed down 3.7% and the Nasdaq fell 5.3%. The Dow Jones fell 1.9%. The S&P 500 and the Dow are now in correction territory, which means they are 10% or more below a recent high.\n\nShares of Anthropic, which started trading on Thursday, fell 8.5% on Friday. They were at $83 in the IPO and closed the first day at $97.17. Nvidia shares fell 13.7% after Reuters reported, without confirmation from the BBC, that the company is being investigated by the US Securities and Exchange Commission. Investors also worry that companies are spending too much on AI. Asian and European markets fell too."
+    },
+    "3": {
+      "title": "Tech sell-off drags markets down as Anthropic shares slide",
+      "text": "A wide sell-off in technology stocks pushed all the main US indexes sharply lower on Friday. The S&P 500 closed down 3.7%, the Dow Jones Industrial Average fell 1.9% and the Nasdaq Composite plunged 5.3%. The S&P 500 and the Dow entered correction territory, meaning they are at least 10% below a recent high, although all three indexes are still up compared with a year ago.\n\nAnthropic shares, which started trading on Thursday at $111.50 and ended the day up 17% at $97.17, fell as much as 12% on Friday and closed down 8.5%, near the IPO price of $83. Nvidia dropped 13.7% after Reuters reported, without confirmation from the BBC, that it is under investigation by the US Securities and Exchange Commission over its accounting. Tesla and SpaceX each fell more than 7.6%.\n\nConcerns about the speed of AI investment, with more than $1 trillion spent in a year by a few large companies, are driving fears of a bubble. Ed Moya, a strategist at AlphaSense, said Wall Street is moving from rewarding growth at any price to demanding stronger cash flow. Germany's Dax fell 2.6%, and Japan's Nikkei and South Korea's Kospi fell about 5%."
+    }
+  },
+  "glossary": {
+    "tech": {
+      "pt": "tecnologia"
+    },
+    "stocks": {
+      "pt": "ações"
+    },
+    "hard": {
+      "pt": "forte, duro"
+    },
+    "stock": {
+      "pt": "ação"
+    },
+    "markets": {
+      "pt": "mercados"
+    },
+    "friday": {
+      "pt": "sexta-feira"
+    },
+    "nasdaq": {
+      "pt": "Nasdaq, Bolsa e índice de empresas de tecnologia"
+    },
+    "index": {
+      "pt": "índice"
+    },
+    "s": {
+      "pt": "S&P, índice da Bolsa dos EUA"
+    },
+    "p": {
+      "pt": "S&P, índice da Bolsa dos EUA"
+    },
+    "shares": {
+      "pt": "ações",
+      "highlight": true
+    },
+    "anthropic": {
+      "pt": "Anthropic, empresa de inteligência artificial"
+    },
+    "nvidia": {
+      "pt": "Nvidia, fabricante de chips"
+    },
+    "worry": {
+      "pt": "preocupar-se"
+    },
+    "spent": {
+      "pt": "gastou"
+    },
+    "ai": {
+      "pt": "IA, inteligência artificial"
+    },
+    "drags": {
+      "pt": "puxa para baixo",
+      "highlight": true
+    },
+    "slide": {
+      "pt": "cair"
+    },
+    "sharply": {
+      "pt": "de forma forte"
+    },
+    "technology": {
+      "pt": "tecnologia"
+    },
+    "dow": {
+      "pt": "Dow, índice da Bolsa de Nova York"
+    },
+    "jones": {
+      "pt": "Jones, parte do nome do índice Dow Jones"
+    },
+    "correction": {
+      "pt": "correção (queda de 10% ou mais)",
+      "highlight": true
+    },
+    "territory": {
+      "pt": "território"
+    },
+    "below": {
+      "pt": "abaixo"
+    },
+    "recent": {
+      "pt": "recente"
+    },
+    "trading": {
+      "pt": "negociação"
+    },
+    "thursday": {
+      "pt": "quinta-feira"
+    },
+    "ipo": {
+      "pt": "IPO, primeira venda de ações ao público"
+    },
+    "reuters": {
+      "pt": "Reuters, agência de notícias"
+    },
+    "reported": {
+      "pt": "informou"
+    },
+    "confirmation": {
+      "pt": "confirmação"
+    },
+    "bbc": {
+      "pt": "BBC, emissora de notícias do Reino Unido"
+    },
+    "investigated": {
+      "pt": "investigada"
+    },
+    "securities": {
+      "pt": "títulos e ações"
+    },
+    "exchange": {
+      "pt": "bolsa, troca"
+    },
+    "commission": {
+      "pt": "comissão"
+    },
+    "investors": {
+      "pt": "investidores",
+      "highlight": true
+    },
+    "spending": {
+      "pt": "gastos",
+      "highlight": true
+    },
+    "asian": {
+      "pt": "asiático"
+    },
+    "european": {
+      "pt": "europeu"
+    },
+    "wide": {
+      "pt": "amplo"
+    },
+    "pushed": {
+      "pt": "empurrou"
+    },
+    "indexes": {
+      "pt": "índices"
+    },
+    "industrial": {
+      "pt": "industrial"
+    },
+    "average": {
+      "pt": "média"
+    },
+    "composite": {
+      "pt": "índice composto"
+    },
+    "plunged": {
+      "pt": "despencou",
+      "highlight": true
+    },
+    "entered": {
+      "pt": "entrou"
+    },
+    "least": {
+      "pt": "pelo menos"
+    },
+    "three": {
+      "pt": "três"
+    },
+    "compared": {
+      "pt": "comparado"
+    },
+    "ago": {
+      "pt": "atrás"
+    },
+    "near": {
+      "pt": "perto"
+    },
+    "dropped": {
+      "pt": "caiu"
+    },
+    "investigation": {
+      "pt": "investigação"
+    },
+    "accounting": {
+      "pt": "contabilidade"
+    },
+    "tesla": {
+      "pt": "Tesla, fabricante de carros elétricos"
+    },
+    "spacex": {
+      "pt": "SpaceX, empresa de foguetes de Elon Musk"
+    },
+    "concerns": {
+      "pt": "preocupações"
+    },
+    "speed": {
+      "pt": "velocidade"
+    },
+    "investment": {
+      "pt": "investimento"
+    },
+    "trillion": {
+      "pt": "trilhão"
+    },
+    "driving": {
+      "pt": "causando"
+    },
+    "fears": {
+      "pt": "medos"
+    },
+    "bubble": {
+      "pt": "bolha",
+      "highlight": true
+    },
+    "ed": {
+      "pt": "Ed, primeiro nome de Ed Moya"
+    },
+    "moya": {
+      "pt": "Moya, analista da AlphaSense"
+    },
+    "strategist": {
+      "pt": "estrategista"
+    },
+    "alphasense": {
+      "pt": "AlphaSense, empresa de pesquisa de mercado"
+    },
+    "wall": {
+      "pt": "Wall (Wall Street, centro financeiro dos EUA)"
+    },
+    "street": {
+      "pt": "rua (Wall Street)"
+    },
+    "rewarding": {
+      "pt": "premiando"
+    },
+    "growth": {
+      "pt": "crescimento",
+      "highlight": true
+    },
+    "demanding": {
+      "pt": "exigindo"
+    },
+    "cash": {
+      "pt": "dinheiro, caixa"
+    },
+    "flow": {
+      "pt": "fluxo"
+    },
+    "germany's": {
+      "pt": "da Alemanha"
+    },
+    "dax": {
+      "pt": "Dax, índice da Bolsa da Alemanha"
+    },
+    "japan's": {
+      "pt": "do Japão"
+    },
+    "nikkei": {
+      "pt": "Nikkei, índice da Bolsa do Japão"
+    },
+    "south": {
+      "pt": "sul"
+    },
+    "korea's": {
+      "pt": "da Coreia"
+    },
+    "kospi": {
+      "pt": "Kospi, índice da Bolsa da Coreia do Sul"
+    }
+  }
+}

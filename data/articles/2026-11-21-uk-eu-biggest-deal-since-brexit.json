@@ -1,0 +1,355 @@
+{
+  "id": "2026-11-21-uk-eu-biggest-deal-since-brexit",
+  "date": "2026-11-21",
+  "topic": "mundo",
+  "source": {
+    "name": "MercoPress",
+    "url": "https://en.mercopress.com/2026/11/20/uk-and-eu-sign-their-biggest-deal-since-brexit-in-brussels",
+    "publishedAt": "2026-11-20T19:42:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "UK and EU sign a big deal",
+      "text": "The UK and the European Union signed three deals in Brussels on Friday. It is their biggest deal since Brexit. The deals are about food trade, carbon markets and young people. 100,000 young people from each side can live in the other place for up to three years. British Prime Minister Andy Burnham called it a good day. Some critics are angry."
+    },
+    "2": {
+      "title": "UK and EU sign their biggest deal since Brexit",
+      "text": "British Prime Minister Andy Burnham signed three agreements with European Union leaders in Brussels on Friday. It is the biggest package since Britain left the EU. The agreements cover food trade, carbon markets and youth mobility.\n\nThe food deal will end many checks on animal and plant products. The UK government says it will bring £5.1 billion a year, but it will not start before March 1, 2028. A second deal links the carbon markets. A third lets 100,000 young people from each side live in the other place for up to three years to work, study or travel.\n\nSome problems are still open. The opposition was angry. Nigel Farage, the leader of Reform UK, said that flexibility is a fantasy. Burnham said he will talk with European partners about the future relationship."
+    },
+    "3": {
+      "title": "UK and EU sign their biggest deal since Brexit in Brussels",
+      "text": "British Prime Minister Andy Burnham, European Commission President Ursula von der Leyen and European Council President Antonio Costa signed three agreements in Brussels on Friday on food trade, carbon markets and youth mobility. It is the largest package agreed between the two sides since Britain left the European Union.\n\nThe first deal creates a common area for food and plant safety rules, ending checks on trade in animal and plant products. The British government estimates its effect at £5.1 billion a year, but it will not apply before March 1, 2028, because the UK must pass legislation. The second links the two emissions trading systems and exempts British companies from the EU carbon border levy from 2028. The third lets 100,000 young people from each side live in the other's territory for up to three years.\n\nSome questions remain. According to a document obtained by AFP, EU members want the UK to lower university fees for European students before ratification. Access to the EU's industrial programme was not resolved. Burnham said he will open a discussion about long-term options, from the status quo to a customs union or membership. Nigel Farage, leader of Reform UK, called flexibility \"a fantasy,\" and the Conservatives accused Burnham of betrayal of Brexit."
+    }
+  },
+  "glossary": {
+    "uk": {
+      "pt": "Reino Unido"
+    },
+    "eu": {
+      "pt": "UE, União Europeia"
+    },
+    "sign": {
+      "pt": "assinar"
+    },
+    "deal": {
+      "pt": "acordo"
+    },
+    "european": {
+      "pt": "europeu"
+    },
+    "union": {
+      "pt": "união"
+    },
+    "signed": {
+      "pt": "assinou"
+    },
+    "three": {
+      "pt": "três"
+    },
+    "deals": {
+      "pt": "acordos"
+    },
+    "brussels": {
+      "pt": "Bruxelas, capital da Bélgica e sede da UE"
+    },
+    "friday": {
+      "pt": "sexta-feira"
+    },
+    "brexit": {
+      "pt": "Brexit, saída do Reino Unido da União Europeia"
+    },
+    "food": {
+      "pt": "comida"
+    },
+    "trade": {
+      "pt": "comércio"
+    },
+    "carbon": {
+      "pt": "carbono"
+    },
+    "markets": {
+      "pt": "mercados"
+    },
+    "young": {
+      "pt": "jovem"
+    },
+    "side": {
+      "pt": "lado"
+    },
+    "live": {
+      "pt": "viver"
+    },
+    "place": {
+      "pt": "lugar"
+    },
+    "british": {
+      "pt": "britânico"
+    },
+    "prime": {
+      "pt": "primeiro (primeiro-ministro)"
+    },
+    "minister": {
+      "pt": "ministro"
+    },
+    "andy": {
+      "pt": "Andy, primeiro nome de Andy Burnham"
+    },
+    "burnham": {
+      "pt": "Burnham, primeiro-ministro do Reino Unido"
+    },
+    "critics": {
+      "pt": "críticos"
+    },
+    "angry": {
+      "pt": "bravo"
+    },
+    "agreements": {
+      "pt": "acordos",
+      "highlight": true
+    },
+    "leaders": {
+      "pt": "líderes"
+    },
+    "package": {
+      "pt": "pacote"
+    },
+    "britain": {
+      "pt": "Reino Unido"
+    },
+    "cover": {
+      "pt": "cobrir"
+    },
+    "youth": {
+      "pt": "juventude"
+    },
+    "mobility": {
+      "pt": "mobilidade",
+      "highlight": true
+    },
+    "checks": {
+      "pt": "verificações"
+    },
+    "animal": {
+      "pt": "animal"
+    },
+    "plant": {
+      "pt": "planta, vegetal"
+    },
+    "products": {
+      "pt": "produtos"
+    },
+    "bring": {
+      "pt": "trazer"
+    },
+    "march": {
+      "pt": "março"
+    },
+    "links": {
+      "pt": "liga"
+    },
+    "lets": {
+      "pt": "deixa, permite"
+    },
+    "study": {
+      "pt": "estudar"
+    },
+    "travel": {
+      "pt": "viajar"
+    },
+    "open": {
+      "pt": "abrir"
+    },
+    "opposition": {
+      "pt": "oposição",
+      "highlight": true
+    },
+    "nigel": {
+      "pt": "Nigel, primeiro nome de Nigel Farage"
+    },
+    "farage": {
+      "pt": "Farage, líder do partido Reform UK"
+    },
+    "leader": {
+      "pt": "líder"
+    },
+    "reform": {
+      "pt": "Reform UK, partido britânico"
+    },
+    "flexibility": {
+      "pt": "flexibilidade",
+      "highlight": true
+    },
+    "fantasy": {
+      "pt": "fantasia",
+      "highlight": true
+    },
+    "partners": {
+      "pt": "parceiros"
+    },
+    "future": {
+      "pt": "futuro"
+    },
+    "relationship": {
+      "pt": "relação"
+    },
+    "commission": {
+      "pt": "comissão"
+    },
+    "ursula": {
+      "pt": "Ursula, primeiro nome de von der Leyen"
+    },
+    "von": {
+      "pt": "von, parte do nome von der Leyen"
+    },
+    "der": {
+      "pt": "der, parte do nome von der Leyen"
+    },
+    "leyen": {
+      "pt": "Leyen, sobrenome de Ursula von der Leyen"
+    },
+    "council": {
+      "pt": "conselho"
+    },
+    "antonio": {
+      "pt": "Antonio, primeiro nome de Antonio Costa"
+    },
+    "costa": {
+      "pt": "Costa, presidente do Conselho Europeu"
+    },
+    "agreed": {
+      "pt": "concordou, acertou"
+    },
+    "sides": {
+      "pt": "lados"
+    },
+    "creates": {
+      "pt": "cria"
+    },
+    "common": {
+      "pt": "comum"
+    },
+    "area": {
+      "pt": "área"
+    },
+    "safety": {
+      "pt": "segurança"
+    },
+    "rules": {
+      "pt": "regras"
+    },
+    "estimates": {
+      "pt": "estima"
+    },
+    "effect": {
+      "pt": "efeito"
+    },
+    "apply": {
+      "pt": "valer, ser aplicado"
+    },
+    "pass": {
+      "pt": "aprovar"
+    },
+    "legislation": {
+      "pt": "legislação"
+    },
+    "emissions": {
+      "pt": "emissões"
+    },
+    "trading": {
+      "pt": "negociação"
+    },
+    "systems": {
+      "pt": "sistemas"
+    },
+    "exempts": {
+      "pt": "isenta",
+      "highlight": true
+    },
+    "border": {
+      "pt": "fronteira"
+    },
+    "levy": {
+      "pt": "taxa"
+    },
+    "territory": {
+      "pt": "território"
+    },
+    "questions": {
+      "pt": "perguntas"
+    },
+    "remain": {
+      "pt": "continuam"
+    },
+    "according": {
+      "pt": "segundo"
+    },
+    "document": {
+      "pt": "documento"
+    },
+    "obtained": {
+      "pt": "obtido"
+    },
+    "afp": {
+      "pt": "AFP, agência de notícias francesa"
+    },
+    "university": {
+      "pt": "universidade"
+    },
+    "fees": {
+      "pt": "taxas"
+    },
+    "students": {
+      "pt": "estudantes"
+    },
+    "ratification": {
+      "pt": "ratificação, aprovação final",
+      "highlight": true
+    },
+    "access": {
+      "pt": "acesso"
+    },
+    "eu's": {
+      "pt": "da UE"
+    },
+    "industrial": {
+      "pt": "industrial"
+    },
+    "programme": {
+      "pt": "programa"
+    },
+    "resolved": {
+      "pt": "resolvido"
+    },
+    "discussion": {
+      "pt": "discussão"
+    },
+    "term": {
+      "pt": "prazo, longo prazo"
+    },
+    "options": {
+      "pt": "opções"
+    },
+    "status": {
+      "pt": "situação"
+    },
+    "quo": {
+      "pt": "quo (status quo, situação atual)"
+    },
+    "customs": {
+      "pt": "alfândega"
+    },
+    "membership": {
+      "pt": "participação como membro",
+      "highlight": true
+    },
+    "conservatives": {
+      "pt": "Partido Conservador do Reino Unido"
+    },
+    "accused": {
+      "pt": "acusou"
+    },
+    "betrayal": {
+      "pt": "traição"
+    }
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "id": "2026-11-21-trump-ban-ai-data-centres-abroad",
+  "date": "2026-11-21",
+  "topic": "bolsa",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko",
+    "publishedAt": "2026-11-20T20:54:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Trump wants AI centres only in the US",
+      "text": "Donald Trump said he will not allow US companies to build AI data centres in other countries. He said companies that do it will pay a \"tremendous tax.\" He gave few details. He said some people in his team heard about it for the first time. Meta and Google already have plans to build data centres abroad."
+    },
+    "2": {
+      "title": "Trump threatens ban on US firms building AI data centres overseas",
+      "text": "US President Donald Trump said he will ban American companies from building AI data centres in other countries. He said firms that do it could pay a \"tremendous tax.\" He said China would take all of them if the US allowed it.\n\nTrump gave very little detail and said he had not yet told his own team. It is not clear how a rule like this could work. Big companies such as Meta and Google already have agreements to build data centres abroad. Earlier this week, the US also said companies must get a licence to buy advanced chips. Data centres were an important issue in the midterm elections on November 3."
+    },
+    "3": {
+      "title": "Trump threatens ban on US firms building AI data centres overseas",
+      "text": "Donald Trump said he will ban US companies from building AI data centres overseas and threatened a \"tremendous tax\" on tech firms that do so. \"We're going to keep it all in this country,\" he told reporters after returning from his trip to Asia. He said China would take all the data centres otherwise, and he admitted he had not yet told his own people about the idea. It is unclear whether it will become policy or how it would be enforced.\n\nTech giants including Meta and Google have already agreed to build data centres abroad. Meta has started building one in Alberta, in Canada, and Anthropic has signed a long-term agreement to lease a planned data centre in Nova Scotia. Earlier this week, Washington announced that firms would need a licence to buy advanced chips, so officials can check whether they serve Chinese companies.\n\nData centres were a central issue in the midterm elections, because Democratic candidates promised tougher regulation. The US has about 3,000 data centres, with another 1,500 being approved or built, according to the Pew Research Centre."
+    }
+  },
+  "glossary": {
+    "trump": {
+      "pt": "Trump, presidente dos Estados Unidos"
+    },
+    "ai": {
+      "pt": "IA, inteligência artificial"
+    },
+    "centres": {
+      "pt": "centros"
+    },
+    "donald": {
+      "pt": "Donald, primeiro nome de Trump"
+    },
+    "allow": {
+      "pt": "permitir"
+    },
+    "build": {
+      "pt": "construir"
+    },
+    "data": {
+      "pt": "dados"
+    },
+    "tremendous": {
+      "pt": "enorme",
+      "highlight": true
+    },
+    "tax": {
+      "pt": "imposto"
+    },
+    "details": {
+      "pt": "detalhes"
+    },
+    "team": {
+      "pt": "equipe"
+    },
+    "heard": {
+      "pt": "ouviu"
+    },
+    "meta": {
+      "pt": "Meta, dona do Facebook"
+    },
+    "google": {
+      "pt": "Google, empresa de tecnologia"
+    },
+    "abroad": {
+      "pt": "no exterior"
+    },
+    "threatens": {
+      "pt": "ameaça",
+      "highlight": true
+    },
+    "ban": {
+      "pt": "proibição, proibir",
+      "highlight": true
+    },
+    "firms": {
+      "pt": "empresas"
+    },
+    "building": {
+      "pt": "construindo"
+    },
+    "overseas": {
+      "pt": "no exterior",
+      "highlight": true
+    },
+    "american": {
+      "pt": "americano"
+    },
+    "china": {
+      "pt": "China"
+    },
+    "allowed": {
+      "pt": "permitiu"
+    },
+    "detail": {
+      "pt": "detalhe"
+    },
+    "rule": {
+      "pt": "regra"
+    },
+    "agreements": {
+      "pt": "acordos"
+    },
+    "earlier": {
+      "pt": "antes"
+    },
+    "licence": {
+      "pt": "licença",
+      "highlight": true
+    },
+    "advanced": {
+      "pt": "avançado"
+    },
+    "chips": {
+      "pt": "chips"
+    },
+    "issue": {
+      "pt": "assunto, questão"
+    },
+    "midterm": {
+      "pt": "eleições de meio de mandato nos EUA"
+    },
+    "elections": {
+      "pt": "eleições"
+    },
+    "november": {
+      "pt": "novembro"
+    },
+    "threatened": {
+      "pt": "ameaçou"
+    },
+    "tech": {
+      "pt": "tecnologia"
+    },
+    "we're": {
+      "pt": "nós estamos"
+    },
+    "reporters": {
+      "pt": "repórteres"
+    },
+    "returning": {
+      "pt": "voltando"
+    },
+    "trip": {
+      "pt": "viagem"
+    },
+    "asia": {
+      "pt": "Ásia"
+    },
+    "otherwise": {
+      "pt": "senão"
+    },
+    "admitted": {
+      "pt": "admitiu"
+    },
+    "idea": {
+      "pt": "ideia"
+    },
+    "unclear": {
+      "pt": "pouco claro"
+    },
+    "whether": {
+      "pt": "se"
+    },
+    "policy": {
+      "pt": "política",
+      "highlight": true
+    },
+    "enforced": {
+      "pt": "aplicado (pela lei)",
+      "highlight": true
+    },
+    "giants": {
+      "pt": "gigantes"
+    },
+    "including": {
+      "pt": "incluindo"
+    },
+    "agreed": {
+      "pt": "concordou, acertou"
+    },
+    "alberta": {
+      "pt": "Alberta, província do Canadá"
+    },
+    "canada": {
+      "pt": "Canadá"
+    },
+    "anthropic": {
+      "pt": "Anthropic, empresa de inteligência artificial"
+    },
+    "signed": {
+      "pt": "assinou"
+    },
+    "term": {
+      "pt": "prazo, longo prazo"
+    },
+    "agreement": {
+      "pt": "acordo"
+    },
+    "lease": {
+      "pt": "alugar"
+    },
+    "centre": {
+      "pt": "centro"
+    },
+    "nova": {
+      "pt": "Nova (Nova Scotia)"
+    },
+    "scotia": {
+      "pt": "Scotia (Nova Scotia, província do Canadá)"
+    },
+    "washington": {
+      "pt": "Washington, governo dos EUA"
+    },
+    "announced": {
+      "pt": "anunciou"
+    },
+    "officials": {
+      "pt": "autoridades"
+    },
+    "check": {
+      "pt": "verificar"
+    },
+    "serve": {
+      "pt": "servir"
+    },
+    "chinese": {
+      "pt": "chinês"
+    },
+    "central": {
+      "pt": "central"
+    },
+    "democratic": {
+      "pt": "democrata"
+    },
+    "candidates": {
+      "pt": "candidatos"
+    },
+    "promised": {
+      "pt": "prometeram"
+    },
+    "tougher": {
+      "pt": "mais duro"
+    },
+    "regulation": {
+      "pt": "regulação",
+      "highlight": true
+    },
+    "approved": {
+      "pt": "aprovado"
+    },
+    "built": {
+      "pt": "construído"
+    },
+    "according": {
+      "pt": "segundo"
+    },
+    "pew": {
+      "pt": "Pew, centro de pesquisas dos EUA"
+    },
+    "research": {
+      "pt": "pesquisa"
+    }
+  }
+}

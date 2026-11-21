@@ -1,6 +1,41 @@
 {
   "articles": [
     {
+      "id": "2026-11-21-cisco-expressway-flaw-exploited",
+      "date": "2026-11-21",
+      "topic": "hacking",
+      "title": "Hackers attack a Cisco device",
+      "source": "The Hacker News"
+    },
+    {
+      "id": "2026-11-21-windows-fastunlock-zero-day",
+      "date": "2026-11-21",
+      "topic": "hacking",
+      "title": "A new Windows lock screen problem",
+      "source": "The Hacker News"
+    },
+    {
+      "id": "2026-11-21-tech-selloff-anthropic-shares-fall",
+      "date": "2026-11-21",
+      "topic": "bolsa",
+      "title": "Tech stocks fall hard",
+      "source": "BBC News"
+    },
+    {
+      "id": "2026-11-21-trump-ban-ai-data-centres-abroad",
+      "date": "2026-11-21",
+      "topic": "bolsa",
+      "title": "Trump wants AI centres only in the US",
+      "source": "BBC News"
+    },
+    {
+      "id": "2026-11-21-uk-eu-biggest-deal-since-brexit",
+      "date": "2026-11-21",
+      "topic": "mundo",
+      "title": "UK and EU sign a big deal",
+      "source": "MercoPress"
+    },
+    {
       "id": "2026-11-20-romulus-clickfix-rat",
       "date": "2026-11-20",
       "topic": "hacking",

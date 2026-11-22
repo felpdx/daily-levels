@@ -1,0 +1,758 @@
+{
+  "id": "2026-11-22-openrouter-prompt-theft",
+  "date": "2026-11-22",
+  "topic": "hacking",
+  "source": {
+    "name": "The Hacker News",
+    "url": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
+    "publishedAt": "2026-11-22T05:06:55Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Secret AI prompts were stolen",
+      "text": "A security firm called Dragos found a problem with AI services. Thieves stole user requests from three AI providers. This went on for months. The providers did not know. Some requests were marked as private, but they were stolen too. OpenRouter is a service that sends requests to many providers. It removed the three providers. It said OpenRouter itself was not hacked."
+    },
+    "2": {
+      "title": "OpenRouter removes three AI providers after prompt theft",
+      "text": "The security firm Dragos said that attackers stole data from three AI providers for months. None of the providers knew until the researchers told them. Some of the stolen requests were marked Zero Data Retention, a setting that should mean a prompt is never saved.\n\nOpenRouter, a service that sends customers' AI requests to many outside providers, said it removed the three providers. It also removed 125 endpoints from the Zero Data Retention program and told the customers who may be affected. The company said OpenRouter itself was not hacked.\n\nThe researchers put about two million fake prompts with secret links and keys into the system between July and November. When someone used a secret, the researchers knew that the prompt had been read."
+    },
+    "3": {
+      "title": "OpenRouter drops three providers after researchers catch months of prompt theft",
+      "text": "The industrial cybersecurity firm Dragos said that attackers stole data from inside three AI inference providers for months, and that none of the three knew until the researchers told them. Some of the stolen requests carried a Zero Data Retention flag, the setting that is supposed to mean a prompt is never stored.\n\nOpenRouter, a gateway that sends customers' AI requests to a pool of third-party providers, said it removed three providers, took 125 endpoints out of Zero Data Retention eligibility, and notified all customers who may have been affected. It said the findings showed no breach of OpenRouter itself.\n\nThe research used canary tokens. Between July and November, the team seeded about two million prompts with unique web links and credentials, then watched for anyone using them. The earliest breach began in mid-July. In the largest case, a couple hundred planted AWS keys were stolen in a few short windows in late October, and the thief tested them within hours in some cases.\n\nHD Moore, the firm's chief research officer, wrote that a privacy flag does not help when the attacker is already inside."
+    }
+  },
+  "glossary": {
+    "dragos": {
+      "pt": "Dragos, empresa de segurança industrial",
+      "forms": []
+    },
+    "openrouter": {
+      "pt": "OpenRouter, serviço que envia pedidos de IA a vários provedores",
+      "forms": []
+    },
+    "prompt": {
+      "pt": "pedido ou texto enviado a uma IA",
+      "forms": [
+        "prompts"
+      ],
+      "highlight": true
+    },
+    "steal": {
+      "pt": "roubar",
+      "forms": [
+        "steals",
+        "stole",
+        "stolen"
+      ],
+      "highlight": true
+    },
+    "provider": {
+      "pt": "provedor, empresa que oferece um serviço",
+      "forms": [
+        "providers"
+      ],
+      "highlight": true
+    },
+    "researcher": {
+      "pt": "pesquisador",
+      "forms": [
+        "researchers"
+      ],
+      "highlight": true
+    },
+    "attacker": {
+      "pt": "atacante",
+      "forms": [
+        "attackers"
+      ],
+      "highlight": true
+    },
+    "endpoint": {
+      "pt": "ponto de acesso de um serviço",
+      "forms": [
+        "endpoints"
+      ]
+    },
+    "breach": {
+      "pt": "invasão, vazamento",
+      "forms": [
+        "breaches",
+        "breached"
+      ]
+    },
+    "canary": {
+      "pt": "canário, isca usada para detectar roubo",
+      "forms": []
+    },
+    "token": {
+      "pt": "ficha digital, código de acesso",
+      "forms": [
+        "tokens"
+      ]
+    },
+    "credential": {
+      "pt": "credencial, dados de acesso",
+      "forms": [
+        "credentials"
+      ]
+    },
+    "gateway": {
+      "pt": "porta de entrada que encaminha pedidos",
+      "forms": []
+    },
+    "inference": {
+      "pt": "inferência, o uso de um modelo de IA para responder",
+      "forms": []
+    },
+    "aws": {
+      "pt": "AWS, serviço de nuvem da Amazon",
+      "forms": []
+    },
+    "hd": {
+      "pt": "HD",
+      "forms": []
+    },
+    "moore": {
+      "pt": "Moore, pesquisador-chefe da Dragos",
+      "forms": []
+    },
+    "cybersecurity": {
+      "pt": "segurança digital",
+      "forms": [],
+      "highlight": true
+    },
+    "seed": {
+      "pt": "plantar, espalhar",
+      "forms": [
+        "seeded",
+        "seeds"
+      ]
+    },
+    "key": {
+      "pt": "chave de acesso",
+      "forms": [
+        "keys"
+      ]
+    },
+    "retention": {
+      "pt": "retenção, guarda de dados",
+      "forms": []
+    },
+    "flag": {
+      "pt": "marcação, sinal",
+      "forms": [
+        "flagged"
+      ]
+    },
+    "eligibility": {
+      "pt": "direito de participar",
+      "forms": []
+    },
+    "notify": {
+      "pt": "avisar",
+      "forms": [
+        "notified"
+      ]
+    },
+    "ai": {
+      "pt": "IA, inteligência artificial",
+      "forms": []
+    },
+    "third": {
+      "pt": "terceiro",
+      "forms": []
+    },
+    "party": {
+      "pt": "parte",
+      "forms": []
+    },
+    "acceptable": {
+      "pt": "aceitável",
+      "forms": []
+    },
+    "access": {
+      "pt": "acesso, acessar",
+      "forms": []
+    },
+    "accessed": {
+      "pt": "acessou",
+      "forms": []
+    },
+    "accounts": {
+      "pt": "contas",
+      "forms": []
+    },
+    "affected": {
+      "pt": "afetados",
+      "forms": []
+    },
+    "ago": {
+      "pt": "atrás",
+      "forms": []
+    },
+    "agree": {
+      "pt": "concordar",
+      "forms": []
+    },
+    "agreement": {
+      "pt": "acordo",
+      "forms": []
+    },
+    "aims": {
+      "pt": "tem como objetivo",
+      "forms": []
+    },
+    "anyone": {
+      "pt": "qualquer pessoa",
+      "forms": []
+    },
+    "approve": {
+      "pt": "aprovar",
+      "forms": []
+    },
+    "attack": {
+      "pt": "ataque",
+      "forms": []
+    },
+    "backward": {
+      "pt": "para trás",
+      "forms": []
+    },
+    "below": {
+      "pt": "abaixo de",
+      "forms": []
+    },
+    "break": {
+      "pt": "romper, quebrar",
+      "forms": []
+    },
+    "built": {
+      "pt": "construído",
+      "forms": []
+    },
+    "carried": {
+      "pt": "levava",
+      "forms": []
+    },
+    "case": {
+      "pt": "caso",
+      "forms": []
+    },
+    "cases": {
+      "pt": "casos",
+      "forms": []
+    },
+    "catch": {
+      "pt": "flagrar, pegar",
+      "forms": []
+    },
+    "chats": {
+      "pt": "conversas",
+      "forms": []
+    },
+    "chief": {
+      "pt": "chefe",
+      "forms": []
+    },
+    "commented": {
+      "pt": "comentou",
+      "forms": []
+    },
+    "computer": {
+      "pt": "computador",
+      "forms": []
+    },
+    "confirmed": {
+      "pt": "confirmou",
+      "forms": []
+    },
+    "connected": {
+      "pt": "conectadas",
+      "forms": []
+    },
+    "connects": {
+      "pt": "conecta",
+      "forms": []
+    },
+    "considers": {
+      "pt": "considera",
+      "forms": []
+    },
+    "cop": {
+      "pt": "COP, conferência da ONU sobre o clima",
+      "forms": []
+    },
+    "couple": {
+      "pt": "par, alguns",
+      "forms": []
+    },
+    "customers": {
+      "pt": "clientes",
+      "forms": []
+    },
+    "data": {
+      "pt": "dados",
+      "forms": []
+    },
+    "deal": {
+      "pt": "acordo",
+      "forms": []
+    },
+    "decide": {
+      "pt": "decidir",
+      "forms": []
+    },
+    "decision": {
+      "pt": "decisão",
+      "forms": []
+    },
+    "delayed": {
+      "pt": "adiado",
+      "forms": []
+    },
+    "delays": {
+      "pt": "atrasos",
+      "forms": []
+    },
+    "describes": {
+      "pt": "descreve",
+      "forms": []
+    },
+    "disappoints": {
+      "pt": "decepciona",
+      "forms": []
+    },
+    "drops": {
+      "pt": "retira, abandona",
+      "forms": []
+    },
+    "earliest": {
+      "pt": "mais antigo",
+      "forms": []
+    },
+    "efforts": {
+      "pt": "esforços",
+      "forms": []
+    },
+    "environment": {
+      "pt": "meio ambiente",
+      "forms": []
+    },
+    "expected": {
+      "pt": "esperado",
+      "forms": []
+    },
+    "extended": {
+      "pt": "estendido",
+      "forms": []
+    },
+    "faced": {
+      "pt": "enfrentaram",
+      "forms": []
+    },
+    "fake": {
+      "pt": "falso",
+      "forms": []
+    },
+    "figure": {
+      "pt": "valor, número",
+      "forms": []
+    },
+    "findings": {
+      "pt": "descobertas",
+      "forms": []
+    },
+    "firm": {
+      "pt": "empresa",
+      "forms": []
+    },
+    "firm's": {
+      "pt": "da empresa",
+      "forms": []
+    },
+    "fixed": {
+      "pt": "corrigiu",
+      "forms": []
+    },
+    "fixes": {
+      "pt": "correções",
+      "forms": []
+    },
+    "friday": {
+      "pt": "sexta-feira",
+      "forms": []
+    },
+    "full": {
+      "pt": "total, completo",
+      "forms": []
+    },
+    "goal": {
+      "pt": "meta",
+      "forms": []
+    },
+    "hacked": {
+      "pt": "hackeado",
+      "forms": []
+    },
+    "helper": {
+      "pt": "ajudante",
+      "forms": []
+    },
+    "history": {
+      "pt": "história",
+      "forms": []
+    },
+    "hours": {
+      "pt": "horas",
+      "forms": []
+    },
+    "hundred": {
+      "pt": "cem",
+      "forms": []
+    },
+    "includes": {
+      "pt": "inclui",
+      "forms": []
+    },
+    "including": {
+      "pt": "incluindo",
+      "forms": []
+    },
+    "industrial": {
+      "pt": "industrial",
+      "forms": []
+    },
+    "inside": {
+      "pt": "dentro",
+      "forms": []
+    },
+    "july": {
+      "pt": "julho",
+      "forms": []
+    },
+    "lab": {
+      "pt": "laboratório",
+      "forms": []
+    },
+    "late": {
+      "pt": "no fim de",
+      "forms": []
+    },
+    "leaders": {
+      "pt": "líderes",
+      "forms": []
+    },
+    "let": {
+      "pt": "deixou, permitiu",
+      "forms": []
+    },
+    "linked": {
+      "pt": "ligou",
+      "forms": []
+    },
+    "links": {
+      "pt": "links, endereços",
+      "forms": []
+    },
+    "longest": {
+      "pt": "mais longo",
+      "forms": []
+    },
+    "machine": {
+      "pt": "máquina",
+      "forms": []
+    },
+    "machines": {
+      "pt": "máquinas",
+      "forms": []
+    },
+    "marked": {
+      "pt": "marcados",
+      "forms": []
+    },
+    "memories": {
+      "pt": "memórias, lembranças",
+      "forms": []
+    },
+    "mention": {
+      "pt": "mencionar",
+      "forms": []
+    },
+    "mid": {
+      "pt": "meados de",
+      "forms": []
+    },
+    "minister": {
+      "pt": "ministro",
+      "forms": []
+    },
+    "miss": {
+      "pt": "errar, não atingir",
+      "forms": []
+    },
+    "morning": {
+      "pt": "manhã",
+      "forms": []
+    },
+    "none": {
+      "pt": "nenhum",
+      "forms": []
+    },
+    "november": {
+      "pt": "novembro",
+      "forms": []
+    },
+    "october": {
+      "pt": "outubro",
+      "forms": []
+    },
+    "officer": {
+      "pt": "diretor",
+      "forms": []
+    },
+    "outside": {
+      "pt": "externos",
+      "forms": []
+    },
+    "personal": {
+      "pt": "pessoal",
+      "forms": []
+    },
+    "planted": {
+      "pt": "plantadas",
+      "forms": []
+    },
+    "pool": {
+      "pt": "grupo",
+      "forms": []
+    },
+    "previous": {
+      "pt": "anterior",
+      "forms": []
+    },
+    "privacy": {
+      "pt": "privacidade",
+      "forms": []
+    },
+    "private": {
+      "pt": "privado",
+      "forms": []
+    },
+    "program": {
+      "pt": "programa",
+      "forms": []
+    },
+    "promise": {
+      "pt": "promessa",
+      "forms": []
+    },
+    "publicly": {
+      "pt": "publicamente",
+      "forms": []
+    },
+    "published": {
+      "pt": "publicado",
+      "forms": []
+    },
+    "pull": {
+      "pt": "puxar, retirar",
+      "forms": []
+    },
+    "reach": {
+      "pt": "alcançar",
+      "forms": []
+    },
+    "refer": {
+      "pt": "se referir",
+      "forms": []
+    },
+    "removed": {
+      "pt": "removeu",
+      "forms": []
+    },
+    "removes": {
+      "pt": "remove",
+      "forms": []
+    },
+    "requests": {
+      "pt": "pedidos",
+      "forms": []
+    },
+    "research": {
+      "pt": "pesquisa",
+      "forms": []
+    },
+    "save": {
+      "pt": "salvar",
+      "forms": []
+    },
+    "saved": {
+      "pt": "guardados",
+      "forms": []
+    },
+    "secret": {
+      "pt": "segredo, secreto",
+      "forms": []
+    },
+    "security": {
+      "pt": "segurança",
+      "forms": []
+    },
+    "september": {
+      "pt": "setembro",
+      "forms": []
+    },
+    "server": {
+      "pt": "servidor",
+      "forms": []
+    },
+    "service": {
+      "pt": "serviço",
+      "forms": []
+    },
+    "services": {
+      "pt": "serviços",
+      "forms": []
+    },
+    "setting": {
+      "pt": "configuração",
+      "forms": []
+    },
+    "shared": {
+      "pt": "compartilhado",
+      "forms": []
+    },
+    "single": {
+      "pt": "único",
+      "forms": []
+    },
+    "someone": {
+      "pt": "alguém",
+      "forms": []
+    },
+    "specifically": {
+      "pt": "especificamente",
+      "forms": []
+    },
+    "stayed": {
+      "pt": "ficou",
+      "forms": []
+    },
+    "step": {
+      "pt": "passo",
+      "forms": []
+    },
+    "stored": {
+      "pt": "guardado",
+      "forms": []
+    },
+    "sunday": {
+      "pt": "domingo",
+      "forms": []
+    },
+    "supposed": {
+      "pt": "deveria",
+      "forms": []
+    },
+    "system": {
+      "pt": "sistema",
+      "forms": []
+    },
+    "team": {
+      "pt": "equipe",
+      "forms": []
+    },
+    "test": {
+      "pt": "teste",
+      "forms": []
+    },
+    "tested": {
+      "pt": "testou",
+      "forms": []
+    },
+    "text": {
+      "pt": "texto",
+      "forms": []
+    },
+    "theft": {
+      "pt": "roubo",
+      "forms": []
+    },
+    "thief": {
+      "pt": "ladrão",
+      "forms": []
+    },
+    "thieves": {
+      "pt": "ladrões",
+      "forms": []
+    },
+    "threaten": {
+      "pt": "ameaçar",
+      "forms": []
+    },
+    "threats": {
+      "pt": "ameaças",
+      "forms": []
+    },
+    "three": {
+      "pt": "três",
+      "forms": []
+    },
+    "track": {
+      "pt": "caminho",
+      "forms": []
+    },
+    "understands": {
+      "pt": "entende",
+      "forms": []
+    },
+    "unique": {
+      "pt": "único",
+      "forms": []
+    },
+    "user": {
+      "pt": "usuário",
+      "forms": []
+    },
+    "user's": {
+      "pt": "do usuário",
+      "forms": []
+    },
+    "users": {
+      "pt": "usuários",
+      "forms": []
+    },
+    "version": {
+      "pt": "versão",
+      "forms": []
+    },
+    "warming": {
+      "pt": "aquecimento",
+      "forms": []
+    },
+    "warning": {
+      "pt": "aviso",
+      "forms": []
+    },
+    "watched": {
+      "pt": "observou",
+      "forms": []
+    },
+    "web": {
+      "pt": "internet",
+      "forms": []
+    },
+    "whether": {
+      "pt": "se",
+      "forms": []
+    },
+    "windows": {
+      "pt": "janelas, períodos",
+      "forms": []
+    },
+    "zero": {
+      "pt": "zero",
+      "forms": []
+    }
+  }
+}

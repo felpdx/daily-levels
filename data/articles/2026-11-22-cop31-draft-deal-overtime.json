@@ -1,0 +1,777 @@
+{
+  "id": "2026-11-22-cop31-draft-deal-overtime",
+  "date": "2026-11-22",
+  "topic": "mundo",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-11-22T06:00:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Climate talks go into overtime",
+      "text": "World leaders are at the COP31 climate talks in Antalya. The talks should have ended on Friday. They are still going. A new draft deal came out on Sunday morning. It does not say \"move away from fossil fuels\". The European Union thinks this is a step back. Countries must agree before there is a deal. If they do not, the talks may stop until next year."
+    },
+    "2": {
+      "title": "New draft deal tries to save COP31 climate talks",
+      "text": "The COP31 climate summit in Antalya, Turkey, is in its second day of overtime. The talks should have ended on Friday. A new draft deal came out early on Sunday, but the meeting to approve it was delayed.\n\nThe draft does not say \"transitioning away from fossil fuels\", which made some countries threaten to leave. It only recognises a promise that countries made three years ago. The BBC understands that the European Union sees the text as a step back. The draft also says for the first time that the world is on track to miss the 1.5C warming goal.\n\nIf countries cannot agree, the talks could stop until next year. That has happened only once before."
+    },
+    "3": {
+      "title": "New draft deal aims to avert collapse of talks at COP31 climate summit",
+      "text": "Efforts to avert the collapse of the UN COP31 summit in Antalya have faced more delays on the second day of overtime. A new draft agreement was published early on Sunday by the co-hosts, Turkey and Australia, but the meeting at which countries were expected to decide on it was delayed.\n\nThe draft still does not refer specifically to \"transitioning away from fossil fuels\", an omission in the previous version that sparked threats of walkouts. It does acknowledge the commitment that countries made three years ago. The BBC understands that the European Union considers the text a step backward. Panama's environment minister, Juan Carlos Navarro, said it was not acceptable to have a decision that does not even mention fossil fuels.\n\nThe text also includes, for the first time, a recognition that the world is on track to miss the goal of keeping warming below 1.5C. It does not give a figure for money for adaptation, which disappoints the Africa Group.\n\nThe talks are close to the longest in COP history. Without consensus, they could be suspended until next year, which has happened only once since 1995."
+    }
+  },
+  "glossary": {
+    "cop31": {
+      "pt": "COP31, conferência da ONU sobre o clima",
+      "forms": []
+    },
+    "antalya": {
+      "pt": "Antalya, cidade da Turquia",
+      "forms": []
+    },
+    "turkey": {
+      "pt": "Turquia",
+      "forms": []
+    },
+    "australia": {
+      "pt": "Austrália",
+      "forms": []
+    },
+    "panama": {
+      "pt": "Panamá",
+      "forms": []
+    },
+    "navarro": {
+      "pt": "Navarro, ministro do meio ambiente do Panamá",
+      "forms": []
+    },
+    "juan": {
+      "pt": "Juan",
+      "forms": []
+    },
+    "carlos": {
+      "pt": "Carlos",
+      "forms": []
+    },
+    "bbc": {
+      "pt": "BBC, emissora britânica",
+      "forms": []
+    },
+    "un": {
+      "pt": "ONU",
+      "forms": []
+    },
+    "eu": {
+      "pt": "UE",
+      "forms": []
+    },
+    "european": {
+      "pt": "europeu",
+      "forms": []
+    },
+    "union": {
+      "pt": "união",
+      "forms": []
+    },
+    "africa": {
+      "pt": "África",
+      "forms": []
+    },
+    "climate": {
+      "pt": "clima",
+      "forms": [],
+      "highlight": true
+    },
+    "summit": {
+      "pt": "cúpula, encontro de líderes",
+      "forms": [],
+      "highlight": true
+    },
+    "draft": {
+      "pt": "rascunho, versão preliminar",
+      "forms": [],
+      "highlight": true
+    },
+    "overtime": {
+      "pt": "prorrogação, tempo extra",
+      "forms": [],
+      "highlight": true
+    },
+    "fossil": {
+      "pt": "fóssil",
+      "forms": []
+    },
+    "fuel": {
+      "pt": "combustível",
+      "forms": [
+        "fuels"
+      ]
+    },
+    "consensus": {
+      "pt": "consenso, acordo de todos",
+      "forms": [],
+      "highlight": true
+    },
+    "walkout": {
+      "pt": "saída de protesto",
+      "forms": [
+        "walkouts"
+      ]
+    },
+    "avert": {
+      "pt": "evitar",
+      "forms": [],
+      "highlight": true
+    },
+    "collapse": {
+      "pt": "colapso, fracasso",
+      "forms": [],
+      "highlight": true
+    },
+    "adaptation": {
+      "pt": "adaptação",
+      "forms": []
+    },
+    "suspend": {
+      "pt": "suspender",
+      "forms": [
+        "suspended"
+      ]
+    },
+    "transition": {
+      "pt": "fazer a transição",
+      "forms": [
+        "transitioning"
+      ]
+    },
+    "commitment": {
+      "pt": "compromisso",
+      "forms": []
+    },
+    "omission": {
+      "pt": "omissão, algo que ficou de fora",
+      "forms": []
+    },
+    "acknowledge": {
+      "pt": "reconhecer",
+      "forms": [
+        "acknowledges",
+        "recognises"
+      ]
+    },
+    "recognition": {
+      "pt": "reconhecimento",
+      "forms": []
+    },
+    "co": {
+      "pt": "co-",
+      "forms": []
+    },
+    "host": {
+      "pt": "anfitrião",
+      "forms": [
+        "hosts",
+        "co-hosts"
+      ]
+    },
+    "sparked": {
+      "pt": "provocou",
+      "forms": [
+        "spark"
+      ]
+    },
+    "omit": {
+      "pt": "omitir",
+      "forms": []
+    },
+    "acceptable": {
+      "pt": "aceitável",
+      "forms": []
+    },
+    "access": {
+      "pt": "acesso, acessar",
+      "forms": []
+    },
+    "accessed": {
+      "pt": "acessou",
+      "forms": []
+    },
+    "accounts": {
+      "pt": "contas",
+      "forms": []
+    },
+    "affected": {
+      "pt": "afetados",
+      "forms": []
+    },
+    "ago": {
+      "pt": "atrás",
+      "forms": []
+    },
+    "agree": {
+      "pt": "concordar",
+      "forms": []
+    },
+    "agreement": {
+      "pt": "acordo",
+      "forms": []
+    },
+    "aims": {
+      "pt": "tem como objetivo",
+      "forms": []
+    },
+    "anyone": {
+      "pt": "qualquer pessoa",
+      "forms": []
+    },
+    "approve": {
+      "pt": "aprovar",
+      "forms": []
+    },
+    "attack": {
+      "pt": "ataque",
+      "forms": []
+    },
+    "backward": {
+      "pt": "para trás",
+      "forms": []
+    },
+    "below": {
+      "pt": "abaixo de",
+      "forms": []
+    },
+    "break": {
+      "pt": "romper, quebrar",
+      "forms": []
+    },
+    "built": {
+      "pt": "construído",
+      "forms": []
+    },
+    "carried": {
+      "pt": "levava",
+      "forms": []
+    },
+    "case": {
+      "pt": "caso",
+      "forms": []
+    },
+    "cases": {
+      "pt": "casos",
+      "forms": []
+    },
+    "catch": {
+      "pt": "flagrar, pegar",
+      "forms": []
+    },
+    "chats": {
+      "pt": "conversas",
+      "forms": []
+    },
+    "chief": {
+      "pt": "chefe",
+      "forms": []
+    },
+    "commented": {
+      "pt": "comentou",
+      "forms": []
+    },
+    "computer": {
+      "pt": "computador",
+      "forms": []
+    },
+    "confirmed": {
+      "pt": "confirmou",
+      "forms": []
+    },
+    "connected": {
+      "pt": "conectadas",
+      "forms": []
+    },
+    "connects": {
+      "pt": "conecta",
+      "forms": []
+    },
+    "considers": {
+      "pt": "considera",
+      "forms": []
+    },
+    "cop": {
+      "pt": "COP, conferência da ONU sobre o clima",
+      "forms": []
+    },
+    "couple": {
+      "pt": "par, alguns",
+      "forms": []
+    },
+    "customers": {
+      "pt": "clientes",
+      "forms": []
+    },
+    "data": {
+      "pt": "dados",
+      "forms": []
+    },
+    "deal": {
+      "pt": "acordo",
+      "forms": []
+    },
+    "decide": {
+      "pt": "decidir",
+      "forms": []
+    },
+    "decision": {
+      "pt": "decisão",
+      "forms": []
+    },
+    "delayed": {
+      "pt": "adiado",
+      "forms": []
+    },
+    "delays": {
+      "pt": "atrasos",
+      "forms": []
+    },
+    "describes": {
+      "pt": "descreve",
+      "forms": []
+    },
+    "disappoints": {
+      "pt": "decepciona",
+      "forms": []
+    },
+    "drops": {
+      "pt": "retira, abandona",
+      "forms": []
+    },
+    "earliest": {
+      "pt": "mais antigo",
+      "forms": []
+    },
+    "efforts": {
+      "pt": "esforços",
+      "forms": []
+    },
+    "environment": {
+      "pt": "meio ambiente",
+      "forms": []
+    },
+    "expected": {
+      "pt": "esperado",
+      "forms": []
+    },
+    "extended": {
+      "pt": "estendido",
+      "forms": []
+    },
+    "faced": {
+      "pt": "enfrentaram",
+      "forms": []
+    },
+    "fake": {
+      "pt": "falso",
+      "forms": []
+    },
+    "figure": {
+      "pt": "valor, número",
+      "forms": []
+    },
+    "findings": {
+      "pt": "descobertas",
+      "forms": []
+    },
+    "firm": {
+      "pt": "empresa",
+      "forms": []
+    },
+    "firm's": {
+      "pt": "da empresa",
+      "forms": []
+    },
+    "fixed": {
+      "pt": "corrigiu",
+      "forms": []
+    },
+    "fixes": {
+      "pt": "correções",
+      "forms": []
+    },
+    "friday": {
+      "pt": "sexta-feira",
+      "forms": []
+    },
+    "full": {
+      "pt": "total, completo",
+      "forms": []
+    },
+    "goal": {
+      "pt": "meta",
+      "forms": []
+    },
+    "hacked": {
+      "pt": "hackeado",
+      "forms": []
+    },
+    "helper": {
+      "pt": "ajudante",
+      "forms": []
+    },
+    "history": {
+      "pt": "história",
+      "forms": []
+    },
+    "hours": {
+      "pt": "horas",
+      "forms": []
+    },
+    "hundred": {
+      "pt": "cem",
+      "forms": []
+    },
+    "includes": {
+      "pt": "inclui",
+      "forms": []
+    },
+    "including": {
+      "pt": "incluindo",
+      "forms": []
+    },
+    "industrial": {
+      "pt": "industrial",
+      "forms": []
+    },
+    "inside": {
+      "pt": "dentro",
+      "forms": []
+    },
+    "july": {
+      "pt": "julho",
+      "forms": []
+    },
+    "lab": {
+      "pt": "laboratório",
+      "forms": []
+    },
+    "late": {
+      "pt": "no fim de",
+      "forms": []
+    },
+    "leaders": {
+      "pt": "líderes",
+      "forms": []
+    },
+    "let": {
+      "pt": "deixou, permitiu",
+      "forms": []
+    },
+    "linked": {
+      "pt": "ligou",
+      "forms": []
+    },
+    "links": {
+      "pt": "links, endereços",
+      "forms": []
+    },
+    "longest": {
+      "pt": "mais longo",
+      "forms": []
+    },
+    "machine": {
+      "pt": "máquina",
+      "forms": []
+    },
+    "machines": {
+      "pt": "máquinas",
+      "forms": []
+    },
+    "marked": {
+      "pt": "marcados",
+      "forms": []
+    },
+    "memories": {
+      "pt": "memórias, lembranças",
+      "forms": []
+    },
+    "mention": {
+      "pt": "mencionar",
+      "forms": []
+    },
+    "mid": {
+      "pt": "meados de",
+      "forms": []
+    },
+    "minister": {
+      "pt": "ministro",
+      "forms": []
+    },
+    "miss": {
+      "pt": "errar, não atingir",
+      "forms": []
+    },
+    "morning": {
+      "pt": "manhã",
+      "forms": []
+    },
+    "none": {
+      "pt": "nenhum",
+      "forms": []
+    },
+    "november": {
+      "pt": "novembro",
+      "forms": []
+    },
+    "october": {
+      "pt": "outubro",
+      "forms": []
+    },
+    "officer": {
+      "pt": "diretor",
+      "forms": []
+    },
+    "outside": {
+      "pt": "externos",
+      "forms": []
+    },
+    "personal": {
+      "pt": "pessoal",
+      "forms": []
+    },
+    "planted": {
+      "pt": "plantadas",
+      "forms": []
+    },
+    "pool": {
+      "pt": "grupo",
+      "forms": []
+    },
+    "previous": {
+      "pt": "anterior",
+      "forms": []
+    },
+    "privacy": {
+      "pt": "privacidade",
+      "forms": []
+    },
+    "private": {
+      "pt": "privado",
+      "forms": []
+    },
+    "program": {
+      "pt": "programa",
+      "forms": []
+    },
+    "promise": {
+      "pt": "promessa",
+      "forms": []
+    },
+    "publicly": {
+      "pt": "publicamente",
+      "forms": []
+    },
+    "published": {
+      "pt": "publicado",
+      "forms": []
+    },
+    "pull": {
+      "pt": "puxar, retirar",
+      "forms": []
+    },
+    "reach": {
+      "pt": "alcançar",
+      "forms": []
+    },
+    "refer": {
+      "pt": "se referir",
+      "forms": []
+    },
+    "removed": {
+      "pt": "removeu",
+      "forms": []
+    },
+    "removes": {
+      "pt": "remove",
+      "forms": []
+    },
+    "requests": {
+      "pt": "pedidos",
+      "forms": []
+    },
+    "research": {
+      "pt": "pesquisa",
+      "forms": []
+    },
+    "save": {
+      "pt": "salvar",
+      "forms": []
+    },
+    "saved": {
+      "pt": "guardados",
+      "forms": []
+    },
+    "secret": {
+      "pt": "segredo, secreto",
+      "forms": []
+    },
+    "security": {
+      "pt": "segurança",
+      "forms": []
+    },
+    "september": {
+      "pt": "setembro",
+      "forms": []
+    },
+    "server": {
+      "pt": "servidor",
+      "forms": []
+    },
+    "service": {
+      "pt": "serviço",
+      "forms": []
+    },
+    "services": {
+      "pt": "serviços",
+      "forms": []
+    },
+    "setting": {
+      "pt": "configuração",
+      "forms": []
+    },
+    "shared": {
+      "pt": "compartilhado",
+      "forms": []
+    },
+    "single": {
+      "pt": "único",
+      "forms": []
+    },
+    "someone": {
+      "pt": "alguém",
+      "forms": []
+    },
+    "specifically": {
+      "pt": "especificamente",
+      "forms": []
+    },
+    "stayed": {
+      "pt": "ficou",
+      "forms": []
+    },
+    "step": {
+      "pt": "passo",
+      "forms": []
+    },
+    "stored": {
+      "pt": "guardado",
+      "forms": []
+    },
+    "sunday": {
+      "pt": "domingo",
+      "forms": []
+    },
+    "supposed": {
+      "pt": "deveria",
+      "forms": []
+    },
+    "system": {
+      "pt": "sistema",
+      "forms": []
+    },
+    "team": {
+      "pt": "equipe",
+      "forms": []
+    },
+    "test": {
+      "pt": "teste",
+      "forms": []
+    },
+    "tested": {
+      "pt": "testou",
+      "forms": []
+    },
+    "text": {
+      "pt": "texto",
+      "forms": []
+    },
+    "theft": {
+      "pt": "roubo",
+      "forms": []
+    },
+    "thief": {
+      "pt": "ladrão",
+      "forms": []
+    },
+    "thieves": {
+      "pt": "ladrões",
+      "forms": []
+    },
+    "threaten": {
+      "pt": "ameaçar",
+      "forms": []
+    },
+    "threats": {
+      "pt": "ameaças",
+      "forms": []
+    },
+    "three": {
+      "pt": "três",
+      "forms": []
+    },
+    "track": {
+      "pt": "caminho",
+      "forms": []
+    },
+    "understands": {
+      "pt": "entende",
+      "forms": []
+    },
+    "unique": {
+      "pt": "único",
+      "forms": []
+    },
+    "user": {
+      "pt": "usuário",
+      "forms": []
+    },
+    "user's": {
+      "pt": "do usuário",
+      "forms": []
+    },
+    "users": {
+      "pt": "usuários",
+      "forms": []
+    },
+    "version": {
+      "pt": "versão",
+      "forms": []
+    },
+    "warming": {
+      "pt": "aquecimento",
+      "forms": []
+    },
+    "warning": {
+      "pt": "aviso",
+      "forms": []
+    },
+    "watched": {
+      "pt": "observou",
+      "forms": []
+    },
+    "web": {
+      "pt": "internet",
+      "forms": []
+    },
+    "whether": {
+      "pt": "se",
+      "forms": []
+    },
+    "windows": {
+      "pt": "janelas, períodos",
+      "forms": []
+    },
+    "zero": {
+      "pt": "zero",
+      "forms": []
+    }
+  }
+}

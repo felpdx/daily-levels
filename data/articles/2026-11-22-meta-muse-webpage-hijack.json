@@ -1,0 +1,757 @@
+{
+  "id": "2026-11-22-meta-muse-webpage-hijack",
+  "date": "2026-11-22",
+  "topic": "hacking",
+  "source": {
+    "name": "The Hacker News",
+    "url": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
+    "publishedAt": "2026-11-21T11:00:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "A bad webpage could read AI chats",
+      "text": "Researchers showed an attack on Meta Muse. Muse is an AI helper from Meta. A bad webpage could take private chats and saved memories. The user would see no warning. The researchers also took control of the user's cloud computer in a test. The test was not a real attack. The company that found the problem said the Muse team has fixed it."
+    },
+    "2": {
+      "title": "A malicious webpage let researchers read private Meta Muse chats",
+      "text": "Researchers showed that a bad webpage could take a Meta Muse user's private chats and saved memories. The user would not see any warning. Muse is Meta's personal AI agent. It started on September 8 and works through the accounts that a user connects to it.\n\nThe security firm NebuSec also linked a flaw in Muse's built-in browser to a Linux kernel flaw. With them, it took full control of the user's cloud computer. This was a lab test, not an attack on real users, and it stayed on one user's machine.\n\nNebuSec says the Muse team fixed every weakness before publication. Meta has not confirmed the fixes publicly."
+    },
+    "3": {
+      "title": "A single malicious webpage let researchers hijack Meta Muse and access private chats",
+      "text": "Researchers have shown that a malicious webpage could pull a Meta Muse user's private conversations and stored memories from the assistant without any approval prompt. The same attack could be extended to reach the credentials that Muse stores for the user's connected accounts.\n\nThe work was a laboratory demonstration, not an attack on real users. NebuSec, the security firm that published it, says Muse's team has since fixed every weakness it describes.\n\nMuse is Meta's personal AI agent, launched on September 8. It works through the online accounts a user connects to it, and each person's agent runs on its own cloud computer. The researchers chained a flaw in the built-in browser to a Linux kernel flaw and took full control of that machine, including the credential store and a monitoring layer called Sentinel. They did not break out to the shared server or to other users' machines.\n\nMeta has not publicly confirmed the fixes or commented, and the write-up does not say whether any user data was accessed before the patches."
+    }
+  },
+  "glossary": {
+    "meta": {
+      "pt": "Meta, dona do Facebook e do WhatsApp",
+      "forms": []
+    },
+    "muse": {
+      "pt": "Muse, assistente de IA pessoal da Meta",
+      "forms": []
+    },
+    "nebusec": {
+      "pt": "NebuSec, empresa de segurança digital",
+      "forms": []
+    },
+    "sentinel": {
+      "pt": "Sentinel, camada de monitoramento do Muse",
+      "forms": []
+    },
+    "linux": {
+      "pt": "Linux, sistema operacional",
+      "forms": []
+    },
+    "kernel": {
+      "pt": "núcleo do sistema operacional",
+      "forms": []
+    },
+    "malicious": {
+      "pt": "malicioso, feito para causar dano",
+      "forms": [],
+      "highlight": true
+    },
+    "webpage": {
+      "pt": "página da internet",
+      "forms": [],
+      "highlight": true
+    },
+    "hijack": {
+      "pt": "sequestrar o controle",
+      "forms": [],
+      "highlight": true
+    },
+    "researcher": {
+      "pt": "pesquisador",
+      "forms": [
+        "researchers"
+      ],
+      "highlight": true
+    },
+    "flaw": {
+      "pt": "falha",
+      "forms": [
+        "flaws"
+      ],
+      "highlight": true
+    },
+    "cloud": {
+      "pt": "nuvem, servidores na internet",
+      "forms": []
+    },
+    "agent": {
+      "pt": "agente, programa de IA que age por você",
+      "forms": [],
+      "highlight": true
+    },
+    "chain": {
+      "pt": "encadear, ligar uma falha a outra",
+      "forms": [
+        "chained"
+      ]
+    },
+    "credential": {
+      "pt": "credencial, dados de acesso",
+      "forms": [
+        "credentials"
+      ],
+      "highlight": true
+    },
+    "patch": {
+      "pt": "correção de segurança",
+      "forms": [
+        "patches"
+      ],
+      "highlight": true
+    },
+    "prompt": {
+      "pt": "aviso que pede aprovação",
+      "forms": []
+    },
+    "laboratory": {
+      "pt": "laboratório",
+      "forms": []
+    },
+    "demonstration": {
+      "pt": "demonstração",
+      "forms": []
+    },
+    "conversation": {
+      "pt": "conversa",
+      "forms": [
+        "conversations"
+      ]
+    },
+    "ai": {
+      "pt": "IA, inteligência artificial",
+      "forms": []
+    },
+    "browser": {
+      "pt": "navegador",
+      "forms": []
+    },
+    "stored": {
+      "pt": "guardado",
+      "forms": [
+        "store",
+        "stores"
+      ]
+    },
+    "approval": {
+      "pt": "aprovação",
+      "forms": []
+    },
+    "monitoring": {
+      "pt": "monitoramento",
+      "forms": []
+    },
+    "layer": {
+      "pt": "camada",
+      "forms": []
+    },
+    "launch": {
+      "pt": "lançar",
+      "forms": [
+        "launched"
+      ]
+    },
+    "weakness": {
+      "pt": "ponto fraco",
+      "forms": [
+        "weaknesses"
+      ]
+    },
+    "publication": {
+      "pt": "publicação",
+      "forms": []
+    },
+    "assistant": {
+      "pt": "assistente",
+      "forms": []
+    },
+    "acceptable": {
+      "pt": "aceitável",
+      "forms": []
+    },
+    "access": {
+      "pt": "acesso, acessar",
+      "forms": []
+    },
+    "accessed": {
+      "pt": "acessou",
+      "forms": []
+    },
+    "accounts": {
+      "pt": "contas",
+      "forms": []
+    },
+    "affected": {
+      "pt": "afetados",
+      "forms": []
+    },
+    "ago": {
+      "pt": "atrás",
+      "forms": []
+    },
+    "agree": {
+      "pt": "concordar",
+      "forms": []
+    },
+    "agreement": {
+      "pt": "acordo",
+      "forms": []
+    },
+    "aims": {
+      "pt": "tem como objetivo",
+      "forms": []
+    },
+    "anyone": {
+      "pt": "qualquer pessoa",
+      "forms": []
+    },
+    "approve": {
+      "pt": "aprovar",
+      "forms": []
+    },
+    "attack": {
+      "pt": "ataque",
+      "forms": []
+    },
+    "backward": {
+      "pt": "para trás",
+      "forms": []
+    },
+    "below": {
+      "pt": "abaixo de",
+      "forms": []
+    },
+    "break": {
+      "pt": "romper, quebrar",
+      "forms": []
+    },
+    "built": {
+      "pt": "construído",
+      "forms": []
+    },
+    "carried": {
+      "pt": "levava",
+      "forms": []
+    },
+    "case": {
+      "pt": "caso",
+      "forms": []
+    },
+    "cases": {
+      "pt": "casos",
+      "forms": []
+    },
+    "catch": {
+      "pt": "flagrar, pegar",
+      "forms": []
+    },
+    "chats": {
+      "pt": "conversas",
+      "forms": []
+    },
+    "chief": {
+      "pt": "chefe",
+      "forms": []
+    },
+    "commented": {
+      "pt": "comentou",
+      "forms": []
+    },
+    "computer": {
+      "pt": "computador",
+      "forms": []
+    },
+    "confirmed": {
+      "pt": "confirmou",
+      "forms": []
+    },
+    "connected": {
+      "pt": "conectadas",
+      "forms": []
+    },
+    "connects": {
+      "pt": "conecta",
+      "forms": []
+    },
+    "considers": {
+      "pt": "considera",
+      "forms": []
+    },
+    "cop": {
+      "pt": "COP, conferência da ONU sobre o clima",
+      "forms": []
+    },
+    "couple": {
+      "pt": "par, alguns",
+      "forms": []
+    },
+    "customers": {
+      "pt": "clientes",
+      "forms": []
+    },
+    "data": {
+      "pt": "dados",
+      "forms": []
+    },
+    "deal": {
+      "pt": "acordo",
+      "forms": []
+    },
+    "decide": {
+      "pt": "decidir",
+      "forms": []
+    },
+    "decision": {
+      "pt": "decisão",
+      "forms": []
+    },
+    "delayed": {
+      "pt": "adiado",
+      "forms": []
+    },
+    "delays": {
+      "pt": "atrasos",
+      "forms": []
+    },
+    "describes": {
+      "pt": "descreve",
+      "forms": []
+    },
+    "disappoints": {
+      "pt": "decepciona",
+      "forms": []
+    },
+    "drops": {
+      "pt": "retira, abandona",
+      "forms": []
+    },
+    "earliest": {
+      "pt": "mais antigo",
+      "forms": []
+    },
+    "efforts": {
+      "pt": "esforços",
+      "forms": []
+    },
+    "environment": {
+      "pt": "meio ambiente",
+      "forms": []
+    },
+    "expected": {
+      "pt": "esperado",
+      "forms": []
+    },
+    "extended": {
+      "pt": "estendido",
+      "forms": []
+    },
+    "faced": {
+      "pt": "enfrentaram",
+      "forms": []
+    },
+    "fake": {
+      "pt": "falso",
+      "forms": []
+    },
+    "figure": {
+      "pt": "valor, número",
+      "forms": []
+    },
+    "findings": {
+      "pt": "descobertas",
+      "forms": []
+    },
+    "firm": {
+      "pt": "empresa",
+      "forms": []
+    },
+    "firm's": {
+      "pt": "da empresa",
+      "forms": []
+    },
+    "fixed": {
+      "pt": "corrigiu",
+      "forms": []
+    },
+    "fixes": {
+      "pt": "correções",
+      "forms": []
+    },
+    "friday": {
+      "pt": "sexta-feira",
+      "forms": []
+    },
+    "full": {
+      "pt": "total, completo",
+      "forms": []
+    },
+    "goal": {
+      "pt": "meta",
+      "forms": []
+    },
+    "hacked": {
+      "pt": "hackeado",
+      "forms": []
+    },
+    "helper": {
+      "pt": "ajudante",
+      "forms": []
+    },
+    "history": {
+      "pt": "história",
+      "forms": []
+    },
+    "hours": {
+      "pt": "horas",
+      "forms": []
+    },
+    "hundred": {
+      "pt": "cem",
+      "forms": []
+    },
+    "includes": {
+      "pt": "inclui",
+      "forms": []
+    },
+    "including": {
+      "pt": "incluindo",
+      "forms": []
+    },
+    "industrial": {
+      "pt": "industrial",
+      "forms": []
+    },
+    "inside": {
+      "pt": "dentro",
+      "forms": []
+    },
+    "july": {
+      "pt": "julho",
+      "forms": []
+    },
+    "lab": {
+      "pt": "laboratório",
+      "forms": []
+    },
+    "late": {
+      "pt": "no fim de",
+      "forms": []
+    },
+    "leaders": {
+      "pt": "líderes",
+      "forms": []
+    },
+    "let": {
+      "pt": "deixou, permitiu",
+      "forms": []
+    },
+    "linked": {
+      "pt": "ligou",
+      "forms": []
+    },
+    "links": {
+      "pt": "links, endereços",
+      "forms": []
+    },
+    "longest": {
+      "pt": "mais longo",
+      "forms": []
+    },
+    "machine": {
+      "pt": "máquina",
+      "forms": []
+    },
+    "machines": {
+      "pt": "máquinas",
+      "forms": []
+    },
+    "marked": {
+      "pt": "marcados",
+      "forms": []
+    },
+    "memories": {
+      "pt": "memórias, lembranças",
+      "forms": []
+    },
+    "mention": {
+      "pt": "mencionar",
+      "forms": []
+    },
+    "mid": {
+      "pt": "meados de",
+      "forms": []
+    },
+    "minister": {
+      "pt": "ministro",
+      "forms": []
+    },
+    "miss": {
+      "pt": "errar, não atingir",
+      "forms": []
+    },
+    "morning": {
+      "pt": "manhã",
+      "forms": []
+    },
+    "none": {
+      "pt": "nenhum",
+      "forms": []
+    },
+    "november": {
+      "pt": "novembro",
+      "forms": []
+    },
+    "october": {
+      "pt": "outubro",
+      "forms": []
+    },
+    "officer": {
+      "pt": "diretor",
+      "forms": []
+    },
+    "outside": {
+      "pt": "externos",
+      "forms": []
+    },
+    "personal": {
+      "pt": "pessoal",
+      "forms": []
+    },
+    "planted": {
+      "pt": "plantadas",
+      "forms": []
+    },
+    "pool": {
+      "pt": "grupo",
+      "forms": []
+    },
+    "previous": {
+      "pt": "anterior",
+      "forms": []
+    },
+    "privacy": {
+      "pt": "privacidade",
+      "forms": []
+    },
+    "private": {
+      "pt": "privado",
+      "forms": []
+    },
+    "program": {
+      "pt": "programa",
+      "forms": []
+    },
+    "promise": {
+      "pt": "promessa",
+      "forms": []
+    },
+    "publicly": {
+      "pt": "publicamente",
+      "forms": []
+    },
+    "published": {
+      "pt": "publicado",
+      "forms": []
+    },
+    "pull": {
+      "pt": "puxar, retirar",
+      "forms": []
+    },
+    "reach": {
+      "pt": "alcançar",
+      "forms": []
+    },
+    "refer": {
+      "pt": "se referir",
+      "forms": []
+    },
+    "removed": {
+      "pt": "removeu",
+      "forms": []
+    },
+    "removes": {
+      "pt": "remove",
+      "forms": []
+    },
+    "requests": {
+      "pt": "pedidos",
+      "forms": []
+    },
+    "research": {
+      "pt": "pesquisa",
+      "forms": []
+    },
+    "save": {
+      "pt": "salvar",
+      "forms": []
+    },
+    "saved": {
+      "pt": "guardados",
+      "forms": []
+    },
+    "secret": {
+      "pt": "segredo, secreto",
+      "forms": []
+    },
+    "security": {
+      "pt": "segurança",
+      "forms": []
+    },
+    "september": {
+      "pt": "setembro",
+      "forms": []
+    },
+    "server": {
+      "pt": "servidor",
+      "forms": []
+    },
+    "service": {
+      "pt": "serviço",
+      "forms": []
+    },
+    "services": {
+      "pt": "serviços",
+      "forms": []
+    },
+    "setting": {
+      "pt": "configuração",
+      "forms": []
+    },
+    "shared": {
+      "pt": "compartilhado",
+      "forms": []
+    },
+    "single": {
+      "pt": "único",
+      "forms": []
+    },
+    "someone": {
+      "pt": "alguém",
+      "forms": []
+    },
+    "specifically": {
+      "pt": "especificamente",
+      "forms": []
+    },
+    "stayed": {
+      "pt": "ficou",
+      "forms": []
+    },
+    "step": {
+      "pt": "passo",
+      "forms": []
+    },
+    "sunday": {
+      "pt": "domingo",
+      "forms": []
+    },
+    "supposed": {
+      "pt": "deveria",
+      "forms": []
+    },
+    "system": {
+      "pt": "sistema",
+      "forms": []
+    },
+    "team": {
+      "pt": "equipe",
+      "forms": []
+    },
+    "test": {
+      "pt": "teste",
+      "forms": []
+    },
+    "tested": {
+      "pt": "testou",
+      "forms": []
+    },
+    "text": {
+      "pt": "texto",
+      "forms": []
+    },
+    "theft": {
+      "pt": "roubo",
+      "forms": []
+    },
+    "thief": {
+      "pt": "ladrão",
+      "forms": []
+    },
+    "thieves": {
+      "pt": "ladrões",
+      "forms": []
+    },
+    "threaten": {
+      "pt": "ameaçar",
+      "forms": []
+    },
+    "threats": {
+      "pt": "ameaças",
+      "forms": []
+    },
+    "three": {
+      "pt": "três",
+      "forms": []
+    },
+    "track": {
+      "pt": "caminho",
+      "forms": []
+    },
+    "understands": {
+      "pt": "entende",
+      "forms": []
+    },
+    "unique": {
+      "pt": "único",
+      "forms": []
+    },
+    "user": {
+      "pt": "usuário",
+      "forms": []
+    },
+    "user's": {
+      "pt": "do usuário",
+      "forms": []
+    },
+    "users": {
+      "pt": "usuários",
+      "forms": []
+    },
+    "version": {
+      "pt": "versão",
+      "forms": []
+    },
+    "warming": {
+      "pt": "aquecimento",
+      "forms": []
+    },
+    "warning": {
+      "pt": "aviso",
+      "forms": []
+    },
+    "watched": {
+      "pt": "observou",
+      "forms": []
+    },
+    "web": {
+      "pt": "internet",
+      "forms": []
+    },
+    "whether": {
+      "pt": "se",
+      "forms": []
+    },
+    "windows": {
+      "pt": "janelas, períodos",
+      "forms": []
+    },
+    "zero": {
+      "pt": "zero",
+      "forms": []
+    }
+  }
+}

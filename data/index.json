@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "id": "2026-11-22-meta-muse-webpage-hijack",
+      "date": "2026-11-22",
+      "topic": "hacking",
+      "title": "A bad webpage could read AI chats",
+      "source": "The Hacker News"
+    },
+    {
+      "id": "2026-11-22-openrouter-prompt-theft",
+      "date": "2026-11-22",
+      "topic": "hacking",
+      "title": "Secret AI prompts were stolen",
+      "source": "The Hacker News"
+    },
+    {
+      "id": "2026-11-22-cop31-draft-deal-overtime",
+      "date": "2026-11-22",
+      "topic": "mundo",
+      "title": "Climate talks go into overtime",
+      "source": "BBC News"
+    },
+    {
       "id": "2026-11-21-cisco-expressway-flaw-exploited",
       "date": "2026-11-21",
       "topic": "hacking",

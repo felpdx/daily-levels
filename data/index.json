@@ -1,6 +1,41 @@
 {
   "articles": [
     {
+      "id": "2026-11-23-india-ai-bank-attacks",
+      "date": "2026-11-23",
+      "topic": "hacking",
+      "title": "AI attacks hit banks in India",
+      "source": "The Hacker News"
+    },
+    {
+      "id": "2026-11-23-monai-ai-agents-zero-day",
+      "date": "2026-11-23",
+      "topic": "hacking",
+      "title": "AI agents found a hidden bug",
+      "source": "The Hacker News"
+    },
+    {
+      "id": "2026-11-23-poundland-collapse-risk",
+      "date": "2026-11-23",
+      "topic": "bolsa",
+      "title": "Poundland may fail",
+      "source": "BBC News"
+    },
+    {
+      "id": "2026-11-23-san-francisco-ai-boom-crash-fears",
+      "date": "2026-11-23",
+      "topic": "bolsa",
+      "title": "San Francisco enjoys an AI boom",
+      "source": "BBC News"
+    },
+    {
+      "id": "2026-11-23-ukraine-drones-russian-ship-libya",
+      "date": "2026-11-23",
+      "topic": "mundo",
+      "title": "A Russian ship sinks near Libya",
+      "source": "BBC News"
+    },
+    {
       "id": "2026-11-22-meta-muse-webpage-hijack",
       "date": "2026-11-22",
       "topic": "hacking",

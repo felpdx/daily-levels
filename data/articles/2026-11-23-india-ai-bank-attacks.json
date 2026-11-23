@@ -1,0 +1,469 @@
+{
+  "id": "2026-11-23-india-ai-bank-attacks",
+  "date": "2026-11-23",
+  "topic": "hacking",
+  "source": {
+    "name": "The Hacker News",
+    "url": "https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html",
+    "publishedAt": "2026-11-23T08:24:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "AI attacks hit banks in India",
+      "text": "India's cyber agency gave a warning. Hackers use AI to attack banks and money companies. They moved money without permission. They attacked business records and approval steps. Experts say AI makes attacks much faster. Before, it took days. Now it can take a few hours. The agency did not say how much money was lost."
+    },
+    "2": {
+      "title": "India warns of AI-assisted attacks on banks",
+      "text": "India's cyber agency, CERT-In, warned that attackers are using artificial intelligence to hit banks and financial companies. The hackers went after business records and approval steps, and they moved money without permission through normal systems.\n\nThe agency did not say how much money was lost or who did it. It said AI tools made the attacks much faster: the time from the first break-in to the final damage fell from days to a few hours.\n\nAnother Indian group said the money was sent to mule accounts, which are accounts used by criminals, and then quickly taken out. The central bank also asked banks to show how ready they are for AI threats."
+    },
+    "3": {
+      "title": "India's cyber agency warns of AI-assisted attacks that triggered unauthorized bank payments",
+      "text": "India's Computer Emergency Response Team, CERT-In, warned that attackers are using artificial intelligence to carry out unauthorized transactions at banks, financial firms and technology providers that support government-linked payments. According to the agency, the hackers targeted business records and approval processes, so the payments went through otherwise legitimate systems.\n\nCERT-In did not say how much money was paid out or who was responsible, and no threat group has been named in this campaign. It said agent-based AI tools shortened the time between first access and final impact from days to a few hours, and that several AI agents can work in parallel for hours or days.\n\nIn a separate alert earlier this month, the agency linked a group called Crafty Falcon to attacks on financial firms. India's Cybercrime Coordination Centre said hackers exploit unpatched software or badly configured servers, then target payment systems and send the money to mule accounts across different banks. The Reserve Bank of India has also asked banks how prepared they are for AI-related threats.\n\nThe agency advised companies to review the security of business applications, important records, user identities and third-party connections."
+    }
+  },
+  "glossary": {
+    "ai": {
+      "pt": "IA, inteligência artificial",
+      "forms": []
+    },
+    "attack": {
+      "pt": "ataque; atacar",
+      "forms": [
+        "attacks",
+        "attacked",
+        "attacker"
+      ],
+      "highlight": true
+    },
+    "hit": {
+      "pt": "atingir, atacar",
+      "forms": [
+        "hits"
+      ]
+    },
+    "bank": {
+      "pt": "banco",
+      "forms": [
+        "banks"
+      ]
+    },
+    "india": {
+      "pt": "Índia, país da Ásia",
+      "forms": [
+        "india's",
+        "indian"
+      ]
+    },
+    "cyber": {
+      "pt": "relacionado a computadores e internet",
+      "forms": []
+    },
+    "agency": {
+      "pt": "agência, órgão do governo",
+      "forms": []
+    },
+    "warning": {
+      "pt": "aviso",
+      "forms": [
+        "warn",
+        "warned",
+        "warns"
+      ],
+      "highlight": true
+    },
+    "hacker": {
+      "pt": "hacker, invasor de sistemas",
+      "forms": [
+        "hackers"
+      ],
+      "highlight": true
+    },
+    "permission": {
+      "pt": "permissão",
+      "forms": []
+    },
+    "record": {
+      "pt": "registro, documento",
+      "forms": [
+        "records"
+      ]
+    },
+    "approval": {
+      "pt": "aprovação",
+      "forms": []
+    },
+    "step": {
+      "pt": "etapa, passo",
+      "forms": [
+        "steps"
+      ]
+    },
+    "expert": {
+      "pt": "especialista",
+      "forms": [
+        "experts"
+      ]
+    },
+    "fast": {
+      "pt": "rápido",
+      "forms": [
+        "faster"
+      ]
+    },
+    "hour": {
+      "pt": "hora",
+      "forms": [
+        "hours"
+      ]
+    },
+    "assisted": {
+      "pt": "ajudado, com ajuda de",
+      "forms": []
+    },
+    "cert": {
+      "pt": "CERT-In, equipe indiana de resposta a emergências de computador",
+      "forms": [
+        "cert-in"
+      ]
+    },
+    "attacker": {
+      "pt": "atacante, invasor",
+      "forms": [
+        "attackers"
+      ]
+    },
+    "artificial": {
+      "pt": "artificial",
+      "forms": []
+    },
+    "intelligence": {
+      "pt": "inteligência",
+      "forms": []
+    },
+    "financial": {
+      "pt": "financeiro",
+      "forms": []
+    },
+    "normal": {
+      "pt": "normal, comum",
+      "forms": []
+    },
+    "system": {
+      "pt": "sistema",
+      "forms": [
+        "systems"
+      ]
+    },
+    "tool": {
+      "pt": "ferramenta",
+      "forms": [
+        "tools"
+      ]
+    },
+    "break": {
+      "pt": "quebrar; invasão",
+      "forms": []
+    },
+    "final": {
+      "pt": "final, último",
+      "forms": []
+    },
+    "damage": {
+      "pt": "dano",
+      "forms": []
+    },
+    "mule": {
+      "pt": "'mula': conta usada por criminosos para receber dinheiro",
+      "forms": []
+    },
+    "account": {
+      "pt": "conta",
+      "forms": [
+        "accounts"
+      ]
+    },
+    "criminal": {
+      "pt": "criminoso",
+      "forms": [
+        "criminals"
+      ]
+    },
+    "quickly": {
+      "pt": "rapidamente",
+      "forms": []
+    },
+    "central": {
+      "pt": "central",
+      "forms": []
+    },
+    "ready": {
+      "pt": "pronto, preparado",
+      "forms": []
+    },
+    "threat": {
+      "pt": "ameaça",
+      "forms": [
+        "threats"
+      ],
+      "highlight": true
+    },
+    "trigger": {
+      "pt": "provocar, causar",
+      "forms": [
+        "triggered"
+      ]
+    },
+    "unauthorized": {
+      "pt": "não autorizado",
+      "forms": [],
+      "highlight": true
+    },
+    "payment": {
+      "pt": "pagamento",
+      "forms": [
+        "payments"
+      ]
+    },
+    "computer": {
+      "pt": "computador",
+      "forms": []
+    },
+    "emergency": {
+      "pt": "emergência",
+      "forms": []
+    },
+    "response": {
+      "pt": "resposta",
+      "forms": []
+    },
+    "team": {
+      "pt": "equipe",
+      "forms": [
+        "teams"
+      ]
+    },
+    "carry": {
+      "pt": "realizar, levar",
+      "forms": []
+    },
+    "transaction": {
+      "pt": "transação financeira",
+      "forms": [
+        "transactions"
+      ]
+    },
+    "firm": {
+      "pt": "empresa",
+      "forms": [
+        "firms"
+      ]
+    },
+    "technology": {
+      "pt": "tecnologia",
+      "forms": []
+    },
+    "provider": {
+      "pt": "provedor, fornecedor",
+      "forms": [
+        "providers"
+      ]
+    },
+    "support": {
+      "pt": "apoiar",
+      "forms": []
+    },
+    "link": {
+      "pt": "ligar, relacionar",
+      "forms": [
+        "linked",
+        "links"
+      ]
+    },
+    "according": {
+      "pt": "de acordo com",
+      "forms": []
+    },
+    "target": {
+      "pt": "alvo; escolher como alvo",
+      "forms": [
+        "targeted"
+      ],
+      "highlight": true
+    },
+    "process": {
+      "pt": "processo",
+      "forms": [
+        "processes"
+      ]
+    },
+    "otherwise": {
+      "pt": "de outra forma",
+      "forms": []
+    },
+    "legitimate": {
+      "pt": "legítimo, legal",
+      "forms": [],
+      "highlight": true
+    },
+    "responsible": {
+      "pt": "responsável",
+      "forms": []
+    },
+    "campaign": {
+      "pt": "campanha, série de ataques",
+      "forms": []
+    },
+    "agent": {
+      "pt": "agente",
+      "forms": [
+        "agents"
+      ],
+      "highlight": true
+    },
+    "based": {
+      "pt": "baseado",
+      "forms": []
+    },
+    "shorten": {
+      "pt": "encurtar",
+      "forms": [
+        "shortened"
+      ]
+    },
+    "access": {
+      "pt": "acesso",
+      "forms": []
+    },
+    "impact": {
+      "pt": "impacto",
+      "forms": []
+    },
+    "several": {
+      "pt": "vários",
+      "forms": []
+    },
+    "parallel": {
+      "pt": "em paralelo, ao mesmo tempo",
+      "forms": []
+    },
+    "separate": {
+      "pt": "separado",
+      "forms": []
+    },
+    "alert": {
+      "pt": "alerta",
+      "forms": []
+    },
+    "earlier": {
+      "pt": "antes, mais cedo",
+      "forms": []
+    },
+    "crafty": {
+      "pt": "Crafty",
+      "forms": []
+    },
+    "falcon": {
+      "pt": "Falcon",
+      "forms": []
+    },
+    "cybercrime": {
+      "pt": "crime cibernético",
+      "forms": []
+    },
+    "coordination": {
+      "pt": "coordenação",
+      "forms": []
+    },
+    "centre": {
+      "pt": "centro",
+      "forms": []
+    },
+    "exploit": {
+      "pt": "explorar uma falha",
+      "forms": [
+        "exploits"
+      ],
+      "highlight": true
+    },
+    "unpatched": {
+      "pt": "sem correção de segurança",
+      "forms": []
+    },
+    "software": {
+      "pt": "programa de computador",
+      "forms": []
+    },
+    "badly": {
+      "pt": "mal",
+      "forms": []
+    },
+    "configure": {
+      "pt": "configurar",
+      "forms": [
+        "configured"
+      ]
+    },
+    "server": {
+      "pt": "servidor",
+      "forms": [
+        "servers"
+      ]
+    },
+    "across": {
+      "pt": "através de, em vários",
+      "forms": []
+    },
+    "reserve": {
+      "pt": "reserva",
+      "forms": []
+    },
+    "prepared": {
+      "pt": "preparado",
+      "forms": []
+    },
+    "related": {
+      "pt": "relacionado",
+      "forms": []
+    },
+    "advise": {
+      "pt": "aconselhar",
+      "forms": [
+        "advised"
+      ]
+    },
+    "review": {
+      "pt": "revisar",
+      "forms": []
+    },
+    "security": {
+      "pt": "segurança",
+      "forms": []
+    },
+    "application": {
+      "pt": "aplicativo, programa",
+      "forms": [
+        "applications"
+      ]
+    },
+    "user": {
+      "pt": "usuário",
+      "forms": []
+    },
+    "identity": {
+      "pt": "identidade",
+      "forms": [
+        "identities"
+      ]
+    },
+    "party": {
+      "pt": "terceiro, parte",
+      "forms": []
+    },
+    "connection": {
+      "pt": "conexão",
+      "forms": [
+        "connections"
+      ]
+    }
+  }
+}

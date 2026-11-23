@@ -1,0 +1,424 @@
+{
+  "id": "2026-11-23-ukraine-drones-russian-ship-libya",
+  "date": "2026-11-23",
+  "topic": "mundo",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-11-23T08:36:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "A Russian ship sinks near Libya",
+      "text": "Ukraine's president said drones sank a Russian warship off Libya on Sunday. The ship was in the port of Benghazi. Zelensky said seven sea drones hit it. Another Russian ship was also hit. Russia has not said anything yet. Libya's government is angry. The UN wants an investigation."
+    },
+    "2": {
+      "title": "Ukraine says drones sank a Russian warship off Libya",
+      "text": "President Volodymyr Zelensky said that Ukrainian drones sank the Russian warship Merkury off the coast of Libya on Sunday. He said seven naval drones were used and that a combat helicopter was also destroyed. A second Russian ship, a container carrier, was also hit.\n\nThe government in eastern Libya said there was an explosion on a Russian ship in Benghazi port while it stopped for fuel and supplies. Moscow has not commented.\n\nThe United Nations mission in Libya asked for an independent investigation. It said Libya must not become a battleground for foreign wars. Both Libyan governments criticized the use of their ports."
+    },
+    "3": {
+      "title": "Russian ships hit by Ukrainian drones off Libya coast, Zelensky says",
+      "text": "President Volodymyr Zelensky said a Russian warship was sunk by Ukrainian drones off the coast of Libya on Sunday. He said seven naval drones were used to target the corvette Merkury, one of Russia's newest ships, and that a Ka-27 combat helicopter was also destroyed. A second vessel, the container carrier MV Angara, was hit as well.\n\nThe government that controls eastern Libya said there was an explosion on a warship at the Benghazi port, where it had stopped for fuel and supplies before returning to Russia. Satellite images from the firm Vantor showed the ship moored on Saturday and mostly capsized on Sunday. Moscow has not yet commented.\n\nThe UN mission in Libya expressed serious concern and called for an immediate, independent and transparent investigation, saying Libya must not become a battleground for foreign conflicts. The eastern authorities called the attack a violation of their sovereignty, while the government in Tripoli warned against letting foreign forces use civilian facilities. An analyst quoted by the BBC said the Haftar family, allied with the eastern government, would likely react."
+    }
+  },
+  "glossary": {
+    "russian": {
+      "pt": "russo",
+      "forms": [
+        "russia",
+        "russia's"
+      ]
+    },
+    "ship": {
+      "pt": "navio",
+      "forms": [
+        "ships"
+      ]
+    },
+    "sink": {
+      "pt": "afundar",
+      "forms": [
+        "sinks",
+        "sank",
+        "sunk"
+      ],
+      "highlight": true
+    },
+    "near": {
+      "pt": "perto de",
+      "forms": []
+    },
+    "libya": {
+      "pt": "Líbia, país do norte da África",
+      "forms": [
+        "libya's",
+        "libyan"
+      ]
+    },
+    "ukraine": {
+      "pt": "Ucrânia",
+      "forms": [
+        "ukraine's",
+        "ukrainian"
+      ]
+    },
+    "drone": {
+      "pt": "drone",
+      "forms": [
+        "drones"
+      ],
+      "highlight": true
+    },
+    "warship": {
+      "pt": "navio de guerra",
+      "forms": [],
+      "highlight": true
+    },
+    "sunday": {
+      "pt": "domingo",
+      "forms": []
+    },
+    "port": {
+      "pt": "porto",
+      "forms": [
+        "ports"
+      ]
+    },
+    "benghazi": {
+      "pt": "Benghazi, cidade da Líbia",
+      "forms": []
+    },
+    "zelensky": {
+      "pt": "Zelensky, presidente da Ucrânia",
+      "forms": []
+    },
+    "seven": {
+      "pt": "sete",
+      "forms": []
+    },
+    "sea": {
+      "pt": "mar",
+      "forms": []
+    },
+    "hit": {
+      "pt": "atingir, atacar",
+      "forms": [
+        "hits"
+      ]
+    },
+    "anything": {
+      "pt": "qualquer coisa",
+      "forms": []
+    },
+    "angry": {
+      "pt": "com raiva",
+      "forms": []
+    },
+    "un": {
+      "pt": "ONU, Nações Unidas",
+      "forms": []
+    },
+    "investigation": {
+      "pt": "investigação",
+      "forms": []
+    },
+    "volodymyr": {
+      "pt": "Volodymyr",
+      "forms": []
+    },
+    "merkury": {
+      "pt": "Merkury, navio de guerra russo",
+      "forms": []
+    },
+    "coast": {
+      "pt": "costa",
+      "forms": []
+    },
+    "naval": {
+      "pt": "naval, da marinha",
+      "forms": []
+    },
+    "combat": {
+      "pt": "de combate",
+      "forms": []
+    },
+    "helicopter": {
+      "pt": "helicóptero",
+      "forms": []
+    },
+    "destroy": {
+      "pt": "destruir",
+      "forms": [
+        "destroyed"
+      ]
+    },
+    "container": {
+      "pt": "contêiner",
+      "forms": []
+    },
+    "carrier": {
+      "pt": "navio de carga",
+      "forms": []
+    },
+    "eastern": {
+      "pt": "do leste",
+      "forms": []
+    },
+    "explosion": {
+      "pt": "explosão",
+      "forms": []
+    },
+    "fuel": {
+      "pt": "combustível",
+      "forms": []
+    },
+    "supplies": {
+      "pt": "suprimentos",
+      "forms": []
+    },
+    "moscow": {
+      "pt": "Moscou, capital da Rússia",
+      "forms": []
+    },
+    "comment": {
+      "pt": "comentar",
+      "forms": [
+        "commented"
+      ]
+    },
+    "united": {
+      "pt": "unido",
+      "forms": []
+    },
+    "nations": {
+      "pt": "nações",
+      "forms": []
+    },
+    "mission": {
+      "pt": "missão",
+      "forms": []
+    },
+    "independent": {
+      "pt": "independente",
+      "forms": [],
+      "highlight": true
+    },
+    "battleground": {
+      "pt": "campo de batalha",
+      "forms": []
+    },
+    "foreign": {
+      "pt": "estrangeiro",
+      "forms": []
+    },
+    "war": {
+      "pt": "guerra",
+      "forms": [
+        "wars"
+      ]
+    },
+    "criticize": {
+      "pt": "criticar",
+      "forms": [
+        "criticized"
+      ]
+    },
+    "target": {
+      "pt": "alvo; escolher como alvo",
+      "forms": [
+        "targeted"
+      ],
+      "highlight": true
+    },
+    "corvette": {
+      "pt": "corveta, navio de guerra pequeno",
+      "forms": []
+    },
+    "newest": {
+      "pt": "mais novo",
+      "forms": []
+    },
+    "vessel": {
+      "pt": "navio, embarcação",
+      "forms": []
+    },
+    "mv": {
+      "pt": "MV, navio mercante",
+      "forms": []
+    },
+    "angara": {
+      "pt": "Angara, navio de carga russo",
+      "forms": []
+    },
+    "return": {
+      "pt": "voltar",
+      "forms": [
+        "returning"
+      ]
+    },
+    "satellite": {
+      "pt": "satélite",
+      "forms": []
+    },
+    "image": {
+      "pt": "imagem",
+      "forms": [
+        "images"
+      ]
+    },
+    "firm": {
+      "pt": "empresa",
+      "forms": [
+        "firms"
+      ]
+    },
+    "vantor": {
+      "pt": "Vantor, empresa de imagens de satélite",
+      "forms": []
+    },
+    "moor": {
+      "pt": "ancorar",
+      "forms": [
+        "moored"
+      ]
+    },
+    "saturday": {
+      "pt": "sábado",
+      "forms": []
+    },
+    "mostly": {
+      "pt": "principalmente",
+      "forms": []
+    },
+    "capsize": {
+      "pt": "virar, emborcar",
+      "forms": [
+        "capsized"
+      ]
+    },
+    "express": {
+      "pt": "expressar",
+      "forms": [
+        "expressed"
+      ]
+    },
+    "serious": {
+      "pt": "sério, grave",
+      "forms": []
+    },
+    "concern": {
+      "pt": "preocupação",
+      "forms": []
+    },
+    "immediate": {
+      "pt": "imediato",
+      "forms": []
+    },
+    "transparent": {
+      "pt": "transparente, aberto",
+      "forms": []
+    },
+    "conflict": {
+      "pt": "conflito",
+      "forms": [
+        "conflicts"
+      ]
+    },
+    "authority": {
+      "pt": "autoridade",
+      "forms": [
+        "authorities"
+      ]
+    },
+    "attack": {
+      "pt": "ataque; atacar",
+      "forms": [
+        "attacks",
+        "attacked",
+        "attacker"
+      ],
+      "highlight": true
+    },
+    "violation": {
+      "pt": "violação",
+      "forms": []
+    },
+    "sovereignty": {
+      "pt": "soberania",
+      "forms": [],
+      "highlight": true
+    },
+    "tripoli": {
+      "pt": "Trípoli, capital da Líbia",
+      "forms": []
+    },
+    "warning": {
+      "pt": "aviso",
+      "forms": [
+        "warn",
+        "warned",
+        "warns"
+      ],
+      "highlight": true
+    },
+    "let": {
+      "pt": "deixar, permitir",
+      "forms": [
+        "lets",
+        "letting"
+      ]
+    },
+    "force": {
+      "pt": "força",
+      "forms": [
+        "forces"
+      ]
+    },
+    "civilian": {
+      "pt": "civil",
+      "forms": []
+    },
+    "facility": {
+      "pt": "instalação",
+      "forms": [
+        "facilities"
+      ]
+    },
+    "analyst": {
+      "pt": "analista",
+      "forms": []
+    },
+    "quote": {
+      "pt": "citar",
+      "forms": [
+        "quoted"
+      ]
+    },
+    "bbc": {
+      "pt": "BBC, emissora britânica",
+      "forms": []
+    },
+    "haftar": {
+      "pt": "Haftar, família que lidera o leste da Líbia",
+      "forms": []
+    },
+    "family": {
+      "pt": "família",
+      "forms": []
+    },
+    "ally": {
+      "pt": "aliar",
+      "forms": [
+        "allied"
+      ]
+    },
+    "likely": {
+      "pt": "provavelmente",
+      "forms": []
+    },
+    "react": {
+      "pt": "reagir",
+      "forms": []
+    }
+  }
+}

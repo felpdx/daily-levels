@@ -1,0 +1,515 @@
+{
+  "id": "2026-11-23-monai-ai-agents-zero-day",
+  "date": "2026-11-23",
+  "topic": "hacking",
+  "source": {
+    "name": "The Hacker News",
+    "url": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html",
+    "publishedAt": "2026-11-21T11:03:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "AI agents found a hidden bug",
+      "text": "Amazon said hackers used AI agents to find a new bug. The bug was in a program that helps doctors label medical scans. The agents wrote files on a server without a password. Later they got full control of one university server. The hackers may be linked to China, but this is not sure. The program still has no fixed version."
+    },
+    "2": {
+      "title": "Hackers' AI agents found a new bug in medical software",
+      "text": "Amazon said that hackers used AI agents to find a new flaw in MONAI Label, a free program that research teams use to label medical scans. The flaw lets someone with no account write files outside the storage folder. Login is off by default.\n\nThe agents needed about 11 minutes to reach the point of writing files. Later, in another session, they planted a file that Python ran automatically and took full control of one university server. Amazon believes a second university was hit in the same way, but it has not confirmed this.\n\nAmazon links the attack to a China-linked actor with moderate confidence, but it did not name a group. The fix exists in the source code, yet there is still no new version to install."
+    },
+    "3": {
+      "title": "Attackers' AI agents found a zero-day flaw in medical-imaging software",
+      "text": "Amazon Threat Intelligence said suspected China-linked hackers used autonomous AI agents to discover a previously unknown flaw in MONAI Label, an open-source server that research teams use to label medical scans, and gained root access to a university server. The flaw, rated 9.8 out of 10, lets an attacker with no account write files outside the storage folder. It affects version 0.8.5 and earlier, which run without a login by default.\n\nAmazon reconstructed the attack after finding the operator's control panel exposed on the internet with no password. Over about 48 hours in September, the agents mapped the application and reached the point of writing files in roughly 11 minutes. In a separate session, they planted a file that Python runs at startup and received a connection back as root.\n\nInvestigators tie the work to a China-linked actor with moderate confidence, citing Simplified Chinese prompts and China Standard Time settings, but no group or government was named. The maintainers merged a fix on October 19, yet no patched release exists. Amazon's account has not been independently confirmed, and it does not show that patient data was taken."
+    }
+  },
+  "glossary": {
+    "ai": {
+      "pt": "IA, inteligência artificial",
+      "forms": []
+    },
+    "agent": {
+      "pt": "agente",
+      "forms": [
+        "agents"
+      ],
+      "highlight": true
+    },
+    "hidden": {
+      "pt": "escondido",
+      "forms": []
+    },
+    "bug": {
+      "pt": "erro em programa",
+      "forms": []
+    },
+    "amazon": {
+      "pt": "Amazon, grande empresa de tecnologia",
+      "forms": [
+        "amazon's"
+      ]
+    },
+    "hacker": {
+      "pt": "hacker, invasor de sistemas",
+      "forms": [
+        "hackers"
+      ],
+      "highlight": true
+    },
+    "program": {
+      "pt": "programa",
+      "forms": []
+    },
+    "doctor": {
+      "pt": "médico",
+      "forms": [
+        "doctors"
+      ]
+    },
+    "label": {
+      "pt": "rotular, marcar",
+      "forms": []
+    },
+    "medical": {
+      "pt": "médico",
+      "forms": []
+    },
+    "scan": {
+      "pt": "exame de imagem",
+      "forms": [
+        "scans"
+      ]
+    },
+    "file": {
+      "pt": "arquivo",
+      "forms": [
+        "files"
+      ]
+    },
+    "server": {
+      "pt": "servidor",
+      "forms": [
+        "servers"
+      ]
+    },
+    "password": {
+      "pt": "senha",
+      "forms": []
+    },
+    "full": {
+      "pt": "total, completo",
+      "forms": []
+    },
+    "university": {
+      "pt": "universidade",
+      "forms": []
+    },
+    "link": {
+      "pt": "ligar, relacionar",
+      "forms": [
+        "linked",
+        "links"
+      ]
+    },
+    "china": {
+      "pt": "China, país da Ásia",
+      "forms": [
+        "chinese"
+      ]
+    },
+    "sure": {
+      "pt": "certo, seguro",
+      "forms": []
+    },
+    "fixed": {
+      "pt": "corrigido",
+      "forms": [
+        "fix",
+        "fixes"
+      ]
+    },
+    "version": {
+      "pt": "versão",
+      "forms": []
+    },
+    "software": {
+      "pt": "programa de computador",
+      "forms": []
+    },
+    "flaw": {
+      "pt": "falha de segurança",
+      "forms": [],
+      "highlight": true
+    },
+    "monai": {
+      "pt": "MONAI Label, programa de código aberto para marcar exames médicos",
+      "forms": []
+    },
+    "free": {
+      "pt": "grátis, livre",
+      "forms": []
+    },
+    "research": {
+      "pt": "pesquisa",
+      "forms": []
+    },
+    "team": {
+      "pt": "equipe",
+      "forms": [
+        "teams"
+      ]
+    },
+    "let": {
+      "pt": "deixar, permitir",
+      "forms": [
+        "lets",
+        "letting"
+      ]
+    },
+    "someone": {
+      "pt": "alguém",
+      "forms": []
+    },
+    "account": {
+      "pt": "conta",
+      "forms": [
+        "accounts"
+      ]
+    },
+    "outside": {
+      "pt": "fora de",
+      "forms": []
+    },
+    "storage": {
+      "pt": "armazenamento",
+      "forms": []
+    },
+    "folder": {
+      "pt": "pasta",
+      "forms": []
+    },
+    "login": {
+      "pt": "acesso com senha",
+      "forms": []
+    },
+    "default": {
+      "pt": "padrão",
+      "forms": []
+    },
+    "minute": {
+      "pt": "minuto",
+      "forms": [
+        "minutes"
+      ]
+    },
+    "reach": {
+      "pt": "alcançar, chegar a",
+      "forms": [
+        "reached"
+      ]
+    },
+    "point": {
+      "pt": "ponto",
+      "forms": []
+    },
+    "session": {
+      "pt": "sessão, período de uso",
+      "forms": []
+    },
+    "plant": {
+      "pt": "plantar, colocar escondido",
+      "forms": [
+        "planted"
+      ],
+      "highlight": true
+    },
+    "python": {
+      "pt": "Python, linguagem de programação",
+      "forms": []
+    },
+    "automatically": {
+      "pt": "automaticamente",
+      "forms": []
+    },
+    "hit": {
+      "pt": "atingir, atacar",
+      "forms": [
+        "hits"
+      ]
+    },
+    "confirm": {
+      "pt": "confirmar",
+      "forms": [
+        "confirmed"
+      ]
+    },
+    "attack": {
+      "pt": "ataque; atacar",
+      "forms": [
+        "attacks",
+        "attacked",
+        "attacker"
+      ],
+      "highlight": true
+    },
+    "actor": {
+      "pt": "autor, agente por trás de um ataque",
+      "forms": []
+    },
+    "moderate": {
+      "pt": "moderado",
+      "forms": []
+    },
+    "confidence": {
+      "pt": "confiança",
+      "forms": []
+    },
+    "exist": {
+      "pt": "existir",
+      "forms": [
+        "exists"
+      ]
+    },
+    "source": {
+      "pt": "fonte; origem",
+      "forms": []
+    },
+    "code": {
+      "pt": "código",
+      "forms": []
+    },
+    "install": {
+      "pt": "instalar",
+      "forms": []
+    },
+    "attacker": {
+      "pt": "atacante, invasor",
+      "forms": [
+        "attackers"
+      ]
+    },
+    "zero": {
+      "pt": "zero",
+      "forms": []
+    },
+    "imaging": {
+      "pt": "exame por imagem",
+      "forms": []
+    },
+    "threat": {
+      "pt": "ameaça",
+      "forms": [
+        "threats"
+      ],
+      "highlight": true
+    },
+    "intelligence": {
+      "pt": "inteligência",
+      "forms": []
+    },
+    "suspect": {
+      "pt": "suspeitar",
+      "forms": [
+        "suspected"
+      ]
+    },
+    "autonomous": {
+      "pt": "autônomo, que age sozinho",
+      "forms": [],
+      "highlight": true
+    },
+    "discover": {
+      "pt": "descobrir",
+      "forms": []
+    },
+    "previously": {
+      "pt": "antes",
+      "forms": []
+    },
+    "unknown": {
+      "pt": "desconhecido",
+      "forms": []
+    },
+    "open": {
+      "pt": "aberto",
+      "forms": []
+    },
+    "gain": {
+      "pt": "conseguir, obter",
+      "forms": [
+        "gained"
+      ]
+    },
+    "root": {
+      "pt": "acesso máximo ao sistema",
+      "forms": [],
+      "highlight": true
+    },
+    "access": {
+      "pt": "acesso",
+      "forms": []
+    },
+    "rate": {
+      "pt": "avaliar, dar nota",
+      "forms": [
+        "rated"
+      ]
+    },
+    "affect": {
+      "pt": "afetar",
+      "forms": [
+        "affects"
+      ]
+    },
+    "earlier": {
+      "pt": "antes, mais cedo",
+      "forms": []
+    },
+    "reconstruct": {
+      "pt": "reconstruir",
+      "forms": [
+        "reconstructed"
+      ]
+    },
+    "operator": {
+      "pt": "operador, quem controla o ataque",
+      "forms": [
+        "operator's"
+      ]
+    },
+    "panel": {
+      "pt": "painel",
+      "forms": []
+    },
+    "expose": {
+      "pt": "expor",
+      "forms": [
+        "exposed"
+      ]
+    },
+    "internet": {
+      "pt": "internet",
+      "forms": []
+    },
+    "hour": {
+      "pt": "hora",
+      "forms": [
+        "hours"
+      ]
+    },
+    "september": {
+      "pt": "setembro",
+      "forms": []
+    },
+    "map": {
+      "pt": "mapear",
+      "forms": [
+        "mapped"
+      ]
+    },
+    "application": {
+      "pt": "aplicativo, programa",
+      "forms": [
+        "applications"
+      ]
+    },
+    "roughly": {
+      "pt": "mais ou menos",
+      "forms": []
+    },
+    "separate": {
+      "pt": "separado",
+      "forms": []
+    },
+    "startup": {
+      "pt": "início do programa",
+      "forms": []
+    },
+    "receive": {
+      "pt": "receber",
+      "forms": [
+        "received"
+      ]
+    },
+    "connection": {
+      "pt": "conexão",
+      "forms": [
+        "connections"
+      ]
+    },
+    "investigator": {
+      "pt": "investigador",
+      "forms": [
+        "investigators"
+      ]
+    },
+    "tie": {
+      "pt": "ligar, associar",
+      "forms": []
+    },
+    "cite": {
+      "pt": "citar",
+      "forms": [
+        "citing"
+      ]
+    },
+    "simplified": {
+      "pt": "simplificado",
+      "forms": []
+    },
+    "prompt": {
+      "pt": "pedido ou texto enviado a uma IA",
+      "forms": [
+        "prompts"
+      ]
+    },
+    "standard": {
+      "pt": "padrão",
+      "forms": []
+    },
+    "setting": {
+      "pt": "configuração",
+      "forms": [
+        "settings"
+      ]
+    },
+    "maintainer": {
+      "pt": "responsável por manter um programa",
+      "forms": [
+        "maintainers"
+      ]
+    },
+    "merge": {
+      "pt": "incorporar, unir",
+      "forms": [
+        "merged"
+      ]
+    },
+    "october": {
+      "pt": "outubro",
+      "forms": []
+    },
+    "patch": {
+      "pt": "corrigir falha de segurança",
+      "forms": [
+        "patched"
+      ]
+    },
+    "release": {
+      "pt": "lançamento, versão; liberar",
+      "forms": [
+        "released"
+      ]
+    },
+    "independently": {
+      "pt": "de forma independente",
+      "forms": []
+    },
+    "patient": {
+      "pt": "paciente",
+      "forms": []
+    },
+    "data": {
+      "pt": "dados",
+      "forms": []
+    }
+  }
+}

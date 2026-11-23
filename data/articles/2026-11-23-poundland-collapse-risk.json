@@ -1,0 +1,399 @@
+{
+  "id": "2026-11-23-poundland-collapse-risk",
+  "date": "2026-11-23",
+  "topic": "bolsa",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-11-23T08:00:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Poundland may fail",
+      "text": "Poundland is a cheap shop in the UK. It has 600 stores. Its owner, Gordon Brothers, put it up for sale. Now the shop may fail. About 11,000 workers could lose their jobs. People still buy there, and the company made a profit this year. But the owner holds back money. A deal must be found soon."
+    },
+    "2": {
+      "title": "Poundland faces a possible collapse",
+      "text": "Poundland, a cheap shop with 600 stores in the UK and Ireland, could go into administration. About 11,000 workers could lose their jobs. Its owner, the US firm Gordon Brothers, put it up for sale in September but turned down some offers.\n\nThe shop is not losing customers. In the year to September it went from a loss of 68 million pounds to a profit of 18.1 million pounds. An expert said it is a funding and ownership problem, not a trading collapse.\n\nGordon Brothers held back about 50 million pounds in funds, then released about 21 million. It denies that it wants to drive the business down. The deadline for a rescue deal was extended by 10 days."
+    },
+    "3": {
+      "title": "Poundland is facing collapse: what has gone wrong?",
+      "text": "The future of Poundland hangs in the balance. The discount chain, which has 600 stores in the UK and Ireland and 11,000 employees, could fall into administration. Its owner, the US investment firm Gordon Brothers, put it up for sale in September but then rejected offers to keep the business going.\n\nCustomers have not left. In the year to September, the business went from a 68 million pound loss to an 18.1 million pound profit before interest, tax and certain accounting charges, and Halloween sales rose 11.4%. Julie Palmer of Begbies Traynor called it a funding and ownership problem rather than a trading collapse.\n\nGordon Brothers froze about 50 million pounds in funds, raising fears of empty shelves, and later released around 21 million. As the main creditor, it would be first in line to be repaid in a collapse. Critics say it is driving the business into the ground to profit from insolvency, which the firm denies. Offers include one from Martin Property Group, and the deadline was extended by 10 days. Prime Minister Andy Burnham has also pressed the firm for answers."
+    }
+  },
+  "glossary": {
+    "poundland": {
+      "pt": "Poundland, rede britânica de lojas baratas",
+      "forms": []
+    },
+    "fail": {
+      "pt": "falir, fracassar",
+      "forms": []
+    },
+    "cheap": {
+      "pt": "barato",
+      "forms": []
+    },
+    "shop": {
+      "pt": "loja",
+      "forms": [
+        "shops"
+      ]
+    },
+    "uk": {
+      "pt": "Reino Unido",
+      "forms": []
+    },
+    "store": {
+      "pt": "loja",
+      "forms": [
+        "stores"
+      ]
+    },
+    "owner": {
+      "pt": "dono",
+      "forms": []
+    },
+    "gordon": {
+      "pt": "Gordon Brothers, empresa americana de investimentos",
+      "forms": []
+    },
+    "brothers": {
+      "pt": "Brothers",
+      "forms": []
+    },
+    "sale": {
+      "pt": "venda",
+      "forms": [
+        "sales"
+      ]
+    },
+    "job": {
+      "pt": "emprego",
+      "forms": [
+        "jobs"
+      ]
+    },
+    "profit": {
+      "pt": "lucro",
+      "forms": [],
+      "highlight": true
+    },
+    "hold": {
+      "pt": "segurar, reter",
+      "forms": [
+        "holds",
+        "held"
+      ]
+    },
+    "deal": {
+      "pt": "acordo",
+      "forms": []
+    },
+    "face": {
+      "pt": "enfrentar",
+      "forms": [
+        "faces",
+        "facing"
+      ]
+    },
+    "possible": {
+      "pt": "possível",
+      "forms": []
+    },
+    "collapse": {
+      "pt": "colapso, quebra",
+      "forms": [],
+      "highlight": true
+    },
+    "ireland": {
+      "pt": "Irlanda",
+      "forms": []
+    },
+    "administration": {
+      "pt": "falência com administrador (no Reino Unido)",
+      "forms": [],
+      "highlight": true
+    },
+    "firm": {
+      "pt": "empresa",
+      "forms": [
+        "firms"
+      ]
+    },
+    "september": {
+      "pt": "setembro",
+      "forms": []
+    },
+    "offer": {
+      "pt": "oferta, proposta",
+      "forms": [
+        "offers"
+      ]
+    },
+    "customer": {
+      "pt": "cliente",
+      "forms": [
+        "customers"
+      ]
+    },
+    "loss": {
+      "pt": "prejuízo",
+      "forms": [],
+      "highlight": true
+    },
+    "pound": {
+      "pt": "libra, moeda do Reino Unido",
+      "forms": [
+        "pounds"
+      ]
+    },
+    "expert": {
+      "pt": "especialista",
+      "forms": [
+        "experts"
+      ]
+    },
+    "funding": {
+      "pt": "financiamento",
+      "forms": []
+    },
+    "ownership": {
+      "pt": "propriedade, posse",
+      "forms": []
+    },
+    "trading": {
+      "pt": "vendas, negócios",
+      "forms": []
+    },
+    "funds": {
+      "pt": "dinheiro, recursos",
+      "forms": []
+    },
+    "release": {
+      "pt": "lançamento, versão; liberar",
+      "forms": [
+        "released"
+      ]
+    },
+    "deny": {
+      "pt": "negar",
+      "forms": [
+        "denies"
+      ]
+    },
+    "drive": {
+      "pt": "levar, empurrar",
+      "forms": [
+        "driving"
+      ]
+    },
+    "deadline": {
+      "pt": "prazo",
+      "forms": []
+    },
+    "rescue": {
+      "pt": "resgate, salvação",
+      "forms": []
+    },
+    "extend": {
+      "pt": "prorrogar",
+      "forms": [
+        "extended"
+      ]
+    },
+    "wrong": {
+      "pt": "errado",
+      "forms": []
+    },
+    "future": {
+      "pt": "futuro",
+      "forms": []
+    },
+    "hang": {
+      "pt": "pender",
+      "forms": [
+        "hangs"
+      ]
+    },
+    "balance": {
+      "pt": "equilíbrio; incerteza",
+      "forms": []
+    },
+    "discount": {
+      "pt": "com desconto, barato",
+      "forms": []
+    },
+    "chain": {
+      "pt": "rede de lojas",
+      "forms": []
+    },
+    "employee": {
+      "pt": "empregado",
+      "forms": [
+        "employees"
+      ]
+    },
+    "investment": {
+      "pt": "investimento",
+      "forms": []
+    },
+    "reject": {
+      "pt": "recusar",
+      "forms": [
+        "rejected"
+      ]
+    },
+    "interest": {
+      "pt": "juros",
+      "forms": []
+    },
+    "tax": {
+      "pt": "imposto",
+      "forms": []
+    },
+    "certain": {
+      "pt": "certo",
+      "forms": []
+    },
+    "accounting": {
+      "pt": "contabilidade",
+      "forms": []
+    },
+    "charge": {
+      "pt": "cobrança, custo",
+      "forms": [
+        "charges"
+      ]
+    },
+    "halloween": {
+      "pt": "Halloween",
+      "forms": []
+    },
+    "rise": {
+      "pt": "subir",
+      "forms": [
+        "rose",
+        "rising"
+      ]
+    },
+    "julie": {
+      "pt": "Julie",
+      "forms": []
+    },
+    "palmer": {
+      "pt": "Palmer",
+      "forms": []
+    },
+    "begbies": {
+      "pt": "Begbies",
+      "forms": []
+    },
+    "traynor": {
+      "pt": "Traynor",
+      "forms": []
+    },
+    "rather": {
+      "pt": "em vez de",
+      "forms": []
+    },
+    "freeze": {
+      "pt": "congelar, bloquear",
+      "forms": [
+        "froze"
+      ]
+    },
+    "raise": {
+      "pt": "aumentar, levantar",
+      "forms": [
+        "raising"
+      ]
+    },
+    "fear": {
+      "pt": "medo; temer",
+      "forms": [
+        "fears"
+      ]
+    },
+    "empty": {
+      "pt": "vazio",
+      "forms": []
+    },
+    "shelf": {
+      "pt": "prateleira",
+      "forms": [
+        "shelves"
+      ]
+    },
+    "creditor": {
+      "pt": "credor, quem emprestou dinheiro",
+      "forms": [],
+      "highlight": true
+    },
+    "line": {
+      "pt": "fila",
+      "forms": []
+    },
+    "repay": {
+      "pt": "devolver dinheiro",
+      "forms": [
+        "repaid"
+      ]
+    },
+    "critic": {
+      "pt": "crítico",
+      "forms": [
+        "critics"
+      ]
+    },
+    "ground": {
+      "pt": "chão",
+      "forms": []
+    },
+    "insolvency": {
+      "pt": "insolvência, falta de dinheiro para pagar dívidas",
+      "forms": [],
+      "highlight": true
+    },
+    "include": {
+      "pt": "incluir",
+      "forms": []
+    },
+    "martin": {
+      "pt": "Martin Property Group, empresa irlandesa de imóveis",
+      "forms": []
+    },
+    "property": {
+      "pt": "propriedade, imóveis",
+      "forms": []
+    },
+    "prime": {
+      "pt": "primeiro",
+      "forms": []
+    },
+    "minister": {
+      "pt": "ministro",
+      "forms": []
+    },
+    "andy": {
+      "pt": "Andy",
+      "forms": []
+    },
+    "burnham": {
+      "pt": "Burnham, primeiro-ministro do Reino Unido",
+      "forms": []
+    },
+    "press": {
+      "pt": "pressionar",
+      "forms": [
+        "pressed"
+      ]
+    },
+    "answer": {
+      "pt": "resposta",
+      "forms": [
+        "answers"
+      ]
+    }
+  }
+}

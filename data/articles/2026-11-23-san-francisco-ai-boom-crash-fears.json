@@ -1,0 +1,476 @@
+{
+  "id": "2026-11-23-san-francisco-ai-boom-crash-fears",
+  "date": "2026-11-23",
+  "topic": "bolsa",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-11-23T00:08:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "San Francisco enjoys an AI boom",
+      "text": "San Francisco is growing because of AI. Rents and house prices are going up. A woman there walks dogs for AI workers, and her business is growing. But some people fear a crash in AI shares. The IMF warned about this last month. Experts say a crash would hurt, but it may not stop the city."
+    },
+    "2": {
+      "title": "San Francisco's AI boom brings fear of a crash",
+      "text": "San Francisco is the center of the AI industry. OpenAI and Anthropic are based there, and Anthropic listed on the Nasdaq last week. The boom is lifting other businesses, like a dog-walking company that now sells services to AI start-ups. Rents and house prices are rising.\n\nBut some people worry about a big fall in AI share prices. The International Monetary Fund warned about this possibility last month. One AI worker said he is certain a crash is coming.\n\nEconomists say a crash would be painful, mostly for service jobs like restaurants and shops. But AI companies hire relatively few people, so the damage may be smaller. The city's chief economist expects only a hiccup."
+    },
+    "3": {
+      "title": "San Francisco enjoys an AI boom, but worries about a crash are growing",
+      "text": "San Francisco is the heart of the AI sector, and the boom is lifting local businesses. Lauren Goldboss, who owns a dog-walking company, has been hiring staff and buying vans because AI start-ups buy her new office service. Rents and house prices are soaring, and office vacancies are falling. Anthropic, the company behind the Claude chatbot, listed on New York's Nasdaq last week.\n\nYet concern about a correction is growing. The International Monetary Fund warned last month that a fall in AI share prices was possible, and the scandal around Jensen Huang, the former boss of Nvidia, has caused some wider stock falls. Nvidia, however, reported that its latest quarterly profit doubled from a year earlier to $65bn.\n\nOne AI worker, who asked not to be named, is convinced a crash is coming. Economist Enrico Moretti of the University of California, Berkeley warned that a correction could be very painful, mainly through service jobs. Still, AI firms employ relatively few people in the city, and the city's chief economist, Ted Egan, expects only a hiccup, since healthcare and tourism are also growing."
+    }
+  },
+  "glossary": {
+    "san": {
+      "pt": "San",
+      "forms": []
+    },
+    "francisco": {
+      "pt": "Francisco",
+      "forms": [
+        "francisco's"
+      ]
+    },
+    "enjoy": {
+      "pt": "aproveitar, viver bem",
+      "forms": [
+        "enjoys"
+      ]
+    },
+    "ai": {
+      "pt": "IA, inteligência artificial",
+      "forms": []
+    },
+    "boom": {
+      "pt": "grande crescimento",
+      "forms": [],
+      "highlight": true
+    },
+    "rent": {
+      "pt": "aluguel",
+      "forms": [
+        "rents"
+      ]
+    },
+    "house": {
+      "pt": "casa, imóvel",
+      "forms": []
+    },
+    "walk": {
+      "pt": "passear, andar",
+      "forms": [
+        "walks",
+        "walking"
+      ]
+    },
+    "dog": {
+      "pt": "cachorro",
+      "forms": [
+        "dogs"
+      ]
+    },
+    "fear": {
+      "pt": "medo; temer",
+      "forms": [
+        "fears"
+      ]
+    },
+    "crash": {
+      "pt": "queda forte, quebra",
+      "forms": [],
+      "highlight": true
+    },
+    "share": {
+      "pt": "ação (parte de empresa)",
+      "forms": [
+        "shares"
+      ],
+      "highlight": true
+    },
+    "imf": {
+      "pt": "FMI, Fundo Monetário Internacional",
+      "forms": []
+    },
+    "warning": {
+      "pt": "aviso",
+      "forms": [
+        "warn",
+        "warned",
+        "warns"
+      ],
+      "highlight": true
+    },
+    "expert": {
+      "pt": "especialista",
+      "forms": [
+        "experts"
+      ]
+    },
+    "hurt": {
+      "pt": "machucar, prejudicar",
+      "forms": []
+    },
+    "bring": {
+      "pt": "trazer",
+      "forms": [
+        "brings"
+      ]
+    },
+    "center": {
+      "pt": "centro",
+      "forms": []
+    },
+    "industry": {
+      "pt": "indústria, setor",
+      "forms": []
+    },
+    "openai": {
+      "pt": "OpenAI, empresa de IA",
+      "forms": []
+    },
+    "anthropic": {
+      "pt": "Anthropic, empresa de IA que criou o Claude",
+      "forms": []
+    },
+    "based": {
+      "pt": "baseado",
+      "forms": []
+    },
+    "list": {
+      "pt": "entrar na bolsa",
+      "forms": [
+        "listed"
+      ],
+      "highlight": true
+    },
+    "nasdaq": {
+      "pt": "Nasdaq, bolsa de valores dos EUA",
+      "forms": []
+    },
+    "lift": {
+      "pt": "impulsionar, levantar",
+      "forms": [
+        "lifting"
+      ]
+    },
+    "business": {
+      "pt": "negócio",
+      "forms": [
+        "businesses"
+      ]
+    },
+    "service": {
+      "pt": "serviço",
+      "forms": [
+        "services"
+      ]
+    },
+    "up": {
+      "pt": "start-up: empresa nova de tecnologia",
+      "forms": [
+        "ups"
+      ]
+    },
+    "rise": {
+      "pt": "subir",
+      "forms": [
+        "rose",
+        "rising"
+      ]
+    },
+    "worry": {
+      "pt": "preocupar-se",
+      "forms": [
+        "worries"
+      ]
+    },
+    "international": {
+      "pt": "internacional",
+      "forms": []
+    },
+    "monetary": {
+      "pt": "monetário",
+      "forms": []
+    },
+    "fund": {
+      "pt": "fundo",
+      "forms": []
+    },
+    "possibility": {
+      "pt": "possibilidade",
+      "forms": []
+    },
+    "certain": {
+      "pt": "certo",
+      "forms": []
+    },
+    "economist": {
+      "pt": "economista",
+      "forms": [
+        "economists"
+      ]
+    },
+    "painful": {
+      "pt": "doloroso",
+      "forms": []
+    },
+    "mostly": {
+      "pt": "principalmente",
+      "forms": []
+    },
+    "job": {
+      "pt": "emprego",
+      "forms": [
+        "jobs"
+      ]
+    },
+    "restaurant": {
+      "pt": "restaurante",
+      "forms": [
+        "restaurants"
+      ]
+    },
+    "shop": {
+      "pt": "loja",
+      "forms": [
+        "shops"
+      ]
+    },
+    "hire": {
+      "pt": "contratar",
+      "forms": [
+        "hiring"
+      ]
+    },
+    "relatively": {
+      "pt": "relativamente",
+      "forms": []
+    },
+    "damage": {
+      "pt": "dano",
+      "forms": []
+    },
+    "small": {
+      "pt": "pequeno",
+      "forms": [
+        "smaller"
+      ]
+    },
+    "chief": {
+      "pt": "chefe, principal",
+      "forms": []
+    },
+    "expect": {
+      "pt": "esperar",
+      "forms": [
+        "expects"
+      ]
+    },
+    "hiccup": {
+      "pt": "soluço; problema pequeno",
+      "forms": []
+    },
+    "heart": {
+      "pt": "coração, centro",
+      "forms": []
+    },
+    "sector": {
+      "pt": "setor",
+      "forms": []
+    },
+    "local": {
+      "pt": "local",
+      "forms": []
+    },
+    "lauren": {
+      "pt": "Lauren",
+      "forms": []
+    },
+    "goldboss": {
+      "pt": "Goldboss",
+      "forms": []
+    },
+    "own": {
+      "pt": "ser dono de",
+      "forms": [
+        "owns"
+      ]
+    },
+    "staff": {
+      "pt": "funcionários",
+      "forms": []
+    },
+    "van": {
+      "pt": "van, furgão",
+      "forms": [
+        "vans"
+      ]
+    },
+    "office": {
+      "pt": "escritório",
+      "forms": []
+    },
+    "soar": {
+      "pt": "subir muito",
+      "forms": [
+        "soaring"
+      ],
+      "highlight": true
+    },
+    "vacancy": {
+      "pt": "vaga, imóvel vazio",
+      "forms": [
+        "vacancies"
+      ]
+    },
+    "claude": {
+      "pt": "Claude, assistente de IA da Anthropic",
+      "forms": []
+    },
+    "chatbot": {
+      "pt": "robô de conversa",
+      "forms": []
+    },
+    "york": {
+      "pt": "York",
+      "forms": [
+        "york's"
+      ]
+    },
+    "concern": {
+      "pt": "preocupação",
+      "forms": []
+    },
+    "correction": {
+      "pt": "queda de preços após alta",
+      "forms": [],
+      "highlight": true
+    },
+    "possible": {
+      "pt": "possível",
+      "forms": []
+    },
+    "scandal": {
+      "pt": "escândalo",
+      "forms": []
+    },
+    "jensen": {
+      "pt": "Jensen",
+      "forms": []
+    },
+    "huang": {
+      "pt": "Huang, ex-chefe da Nvidia",
+      "forms": []
+    },
+    "former": {
+      "pt": "ex-, antigo",
+      "forms": []
+    },
+    "boss": {
+      "pt": "chefe",
+      "forms": []
+    },
+    "nvidia": {
+      "pt": "Nvidia, empresa de chips para IA",
+      "forms": []
+    },
+    "cause": {
+      "pt": "causar",
+      "forms": [
+        "caused"
+      ]
+    },
+    "wide": {
+      "pt": "amplo",
+      "forms": [
+        "wider"
+      ]
+    },
+    "stock": {
+      "pt": "ação, papel de empresa",
+      "forms": []
+    },
+    "report": {
+      "pt": "informar",
+      "forms": [
+        "reported"
+      ]
+    },
+    "latest": {
+      "pt": "mais recente",
+      "forms": []
+    },
+    "quarterly": {
+      "pt": "trimestral",
+      "forms": []
+    },
+    "profit": {
+      "pt": "lucro",
+      "forms": [],
+      "highlight": true
+    },
+    "double": {
+      "pt": "dobrar",
+      "forms": [
+        "doubled"
+      ]
+    },
+    "earlier": {
+      "pt": "antes, mais cedo",
+      "forms": []
+    },
+    "convince": {
+      "pt": "convencer",
+      "forms": [
+        "convinced"
+      ]
+    },
+    "enrico": {
+      "pt": "Enrico",
+      "forms": []
+    },
+    "moretti": {
+      "pt": "Moretti, economista",
+      "forms": []
+    },
+    "university": {
+      "pt": "universidade",
+      "forms": []
+    },
+    "california": {
+      "pt": "Califórnia",
+      "forms": []
+    },
+    "berkeley": {
+      "pt": "Berkeley, cidade da Califórnia",
+      "forms": []
+    },
+    "firm": {
+      "pt": "empresa",
+      "forms": [
+        "firms"
+      ]
+    },
+    "employ": {
+      "pt": "empregar",
+      "forms": []
+    },
+    "ted": {
+      "pt": "Ted",
+      "forms": []
+    },
+    "egan": {
+      "pt": "Egan, economista-chefe de São Francisco",
+      "forms": []
+    },
+    "healthcare": {
+      "pt": "saúde, serviços de saúde",
+      "forms": []
+    },
+    "tourism": {
+      "pt": "turismo",
+      "forms": []
+    }
+  }
+}

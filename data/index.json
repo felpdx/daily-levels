@@ -1,6 +1,41 @@
 {
   "articles": [
     {
+      "id": "2026-11-24-openai-cisco-shirudo",
+      "date": "2026-11-24",
+      "topic": "hacking",
+      "title": "A new shield for Linux",
+      "source": "The Hacker News"
+    },
+    {
+      "id": "2026-11-24-screenconnect-flaw-attacks",
+      "date": "2026-11-24",
+      "topic": "hacking",
+      "title": "Hackers attack ScreenConnect",
+      "source": "The Hacker News"
+    },
+    {
+      "id": "2026-11-24-brazil-cuts-2027-growth-forecast",
+      "date": "2026-11-24",
+      "topic": "bolsa",
+      "title": "Brazil expects less growth",
+      "source": "MercoPress"
+    },
+    {
+      "id": "2026-11-24-nvidia-huang-return-rally",
+      "date": "2026-11-24",
+      "topic": "bolsa",
+      "title": "Nvidia shares jump",
+      "source": "BBC News"
+    },
+    {
+      "id": "2026-11-24-nato-russia-space-nuclear-reports",
+      "date": "2026-11-24",
+      "topic": "mundo",
+      "title": "Nato talks about space threats",
+      "source": "BBC News"
+    },
+    {
       "id": "2026-11-23-india-ai-bank-attacks",
       "date": "2026-11-23",
       "topic": "hacking",

@@ -1,0 +1,416 @@
+{
+  "id": "2026-11-24-screenconnect-flaw-attacks",
+  "date": "2026-11-24",
+  "topic": "hacking",
+  "source": {
+    "name": "The Hacker News",
+    "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html",
+    "publishedAt": "2026-11-23T12:41:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Hackers attack ScreenConnect",
+      "text": "Hackers use a flaw in ScreenConnect. This tool helps workers connect to other computers. A bad guest can send a file to a worker's computer. The file runs at once. One attack took only 9 seconds. Experts at Huntress saw the attacks. The flaw is called CVE-2026-84869. It is very serious. A fix is ready. Companies should install it now."
+    },
+    "2": {
+      "title": "Hackers exploit a serious ScreenConnect flaw",
+      "text": "Hackers are using a serious flaw in ScreenConnect, a tool that technicians use to connect to other computers. The flaw is called CVE-2026-84869 and has a score of 9.9. A guest in a session can send a file to the technician's computer and make it run, and the technician sees no warning.\n\nThe security company Huntress saw one attack on November 12. A bad file ran, then installed a hidden ScreenConnect program, all in about 9 seconds. From October 20 to November 16, Huntress counted at least 688,000 requests that hit 42 servers.\n\nThe flaw already has a fix. Companies that cannot install it quickly should remove the file transfer permission from user roles."
+    },
+    "3": {
+      "title": "Hackers exploit a critical ScreenConnect flaw to target technicians",
+      "text": "Attackers are exploiting a critical, already patched flaw in ConnectWise ScreenConnect to go after servers run by managed service providers. The bug, tracked as CVE-2026-84869 and rated 9.9 out of 10, lets a guest push a malicious file to a technician's computer and run it without any prompt.\n\nAccording to the security firm Huntress, one technician's workstation was hit on November 12. A batch file reported to a Telegram bot, downloaded an installer disguised as a Windows update, and started a rogue ScreenConnect client linked to the attacker's own server, all in about nine seconds. Between October 20 and November 16, researchers counted at least 688,000 file requests against 42 servers from 29 IP addresses.\n\nHuntress said these computers are an attractive target because they usually hold management tools, saved passwords and access to every customer. The company also noted that this activity is separate from other recent campaigns involving ScreenConnect. Anyone who cannot patch right away should remove the file transfer permission from roles and session groups."
+    }
+  },
+  "glossary": {
+    "hacker": {
+      "pt": "hacker, invasor de computadores",
+      "forms": [
+        "hackers"
+      ]
+    },
+    "attack": {
+      "pt": "ataque; atacar",
+      "forms": [
+        "attacks",
+        "attacked"
+      ]
+    },
+    "screenconnect": {
+      "pt": "ScreenConnect, programa de acesso remoto"
+    },
+    "flaw": {
+      "pt": "falha",
+      "forms": [
+        "flaws"
+      ],
+      "highlight": true
+    },
+    "tool": {
+      "pt": "ferramenta",
+      "forms": [
+        "tools"
+      ]
+    },
+    "connect": {
+      "pt": "conectar",
+      "forms": [
+        "connects",
+        "connecting"
+      ]
+    },
+    "computer": {
+      "pt": "computador",
+      "forms": [
+        "computers"
+      ]
+    },
+    "guest": {
+      "pt": "convidado"
+    },
+    "file": {
+      "pt": "arquivo",
+      "forms": [
+        "files"
+      ]
+    },
+    "second": {
+      "pt": "segundo",
+      "forms": [
+        "seconds"
+      ]
+    },
+    "expert": {
+      "pt": "especialista",
+      "forms": [
+        "experts"
+      ]
+    },
+    "huntress": {
+      "pt": "Huntress, empresa de segurança digital"
+    },
+    "serious": {
+      "pt": "grave, sério"
+    },
+    "fix": {
+      "pt": "correção; consertar",
+      "forms": [
+        "fixes"
+      ]
+    },
+    "ready": {
+      "pt": "pronto"
+    },
+    "install": {
+      "pt": "instalar",
+      "forms": [
+        "installed",
+        "installs"
+      ]
+    },
+    "exploit": {
+      "pt": "explorar uma falha; ataque que usa uma falha",
+      "forms": [
+        "exploits",
+        "exploiting",
+        "exploited"
+      ],
+      "highlight": true
+    },
+    "technician": {
+      "pt": "técnico",
+      "forms": [
+        "technicians"
+      ],
+      "highlight": true
+    },
+    "score": {
+      "pt": "nota, pontuação"
+    },
+    "session": {
+      "pt": "sessão de acesso remoto",
+      "forms": [
+        "sessions"
+      ]
+    },
+    "warning": {
+      "pt": "aviso"
+    },
+    "security": {
+      "pt": "segurança"
+    },
+    "november": {
+      "pt": "novembro"
+    },
+    "hidden": {
+      "pt": "escondido"
+    },
+    "program": {
+      "pt": "programa",
+      "forms": [
+        "programs"
+      ]
+    },
+    "october": {
+      "pt": "outubro"
+    },
+    "count": {
+      "pt": "contar",
+      "forms": [
+        "counted"
+      ]
+    },
+    "least": {
+      "pt": "menos (at least = pelo menos)"
+    },
+    "request": {
+      "pt": "pedido, requisição",
+      "forms": [
+        "requests"
+      ]
+    },
+    "hit": {
+      "pt": "atingir",
+      "forms": [
+        "hits"
+      ]
+    },
+    "server": {
+      "pt": "servidor",
+      "forms": [
+        "servers"
+      ]
+    },
+    "quickly": {
+      "pt": "rapidamente"
+    },
+    "remove": {
+      "pt": "remover",
+      "forms": [
+        "removed",
+        "retired"
+      ]
+    },
+    "transfer": {
+      "pt": "transferência"
+    },
+    "permission": {
+      "pt": "permissão"
+    },
+    "user": {
+      "pt": "usuário"
+    },
+    "role": {
+      "pt": "função, papel",
+      "forms": [
+        "roles"
+      ]
+    },
+    "critical": {
+      "pt": "crítico",
+      "highlight": true
+    },
+    "target": {
+      "pt": "alvo; ter como alvo"
+    },
+    "attacker": {
+      "pt": "atacante",
+      "forms": [
+        "attackers"
+      ]
+    },
+    "patched": {
+      "pt": "corrigido com uma atualização"
+    },
+    "connectwise": {
+      "pt": "ConnectWise, empresa dona do ScreenConnect"
+    },
+    "managed": {
+      "pt": "gerenciado"
+    },
+    "service": {
+      "pt": "serviço",
+      "forms": [
+        "services"
+      ]
+    },
+    "provider": {
+      "pt": "provedor",
+      "forms": [
+        "providers"
+      ]
+    },
+    "bug": {
+      "pt": "erro de programa"
+    },
+    "tracked": {
+      "pt": "registrado, acompanhado"
+    },
+    "rated": {
+      "pt": "avaliado com nota"
+    },
+    "let": {
+      "pt": "deixar, permitir",
+      "forms": [
+        "lets"
+      ]
+    },
+    "push": {
+      "pt": "enviar, empurrar"
+    },
+    "malicious": {
+      "pt": "malicioso",
+      "highlight": true
+    },
+    "prompt": {
+      "pt": "aviso na tela pedindo uma ação"
+    },
+    "according": {
+      "pt": "de acordo (according to = segundo)"
+    },
+    "firm": {
+      "pt": "empresa"
+    },
+    "workstation": {
+      "pt": "computador de trabalho"
+    },
+    "batch": {
+      "pt": "lote (batch file = arquivo de comandos)"
+    },
+    "report": {
+      "pt": "relatar; relatório",
+      "forms": [
+        "reported",
+        "reports"
+      ]
+    },
+    "telegram": {
+      "pt": "Telegram, aplicativo de mensagens"
+    },
+    "bot": {
+      "pt": "robô de software"
+    },
+    "download": {
+      "pt": "baixar",
+      "forms": [
+        "downloaded"
+      ]
+    },
+    "installer": {
+      "pt": "instalador"
+    },
+    "disguise": {
+      "pt": "disfarçar",
+      "forms": [
+        "disguised"
+      ],
+      "highlight": true
+    },
+    "windows": {
+      "pt": "Windows, sistema da Microsoft"
+    },
+    "update": {
+      "pt": "atualização"
+    },
+    "rogue": {
+      "pt": "não autorizado, falso",
+      "highlight": true
+    },
+    "client": {
+      "pt": "programa cliente"
+    },
+    "link": {
+      "pt": "ligar, conectar",
+      "forms": [
+        "linked"
+      ]
+    },
+    "nine": {
+      "pt": "nove"
+    },
+    "researcher": {
+      "pt": "pesquisador",
+      "forms": [
+        "researchers"
+      ]
+    },
+    "ip": {
+      "pt": "IP, endereço de um aparelho na internet"
+    },
+    "address": {
+      "pt": "endereço",
+      "forms": [
+        "addresses"
+      ]
+    },
+    "attractive": {
+      "pt": "atraente"
+    },
+    "usually": {
+      "pt": "normalmente"
+    },
+    "hold": {
+      "pt": "guardar, ter",
+      "forms": [
+        "holds"
+      ]
+    },
+    "management": {
+      "pt": "gestão"
+    },
+    "save": {
+      "pt": "salvar",
+      "forms": [
+        "saved"
+      ]
+    },
+    "password": {
+      "pt": "senha",
+      "forms": [
+        "passwords"
+      ]
+    },
+    "access": {
+      "pt": "acesso"
+    },
+    "customer": {
+      "pt": "cliente"
+    },
+    "note": {
+      "pt": "notar",
+      "forms": [
+        "noted"
+      ]
+    },
+    "activity": {
+      "pt": "atividade"
+    },
+    "separate": {
+      "pt": "separado"
+    },
+    "recent": {
+      "pt": "recente"
+    },
+    "campaign": {
+      "pt": "campanha",
+      "forms": [
+        "campaigns"
+      ]
+    },
+    "involve": {
+      "pt": "envolver",
+      "forms": [
+        "involving"
+      ]
+    },
+    "anyone": {
+      "pt": "qualquer pessoa"
+    },
+    "patch": {
+      "pt": "corrigir com uma atualização; correção",
+      "forms": [
+        "patching"
+      ],
+      "highlight": true
+    }
+  }
+}

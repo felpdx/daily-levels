@@ -1,0 +1,359 @@
+{
+  "id": "2026-11-24-nato-russia-space-nuclear-reports",
+  "date": "2026-11-24",
+  "topic": "mundo",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-11-24T02:15:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Nato talks about space threats",
+      "text": "German media say Russia may plan to send a nuclear weapon into space. The weapon would be on a satellite. Nato chief Mark Rutte says the group will defend itself in space too. Russia says the reports are false. It calls them propaganda. The reports use secret sources. No one has proved them."
+    },
+    "2": {
+      "title": "Nato says it will defend against space threats",
+      "text": "Nato chief Mark Rutte said the alliance will defend against any threat in space. This came after German media reported that Russia may plan to launch a satellite with a nuclear weapon within 60 days. The reports use anonymous military and intelligence sources.\n\nRussia rejects the reports. The Kremlin said reports from unknown sources are hardly worth taking seriously, and the Russian embassy in Berlin called them propaganda.\n\nGerman Chancellor Friedrich Merz did not confirm the plan. He said the reports show how far Russia may be ready to go. Russia signed a 1967 treaty that bans such weapons in orbit."
+    },
+    "3": {
+      "title": "Nato vows to defend against space threats after reports on Russian nuclear satellite",
+      "text": "Nato chief Mark Rutte has said the alliance will defend against any threat in space, after German media reported that Russia is preparing to launch a satellite armed with a nuclear weapon. According to the broadcasters NDR and WDR and the newspaper Sueddeutsche Zeitung, intelligence shared among Nato countries this month pointed to a possible launch within 60 days. The satellite could be used to disrupt or destroy other satellites. The reports rely on anonymous German military and intelligence sources, and it is not clear who wrote the original assessments.\n\nRussia denies it. Kremlin spokesman Dmitry Peskov said reports citing unknown sources were hardly worth taking seriously, while the Russian embassy in Berlin spoke of a propaganda campaign.\n\nGerman Chancellor Friedrich Merz neither confirmed nor denied the reports, but said they reveal the level of escalation Russia is apparently prepared to pursue. The head of the European Space Agency, Josef Aschbacher, reportedly called nuclear weapons in space the ultimate nightmare scenario. Russia signed the 1967 Outer Space Treaty, which bans weapons of mass destruction in orbit."
+    }
+  },
+  "glossary": {
+    "nato": {
+      "pt": "Nato, aliança militar do Ocidente"
+    },
+    "space": {
+      "pt": "espaço"
+    },
+    "threat": {
+      "pt": "ameaça",
+      "forms": [
+        "threats"
+      ],
+      "highlight": true
+    },
+    "german": {
+      "pt": "alemão"
+    },
+    "media": {
+      "pt": "meios de comunicação"
+    },
+    "russia": {
+      "pt": "Rússia"
+    },
+    "nuclear": {
+      "pt": "nuclear"
+    },
+    "weapon": {
+      "pt": "arma",
+      "forms": [
+        "weapons"
+      ]
+    },
+    "satellite": {
+      "pt": "satélite",
+      "forms": [
+        "satellites"
+      ],
+      "highlight": true
+    },
+    "chief": {
+      "pt": "chefe"
+    },
+    "mark": {
+      "pt": "Mark, nome próprio"
+    },
+    "rutte": {
+      "pt": "Rutte, chefe da Nato"
+    },
+    "defend": {
+      "pt": "defender",
+      "forms": [
+        "defending",
+        "defense"
+      ],
+      "highlight": true
+    },
+    "report": {
+      "pt": "relatar; relatório",
+      "forms": [
+        "reported",
+        "reports"
+      ]
+    },
+    "false": {
+      "pt": "falso"
+    },
+    "propaganda": {
+      "pt": "propaganda política",
+      "highlight": true
+    },
+    "secret": {
+      "pt": "secreto"
+    },
+    "source": {
+      "pt": "fonte (open source = código aberto)",
+      "forms": [
+        "sources"
+      ]
+    },
+    "prove": {
+      "pt": "provar",
+      "forms": [
+        "proved"
+      ]
+    },
+    "alliance": {
+      "pt": "aliança"
+    },
+    "launch": {
+      "pt": "lançar",
+      "forms": [
+        "launched"
+      ]
+    },
+    "anonymous": {
+      "pt": "anônimo",
+      "highlight": true
+    },
+    "military": {
+      "pt": "militar"
+    },
+    "intelligence": {
+      "pt": "serviço de inteligência"
+    },
+    "reject": {
+      "pt": "rejeitar",
+      "forms": [
+        "rejects"
+      ]
+    },
+    "kremlin": {
+      "pt": "Kremlin, governo russo"
+    },
+    "unknown": {
+      "pt": "desconhecido"
+    },
+    "hardly": {
+      "pt": "quase não"
+    },
+    "worth": {
+      "pt": "valor"
+    },
+    "seriously": {
+      "pt": "a sério"
+    },
+    "russian": {
+      "pt": "russo"
+    },
+    "embassy": {
+      "pt": "embaixada"
+    },
+    "berlin": {
+      "pt": "Berlim, capital da Alemanha"
+    },
+    "chancellor": {
+      "pt": "chanceler"
+    },
+    "friedrich": {
+      "pt": "Friedrich, nome próprio"
+    },
+    "merz": {
+      "pt": "Merz, chanceler da Alemanha"
+    },
+    "confirm": {
+      "pt": "confirmar",
+      "forms": [
+        "confirmed"
+      ]
+    },
+    "ready": {
+      "pt": "pronto"
+    },
+    "sign": {
+      "pt": "assinar",
+      "forms": [
+        "signed"
+      ]
+    },
+    "treaty": {
+      "pt": "tratado",
+      "highlight": true
+    },
+    "ban": {
+      "pt": "proibir",
+      "forms": [
+        "bans"
+      ]
+    },
+    "orbit": {
+      "pt": "órbita"
+    },
+    "vow": {
+      "pt": "prometer",
+      "forms": [
+        "vows"
+      ]
+    },
+    "prepare": {
+      "pt": "preparar",
+      "forms": [
+        "preparing",
+        "prepared"
+      ]
+    },
+    "armed": {
+      "pt": "armado"
+    },
+    "according": {
+      "pt": "de acordo (according to = segundo)"
+    },
+    "broadcaster": {
+      "pt": "emissora",
+      "forms": [
+        "broadcasters"
+      ]
+    },
+    "ndr": {
+      "pt": "NDR, emissora alemã"
+    },
+    "wdr": {
+      "pt": "WDR, emissora alemã"
+    },
+    "sueddeutsche": {
+      "pt": "Sueddeutsche, jornal alemão"
+    },
+    "zeitung": {
+      "pt": "Zeitung, jornal (em alemão)"
+    },
+    "shared": {
+      "pt": "compartilhado"
+    },
+    "among": {
+      "pt": "entre"
+    },
+    "point": {
+      "pt": "apontar",
+      "forms": [
+        "pointed"
+      ]
+    },
+    "possible": {
+      "pt": "possível"
+    },
+    "disrupt": {
+      "pt": "atrapalhar"
+    },
+    "destroy": {
+      "pt": "destruir"
+    },
+    "rely": {
+      "pt": "depender"
+    },
+    "original": {
+      "pt": "original"
+    },
+    "assessment": {
+      "pt": "avaliação",
+      "forms": [
+        "assessments"
+      ]
+    },
+    "deny": {
+      "pt": "negar",
+      "forms": [
+        "denies",
+        "denied"
+      ],
+      "highlight": true
+    },
+    "spokesman": {
+      "pt": "porta-voz"
+    },
+    "dmitry": {
+      "pt": "Dmitry, nome próprio"
+    },
+    "peskov": {
+      "pt": "Peskov, porta-voz do Kremlin"
+    },
+    "cite": {
+      "pt": "citar",
+      "forms": [
+        "citing"
+      ]
+    },
+    "speak": {
+      "pt": "falar",
+      "forms": [
+        "spoke"
+      ]
+    },
+    "campaign": {
+      "pt": "campanha",
+      "forms": [
+        "campaigns"
+      ]
+    },
+    "neither": {
+      "pt": "nenhum dos dois"
+    },
+    "nor": {
+      "pt": "nem"
+    },
+    "reveal": {
+      "pt": "revelar"
+    },
+    "level": {
+      "pt": "nível"
+    },
+    "escalation": {
+      "pt": "aumento de tensão",
+      "highlight": true
+    },
+    "apparently": {
+      "pt": "ao que parece"
+    },
+    "pursue": {
+      "pt": "seguir, perseguir"
+    },
+    "head": {
+      "pt": "chefe"
+    },
+    "european": {
+      "pt": "europeu"
+    },
+    "agency": {
+      "pt": "agência"
+    },
+    "josef": {
+      "pt": "Josef, nome próprio"
+    },
+    "aschbacher": {
+      "pt": "Aschbacher, chefe da agência espacial europeia"
+    },
+    "reportedly": {
+      "pt": "segundo relatos"
+    },
+    "ultimate": {
+      "pt": "pior, máximo"
+    },
+    "nightmare": {
+      "pt": "pesadelo"
+    },
+    "scenario": {
+      "pt": "cenário"
+    },
+    "outer": {
+      "pt": "exterior"
+    },
+    "mass": {
+      "pt": "massa"
+    },
+    "destruction": {
+      "pt": "destruição"
+    }
+  }
+}

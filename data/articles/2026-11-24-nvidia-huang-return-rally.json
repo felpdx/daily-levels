@@ -1,0 +1,353 @@
+{
+  "id": "2026-11-24-nvidia-huang-return-rally",
+  "date": "2026-11-24",
+  "topic": "bolsa",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-11-23T21:23:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Nvidia shares jump",
+      "text": "Nvidia shares went up a lot on Monday. The company brought back its boss, Jensen Huang. He left less than two weeks ago after an affair with a woman said to be a spy. His return made the company worth almost 1 trillion dollars more. Other tech shares also went up. An expert called it the biggest reversal in memory."
+    },
+    "2": {
+      "title": "Nvidia jumps after Jensen Huang returns",
+      "text": "Nvidia's market value rose by almost 1 trillion dollars on Monday after the company brought back Jensen Huang as chief executive. Its shares rose more than 31%. Huang had resigned less than two weeks earlier after he admitted an affair with a woman who was said to be a Chinese spy.\n\nThe rise lifted other markets. The Nasdaq climbed 6.5% and a broad US index rose 4.75%. Micron shares jumped 19% and Tesla rose almost 11.5%.\n\nNvidia's board voted for his return, but President Trump said he convinced the board. Dan Coatsworth of AJ Bell called it the biggest corporate reversal in living memory. Some politicians want a closer look."
+    },
+    "3": {
+      "title": "Nvidia's value climbs by almost $1tn as Jensen Huang returns",
+      "text": "Nvidia's market value rose by nearly 1 trillion dollars as its shares jumped more than 31% after the company reinstated Jensen Huang as chief executive with immediate effect. Huang had resigned less than two weeks earlier, after admitting an affair with a woman alleged to be a Chinese spy.\n\nThe move lifted the wider market. The Nasdaq climbed 6.5% and a broad US index rose 4.75%, while Micron shares gained 19% and Tesla almost 11.5%. Even so, Nvidia's share price is still about 21% lower than a month ago. On Friday alone it fell 13.7%, after Reuters reported, without confirmation from the BBC, that the company was being investigated by the US Securities and Exchange Commission over its accounting.\n\nNvidia's board said it voted unanimously for the return, but President Donald Trump claimed he convinced the board. Kathleen Brooks of XTB said Huang has a \"talismanic influence\" over the sector. Dan Coatsworth of AJ Bell called it the biggest corporate reversal in living memory and said investors will scrutinise Huang's every move. Senator Jeanne Shaheen said the reinstatement was reportedly encouraged by Trump."
+    }
+  },
+  "glossary": {
+    "nvidia": {
+      "pt": "Nvidia, empresa de chips",
+      "forms": [
+        "nvidia's"
+      ]
+    },
+    "share": {
+      "pt": "ação (parte de uma empresa)",
+      "forms": [
+        "shares"
+      ],
+      "highlight": true
+    },
+    "jump": {
+      "pt": "subir de repente",
+      "forms": [
+        "jumps",
+        "jumped"
+      ]
+    },
+    "monday": {
+      "pt": "segunda-feira"
+    },
+    "bring": {
+      "pt": "trazer",
+      "forms": [
+        "brought"
+      ]
+    },
+    "boss": {
+      "pt": "chefe"
+    },
+    "jensen": {
+      "pt": "Jensen, nome próprio"
+    },
+    "huang": {
+      "pt": "Huang, fundador da Nvidia",
+      "forms": [
+        "huang's"
+      ]
+    },
+    "ago": {
+      "pt": "atrás"
+    },
+    "affair": {
+      "pt": "caso amoroso"
+    },
+    "spy": {
+      "pt": "espião"
+    },
+    "return": {
+      "pt": "volta; voltar",
+      "forms": [
+        "returns"
+      ]
+    },
+    "worth": {
+      "pt": "valor"
+    },
+    "trillion": {
+      "pt": "trilhão"
+    },
+    "dollar": {
+      "pt": "dólar",
+      "forms": [
+        "dollars"
+      ]
+    },
+    "tech": {
+      "pt": "tecnologia (tech stocks = ações de tecnologia)"
+    },
+    "expert": {
+      "pt": "especialista",
+      "forms": [
+        "experts"
+      ]
+    },
+    "reversal": {
+      "pt": "reviravolta"
+    },
+    "memory": {
+      "pt": "memória"
+    },
+    "market": {
+      "pt": "mercado",
+      "forms": [
+        "markets"
+      ]
+    },
+    "value": {
+      "pt": "valor"
+    },
+    "rise": {
+      "pt": "subir",
+      "forms": [
+        "rose"
+      ]
+    },
+    "chief": {
+      "pt": "chefe"
+    },
+    "executive": {
+      "pt": "executivo"
+    },
+    "resign": {
+      "pt": "renunciar",
+      "forms": [
+        "resigned"
+      ],
+      "highlight": true
+    },
+    "earlier": {
+      "pt": "mais cedo, antes"
+    },
+    "admit": {
+      "pt": "admitir",
+      "forms": [
+        "admitted",
+        "admitting"
+      ]
+    },
+    "chinese": {
+      "pt": "chinês"
+    },
+    "lift": {
+      "pt": "elevar",
+      "forms": [
+        "lifted"
+      ]
+    },
+    "nasdaq": {
+      "pt": "Nasdaq, bolsa americana de tecnologia"
+    },
+    "climb": {
+      "pt": "subir",
+      "forms": [
+        "climbed",
+        "climbs"
+      ]
+    },
+    "broad": {
+      "pt": "amplo"
+    },
+    "index": {
+      "pt": "índice"
+    },
+    "micron": {
+      "pt": "Micron, empresa de chips"
+    },
+    "tesla": {
+      "pt": "Tesla, fabricante de carros elétricos"
+    },
+    "board": {
+      "pt": "conselho da empresa"
+    },
+    "vote": {
+      "pt": "votar",
+      "forms": [
+        "voted"
+      ]
+    },
+    "trump": {
+      "pt": "Trump, presidente dos EUA"
+    },
+    "convince": {
+      "pt": "convencer",
+      "forms": [
+        "convinced"
+      ]
+    },
+    "dan": {
+      "pt": "Dan, nome próprio"
+    },
+    "coatsworth": {
+      "pt": "Coatsworth, analista da AJ Bell"
+    },
+    "aj": {
+      "pt": "AJ, parte do nome da AJ Bell"
+    },
+    "bell": {
+      "pt": "Bell, parte do nome da AJ Bell"
+    },
+    "corporate": {
+      "pt": "de empresas"
+    },
+    "living": {
+      "pt": "vivo"
+    },
+    "politician": {
+      "pt": "político",
+      "forms": [
+        "politicians"
+      ]
+    },
+    "nearly": {
+      "pt": "quase"
+    },
+    "reinstate": {
+      "pt": "readmitir",
+      "forms": [
+        "reinstated"
+      ],
+      "highlight": true
+    },
+    "immediate": {
+      "pt": "imediato"
+    },
+    "effect": {
+      "pt": "efeito"
+    },
+    "alleged": {
+      "pt": "suposto",
+      "highlight": true
+    },
+    "wider": {
+      "pt": "mais amplo"
+    },
+    "gain": {
+      "pt": "ganhar",
+      "forms": [
+        "gained"
+      ]
+    },
+    "friday": {
+      "pt": "sexta-feira"
+    },
+    "alone": {
+      "pt": "sozinho, só"
+    },
+    "reuters": {
+      "pt": "Reuters, agência de notícias"
+    },
+    "report": {
+      "pt": "relatar; relatório",
+      "forms": [
+        "reported",
+        "reports"
+      ]
+    },
+    "confirmation": {
+      "pt": "confirmação"
+    },
+    "bbc": {
+      "pt": "BBC, emissora britânica"
+    },
+    "investigate": {
+      "pt": "investigar",
+      "forms": [
+        "investigated"
+      ]
+    },
+    "securities": {
+      "pt": "valores mobiliários"
+    },
+    "exchange": {
+      "pt": "bolsa; troca"
+    },
+    "commission": {
+      "pt": "comissão"
+    },
+    "accounting": {
+      "pt": "contabilidade"
+    },
+    "unanimously": {
+      "pt": "por unanimidade"
+    },
+    "donald": {
+      "pt": "Donald, nome próprio"
+    },
+    "claim": {
+      "pt": "afirmar",
+      "forms": [
+        "claimed"
+      ]
+    },
+    "kathleen": {
+      "pt": "Kathleen, nome próprio"
+    },
+    "brooks": {
+      "pt": "Brooks, analista da XTB"
+    },
+    "xtb": {
+      "pt": "XTB, corretora de investimentos"
+    },
+    "talismanic": {
+      "pt": "que age como um amuleto da sorte"
+    },
+    "influence": {
+      "pt": "influência",
+      "highlight": true
+    },
+    "sector": {
+      "pt": "setor",
+      "highlight": true
+    },
+    "investor": {
+      "pt": "investidor",
+      "forms": [
+        "investors"
+      ],
+      "highlight": true
+    },
+    "scrutinise": {
+      "pt": "examinar com cuidado",
+      "highlight": true
+    },
+    "senator": {
+      "pt": "senador"
+    },
+    "jeanne": {
+      "pt": "Jeanne, nome próprio"
+    },
+    "shaheen": {
+      "pt": "Shaheen, senadora dos EUA"
+    },
+    "reinstatement": {
+      "pt": "volta ao cargo"
+    },
+    "reportedly": {
+      "pt": "segundo relatos"
+    },
+    "encourage": {
+      "pt": "incentivar",
+      "forms": [
+        "encouraged"
+      ]
+    }
+  }
+}

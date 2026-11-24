@@ -1,0 +1,332 @@
+{
+  "id": "2026-11-24-brazil-cuts-2027-growth-forecast",
+  "date": "2026-11-24",
+  "topic": "bolsa",
+  "source": {
+    "name": "MercoPress",
+    "url": "https://en.mercopress.com/2026/11/23/brazil-cuts-its-2027-growth-forecast-to-1.8-and-raises-inflation-to-the-top-of-its-target?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+    "publishedAt": "2026-11-23T21:40:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Brazil expects less growth",
+      "text": "Brazil's government now expects less growth in 2027. It cut its forecast from 2.3% to 1.8%. It also expects higher prices. Inflation may reach 4.5%. The government says interest rates are high. Credit is also more expensive. The Selic rate is 13.75%. Some analysts are even less hopeful. They expect growth of only 1% in 2027."
+    },
+    "2": {
+      "title": "Brazil lowers its growth forecast for 2027",
+      "text": "Brazil's Finance Ministry cut its growth forecast for 2027 from 2.3% to 1.8%. It also raised its inflation forecast from 3.8% to 4.5%, the upper limit of the official target. The ministry blames high interest rates and expensive credit.\n\nFor this year, the ministry now expects growth of 1.9% and inflation of 5.3%. The Central Bank's survey of analysts is more negative. It expects growth of 1.7% this year and only 1% in 2027.\n\nThe Selic rate is at 13.75%, and the report says it will stay high for longer. The ministry also raised its forecast for Brent oil in 2027 to 95.20 dollars a barrel. Days earlier, the Central Bank sold 1 billion dollars from its reserves to slow the rise of the dollar."
+    },
+    "3": {
+      "title": "Brazil cuts its 2027 growth forecast and raises its inflation outlook",
+      "text": "Brazil's Finance Ministry has lowered its growth forecast for 2027 from 2.3% to 1.8% and raised its inflation forecast from 3.8% to 4.5%, the upper limit of the official target, according to its November Macrofiscal Bulletin. The government blames high interest rates and more expensive credit for the slowdown.\n\nFor this year, the growth forecast fell from 2% to 1.9%, while expected inflation rose from 4.9% to 5.3%, above the ceiling of the target. These are government numbers. The Central Bank's latest survey of analysts, published on November 16, is more pessimistic, with growth of 1.7% this year and 1% in 2027. Economic Policy Secretary Debora Freire said the slowdown matches the Central Bank's tight policy.\n\nThe report expects the Selic rate, now at 13.75%, to stay high for longer and fall only gradually. Among the risks for prices, it lists a stronger dollar, higher state taxes on fuel, tensions in the Middle East and El Nino. The ministry also raised its 2027 Brent oil forecast from 79.50 to 95.20 dollars a barrel. Days earlier, the Central Bank sold 1 billion dollars from its reserves to slow the rise of the dollar, as markets doubt Lula's fiscal adjustment, which the Chamber of Deputies will vote on this week."
+    }
+  },
+  "glossary": {
+    "brazil": {
+      "pt": "Brasil",
+      "forms": [
+        "brazil's"
+      ]
+    },
+    "expect": {
+      "pt": "esperar",
+      "forms": [
+        "expects",
+        "expected"
+      ]
+    },
+    "growth": {
+      "pt": "crescimento"
+    },
+    "cut": {
+      "pt": "cortar, reduzir",
+      "forms": [
+        "cuts"
+      ]
+    },
+    "forecast": {
+      "pt": "previsão",
+      "highlight": true
+    },
+    "inflation": {
+      "pt": "inflação",
+      "highlight": true
+    },
+    "reach": {
+      "pt": "chegar a"
+    },
+    "interest": {
+      "pt": "juros",
+      "highlight": true
+    },
+    "rate": {
+      "pt": "taxa",
+      "forms": [
+        "rates"
+      ]
+    },
+    "credit": {
+      "pt": "crédito",
+      "highlight": true
+    },
+    "expensive": {
+      "pt": "caro"
+    },
+    "selic": {
+      "pt": "Selic, taxa básica de juros do Brasil"
+    },
+    "analyst": {
+      "pt": "analista",
+      "forms": [
+        "analysts"
+      ]
+    },
+    "hopeful": {
+      "pt": "otimista"
+    },
+    "lower": {
+      "pt": "reduzir; mais baixo",
+      "forms": [
+        "lowers",
+        "lowered"
+      ]
+    },
+    "finance": {
+      "pt": "finanças"
+    },
+    "ministry": {
+      "pt": "ministério"
+    },
+    "raise": {
+      "pt": "aumentar",
+      "forms": [
+        "raises",
+        "raised"
+      ]
+    },
+    "upper": {
+      "pt": "superior"
+    },
+    "limit": {
+      "pt": "limite"
+    },
+    "official": {
+      "pt": "oficial"
+    },
+    "target": {
+      "pt": "alvo; ter como alvo"
+    },
+    "blame": {
+      "pt": "culpar",
+      "forms": [
+        "blames"
+      ]
+    },
+    "central": {
+      "pt": "central"
+    },
+    "bank": {
+      "pt": "banco",
+      "forms": [
+        "bank's"
+      ]
+    },
+    "survey": {
+      "pt": "pesquisa"
+    },
+    "negative": {
+      "pt": "negativo"
+    },
+    "report": {
+      "pt": "relatar; relatório",
+      "forms": [
+        "reported",
+        "reports"
+      ]
+    },
+    "stay": {
+      "pt": "ficar, continuar"
+    },
+    "brent": {
+      "pt": "Brent, tipo de petróleo"
+    },
+    "oil": {
+      "pt": "petróleo"
+    },
+    "dollar": {
+      "pt": "dólar",
+      "forms": [
+        "dollars"
+      ]
+    },
+    "barrel": {
+      "pt": "barril"
+    },
+    "earlier": {
+      "pt": "mais cedo, antes"
+    },
+    "reserve": {
+      "pt": "reserva",
+      "forms": [
+        "reserves"
+      ]
+    },
+    "slow": {
+      "pt": "desacelerar"
+    },
+    "rise": {
+      "pt": "subir",
+      "forms": [
+        "rose"
+      ]
+    },
+    "outlook": {
+      "pt": "perspectiva"
+    },
+    "according": {
+      "pt": "de acordo (according to = segundo)"
+    },
+    "november": {
+      "pt": "novembro"
+    },
+    "macrofiscal": {
+      "pt": "macrofiscal, sobre economia e contas do governo"
+    },
+    "bulletin": {
+      "pt": "boletim"
+    },
+    "slowdown": {
+      "pt": "desaceleração",
+      "highlight": true
+    },
+    "above": {
+      "pt": "acima de"
+    },
+    "ceiling": {
+      "pt": "teto",
+      "highlight": true
+    },
+    "latest": {
+      "pt": "mais recente"
+    },
+    "publish": {
+      "pt": "publicar",
+      "forms": [
+        "published"
+      ]
+    },
+    "pessimistic": {
+      "pt": "pessimista",
+      "highlight": true
+    },
+    "economic": {
+      "pt": "econômico"
+    },
+    "policy": {
+      "pt": "política"
+    },
+    "secretary": {
+      "pt": "secretária"
+    },
+    "debora": {
+      "pt": "Débora, nome próprio"
+    },
+    "freire": {
+      "pt": "Freire, secretária de Política Econômica do Brasil"
+    },
+    "match": {
+      "pt": "combinar com",
+      "forms": [
+        "matches"
+      ]
+    },
+    "tight": {
+      "pt": "apertado, rígido"
+    },
+    "gradually": {
+      "pt": "aos poucos"
+    },
+    "among": {
+      "pt": "entre"
+    },
+    "risk": {
+      "pt": "risco",
+      "forms": [
+        "risks"
+      ]
+    },
+    "list": {
+      "pt": "listar",
+      "forms": [
+        "lists"
+      ]
+    },
+    "state": {
+      "pt": "estado"
+    },
+    "tax": {
+      "pt": "imposto",
+      "forms": [
+        "taxes"
+      ]
+    },
+    "fuel": {
+      "pt": "combustível"
+    },
+    "tension": {
+      "pt": "tensão",
+      "forms": [
+        "tensions"
+      ]
+    },
+    "middle": {
+      "pt": "meio (Middle East = Oriente Médio)"
+    },
+    "east": {
+      "pt": "leste"
+    },
+    "el": {
+      "pt": "El (El Nino = fenômeno climático)"
+    },
+    "nino": {
+      "pt": "Niño, fenômeno de aquecimento do Pacífico"
+    },
+    "market": {
+      "pt": "mercado",
+      "forms": [
+        "markets"
+      ]
+    },
+    "doubt": {
+      "pt": "duvidar"
+    },
+    "lula": {
+      "pt": "Lula, presidente do Brasil",
+      "forms": [
+        "lula's"
+      ]
+    },
+    "fiscal": {
+      "pt": "fiscal, das contas do governo",
+      "highlight": true
+    },
+    "adjustment": {
+      "pt": "ajuste"
+    },
+    "chamber": {
+      "pt": "câmara"
+    },
+    "deputy": {
+      "pt": "deputado",
+      "forms": [
+        "deputies"
+      ]
+    },
+    "vote": {
+      "pt": "votar",
+      "forms": [
+        "voted"
+      ]
+    }
+  }
+}

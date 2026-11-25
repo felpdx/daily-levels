@@ -1,0 +1,339 @@
+{
+  "id": "2026-11-25-russia-war-deaths-leaked-data",
+  "date": "2026-11-25",
+  "topic": "mundo",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-11-25T00:56:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Russian data shows many war deaths",
+      "text": "A BBC study uses leaked Russian data. It shows that at least 490,334 Russian soldiers have died in the war in Ukraine since 2022. Russia does not tell the public how many soldiers die. The data came from a hack of the Russian statistics agency. The agency says a cyber-attack happened. It says no protected information was leaked."
+    },
+    "2": {
+      "title": "Leaked data shows nearly 500,000 Russian war deaths",
+      "text": "BBC Russian and the independent outlet Mediazona studied leaked data from Rosstat, the Russian statistics agency. They found that at least 490,334 Russian soldiers have died since the war in Ukraine began in 2022. Russia does not publish its war losses.\n\nThe data has more than 11 million death records. They came from a hack by a Belarusian group and a Ukrainian group. Rosstat admitted a cyber-attack but said no protected information was leaked.\n\nThe records show that 65% of Russians aged 18 to 24 who died in 2025 died in the war. The average age of the dead grew from 34 in the first year to 40 in 2025. Poor regions in Eastern Siberia lost many more men than Moscow and St Petersburg."
+    },
+    "3": {
+      "title": "Leaked Russian data points to almost 500,000 war deaths",
+      "text": "At least 490,334 Russian soldiers have died since the start of the war in Ukraine in 2022, according to Russian government statistics analysed by the BBC. Russia does not give public figures for its losses, and Rosstat stopped publishing data on deaths from external causes two years ago.\n\nBBC Russian had access to more than 11 million death records, from 2021 to September 2026, after a hack by the Belarusian group Cyber Partisans BY and Ukraine's Silent Crow. Rosstat admitted a cyber-attack but denied that any protected information had been leaked. Together with the independent outlet Mediazona, the BBC compared the data with its own list of 290,012 confirmed deaths and found matches for 90% of the records. Military experts estimate the true toll at between 527,295 and 644,471.\n\nThe data show that 65% of Russians aged 18 to 24 who died in 2025 died in the war. The average age of those killed rose from 34 in the first year to 40 in 2025. Men from Tyva, Buryatia and Zabaykalsky Krai are 20 to 25 times more likely to die in the war than people in Moscow and St Petersburg. At least 5,017 foreigners are among the dead. For Ukraine, President Zelensky gave about 50,000 deaths in July 2026, while an anonymous website lists 115,952."
+    }
+  },
+  "glossary": {
+    "access": {
+      "pt": "acesso; acessar",
+      "forms": [
+        "accessed"
+      ]
+    },
+    "according": {
+      "pt": "de acordo (com)"
+    },
+    "admitted": {
+      "pt": "admitiu",
+      "forms": [
+        "admit",
+        "admits"
+      ]
+    },
+    "age": {
+      "pt": "idade"
+    },
+    "aged": {
+      "pt": "com a idade de"
+    },
+    "agency": {
+      "pt": "agência"
+    },
+    "ago": {
+      "pt": "atrás (no tempo)"
+    },
+    "among": {
+      "pt": "entre"
+    },
+    "analysed": {
+      "pt": "analisados",
+      "forms": [
+        "analyse"
+      ]
+    },
+    "anonymous": {
+      "pt": "anônimo"
+    },
+    "attack": {
+      "pt": "ataque; atacar",
+      "forms": [
+        "attacks",
+        "attacked"
+      ]
+    },
+    "average": {
+      "pt": "média",
+      "highlight": true
+    },
+    "bbc": {
+      "pt": "BBC, emissora de notícias do Reino Unido"
+    },
+    "belarusian": {
+      "pt": "de Belarus"
+    },
+    "buryatia": {
+      "pt": "Buriácia, região da Rússia"
+    },
+    "cause": {
+      "pt": "causar",
+      "forms": [
+        "causes"
+      ]
+    },
+    "compared": {
+      "pt": "comparou",
+      "forms": [
+        "compare"
+      ]
+    },
+    "confirmed": {
+      "pt": "confirmado",
+      "forms": [
+        "confirm"
+      ]
+    },
+    "crow": {
+      "pt": "corvo (parte do nome de um grupo)"
+    },
+    "cyber": {
+      "pt": "digital, de computadores"
+    },
+    "data": {
+      "pt": "dados"
+    },
+    "dead": {
+      "pt": "mortos"
+    },
+    "death": {
+      "pt": "morte"
+    },
+    "deaths": {
+      "pt": "mortes"
+    },
+    "denied": {
+      "pt": "negou",
+      "forms": [
+        "deny"
+      ]
+    },
+    "die": {
+      "pt": "morrer",
+      "forms": [
+        "dies"
+      ]
+    },
+    "died": {
+      "pt": "morreram",
+      "highlight": true
+    },
+    "eastern": {
+      "pt": "do leste"
+    },
+    "estimate": {
+      "pt": "estimar; estimativa",
+      "highlight": true
+    },
+    "experts": {
+      "pt": "especialistas",
+      "forms": [
+        "expert"
+      ]
+    },
+    "external": {
+      "pt": "externo"
+    },
+    "figures": {
+      "pt": "números"
+    },
+    "foreigners": {
+      "pt": "estrangeiros"
+    },
+    "hack": {
+      "pt": "ataque hacker; invadir",
+      "highlight": true
+    },
+    "independent": {
+      "pt": "independente"
+    },
+    "information": {
+      "pt": "informação"
+    },
+    "july": {
+      "pt": "julho"
+    },
+    "killed": {
+      "pt": "morto",
+      "forms": [
+        "kill",
+        "kills"
+      ]
+    },
+    "krai": {
+      "pt": "krai, tipo de região da Rússia"
+    },
+    "leaked": {
+      "pt": "vazado",
+      "forms": [
+        "leak"
+      ],
+      "highlight": true
+    },
+    "least": {
+      "pt": "menos (pelo menos)"
+    },
+    "likely": {
+      "pt": "provável"
+    },
+    "list": {
+      "pt": "lista"
+    },
+    "lists": {
+      "pt": "lista"
+    },
+    "losses": {
+      "pt": "perdas",
+      "forms": [
+        "loss"
+      ]
+    },
+    "matches": {
+      "pt": "correspondências",
+      "forms": [
+        "match"
+      ]
+    },
+    "mediazona": {
+      "pt": "Mediazona, veículo de notícias independente russo"
+    },
+    "military": {
+      "pt": "militar"
+    },
+    "moscow": {
+      "pt": "Moscou, capital da Rússia"
+    },
+    "nearly": {
+      "pt": "quase"
+    },
+    "outlet": {
+      "pt": "veículo de notícias"
+    },
+    "partisans": {
+      "pt": "partisans, combatentes"
+    },
+    "petersburg": {
+      "pt": "Petersburgo, cidade da Rússia"
+    },
+    "points": {
+      "pt": "indica; pontos"
+    },
+    "poor": {
+      "pt": "pobre"
+    },
+    "protected": {
+      "pt": "protegido"
+    },
+    "public": {
+      "pt": "público"
+    },
+    "publish": {
+      "pt": "publicar"
+    },
+    "publishing": {
+      "pt": "publicando"
+    },
+    "records": {
+      "pt": "registros"
+    },
+    "regions": {
+      "pt": "regiões",
+      "forms": [
+        "region"
+      ]
+    },
+    "rose": {
+      "pt": "subiu",
+      "forms": [
+        "rise"
+      ]
+    },
+    "rosstat": {
+      "pt": "Rosstat, agência de estatísticas da Rússia"
+    },
+    "russia": {
+      "pt": "Rússia"
+    },
+    "russian": {
+      "pt": "russo"
+    },
+    "russians": {
+      "pt": "russos"
+    },
+    "september": {
+      "pt": "setembro"
+    },
+    "siberia": {
+      "pt": "Sibéria, região da Rússia"
+    },
+    "silent": {
+      "pt": "silencioso (parte do nome de um grupo)"
+    },
+    "soldiers": {
+      "pt": "soldados",
+      "forms": [
+        "soldier"
+      ],
+      "highlight": true
+    },
+    "st": {
+      "pt": "São (abreviação de Saint)"
+    },
+    "statistics": {
+      "pt": "estatísticas"
+    },
+    "studied": {
+      "pt": "estudou",
+      "forms": [
+        "study"
+      ]
+    },
+    "study": {
+      "pt": "estudo"
+    },
+    "toll": {
+      "pt": "número de mortos",
+      "highlight": true
+    },
+    "tyva": {
+      "pt": "Tuva, região da Rússia"
+    },
+    "war": {
+      "pt": "guerra"
+    },
+    "website": {
+      "pt": "site"
+    },
+    "zabaykalsky": {
+      "pt": "Zabaykalsky, região da Rússia"
+    },
+    "zelensky": {
+      "pt": "Zelensky, presidente da Ucrânia"
+    },
+    "ukraine": {
+      "pt": "Ucrânia"
+    },
+    "ukraine's": {
+      "pt": "da Ucrânia"
+    },
+    "ukrainian": {
+      "pt": "ucraniano"
+    }
+  }
+}

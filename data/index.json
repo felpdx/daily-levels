@@ -1,6 +1,41 @@
 {
   "articles": [
     {
+      "id": "2026-11-25-checkpoint-ai-campaign",
+      "date": "2026-11-25",
+      "topic": "hacking",
+      "title": "AI helps hackers attack servers",
+      "source": "The Hacker News"
+    },
+    {
+      "id": "2026-11-25-vmware-vcenter-auth-bypass",
+      "date": "2026-11-25",
+      "topic": "hacking",
+      "title": "Another serious flaw in VMware",
+      "source": "The Hacker News"
+    },
+    {
+      "id": "2026-11-25-argentina-technical-recession",
+      "date": "2026-11-25",
+      "topic": "bolsa",
+      "title": "Argentina enters a recession",
+      "source": "MercoPress"
+    },
+    {
+      "id": "2026-11-25-us-new-tariffs-plan",
+      "date": "2026-11-25",
+      "topic": "bolsa",
+      "title": "The US plans new tariffs",
+      "source": "BBC News"
+    },
+    {
+      "id": "2026-11-25-russia-war-deaths-leaked-data",
+      "date": "2026-11-25",
+      "topic": "mundo",
+      "title": "Russian data shows many war deaths",
+      "source": "BBC News"
+    },
+    {
       "id": "2026-11-24-openai-cisco-shirudo",
       "date": "2026-11-24",
       "topic": "hacking",

@@ -1,0 +1,310 @@
+{
+  "id": "2026-11-25-argentina-technical-recession",
+  "date": "2026-11-25",
+  "topic": "bolsa",
+  "source": {
+    "name": "MercoPress",
+    "url": "https://en.mercopress.com/2026/11/25/argentina-enters-technical-recession-after-two-quarters-of-contraction-the-first-since-2024?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+    "publishedAt": "2026-11-25T01:00:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Argentina enters a recession",
+      "text": "Argentina is in a technical recession. This means the economy got smaller for two quarters in a row. The economy fell 0.6% in the second quarter. Data also show a fall of about 1.8% from July to September. Many workers lost their jobs in the last years. Experts think the economy may grow a little in the last three months of the year."
+    },
+    "2": {
+      "title": "Argentina enters a technical recession",
+      "text": "Argentina's economy has entered a technical recession. This means two quarters in a row with a smaller economy. It is the first time since the first half of 2024. The economy fell 0.6% in the second quarter, and the INDEC statistics agency shows a fall of about 1.8% from July to September.\n\nIn September, activity rose 1.1% from August but was 1.2% lower than a year before. Industry fell 1.8% and commerce fell 2.2%. Mining grew 11.1%. Between November 2023 and August 2026, Argentina lost 274,300 registered private jobs.\n\nAnalysts say the economy may leave the recession in the last quarter of the year, but without strong growth. They also warn that higher interest rates, used to control the exchange rate, could make loans more expensive."
+    },
+    "3": {
+      "title": "Argentina falls into a technical recession",
+      "text": "Argentina's economy has entered a technical recession, with two consecutive quarters of contraction for the first time since the first half of 2024. Gross domestic product fell 0.6% in the second quarter, and the monthly activity indicator of the statistics institute INDEC points to a contraction of about 1.8% between July and September.\n\nIn September, activity rose 1.1% from August but fell 1.2% year on year. Ten of the fifteen sectors posted yearly falls: industry fell 1.8%, commerce 2.2% and financial intermediation 11.5%, while mining grew 11.1%. The consultancy ACM says agriculture and mining account for almost all of this year's growth. According to Ficonomics, the country lost 274,300 registered private-sector salaried jobs between November 2023 and August 2026.\n\nAnalysts expect the economy may exit recession in the fourth quarter, though without a strong recovery. ACM calculates the quarter would grow 0.9% if activity stays at September's level. The consultancy LCG forecasts growth of at most 0.7% in 2026 and about 1.5% in 2027. Analysts also warn that the need to contain pressure on the exchange rate could force interest rates higher, making credit more expensive just when consumption and investment need to recover."
+    }
+  },
+  "glossary": {
+    "according": {
+      "pt": "de acordo (com)"
+    },
+    "account": {
+      "pt": "explicar; responder por",
+      "forms": [
+        "accounts"
+      ]
+    },
+    "acm": {
+      "pt": "ACM, empresa de consultoria"
+    },
+    "activity": {
+      "pt": "atividade"
+    },
+    "agency": {
+      "pt": "agência"
+    },
+    "agriculture": {
+      "pt": "agricultura"
+    },
+    "analysts": {
+      "pt": "analistas",
+      "forms": [
+        "analyst"
+      ]
+    },
+    "argentina": {
+      "pt": "Argentina, país da América do Sul"
+    },
+    "argentina's": {
+      "pt": "da Argentina"
+    },
+    "august": {
+      "pt": "agosto"
+    },
+    "calculates": {
+      "pt": "calcula",
+      "forms": [
+        "calculate"
+      ]
+    },
+    "commerce": {
+      "pt": "comércio"
+    },
+    "consecutive": {
+      "pt": "seguido, em sequência"
+    },
+    "consultancy": {
+      "pt": "empresa de consultoria"
+    },
+    "consumption": {
+      "pt": "consumo"
+    },
+    "contain": {
+      "pt": "conter, controlar"
+    },
+    "contraction": {
+      "pt": "queda da economia"
+    },
+    "credit": {
+      "pt": "crédito"
+    },
+    "data": {
+      "pt": "dados"
+    },
+    "domestic": {
+      "pt": "doméstico, interno"
+    },
+    "economy": {
+      "pt": "economia"
+    },
+    "entered": {
+      "pt": "entrou"
+    },
+    "enters": {
+      "pt": "entra"
+    },
+    "exchange": {
+      "pt": "câmbio",
+      "highlight": true
+    },
+    "exit": {
+      "pt": "sair"
+    },
+    "expect": {
+      "pt": "esperar",
+      "forms": [
+        "expects",
+        "expected"
+      ]
+    },
+    "expensive": {
+      "pt": "caro",
+      "highlight": true
+    },
+    "experts": {
+      "pt": "especialistas",
+      "forms": [
+        "expert"
+      ]
+    },
+    "ficonomics": {
+      "pt": "Ficonomics, empresa de consultoria"
+    },
+    "fifteen": {
+      "pt": "quinze"
+    },
+    "financial": {
+      "pt": "financeiro"
+    },
+    "force": {
+      "pt": "forçar"
+    },
+    "forecasts": {
+      "pt": "previsões",
+      "forms": [
+        "forecast"
+      ]
+    },
+    "fourth": {
+      "pt": "quarto"
+    },
+    "gross": {
+      "pt": "bruto"
+    },
+    "growth": {
+      "pt": "crescimento",
+      "highlight": true
+    },
+    "half": {
+      "pt": "metade"
+    },
+    "indec": {
+      "pt": "INDEC, órgão de estatística da Argentina"
+    },
+    "indicator": {
+      "pt": "indicador"
+    },
+    "industry": {
+      "pt": "indústria"
+    },
+    "institute": {
+      "pt": "instituto"
+    },
+    "interest": {
+      "pt": "juros",
+      "highlight": true
+    },
+    "intermediation": {
+      "pt": "intermediação"
+    },
+    "investment": {
+      "pt": "investimento"
+    },
+    "jobs": {
+      "pt": "empregos",
+      "forms": [
+        "job"
+      ],
+      "highlight": true
+    },
+    "july": {
+      "pt": "julho"
+    },
+    "lcg": {
+      "pt": "LCG, empresa de consultoria"
+    },
+    "level": {
+      "pt": "nível"
+    },
+    "loans": {
+      "pt": "empréstimos",
+      "forms": [
+        "loan"
+      ]
+    },
+    "mining": {
+      "pt": "mineração"
+    },
+    "monthly": {
+      "pt": "mensal"
+    },
+    "november": {
+      "pt": "novembro"
+    },
+    "points": {
+      "pt": "indica; pontos"
+    },
+    "posted": {
+      "pt": "registrou",
+      "forms": [
+        "post"
+      ]
+    },
+    "pressure": {
+      "pt": "pressão"
+    },
+    "private": {
+      "pt": "privado"
+    },
+    "product": {
+      "pt": "produto"
+    },
+    "quarter": {
+      "pt": "trimestre"
+    },
+    "quarters": {
+      "pt": "trimestres"
+    },
+    "rate": {
+      "pt": "taxa"
+    },
+    "rates": {
+      "pt": "taxas"
+    },
+    "recession": {
+      "pt": "recessão",
+      "highlight": true
+    },
+    "recover": {
+      "pt": "recuperar"
+    },
+    "recovery": {
+      "pt": "recuperação",
+      "highlight": true
+    },
+    "registered": {
+      "pt": "registrado, com carteira assinada"
+    },
+    "rose": {
+      "pt": "subiu",
+      "forms": [
+        "rise"
+      ]
+    },
+    "row": {
+      "pt": "fila (two in a row: dois seguidos)"
+    },
+    "salaried": {
+      "pt": "com salário"
+    },
+    "sector": {
+      "pt": "setor"
+    },
+    "sectors": {
+      "pt": "setores"
+    },
+    "september": {
+      "pt": "setembro"
+    },
+    "september's": {
+      "pt": "de setembro"
+    },
+    "smaller": {
+      "pt": "menor"
+    },
+    "statistics": {
+      "pt": "estatísticas"
+    },
+    "stays": {
+      "pt": "fica"
+    },
+    "technical": {
+      "pt": "técnico"
+    },
+    "ten": {
+      "pt": "dez"
+    },
+    "though": {
+      "pt": "embora"
+    },
+    "three": {
+      "pt": "três"
+    },
+    "warn": {
+      "pt": "alertar",
+      "forms": [
+        "warns"
+      ]
+    },
+    "yearly": {
+      "pt": "anual"
+    }
+  }
+}

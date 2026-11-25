@@ -1,0 +1,375 @@
+{
+  "id": "2026-11-25-vmware-vcenter-auth-bypass",
+  "date": "2026-11-25",
+  "topic": "hacking",
+  "source": {
+    "name": "The Hacker News",
+    "url": "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html",
+    "publishedAt": "2026-11-24T13:28:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Another serious flaw in VMware",
+      "text": "Broadcom fixed a serious problem in VMware. The problem is in vCenter. A bad person on the network could skip the login step. The score is 9.8 out of 10. This is very high. Days ago, Broadcom fixed another similar problem. Hackers used that one before the fix. Broadcom does not say hackers use the new one."
+    },
+    "2": {
+      "title": "Broadcom fixes a new critical VMware flaw",
+      "text": "Broadcom released fixes for 23 flaws in VMware products like ESX, vCenter, Workstation, Fusion and Avi Load Balancer. The most serious one, CVE-2026-123903, has a score of 9.8 out of 10. It is in the VMware Directory Service. Broadcom says a person with network access to vCenter could skip the login and enter the system.\n\nThe update also fixes four flaws rated high. One of them could let an attacker run code on the system after it opens a bad archive file.\n\nDays before, Broadcom fixed CVE-2026-123890, another 9.8 flaw in the same service. A group called Armory Castle, suspected to work for China, used it before a fix existed. The new flaw is a different problem. Broadcom does not say hackers use any of the new flaws, but customers should install the updates."
+    },
+    "3": {
+      "title": "Broadcom patches another critical VMware vCenter flaw",
+      "text": "Broadcom has released patches for 23 vulnerabilities affecting VMware ESX, vCenter, Workstation, Fusion and Avi Load Balancer. The most serious, tracked as CVE-2026-123903, is rated 9.8 out of 10 on the CVSS scale and sits in the VMware Directory Service, known as vmdir. In an advisory, Broadcom said a malicious actor with network access to vCenter could bypass authentication and gain unauthorized access to the system.\n\nResearchers from QiAnXin, depthfirst and ThreatBook were credited with reporting the flaw independently. The vCenter update also fixes four high-severity bugs. One is an arbitrary file write that could lead to code execution on the appliance when certain archives are processed, and it is rated 7.5. The other three can cause denial of service in the directory service and also score 7.5.\n\nThe fixes arrive days after Broadcom patched CVE-2026-123890, another authentication bypass rated 9.8 in the same service. A suspected China-linked espionage group called Armory Castle exploited it as a zero-day. Broadcom says the new flaw is distinct and not related. The company does not mention any of the newly disclosed flaws being exploited in the wild, but customers are urged to apply the updates."
+    }
+  },
+  "glossary": {
+    "access": {
+      "pt": "acesso; acessar",
+      "forms": [
+        "accessed"
+      ]
+    },
+    "actor": {
+      "pt": "agente (pessoa ou grupo que age)"
+    },
+    "advisory": {
+      "pt": "aviso oficial de segurança"
+    },
+    "affecting": {
+      "pt": "afetando"
+    },
+    "ago": {
+      "pt": "atrás (no tempo)"
+    },
+    "appliance": {
+      "pt": "aparelho ou sistema de rede"
+    },
+    "apply": {
+      "pt": "aplicar",
+      "forms": [
+        "applied"
+      ]
+    },
+    "arbitrary": {
+      "pt": "qualquer, sem controle"
+    },
+    "archive": {
+      "pt": "arquivo compactado",
+      "forms": [
+        "archives"
+      ]
+    },
+    "armory": {
+      "pt": "Armory (parte do nome de um grupo)"
+    },
+    "arrive": {
+      "pt": "chegar",
+      "forms": [
+        "arrives"
+      ]
+    },
+    "attacker": {
+      "pt": "atacante",
+      "forms": [
+        "attackers"
+      ]
+    },
+    "authentication": {
+      "pt": "autenticação (prova de identidade)"
+    },
+    "avi": {
+      "pt": "Avi (produto VMware)"
+    },
+    "balancer": {
+      "pt": "balanceador (distribui carga)"
+    },
+    "broadcom": {
+      "pt": "Broadcom, empresa de tecnologia dona da VMware"
+    },
+    "bugs": {
+      "pt": "falhas, erros de programa",
+      "forms": [
+        "bug"
+      ]
+    },
+    "bypass": {
+      "pt": "driblar, passar por fora",
+      "highlight": true
+    },
+    "castle": {
+      "pt": "castelo (parte do nome de um grupo)"
+    },
+    "cause": {
+      "pt": "causar",
+      "forms": [
+        "causes"
+      ]
+    },
+    "certain": {
+      "pt": "certo, algum"
+    },
+    "china": {
+      "pt": "China"
+    },
+    "code": {
+      "pt": "código (de programa)"
+    },
+    "credited": {
+      "pt": "deu o crédito a"
+    },
+    "critical": {
+      "pt": "crítico, muito grave"
+    },
+    "customers": {
+      "pt": "clientes",
+      "forms": [
+        "customer"
+      ],
+      "highlight": true
+    },
+    "cvss": {
+      "pt": "CVSS, nota de gravidade de falhas"
+    },
+    "denial": {
+      "pt": "negação (de serviço: deixar fora do ar)"
+    },
+    "depthfirst": {
+      "pt": "depthfirst, empresa de segurança"
+    },
+    "directory": {
+      "pt": "diretório (lista de usuários)"
+    },
+    "disclosed": {
+      "pt": "divulgado",
+      "forms": [
+        "disclose"
+      ]
+    },
+    "distinct": {
+      "pt": "diferente"
+    },
+    "enter": {
+      "pt": "entrar"
+    },
+    "espionage": {
+      "pt": "espionagem"
+    },
+    "esx": {
+      "pt": "ESX, produto da VMware"
+    },
+    "execution": {
+      "pt": "execução (de código)"
+    },
+    "existed": {
+      "pt": "existia",
+      "forms": [
+        "exist"
+      ]
+    },
+    "exploited": {
+      "pt": "explorou"
+    },
+    "file": {
+      "pt": "arquivo"
+    },
+    "fix": {
+      "pt": "correção; consertar",
+      "highlight": true
+    },
+    "fixed": {
+      "pt": "corrigiu"
+    },
+    "fixes": {
+      "pt": "correções; corrige"
+    },
+    "flaw": {
+      "pt": "falha",
+      "highlight": true
+    },
+    "flaws": {
+      "pt": "falhas"
+    },
+    "four": {
+      "pt": "quatro"
+    },
+    "fusion": {
+      "pt": "Fusion (produto VMware)"
+    },
+    "gain": {
+      "pt": "ganhar, obter"
+    },
+    "hackers": {
+      "pt": "hackers"
+    },
+    "independently": {
+      "pt": "de forma independente"
+    },
+    "install": {
+      "pt": "instalar",
+      "highlight": true
+    },
+    "let": {
+      "pt": "deixar, permitir"
+    },
+    "linked": {
+      "pt": "ligado",
+      "forms": [
+        "link"
+      ]
+    },
+    "load": {
+      "pt": "carga"
+    },
+    "login": {
+      "pt": "entrada com senha"
+    },
+    "malicious": {
+      "pt": "mal-intencionado"
+    },
+    "mention": {
+      "pt": "mencionar",
+      "forms": [
+        "mentions"
+      ]
+    },
+    "network": {
+      "pt": "rede"
+    },
+    "newly": {
+      "pt": "recentemente"
+    },
+    "opens": {
+      "pt": "abre",
+      "forms": [
+        "open"
+      ]
+    },
+    "patched": {
+      "pt": "corrigido com atualização",
+      "forms": [
+        "patch"
+      ]
+    },
+    "patches": {
+      "pt": "atualizações de correção"
+    },
+    "processed": {
+      "pt": "processado",
+      "forms": [
+        "process"
+      ]
+    },
+    "products": {
+      "pt": "produtos"
+    },
+    "qianxin": {
+      "pt": "QiAnXin, empresa de segurança"
+    },
+    "rated": {
+      "pt": "avaliado, com nota"
+    },
+    "related": {
+      "pt": "relacionado"
+    },
+    "released": {
+      "pt": "lançou",
+      "forms": [
+        "release"
+      ]
+    },
+    "reporting": {
+      "pt": "relatando"
+    },
+    "researchers": {
+      "pt": "pesquisadores",
+      "forms": [
+        "researcher"
+      ]
+    },
+    "scale": {
+      "pt": "escala"
+    },
+    "score": {
+      "pt": "nota"
+    },
+    "serious": {
+      "pt": "grave",
+      "highlight": true
+    },
+    "service": {
+      "pt": "serviço"
+    },
+    "severity": {
+      "pt": "gravidade"
+    },
+    "similar": {
+      "pt": "parecido"
+    },
+    "sits": {
+      "pt": "fica",
+      "forms": [
+        "sit"
+      ]
+    },
+    "skip": {
+      "pt": "pular",
+      "highlight": true
+    },
+    "step": {
+      "pt": "etapa"
+    },
+    "suspected": {
+      "pt": "suspeito"
+    },
+    "system": {
+      "pt": "sistema"
+    },
+    "threatbook": {
+      "pt": "ThreatBook, empresa de segurança"
+    },
+    "three": {
+      "pt": "três"
+    },
+    "tracked": {
+      "pt": "rastreado",
+      "forms": [
+        "track"
+      ]
+    },
+    "unauthorized": {
+      "pt": "não autorizado"
+    },
+    "update": {
+      "pt": "atualização"
+    },
+    "updates": {
+      "pt": "atualizações"
+    },
+    "urged": {
+      "pt": "pediu com firmeza",
+      "forms": [
+        "urge"
+      ]
+    },
+    "vcenter": {
+      "pt": "vCenter, programa da VMware"
+    },
+    "vmdir": {
+      "pt": "vmdir, serviço de diretório da VMware"
+    },
+    "vmware": {
+      "pt": "VMware, empresa de software"
+    },
+    "vulnerabilities": {
+      "pt": "vulnerabilidades"
+    },
+    "wild": {
+      "pt": "selvagem (in the wild: em uso real por criminosos)"
+    },
+    "workstation": {
+      "pt": "Workstation (produto VMware)"
+    },
+    "zero": {
+      "pt": "zero (zero-day: falha explorada antes da correção)"
+    }
+  }
+}

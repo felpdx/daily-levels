@@ -1,0 +1,423 @@
+{
+  "id": "2026-11-25-us-new-tariffs-plan",
+  "date": "2026-11-25",
+  "topic": "bolsa",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-11-25T00:38:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "The US plans new tariffs",
+      "text": "The US plans to announce new tariffs, maybe on Wednesday, the BBC understands. A tariff is a tax on goods from other countries. At least 14 places could be hit, including China, the European Union and Japan. The US Supreme Court said the old tariffs were illegal. The new rates will be different for each country."
+    },
+    "2": {
+      "title": "US prepares new tariffs on many countries",
+      "text": "The US is preparing to announce new tariffs as early as Wednesday, the BBC understands. At least 14 places would be affected, including China, the European Union and Japan. Each country would pay a different rate, depending on the deals it made with President Trump.\n\nThe plan comes after an investigation that began in March, when the US Supreme Court ruled that Trump's \"Liberation Day\" tariffs were illegal.\n\nThe news may increase tension with China. The two countries met last week, but they still have not solved their trade fight. A temporary agreement ends on 10 January. Earlier on Tuesday, China extended a pause on its ban on exports of some critical minerals until 27 January."
+    },
+    "3": {
+      "title": "US prepares plan for new tariffs on trading partners",
+      "text": "The United States is preparing to announce plans for new tariffs on several countries as early as Wednesday, the BBC understands. The new import taxes would hit many of America's biggest trading partners, with China, the European Union and Japan among at least 14 jurisdictions affected. Countries would face different rates, depending on the deals they had previously struck with President Trump.\n\nThe move follows a \"Section 301\" investigation launched in March, after the Supreme Court ruled that Trump's Liberation Day tariffs were illegal. Trade Representative Jamieson Greer has argued that overproduction abroad is displacing American manufacturing and discouraging investment.\n\nThe announcement is likely to raise tension between Washington and Beijing, which remain locked in a trade dispute. Despite last week's meeting between Trump and President Xi Jinping, an interim agreement is set to expire on 10 January. The US has accused China of falling short on its commitments, particularly on agricultural purchases, rare earths and other critical minerals. Earlier on Tuesday, China extended the suspension of a ban on exports of minerals including gallium, germanium and antimony until 27 January. Critics say the tariff policy has raised prices for American consumers and damaged the global economy."
+    }
+  },
+  "glossary": {
+    "abroad": {
+      "pt": "no exterior"
+    },
+    "accused": {
+      "pt": "acusou",
+      "forms": [
+        "accuse",
+        "accuses"
+      ]
+    },
+    "affected": {
+      "pt": "afetados",
+      "forms": [
+        "affect",
+        "affects"
+      ]
+    },
+    "agreement": {
+      "pt": "acordo"
+    },
+    "agricultural": {
+      "pt": "agrícola"
+    },
+    "america's": {
+      "pt": "dos Estados Unidos"
+    },
+    "american": {
+      "pt": "americano"
+    },
+    "among": {
+      "pt": "entre"
+    },
+    "announce": {
+      "pt": "anunciar",
+      "forms": [
+        "announced"
+      ]
+    },
+    "announcement": {
+      "pt": "anúncio"
+    },
+    "antimony": {
+      "pt": "antimônio, um mineral"
+    },
+    "argued": {
+      "pt": "argumentou",
+      "forms": [
+        "argue",
+        "argues"
+      ]
+    },
+    "ban": {
+      "pt": "proibição"
+    },
+    "bbc": {
+      "pt": "BBC, emissora de notícias do Reino Unido"
+    },
+    "beijing": {
+      "pt": "Pequim, capital da China"
+    },
+    "china": {
+      "pt": "China"
+    },
+    "commitments": {
+      "pt": "compromissos",
+      "forms": [
+        "commitment"
+      ]
+    },
+    "consumers": {
+      "pt": "consumidores"
+    },
+    "court": {
+      "pt": "tribunal"
+    },
+    "critical": {
+      "pt": "crítico, muito grave"
+    },
+    "critics": {
+      "pt": "críticos"
+    },
+    "damaged": {
+      "pt": "prejudicou",
+      "forms": [
+        "damage"
+      ]
+    },
+    "depending": {
+      "pt": "dependendo"
+    },
+    "despite": {
+      "pt": "apesar de"
+    },
+    "discouraging": {
+      "pt": "desestimulando"
+    },
+    "displacing": {
+      "pt": "tirando o lugar de"
+    },
+    "dispute": {
+      "pt": "disputa",
+      "highlight": true
+    },
+    "earlier": {
+      "pt": "antes"
+    },
+    "earths": {
+      "pt": "terras (terras raras)"
+    },
+    "economy": {
+      "pt": "economia"
+    },
+    "european": {
+      "pt": "europeu"
+    },
+    "expire": {
+      "pt": "vencer, acabar"
+    },
+    "exports": {
+      "pt": "exportações",
+      "forms": [
+        "export"
+      ],
+      "highlight": true
+    },
+    "extended": {
+      "pt": "estendeu",
+      "forms": [
+        "extend"
+      ]
+    },
+    "face": {
+      "pt": "enfrentar",
+      "forms": [
+        "faces"
+      ]
+    },
+    "fight": {
+      "pt": "briga, luta"
+    },
+    "follows": {
+      "pt": "segue",
+      "forms": [
+        "follow"
+      ]
+    },
+    "gallium": {
+      "pt": "gálio, um metal"
+    },
+    "germanium": {
+      "pt": "germânio, um metal"
+    },
+    "global": {
+      "pt": "global, mundial"
+    },
+    "goods": {
+      "pt": "mercadorias"
+    },
+    "greer": {
+      "pt": "Greer, representante comercial dos EUA"
+    },
+    "hit": {
+      "pt": "atingir; atingido"
+    },
+    "illegal": {
+      "pt": "ilegal",
+      "highlight": true
+    },
+    "import": {
+      "pt": "importação"
+    },
+    "including": {
+      "pt": "incluindo"
+    },
+    "increase": {
+      "pt": "aumento; aumentar"
+    },
+    "interim": {
+      "pt": "temporário"
+    },
+    "investigation": {
+      "pt": "investigação"
+    },
+    "investment": {
+      "pt": "investimento"
+    },
+    "jamieson": {
+      "pt": "Jamieson (nome)"
+    },
+    "january": {
+      "pt": "janeiro"
+    },
+    "japan": {
+      "pt": "Japão"
+    },
+    "jinping": {
+      "pt": "Jinping (nome de Xi, líder da China)"
+    },
+    "jurisdictions": {
+      "pt": "países ou regiões com leis próprias"
+    },
+    "launched": {
+      "pt": "lançado",
+      "forms": [
+        "launch"
+      ]
+    },
+    "least": {
+      "pt": "menos (pelo menos)"
+    },
+    "liberation": {
+      "pt": "libertação (parte do nome \"Liberation Day\")"
+    },
+    "likely": {
+      "pt": "provável"
+    },
+    "locked": {
+      "pt": "preso"
+    },
+    "manufacturing": {
+      "pt": "produção industrial"
+    },
+    "march": {
+      "pt": "março"
+    },
+    "maybe": {
+      "pt": "talvez"
+    },
+    "minerals": {
+      "pt": "minerais",
+      "forms": [
+        "mineral"
+      ]
+    },
+    "overproduction": {
+      "pt": "produção excessiva"
+    },
+    "particularly": {
+      "pt": "especialmente"
+    },
+    "partners": {
+      "pt": "parceiros",
+      "forms": [
+        "partner"
+      ]
+    },
+    "pause": {
+      "pt": "pausa"
+    },
+    "places": {
+      "pt": "lugares",
+      "forms": [
+        "place"
+      ]
+    },
+    "policy": {
+      "pt": "política"
+    },
+    "prepares": {
+      "pt": "prepara",
+      "forms": [
+        "prepare"
+      ]
+    },
+    "preparing": {
+      "pt": "preparando"
+    },
+    "previously": {
+      "pt": "antes"
+    },
+    "purchases": {
+      "pt": "compras",
+      "forms": [
+        "purchase"
+      ]
+    },
+    "raise": {
+      "pt": "aumentar",
+      "highlight": true
+    },
+    "raised": {
+      "pt": "aumentou"
+    },
+    "rare": {
+      "pt": "raro"
+    },
+    "rate": {
+      "pt": "taxa"
+    },
+    "rates": {
+      "pt": "taxas"
+    },
+    "remain": {
+      "pt": "continuar"
+    },
+    "representative": {
+      "pt": "representante"
+    },
+    "ruled": {
+      "pt": "decidiu (um tribunal)",
+      "forms": [
+        "rule"
+      ]
+    },
+    "section": {
+      "pt": "seção"
+    },
+    "set": {
+      "pt": "programado"
+    },
+    "several": {
+      "pt": "vários"
+    },
+    "solved": {
+      "pt": "resolvido",
+      "forms": [
+        "solve"
+      ]
+    },
+    "states": {
+      "pt": "estados"
+    },
+    "struck": {
+      "pt": "fechou (um acordo)",
+      "forms": [
+        "strike"
+      ]
+    },
+    "supreme": {
+      "pt": "supremo"
+    },
+    "suspension": {
+      "pt": "suspensão"
+    },
+    "tariff": {
+      "pt": "tarifa, imposto de importação",
+      "highlight": true
+    },
+    "tariffs": {
+      "pt": "tarifas, impostos de importação"
+    },
+    "tax": {
+      "pt": "imposto"
+    },
+    "taxes": {
+      "pt": "impostos"
+    },
+    "temporary": {
+      "pt": "temporário"
+    },
+    "tension": {
+      "pt": "tensão",
+      "highlight": true
+    },
+    "trade": {
+      "pt": "comércio",
+      "highlight": true
+    },
+    "trading": {
+      "pt": "de comércio"
+    },
+    "trump": {
+      "pt": "Trump, presidente dos EUA"
+    },
+    "trump's": {
+      "pt": "de Trump"
+    },
+    "tuesday": {
+      "pt": "terça-feira"
+    },
+    "understands": {
+      "pt": "entende",
+      "forms": [
+        "understand"
+      ]
+    },
+    "union": {
+      "pt": "união"
+    },
+    "united": {
+      "pt": "unido"
+    },
+    "washington": {
+      "pt": "Washington, governo dos EUA"
+    },
+    "wednesday": {
+      "pt": "quarta-feira"
+    },
+    "xi": {
+      "pt": "Xi, líder da China"
+    },
+    "deals": {
+      "pt": "acordos",
+      "forms": [
+        "deal"
+      ]
+    }
+  }
+}

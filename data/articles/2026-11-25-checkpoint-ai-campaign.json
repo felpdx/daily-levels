@@ -1,0 +1,412 @@
+{
+  "id": "2026-11-25-checkpoint-ai-campaign",
+  "date": "2026-11-25",
+  "topic": "hacking",
+  "source": {
+    "name": "The Hacker News",
+    "url": "https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html",
+    "publishedAt": "2026-11-25T06:50:19Z"
+  },
+  "levels": {
+    "1": {
+      "title": "AI helps hackers attack servers",
+      "text": "Hackers used artificial intelligence to attack computers. The computers were Check Point servers. These servers help companies stay safe. A security company called GreyNoise found the attacks. It says 22 organizations in many countries were hit. The attacks happened between October 17 and November 2. Check Point says the weak point was already known. It says a fix is ready."
+    },
+    "2": {
+      "title": "AI tools used in attacks on Check Point servers",
+      "text": "A security company named GreyNoise says hackers used artificial intelligence tools to attack Check Point Security Management servers. Companies use these servers to control their security. The attacks hit 22 organizations in many countries, including the U.K., Germany, India, Australia and the U.S. The victims work in areas like finance, energy, government and transport.\n\nGreyNoise saw the attacks between October 17 and November 2, 2026. The hackers used 99 internet addresses, and nobody knows who they are. In one case, they took over another server and used it to send out data from 24 Check Point servers.\n\nCheck Point says this is not a new problem. It says the flaw, called CVE-2026-16232, already has a fix. The company asks customers to install updates and limit who can reach their management systems."
+    },
+    "3": {
+      "title": "Suspected AI-driven campaign hits Check Point management servers",
+      "text": "Researchers at GreyNoise say an unknown group has used artificial intelligence tools to break into Check Point Security Management servers. GreyNoise, which tracks the group as GreyNoise Threat 13, links the campaign to 22 organizations in the financial services, energy, government, transport, mining, engineering and manufacturing sectors. The victims are spread across Europe, Asia, Australia and the United States.\n\nConfirmed activity was recorded between October 17 and November 2, 2026. The attackers used 99 IP addresses, most of them disposable. GreyNoise suspects they rely on automated systems that scan for weak spots, exploit them and interact with hacked machines. In one case, the group took over a server running Rejetto HFS software through a critical flaw and then used it as a relay to send out data from 24 Check Point servers it already controlled. GreyNoise could not tell when or how the attackers first got into those servers.\n\nThe campaign has not been linked to any known group. GreyNoise believes the attacker has a mature AI-based offensive system. Check Point told The Hacker News that the flaw involved, CVE-2026-16232, was disclosed earlier and already has patches. The company said the report does not describe a new vulnerability, and it urged customers to apply updates and restrict access to management systems."
+    }
+  },
+  "glossary": {
+    "access": {
+      "pt": "acesso; acessar",
+      "forms": [
+        "accessed"
+      ]
+    },
+    "across": {
+      "pt": "em, por todo(a)"
+    },
+    "activity": {
+      "pt": "atividade"
+    },
+    "addresses": {
+      "pt": "endereços",
+      "forms": [
+        "address"
+      ]
+    },
+    "ai": {
+      "pt": "IA, inteligência artificial"
+    },
+    "apply": {
+      "pt": "aplicar",
+      "forms": [
+        "applied"
+      ]
+    },
+    "areas": {
+      "pt": "áreas",
+      "forms": [
+        "area"
+      ]
+    },
+    "artificial": {
+      "pt": "artificial"
+    },
+    "asia": {
+      "pt": "Ásia"
+    },
+    "attack": {
+      "pt": "ataque; atacar",
+      "forms": [
+        "attacks",
+        "attacked"
+      ]
+    },
+    "attacker": {
+      "pt": "atacante",
+      "forms": [
+        "attackers"
+      ],
+      "highlight": true
+    },
+    "australia": {
+      "pt": "Austrália"
+    },
+    "automated": {
+      "pt": "automático"
+    },
+    "based": {
+      "pt": "baseado"
+    },
+    "break": {
+      "pt": "invadir; quebrar"
+    },
+    "campaign": {
+      "pt": "campanha (série de ataques)"
+    },
+    "case": {
+      "pt": "caso"
+    },
+    "check": {
+      "pt": "Check (parte do nome Check Point, empresa de segurança)"
+    },
+    "computers": {
+      "pt": "computadores",
+      "forms": [
+        "computer"
+      ]
+    },
+    "confirmed": {
+      "pt": "confirmado",
+      "forms": [
+        "confirm"
+      ]
+    },
+    "critical": {
+      "pt": "crítico, muito grave"
+    },
+    "customers": {
+      "pt": "clientes",
+      "forms": [
+        "customer"
+      ],
+      "highlight": true
+    },
+    "data": {
+      "pt": "dados"
+    },
+    "describe": {
+      "pt": "descrever",
+      "forms": [
+        "describes"
+      ]
+    },
+    "disclosed": {
+      "pt": "divulgado",
+      "forms": [
+        "disclose"
+      ]
+    },
+    "disposable": {
+      "pt": "descartável"
+    },
+    "driven": {
+      "pt": "movido"
+    },
+    "earlier": {
+      "pt": "antes"
+    },
+    "energy": {
+      "pt": "energia"
+    },
+    "engineering": {
+      "pt": "engenharia"
+    },
+    "europe": {
+      "pt": "Europa"
+    },
+    "exploit": {
+      "pt": "explorar uma falha",
+      "forms": [
+        "exploits"
+      ]
+    },
+    "finance": {
+      "pt": "finanças"
+    },
+    "financial": {
+      "pt": "financeiro"
+    },
+    "fix": {
+      "pt": "correção; consertar"
+    },
+    "flaw": {
+      "pt": "falha",
+      "highlight": true
+    },
+    "germany": {
+      "pt": "Alemanha"
+    },
+    "greynoise": {
+      "pt": "GreyNoise, empresa de segurança"
+    },
+    "hacked": {
+      "pt": "invadido"
+    },
+    "hacker": {
+      "pt": "hacker"
+    },
+    "hackers": {
+      "pt": "hackers"
+    },
+    "hfs": {
+      "pt": "HFS, software de servidor de arquivos"
+    },
+    "hit": {
+      "pt": "atingir; atingido"
+    },
+    "hits": {
+      "pt": "atinge"
+    },
+    "including": {
+      "pt": "incluindo"
+    },
+    "india": {
+      "pt": "Índia"
+    },
+    "install": {
+      "pt": "instalar",
+      "highlight": true
+    },
+    "intelligence": {
+      "pt": "inteligência"
+    },
+    "interact": {
+      "pt": "interagir"
+    },
+    "internet": {
+      "pt": "internet"
+    },
+    "involved": {
+      "pt": "envolvido"
+    },
+    "ip": {
+      "pt": "IP (endereço na internet)"
+    },
+    "k": {
+      "pt": "parte da sigla U.K. (Reino Unido)"
+    },
+    "limit": {
+      "pt": "limitar",
+      "highlight": true
+    },
+    "linked": {
+      "pt": "ligado",
+      "forms": [
+        "link"
+      ]
+    },
+    "links": {
+      "pt": "liga"
+    },
+    "machines": {
+      "pt": "máquinas"
+    },
+    "management": {
+      "pt": "gestão, gerenciamento"
+    },
+    "manufacturing": {
+      "pt": "produção industrial"
+    },
+    "mature": {
+      "pt": "maduro, bem desenvolvido"
+    },
+    "mining": {
+      "pt": "mineração"
+    },
+    "november": {
+      "pt": "novembro"
+    },
+    "october": {
+      "pt": "outubro"
+    },
+    "offensive": {
+      "pt": "de ataque"
+    },
+    "organizations": {
+      "pt": "organizações",
+      "forms": [
+        "organization"
+      ]
+    },
+    "patches": {
+      "pt": "atualizações de correção"
+    },
+    "point": {
+      "pt": "Point (parte do nome Check Point); ponto"
+    },
+    "reach": {
+      "pt": "alcançar"
+    },
+    "ready": {
+      "pt": "pronto"
+    },
+    "recorded": {
+      "pt": "registrado",
+      "forms": [
+        "record"
+      ]
+    },
+    "rejetto": {
+      "pt": "Rejetto, empresa do software HFS"
+    },
+    "relay": {
+      "pt": "ponte de repasse",
+      "highlight": true
+    },
+    "rely": {
+      "pt": "depender"
+    },
+    "report": {
+      "pt": "relatório; relatar"
+    },
+    "researchers": {
+      "pt": "pesquisadores",
+      "forms": [
+        "researcher"
+      ]
+    },
+    "restrict": {
+      "pt": "restringir"
+    },
+    "s": {
+      "pt": "parte da sigla U.S. (Estados Unidos)"
+    },
+    "safe": {
+      "pt": "seguro"
+    },
+    "scan": {
+      "pt": "varrer, procurar"
+    },
+    "sectors": {
+      "pt": "setores"
+    },
+    "security": {
+      "pt": "segurança"
+    },
+    "server": {
+      "pt": "servidor"
+    },
+    "servers": {
+      "pt": "servidores"
+    },
+    "services": {
+      "pt": "serviços"
+    },
+    "software": {
+      "pt": "programa de computador"
+    },
+    "spots": {
+      "pt": "pontos",
+      "forms": [
+        "spot"
+      ]
+    },
+    "spread": {
+      "pt": "espalhado"
+    },
+    "states": {
+      "pt": "estados"
+    },
+    "stay": {
+      "pt": "ficar"
+    },
+    "suspected": {
+      "pt": "suspeito"
+    },
+    "suspects": {
+      "pt": "suspeita",
+      "forms": [
+        "suspect"
+      ]
+    },
+    "system": {
+      "pt": "sistema"
+    },
+    "systems": {
+      "pt": "sistemas"
+    },
+    "threat": {
+      "pt": "ameaça"
+    },
+    "tools": {
+      "pt": "ferramentas",
+      "forms": [
+        "tool"
+      ]
+    },
+    "tracks": {
+      "pt": "rastreia"
+    },
+    "transport": {
+      "pt": "transporte"
+    },
+    "united": {
+      "pt": "unido"
+    },
+    "unknown": {
+      "pt": "desconhecido"
+    },
+    "updates": {
+      "pt": "atualizações"
+    },
+    "urged": {
+      "pt": "pediu com firmeza",
+      "forms": [
+        "urge"
+      ]
+    },
+    "victims": {
+      "pt": "vítimas",
+      "forms": [
+        "victim"
+      ]
+    },
+    "vulnerability": {
+      "pt": "vulnerabilidade"
+    },
+    "weak": {
+      "pt": "fraco",
+      "highlight": true
+    },
+    "u": {
+      "pt": "parte da sigla U.S. ou U.K."
+    }
+  }
+}

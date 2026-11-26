@@ -1,0 +1,422 @@
+{
+  "id": "2026-11-26-brazil-argentina-ambassador-lula",
+  "date": "2026-11-26",
+  "topic": "mundo",
+  "source": {
+    "name": "MercoPress",
+    "url": "https://en.mercopress.com/2026/11/26/brazil-withdraws-its-ambassador-to-argentina-and-will-not-invite-milei-to-lula-s-inauguration?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+    "publishedAt": "2026-11-26T04:45:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Brazil and Argentina have a fight",
+      "text": "Brazil will not send its ambassador back to Argentina. His name is Julio Bitelli. Brazil will also not invite Argentine President Javier Milei to Lula's big day on January 5. Argentina's foreign minister said there were doubts about the election. Brazil's electoral court said Lula won. The two presidents will meet on December 4 in Montevideo."
+    },
+    "2": {
+      "title": "Brazil pulls its ambassador from Argentina",
+      "text": "Brazil's government has decided to permanently withdraw its ambassador in Buenos Aires, Julio Bitelli. It will also not invite Argentine President Javier Milei to Lula's inauguration on January 5, according to Brazilian news reports.\n\nThe decision came after Argentine Foreign Minister Pablo Quirno said there were situations in the electoral process that cast doubt on it. Brazil's electoral court declared Lula the winner by about four million votes, and no evidence of irregularities has been presented.\n\nThe embassy will now be run by a deputy chief, but the two countries keep diplomatic relations. Argentina says trade has not been affected. Lula and Milei are due to meet on December 4 in Montevideo, at a Mercosur summit."
+    },
+    "3": {
+      "title": "Brazil downgrades ties with Argentina and will not invite Milei to inauguration",
+      "text": "Brazil's government has decided to permanently withdraw its ambassador in Buenos Aires, Julio Bitelli, and will not invite Argentine President Javier Milei to Lula's inauguration on January 5, according to UOL and other outlets citing official sources.\n\nThe decision followed remarks by Argentine Foreign Minister Pablo Quirno, who said that situations in the electoral process cast doubt on the whole situation. Brazil's Superior Electoral Court declared Lula the winner of the October 25 run-off by about four million votes, and no evidence of irregularities has been presented.\n\nBitelli had been recalled for consultations in July after Milei insulted Lula at a campaign event for Flavio Bolsonaro. Now an embassy led by a deputy chief will replace the ambassador, which lowers the level of representation without breaking diplomatic relations. Brazil plans to invite other Argentine political leaders instead.\n\nArgentina's government says it keeps ideological differences out of diplomacy and that trade has not suffered. Brazilian diplomatic sources told El Pais that the attacks show Milei's government does not want to deal with bilateral issues seriously. The presidents are due to meet on December 4 at the Mercosur summit in Montevideo."
+    }
+  },
+  "glossary": {
+    "according": {
+      "pt": "de acordo (com)"
+    },
+    "affect": {
+      "pt": "afetar",
+      "forms": [
+        "affected",
+        "affects"
+      ]
+    },
+    "aires": {
+      "pt": "Aires (em Buenos Aires)"
+    },
+    "argentina": {
+      "pt": "Argentina, país vizinho do Brasil"
+    },
+    "argentine": {
+      "pt": "argentino",
+      "forms": [
+        "argentines"
+      ]
+    },
+    "attack": {
+      "pt": "ataque, atacar",
+      "forms": [
+        "attacks"
+      ]
+    },
+    "bilateral": {
+      "pt": "entre os dois países"
+    },
+    "bitelli": {
+      "pt": "Julio Bitelli, embaixador do Brasil na Argentina"
+    },
+    "bolsonaro": {
+      "pt": "Flavio Bolsonaro, candidato que perdeu para Lula"
+    },
+    "brazil": {
+      "pt": "Brasil",
+      "forms": [
+        "brazil's"
+      ]
+    },
+    "brazilian": {
+      "pt": "brasileiro",
+      "forms": [
+        "brazilians"
+      ]
+    },
+    "breaking": {
+      "pt": "romper",
+      "forms": [
+        "break",
+        "breaks"
+      ]
+    },
+    "buenos": {
+      "pt": "Buenos (em Buenos Aires)"
+    },
+    "campaign": {
+      "pt": "campanha",
+      "forms": [
+        "campaigned"
+      ]
+    },
+    "cast": {
+      "pt": "lançou (dúvida)"
+    },
+    "chief": {
+      "pt": "chefe"
+    },
+    "citing": {
+      "pt": "citando"
+    },
+    "consultations": {
+      "pt": "consultas"
+    },
+    "court": {
+      "pt": "tribunal"
+    },
+    "deal": {
+      "pt": "acordo",
+      "forms": [
+        "deals"
+      ]
+    },
+    "decided": {
+      "pt": "decidiu",
+      "forms": [
+        "decide",
+        "decides"
+      ]
+    },
+    "decision": {
+      "pt": "decisão"
+    },
+    "declared": {
+      "pt": "declarou",
+      "forms": [
+        "declare"
+      ]
+    },
+    "deputy": {
+      "pt": "substituto"
+    },
+    "differences": {
+      "pt": "diferenças",
+      "forms": [
+        "difference"
+      ]
+    },
+    "diplomacy": {
+      "pt": "diplomacia"
+    },
+    "diplomatic": {
+      "pt": "diplomático"
+    },
+    "doubt": {
+      "pt": "dúvida",
+      "forms": [
+        "doubts"
+      ],
+      "highlight": true
+    },
+    "downgrades": {
+      "pt": "rebaixa",
+      "forms": [
+        "downgrade",
+        "downgraded"
+      ]
+    },
+    "due": {
+      "pt": "previsto"
+    },
+    "el": {
+      "pt": "El (em El Pais)"
+    },
+    "election": {
+      "pt": "eleição",
+      "forms": [
+        "elections"
+      ]
+    },
+    "electoral": {
+      "pt": "eleitoral",
+      "highlight": true
+    },
+    "embassy": {
+      "pt": "embaixada"
+    },
+    "event": {
+      "pt": "evento"
+    },
+    "evidence": {
+      "pt": "prova"
+    },
+    "fight": {
+      "pt": "briga"
+    },
+    "flavio": {
+      "pt": "Flavio (nome próprio)"
+    },
+    "followed": {
+      "pt": "seguiu",
+      "forms": [
+        "follow"
+      ]
+    },
+    "foreign": {
+      "pt": "estrangeiro"
+    },
+    "four": {
+      "pt": "quatro"
+    },
+    "ideological": {
+      "pt": "ideológico"
+    },
+    "inauguration": {
+      "pt": "posse",
+      "highlight": true
+    },
+    "instead": {
+      "pt": "em vez disso"
+    },
+    "insulted": {
+      "pt": "insultou",
+      "forms": [
+        "insult"
+      ],
+      "highlight": true
+    },
+    "invite": {
+      "pt": "convidar"
+    },
+    "irregularities": {
+      "pt": "irregularidades"
+    },
+    "issues": {
+      "pt": "assuntos",
+      "forms": [
+        "issue"
+      ]
+    },
+    "january": {
+      "pt": "janeiro"
+    },
+    "javier": {
+      "pt": "Javier (nome próprio)"
+    },
+    "julio": {
+      "pt": "Julio (nome próprio)"
+    },
+    "july": {
+      "pt": "julho"
+    },
+    "leaders": {
+      "pt": "líderes",
+      "forms": [
+        "leader"
+      ]
+    },
+    "level": {
+      "pt": "nível"
+    },
+    "lowers": {
+      "pt": "reduz",
+      "forms": [
+        "lower"
+      ]
+    },
+    "lula": {
+      "pt": "Lula, presidente do Brasil",
+      "forms": [
+        "lula's"
+      ]
+    },
+    "mercosur": {
+      "pt": "Mercosul, bloco econômico da América do Sul"
+    },
+    "milei": {
+      "pt": "Milei, presidente da Argentina",
+      "forms": [
+        "milei's"
+      ]
+    },
+    "minister": {
+      "pt": "ministro"
+    },
+    "montevideo": {
+      "pt": "Montevidéu, capital do Uruguai"
+    },
+    "october": {
+      "pt": "outubro"
+    },
+    "official": {
+      "pt": "oficial"
+    },
+    "outlets": {
+      "pt": "veículos de notícia",
+      "forms": [
+        "outlet"
+      ]
+    },
+    "pablo": {
+      "pt": "Pablo (nome próprio)"
+    },
+    "pais": {
+      "pt": "Pais (em El Pais)"
+    },
+    "permanently": {
+      "pt": "para sempre"
+    },
+    "political": {
+      "pt": "político"
+    },
+    "presented": {
+      "pt": "apresentada",
+      "forms": [
+        "present"
+      ]
+    },
+    "process": {
+      "pt": "processo"
+    },
+    "pulls": {
+      "pt": "retira",
+      "forms": [
+        "pull"
+      ]
+    },
+    "quirno": {
+      "pt": "Pablo Quirno, ministro das Relações Exteriores da Argentina"
+    },
+    "recalled": {
+      "pt": "chamado de volta",
+      "forms": [
+        "recall"
+      ]
+    },
+    "relations": {
+      "pt": "relações",
+      "forms": [
+        "relation"
+      ],
+      "highlight": true
+    },
+    "remarks": {
+      "pt": "declarações",
+      "forms": [
+        "remark"
+      ]
+    },
+    "replace": {
+      "pt": "substituir",
+      "forms": [
+        "replaced"
+      ]
+    },
+    "report": {
+      "pt": "relatório",
+      "forms": [
+        "reports"
+      ]
+    },
+    "representation": {
+      "pt": "representação"
+    },
+    "serious": {
+      "pt": "grave",
+      "forms": [
+        "seriously"
+      ]
+    },
+    "situation": {
+      "pt": "situação",
+      "forms": [
+        "situations"
+      ]
+    },
+    "source": {
+      "pt": "fonte, original",
+      "forms": [
+        "sources"
+      ]
+    },
+    "suffered": {
+      "pt": "sofreu",
+      "forms": [
+        "suffer"
+      ]
+    },
+    "summit": {
+      "pt": "cúpula",
+      "highlight": true
+    },
+    "superior": {
+      "pt": "Superior"
+    },
+    "ties": {
+      "pt": "laços"
+    },
+    "trade": {
+      "pt": "comércio"
+    },
+    "uol": {
+      "pt": "UOL, site de notícias do Brasil"
+    },
+    "votes": {
+      "pt": "votos",
+      "forms": [
+        "vote"
+      ]
+    },
+    "whole": {
+      "pt": "inteiro"
+    },
+    "winner": {
+      "pt": "vencedor"
+    },
+    "withdraw": {
+      "pt": "retirar",
+      "highlight": true
+    },
+    "won": {
+      "pt": "venceu"
+    },
+    "ambassador": {
+      "pt": "embaixador",
+      "forms": [
+        "ambassadors"
+      ],
+      "highlight": true
+    },
+    "december": {
+      "pt": "dezembro"
+    }
+  }
+}

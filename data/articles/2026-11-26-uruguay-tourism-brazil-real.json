@@ -1,0 +1,336 @@
+{
+  "id": "2026-11-26-uruguay-tourism-brazil-real",
+  "date": "2026-11-26",
+  "topic": "bolsa",
+  "source": {
+    "name": "MercoPress",
+    "url": "https://en.mercopress.com/2026/11/25/brazil-s-falling-real-and-pressure-on-the-argentine-peso-are-bad-news-for-uruguay-s-summer?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+    "publishedAt": "2026-11-25T17:23:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "A weak real may hurt Uruguay",
+      "text": "The Brazilian real lost value after Lula won the election. A university in Uruguay says this is bad news for Uruguay's summer. Many visitors to Uruguay come from Brazil and Argentina. Brazil is now 3% cheaper in dollars than a year ago. Uruguay is 3% more expensive. Some people may choose another place."
+    },
+    "2": {
+      "title": "Weak currencies in Brazil and Argentina worry Uruguay",
+      "text": "A report from the Catholic University of Uruguay says that problems with money in Brazil and Argentina are bad news for tourism in Uruguay. The summer season starts in a few weeks. Argentines and Brazilians are the main visitors.\n\nThe report compared prices in dollars over 12 months. Brazil became cheaper in November, after Lula's election victory, and is now 3% cheaper than a year ago. Uruguay is 3% more expensive. Argentina is 17% more expensive than in November 2025, but a recent rise in one dollar rate could make it cheaper.\n\nThe report says the season is mostly decided, but people who have not chosen yet may change plans. Last week, Brazil's Central Bank sold US$1 billion from its reserves to slow the rise of the dollar."
+    },
+    "3": {
+      "title": "Currency turbulence in Brazil and Argentina threatens Uruguay's tourist season",
+      "text": "Currency turbulence in Argentina and Brazil is bad news for Uruguay's inbound tourism, just weeks before the summer season, the Economic Outlook Observatory of the Catholic University of Uruguay warned in a report published on Tuesday, according to the newspaper El Pais.\n\nThe observatory said the season is largely decided, but the recent turbulence may affect travellers who have not yet made up their minds. It pointed to Argentina's country risk above 1,000 basis points and to a Brazilian currency that fell after President Lula's win.\n\nThe report tracked prices in dollars over the past 12 months. Argentina is 17% more expensive than in November 2025, which had made it less competitive than Uruguay. However, a recent rise in the market dollar rate could make Argentine prices cheaper. Brazil became more expensive in the first half of the year, then suddenly cheaper in November, and is now 3% cheaper than a year ago. Uruguay is 3% more expensive.\n\nArgentines and Brazilians are Uruguay's main visitors in the southern summer. Argentina entered a technical recession in the third quarter, and Brazil's Central Bank sold US$1 billion from its reserves last week to curb the rise of the US currency."
+    }
+  },
+  "glossary": {
+    "above": {
+      "pt": "acima"
+    },
+    "according": {
+      "pt": "de acordo (com)"
+    },
+    "affect": {
+      "pt": "afetar",
+      "forms": [
+        "affected",
+        "affects"
+      ]
+    },
+    "ago": {
+      "pt": "atrás"
+    },
+    "argentina": {
+      "pt": "Argentina, país vizinho do Brasil"
+    },
+    "argentine": {
+      "pt": "argentino",
+      "forms": [
+        "argentines"
+      ]
+    },
+    "bank": {
+      "pt": "banco"
+    },
+    "basis": {
+      "pt": "base"
+    },
+    "brazil": {
+      "pt": "Brasil",
+      "forms": [
+        "brazil's"
+      ]
+    },
+    "brazilian": {
+      "pt": "brasileiro",
+      "forms": [
+        "brazilians"
+      ]
+    },
+    "catholic": {
+      "pt": "católica"
+    },
+    "central": {
+      "pt": "central"
+    },
+    "cheaper": {
+      "pt": "mais barato",
+      "forms": [
+        "cheap"
+      ],
+      "highlight": true
+    },
+    "choose": {
+      "pt": "escolher",
+      "forms": [
+        "chosen",
+        "chose"
+      ]
+    },
+    "compared": {
+      "pt": "comparou"
+    },
+    "competitive": {
+      "pt": "competitivo"
+    },
+    "curb": {
+      "pt": "conter",
+      "highlight": true
+    },
+    "currency": {
+      "pt": "moeda",
+      "forms": [
+        "currencies"
+      ],
+      "highlight": true
+    },
+    "decided": {
+      "pt": "decidiu",
+      "forms": [
+        "decide",
+        "decides"
+      ]
+    },
+    "dollar": {
+      "pt": "dólar",
+      "forms": [
+        "dollars"
+      ]
+    },
+    "economic": {
+      "pt": "econômico"
+    },
+    "el": {
+      "pt": "El (em El Pais)"
+    },
+    "election": {
+      "pt": "eleição",
+      "forms": [
+        "elections"
+      ]
+    },
+    "entered": {
+      "pt": "entrou",
+      "forms": [
+        "enter"
+      ]
+    },
+    "expensive": {
+      "pt": "caro",
+      "highlight": true
+    },
+    "hurt": {
+      "pt": "prejudicar, ferir"
+    },
+    "inbound": {
+      "pt": "que chega de fora"
+    },
+    "largely": {
+      "pt": "em grande parte"
+    },
+    "lula": {
+      "pt": "Lula, presidente do Brasil",
+      "forms": [
+        "lula's"
+      ]
+    },
+    "market": {
+      "pt": "mercado, bolsa"
+    },
+    "minds": {
+      "pt": "mentes",
+      "forms": [
+        "mind"
+      ]
+    },
+    "mostly": {
+      "pt": "na maior parte"
+    },
+    "november": {
+      "pt": "novembro"
+    },
+    "observatory": {
+      "pt": "observatório"
+    },
+    "outlook": {
+      "pt": "perspectiva"
+    },
+    "pais": {
+      "pt": "Pais (em El Pais)"
+    },
+    "past": {
+      "pt": "passado"
+    },
+    "place": {
+      "pt": "lugar"
+    },
+    "pointed": {
+      "pt": "apontou",
+      "forms": [
+        "point"
+      ]
+    },
+    "points": {
+      "pt": "pontos"
+    },
+    "published": {
+      "pt": "publicado",
+      "forms": [
+        "publish"
+      ]
+    },
+    "quarter": {
+      "pt": "trimestre"
+    },
+    "rate": {
+      "pt": "taxa, cotação",
+      "forms": [
+        "rates"
+      ]
+    },
+    "recent": {
+      "pt": "recente"
+    },
+    "recession": {
+      "pt": "recessão"
+    },
+    "report": {
+      "pt": "relatório",
+      "forms": [
+        "reports"
+      ]
+    },
+    "reserves": {
+      "pt": "reservas",
+      "forms": [
+        "reserve"
+      ],
+      "highlight": true
+    },
+    "rise": {
+      "pt": "alta, aumento"
+    },
+    "risk": {
+      "pt": "risco"
+    },
+    "season": {
+      "pt": "temporada",
+      "highlight": true
+    },
+    "slow": {
+      "pt": "desacelerar"
+    },
+    "southern": {
+      "pt": "do sul"
+    },
+    "suddenly": {
+      "pt": "de repente"
+    },
+    "summer": {
+      "pt": "verão"
+    },
+    "technical": {
+      "pt": "técnico"
+    },
+    "threatens": {
+      "pt": "ameaça",
+      "forms": [
+        "threaten"
+      ]
+    },
+    "tourism": {
+      "pt": "turismo",
+      "highlight": true
+    },
+    "tourist": {
+      "pt": "turístico"
+    },
+    "tracked": {
+      "pt": "rastreada",
+      "forms": [
+        "track"
+      ]
+    },
+    "travellers": {
+      "pt": "viajantes",
+      "forms": [
+        "traveller"
+      ]
+    },
+    "tuesday": {
+      "pt": "terça-feira",
+      "forms": [
+        "tuesday's"
+      ]
+    },
+    "turbulence": {
+      "pt": "turbulência",
+      "highlight": true
+    },
+    "university": {
+      "pt": "universidade"
+    },
+    "uruguay": {
+      "pt": "Uruguai, país vizinho do Brasil",
+      "forms": [
+        "uruguay's"
+      ]
+    },
+    "value": {
+      "pt": "valor"
+    },
+    "victory": {
+      "pt": "vitória"
+    },
+    "visitors": {
+      "pt": "visitantes",
+      "forms": [
+        "visitor"
+      ]
+    },
+    "warned": {
+      "pt": "avisou",
+      "forms": [
+        "warn",
+        "warns"
+      ]
+    },
+    "weak": {
+      "pt": "fraco"
+    },
+    "win": {
+      "pt": "vitória, vencer"
+    },
+    "won": {
+      "pt": "venceu"
+    },
+    "worry": {
+      "pt": "preocupação",
+      "forms": [
+        "worries",
+        "worried"
+      ]
+    },
+    "half": {
+      "pt": "metade"
+    }
+  }
+}

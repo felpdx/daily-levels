@@ -1,6 +1,41 @@
 {
   "articles": [
     {
+      "id": "2026-11-26-1password-github-breach",
+      "date": "2026-11-26",
+      "topic": "hacking",
+      "title": "1Password has a security problem",
+      "source": "The Hacker News"
+    },
+    {
+      "id": "2026-11-26-drupal-install-flaw-exploited",
+      "date": "2026-11-26",
+      "topic": "hacking",
+      "title": "A new Drupal problem is under attack",
+      "source": "The Hacker News"
+    },
+    {
+      "id": "2026-11-26-uruguay-tourism-brazil-real",
+      "date": "2026-11-26",
+      "topic": "bolsa",
+      "title": "A weak real may hurt Uruguay",
+      "source": "MercoPress"
+    },
+    {
+      "id": "2026-11-26-us-stocks-ai-fears-nvidia",
+      "date": "2026-11-26",
+      "topic": "bolsa",
+      "title": "US stocks fall again",
+      "source": "BBC News"
+    },
+    {
+      "id": "2026-11-26-brazil-argentina-ambassador-lula",
+      "date": "2026-11-26",
+      "topic": "mundo",
+      "title": "Brazil and Argentina have a fight",
+      "source": "MercoPress"
+    },
+    {
       "id": "2026-11-25-checkpoint-ai-campaign",
       "date": "2026-11-25",
       "topic": "hacking",

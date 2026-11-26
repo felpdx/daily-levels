@@ -1,0 +1,390 @@
+{
+  "id": "2026-11-26-us-stocks-ai-fears-nvidia",
+  "date": "2026-11-26",
+  "topic": "bolsa",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-11-25T21:43:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "US stocks fall again",
+      "text": "On Wednesday, shares of big AI companies fell again in the US. The tech market, called Nasdaq, closed 0.6% lower. Nvidia ended the day 3.4% lower. People worry about how much money companies spend on AI. They also ask if it will pay off. The US market is closed on Thursday for Thanksgiving."
+    },
+    "2": {
+      "title": "US stocks fall as AI fears grow",
+      "text": "Shares of big technology companies linked to AI fell again on Wednesday. All three main US stock indices closed lower, and the tech-heavy Nasdaq lost 0.6%. Nvidia was down 8% in early trading, but ended 3.4% lower. The jump after the return of its boss, Jensen Huang, did not last.\n\nInvestors worry about how large AI spending is and if it can continue. They are also nervous after Democrat gains in the US midterm elections, because many Democrats want stronger rules for AI companies. Goldman Sachs expects AI investment to pass $1 trillion in 2026.\n\nThe US market closes on Thursday for Thanksgiving and opens for a shorter day on Friday."
+    },
+    "3": {
+      "title": "US stocks fall further as fears over AI intensify",
+      "text": "Shares in big technology firms connected to AI kept falling on Wednesday. All three main US indices closed lower, and the tech-heavy Nasdaq ended 0.6% down. Nvidia fell 8% in early trading, extending Tuesday's slide as the boost from the return of its chief executive, Jensen Huang, faded. It closed 3.4% lower. Amazon, Tesla and Microsoft also ended lower, while Meta and SpaceX finished higher.\n\nThe sell-off reflects concern over the level and sustainability of AI investment. Investors have also taken fright at Democrat gains in the US midterm elections, since many Democrats campaigned for tougher regulation of AI firms. Todd Schoenberger, of CrossCheck Management, said Wall Street wants proof that the huge spending is worth it.\n\nDespite the doubts, Goldman Sachs expects AI investment to exceed $1 trillion in 2026 and to stay the dominant driver of business investment growth next year. Anthropic shares continued to trade below the $83 at which they debuted last week.\n\nThe US stock market closes on Thursday for Thanksgiving and reopens for a shortened session on Friday."
+    }
+  },
+  "glossary": {
+    "ai": {
+      "pt": "IA, inteligência artificial"
+    },
+    "amazon": {
+      "pt": "Amazon, empresa americana de tecnologia e comércio"
+    },
+    "anthropic": {
+      "pt": "Anthropic, empresa de inteligência artificial"
+    },
+    "below": {
+      "pt": "abaixo"
+    },
+    "boost": {
+      "pt": "impulso"
+    },
+    "boss": {
+      "pt": "chefe"
+    },
+    "campaign": {
+      "pt": "campanha",
+      "forms": [
+        "campaigned"
+      ]
+    },
+    "chief": {
+      "pt": "chefe"
+    },
+    "concern": {
+      "pt": "preocupação",
+      "forms": [
+        "concerns"
+      ]
+    },
+    "connected": {
+      "pt": "ligado, conectado"
+    },
+    "continue": {
+      "pt": "continuar",
+      "forms": [
+        "continued",
+        "continues"
+      ]
+    },
+    "crosscheck": {
+      "pt": "CrossCheck, empresa de gestão de investimentos"
+    },
+    "debuted": {
+      "pt": "estreou",
+      "forms": [
+        "debut"
+      ]
+    },
+    "democrat": {
+      "pt": "democrata",
+      "forms": [
+        "democrats"
+      ]
+    },
+    "despite": {
+      "pt": "apesar de"
+    },
+    "dominant": {
+      "pt": "dominante"
+    },
+    "doubt": {
+      "pt": "dúvida",
+      "forms": [
+        "doubts"
+      ]
+    },
+    "driver": {
+      "pt": "motor, impulsionador"
+    },
+    "election": {
+      "pt": "eleição",
+      "forms": [
+        "elections"
+      ]
+    },
+    "exceed": {
+      "pt": "passar de, superar"
+    },
+    "executive": {
+      "pt": "executivo"
+    },
+    "expects": {
+      "pt": "espera",
+      "forms": [
+        "expect",
+        "expected"
+      ]
+    },
+    "extending": {
+      "pt": "prolongando",
+      "forms": [
+        "extend"
+      ]
+    },
+    "faded": {
+      "pt": "diminuiu",
+      "forms": [
+        "fade"
+      ]
+    },
+    "fears": {
+      "pt": "medos, temores",
+      "forms": [
+        "fear"
+      ],
+      "highlight": true
+    },
+    "finished": {
+      "pt": "terminou",
+      "forms": [
+        "finish"
+      ]
+    },
+    "firms": {
+      "pt": "empresas",
+      "forms": [
+        "firm"
+      ]
+    },
+    "friday": {
+      "pt": "sexta-feira"
+    },
+    "fright": {
+      "pt": "susto"
+    },
+    "further": {
+      "pt": "ainda mais"
+    },
+    "gains": {
+      "pt": "ganhos"
+    },
+    "goldman": {
+      "pt": "Goldman Sachs, banco americano"
+    },
+    "growth": {
+      "pt": "crescimento"
+    },
+    "heavy": {
+      "pt": "pesado"
+    },
+    "huang": {
+      "pt": "Jensen Huang, chefe da Nvidia"
+    },
+    "huge": {
+      "pt": "enorme"
+    },
+    "indices": {
+      "pt": "índices",
+      "forms": [
+        "index"
+      ]
+    },
+    "intensify": {
+      "pt": "aumentar"
+    },
+    "investment": {
+      "pt": "investimento"
+    },
+    "investors": {
+      "pt": "investidores",
+      "forms": [
+        "investor"
+      ],
+      "highlight": true
+    },
+    "jensen": {
+      "pt": "Jensen (nome próprio)"
+    },
+    "jump": {
+      "pt": "salto, alta"
+    },
+    "level": {
+      "pt": "nível"
+    },
+    "linked": {
+      "pt": "ligado",
+      "forms": [
+        "link"
+      ]
+    },
+    "lowers": {
+      "pt": "reduz",
+      "forms": [
+        "lower"
+      ]
+    },
+    "management": {
+      "pt": "gestão"
+    },
+    "market": {
+      "pt": "mercado, bolsa"
+    },
+    "meta": {
+      "pt": "Meta, dona do Facebook"
+    },
+    "microsoft": {
+      "pt": "Microsoft, empresa americana de tecnologia"
+    },
+    "midterm": {
+      "pt": "de meio de mandato"
+    },
+    "nasdaq": {
+      "pt": "Nasdaq, bolsa de empresas de tecnologia"
+    },
+    "nervous": {
+      "pt": "nervoso",
+      "highlight": true
+    },
+    "nvidia": {
+      "pt": "Nvidia, fabricante de chips para IA"
+    },
+    "opens": {
+      "pt": "abre",
+      "forms": [
+        "opened"
+      ]
+    },
+    "pass": {
+      "pt": "passar"
+    },
+    "proof": {
+      "pt": "prova"
+    },
+    "reflects": {
+      "pt": "reflete",
+      "forms": [
+        "reflect"
+      ]
+    },
+    "regulation": {
+      "pt": "regulação",
+      "highlight": true
+    },
+    "reopens": {
+      "pt": "reabre",
+      "forms": [
+        "reopen"
+      ]
+    },
+    "return": {
+      "pt": "volta"
+    },
+    "rules": {
+      "pt": "regras",
+      "forms": [
+        "rule"
+      ]
+    },
+    "sachs": {
+      "pt": "Sachs (em Goldman Sachs)"
+    },
+    "schoenberger": {
+      "pt": "Todd Schoenberger, diretor de investimentos"
+    },
+    "session": {
+      "pt": "sessão"
+    },
+    "shares": {
+      "pt": "ações",
+      "forms": [
+        "share"
+      ],
+      "highlight": true
+    },
+    "shortened": {
+      "pt": "encurtada"
+    },
+    "shorter": {
+      "pt": "mais curto"
+    },
+    "slide": {
+      "pt": "queda"
+    },
+    "spacex": {
+      "pt": "SpaceX, empresa de foguetes"
+    },
+    "spend": {
+      "pt": "gastar",
+      "forms": [
+        "spending"
+      ],
+      "highlight": true
+    },
+    "stay": {
+      "pt": "ficar",
+      "forms": [
+        "stayed"
+      ]
+    },
+    "stock": {
+      "pt": "ação, bolsa",
+      "forms": [
+        "stocks"
+      ]
+    },
+    "street": {
+      "pt": "rua"
+    },
+    "sustainability": {
+      "pt": "sustentabilidade",
+      "highlight": true
+    },
+    "tech": {
+      "pt": "tecnologia"
+    },
+    "technology": {
+      "pt": "tecnologia"
+    },
+    "tesla": {
+      "pt": "Tesla, fabricante de carros elétricos"
+    },
+    "thanksgiving": {
+      "pt": "Dia de Ação de Graças (feriado dos EUA)"
+    },
+    "three": {
+      "pt": "três"
+    },
+    "thursday": {
+      "pt": "quinta-feira"
+    },
+    "todd": {
+      "pt": "Todd (nome próprio)"
+    },
+    "tougher": {
+      "pt": "mais duro",
+      "forms": [
+        "tough"
+      ]
+    },
+    "trade": {
+      "pt": "comércio"
+    },
+    "trading": {
+      "pt": "negociação"
+    },
+    "trillion": {
+      "pt": "trilhão"
+    },
+    "tuesday": {
+      "pt": "terça-feira",
+      "forms": [
+        "tuesday's"
+      ]
+    },
+    "wall": {
+      "pt": "muro (Wall Street)"
+    },
+    "wednesday": {
+      "pt": "quarta-feira"
+    },
+    "worry": {
+      "pt": "preocupação",
+      "forms": [
+        "worries",
+        "worried"
+      ]
+    },
+    "worth": {
+      "pt": "vale a pena"
+    }
+  }
+}

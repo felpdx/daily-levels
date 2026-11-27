@@ -1,6 +1,41 @@
 {
   "articles": [
     {
+      "id": "2026-11-27-polinrider-github-malware",
+      "date": "2026-11-27",
+      "topic": "hacking",
+      "title": "Malware spreads on GitHub",
+      "source": "The Hacker News"
+    },
+    {
+      "id": "2026-11-27-swiss-ai-cyberattacks",
+      "date": "2026-11-27",
+      "topic": "hacking",
+      "title": "Swiss firms hit by AI hackers",
+      "source": "The Hacker News"
+    },
+    {
+      "id": "2026-11-27-trabuco-finance-minister-bovespa",
+      "date": "2026-11-27",
+      "topic": "bolsa",
+      "title": "Lula picks a banker for Finance",
+      "source": "MercoPress"
+    },
+    {
+      "id": "2026-11-27-trump-tariffs-less-threat",
+      "date": "2026-11-27",
+      "topic": "bolsa",
+      "title": "Are the new US tariffs a big threat?",
+      "source": "BBC News"
+    },
+    {
+      "id": "2026-11-27-zelensky-bbc-trump-putin",
+      "date": "2026-11-27",
+      "topic": "mundo",
+      "title": "Zelensky is upset with the US",
+      "source": "BBC News"
+    },
+    {
       "id": "2026-11-26-1password-github-breach",
       "date": "2026-11-26",
       "topic": "hacking",

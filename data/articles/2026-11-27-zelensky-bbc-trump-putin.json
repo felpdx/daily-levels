@@ -1,0 +1,283 @@
+{
+  "id": "2026-11-27-zelensky-bbc-trump-putin",
+  "date": "2026-11-27",
+  "topic": "mundo",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-11-26T22:49:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Zelensky is upset with the US",
+      "text": "Ukraine's president, Volodymyr Zelensky, talked to the BBC. He said it is strange that Trump calls Putin a friend. He called Putin a killer. He also said the US is late with missiles that protect Ukrainian cities. He says this costs lives. Peace talks should start again in December."
+    },
+    "2": {
+      "title": "Zelensky questions Trump-Putin friendship",
+      "text": "Ukraine's president, Volodymyr Zelensky, told the BBC in Kyiv that it is \"strange\" that Donald Trump calls Vladimir Putin \"my friend\". Zelensky called Putin an aggressor and a killer, and said he cannot be a friend.\n\nHe also said the US is late in delivering Patriot missiles, which stop ballistic missiles. He said the lack of these missiles costs people's lives. He said the US is more focused on the Middle East. The US says it is neutral in the talks.\n\nThe last round of peace talks, in Abu Dhabi, made no clear progress. Zelensky said talks should start again in December. He said Ukraine can now destroy about 70% of the fastest Russian drones."
+    },
+    "3": {
+      "title": "Zelensky criticises \"strange\" Trump-Putin friendship in BBC interview",
+      "text": "Volodymyr Zelensky has voiced deep frustration with the US, criticising Donald Trump for calling Vladimir Putin \"my friend\". In an interview with the BBC in Kyiv, Ukraine's president said it was \"strange\" for Trump to post a photo embracing Putin. \"He's an aggressor, and a killer,\" Zelensky said. The US argues that it is neutral in the search for a deal.\n\nZelensky said delays in delivering anti-ballistic missiles were costing Ukrainian lives, and he said the US had focused on the Middle East. The latest peace talks, mediated in Abu Dhabi, made no obvious progress, and he expects them to resume in December. Russian strikes on power stations and bridges are growing more deadly, and the number of civilians killed is at an all-time high.\n\nZelensky said Ukraine can now destroy about 70% of Russia's fastest drones. He also defended a strike that sank a Russian warship in eastern Libya, which Italy's prime minister, Giorgia Meloni, said risked spreading the war to the Mediterranean."
+    }
+  },
+  "glossary": {
+    "abu": {
+      "pt": "Abu (parte do nome da cidade Abu Dhabi)"
+    },
+    "aggressor": {
+      "pt": "agressor",
+      "highlight": true
+    },
+    "anti": {
+      "pt": "contra"
+    },
+    "argues": {
+      "pt": "defende, argumenta"
+    },
+    "ballistic": {
+      "pt": "balístico",
+      "highlight": true
+    },
+    "bbc": {
+      "pt": "BBC, emissora de notícias do Reino Unido"
+    },
+    "bridges": {
+      "pt": "pontes"
+    },
+    "civilians": {
+      "pt": "civis",
+      "highlight": true
+    },
+    "costing": {
+      "pt": "custando"
+    },
+    "costs": {
+      "pt": "custa, custos"
+    },
+    "criticises": {
+      "pt": "critica"
+    },
+    "criticising": {
+      "pt": "criticando"
+    },
+    "deadly": {
+      "pt": "mortal"
+    },
+    "deal": {
+      "pt": "acordo"
+    },
+    "december": {
+      "pt": "dezembro"
+    },
+    "deep": {
+      "pt": "profundo"
+    },
+    "defended": {
+      "pt": "defendeu"
+    },
+    "delays": {
+      "pt": "atrasos",
+      "highlight": true
+    },
+    "delivering": {
+      "pt": "entregando"
+    },
+    "destroy": {
+      "pt": "destruir"
+    },
+    "dhabi": {
+      "pt": "Dhabi (parte do nome Abu Dhabi, capital dos Emirados Árabes)"
+    },
+    "donald": {
+      "pt": "Donald (nome de Trump)"
+    },
+    "drones": {
+      "pt": "drones"
+    },
+    "east": {
+      "pt": "leste"
+    },
+    "eastern": {
+      "pt": "do leste"
+    },
+    "embracing": {
+      "pt": "abraçando"
+    },
+    "expects": {
+      "pt": "espera"
+    },
+    "fastest": {
+      "pt": "mais rápido"
+    },
+    "focused": {
+      "pt": "focado"
+    },
+    "friendship": {
+      "pt": "amizade"
+    },
+    "frustration": {
+      "pt": "frustração"
+    },
+    "giorgia": {
+      "pt": "Giorgia (nome)"
+    },
+    "interview": {
+      "pt": "entrevista"
+    },
+    "italy's": {
+      "pt": "da Itália"
+    },
+    "killed": {
+      "pt": "morto, matou"
+    },
+    "killer": {
+      "pt": "assassino",
+      "highlight": true
+    },
+    "kyiv": {
+      "pt": "Kiev, capital da Ucrânia"
+    },
+    "lack": {
+      "pt": "falta"
+    },
+    "late": {
+      "pt": "atrasado"
+    },
+    "latest": {
+      "pt": "mais recente"
+    },
+    "libya": {
+      "pt": "Líbia"
+    },
+    "lives": {
+      "pt": "vidas"
+    },
+    "mediated": {
+      "pt": "mediado",
+      "highlight": true
+    },
+    "mediterranean": {
+      "pt": "Mediterrâneo"
+    },
+    "meloni": {
+      "pt": "Meloni, primeira-ministra da Itália"
+    },
+    "middle": {
+      "pt": "meio"
+    },
+    "minister": {
+      "pt": "ministro"
+    },
+    "missiles": {
+      "pt": "mísseis"
+    },
+    "neutral": {
+      "pt": "neutro",
+      "highlight": true
+    },
+    "obvious": {
+      "pt": "óbvio"
+    },
+    "patriot": {
+      "pt": "Patriot, sistema de defesa antimísseis"
+    },
+    "peace": {
+      "pt": "paz"
+    },
+    "photo": {
+      "pt": "foto"
+    },
+    "post": {
+      "pt": "cargo, publicar"
+    },
+    "power": {
+      "pt": "poder, energia"
+    },
+    "prime": {
+      "pt": "primeiro"
+    },
+    "progress": {
+      "pt": "progresso"
+    },
+    "protect": {
+      "pt": "proteger"
+    },
+    "putin": {
+      "pt": "Putin, presidente da Rússia"
+    },
+    "questions": {
+      "pt": "questiona"
+    },
+    "resume": {
+      "pt": "recomeçar"
+    },
+    "risked": {
+      "pt": "arriscou"
+    },
+    "round": {
+      "pt": "rodada"
+    },
+    "russia's": {
+      "pt": "da Rússia"
+    },
+    "russian": {
+      "pt": "russo"
+    },
+    "sank": {
+      "pt": "afundou"
+    },
+    "search": {
+      "pt": "busca"
+    },
+    "spreading": {
+      "pt": "espalhando"
+    },
+    "stations": {
+      "pt": "usinas, estações"
+    },
+    "strange": {
+      "pt": "estranho",
+      "highlight": true
+    },
+    "strike": {
+      "pt": "ataque"
+    },
+    "strikes": {
+      "pt": "ataques"
+    },
+    "trump": {
+      "pt": "Trump, presidente dos EUA"
+    },
+    "ukraine": {
+      "pt": "Ucrânia"
+    },
+    "ukraine's": {
+      "pt": "da Ucrânia"
+    },
+    "ukrainian": {
+      "pt": "ucraniano"
+    },
+    "upset": {
+      "pt": "chateado"
+    },
+    "vladimir": {
+      "pt": "Vladimir (nome de Putin)"
+    },
+    "voiced": {
+      "pt": "expressou"
+    },
+    "volodymyr": {
+      "pt": "Volodymyr (nome de Zelensky)"
+    },
+    "war": {
+      "pt": "guerra"
+    },
+    "warship": {
+      "pt": "navio de guerra"
+    },
+    "zelensky": {
+      "pt": "Zelensky, presidente da Ucrânia"
+    }
+  }
+}

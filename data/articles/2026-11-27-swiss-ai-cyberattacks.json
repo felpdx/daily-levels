@@ -1,0 +1,304 @@
+{
+  "id": "2026-11-27-swiss-ai-cyberattacks",
+  "date": "2026-11-27",
+  "topic": "hacking",
+  "source": {
+    "name": "The Hacker News",
+    "url": "https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html",
+    "publishedAt": "2026-11-27T06:04:20Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Swiss firms hit by AI hackers",
+      "text": "Switzerland says hackers used AI agents to attack companies. There were five attacks. Four of them worked. Three attacks hit critical services, and two of those worked. No big problems were reported. The names of the victims are secret. Nobody knows who is behind the attacks."
+    },
+    "2": {
+      "title": "Switzerland confirms attacks by AI agents",
+      "text": "Switzerland says hackers used AI agents to break into computer systems. Its cyber security agency counted five confirmed attacks, and four of them worked. These are the first cases of this kind in the country.\n\nThree attacks targeted critical infrastructure, such as electricity, water or phone services. Two of them worked, but no major problems were reported. Small and medium companies were also hit. The victims are not named, and nobody knows who is behind the attacks.\n\nThe agency says AI agents can find weak points and attack alone. They can try many attacks at the same time and change their method when a company defends itself. The number of free AI attack tools online has almost doubled since October."
+    },
+    "3": {
+      "title": "Switzerland confirms AI-assisted cyberattacks on critical infrastructure",
+      "text": "Attackers using AI agents have broken into computer systems at Swiss organizations in four of five confirmed attacks, the first such cases in the country, the national cybersecurity agency said. Three of the attacks targeted operators of critical infrastructure, and two of those succeeded. No major disruptions were reported. The victims have not been named, and it is not known who is behind the attacks.\n\nFlorian Schütz, who directs the agency, gave the figures in an interview with public broadcaster SRF. Small and medium-sized companies were among those hit, and they came forward voluntarily. An earlier advisory said the agents had compromised the victims in every known case, and the agency has not explained why the count changed.\n\nThe agency says such agents scan for known, unpatched weaknesses, can run many attacks in parallel, and switch methods when defenders respond. It says the number of AI attack tools reachable online has nearly doubled since October. Britain and Italy have reported similar patterns, and the European Commission confirmed an earlier intrusion that began in October."
+    }
+  },
+  "glossary": {
+    "advisory": {
+      "pt": "aviso oficial de segurança"
+    },
+    "agency": {
+      "pt": "agência, órgão"
+    },
+    "agents": {
+      "pt": "agentes (programas que agem sozinhos)",
+      "highlight": true
+    },
+    "ai": {
+      "pt": "IA, inteligência artificial"
+    },
+    "alone": {
+      "pt": "sozinho"
+    },
+    "among": {
+      "pt": "entre"
+    },
+    "attack": {
+      "pt": "ataque, atacar"
+    },
+    "attackers": {
+      "pt": "atacantes"
+    },
+    "attacks": {
+      "pt": "ataques"
+    },
+    "break": {
+      "pt": "invadir, quebrar"
+    },
+    "britain": {
+      "pt": "Reino Unido"
+    },
+    "broadcaster": {
+      "pt": "emissora"
+    },
+    "broken": {
+      "pt": "invadido, quebrado"
+    },
+    "case": {
+      "pt": "caso"
+    },
+    "cases": {
+      "pt": "casos"
+    },
+    "commission": {
+      "pt": "comissão"
+    },
+    "compromised": {
+      "pt": "comprometido, invadido"
+    },
+    "computer": {
+      "pt": "computador"
+    },
+    "confirmed": {
+      "pt": "confirmado"
+    },
+    "confirms": {
+      "pt": "confirma"
+    },
+    "count": {
+      "pt": "contagem"
+    },
+    "counted": {
+      "pt": "contou"
+    },
+    "critical": {
+      "pt": "crítico, essencial",
+      "highlight": true
+    },
+    "cyber": {
+      "pt": "cibernético"
+    },
+    "cyberattacks": {
+      "pt": "ataques cibernéticos"
+    },
+    "cybersecurity": {
+      "pt": "segurança cibernética"
+    },
+    "defenders": {
+      "pt": "defensores"
+    },
+    "defends": {
+      "pt": "defende"
+    },
+    "directs": {
+      "pt": "dirige"
+    },
+    "disruptions": {
+      "pt": "interrupções"
+    },
+    "doubled": {
+      "pt": "dobrou"
+    },
+    "earlier": {
+      "pt": "antes, anterior"
+    },
+    "electricity": {
+      "pt": "eletricidade"
+    },
+    "european": {
+      "pt": "europeu"
+    },
+    "explained": {
+      "pt": "explicou"
+    },
+    "figures": {
+      "pt": "números"
+    },
+    "firms": {
+      "pt": "empresas"
+    },
+    "five": {
+      "pt": "cinco"
+    },
+    "florian": {
+      "pt": "Florian (nome)"
+    },
+    "forward": {
+      "pt": "à frente"
+    },
+    "four": {
+      "pt": "quatro"
+    },
+    "free": {
+      "pt": "grátis, livre"
+    },
+    "hackers": {
+      "pt": "hackers"
+    },
+    "hit": {
+      "pt": "atingido, atingiu"
+    },
+    "infrastructure": {
+      "pt": "infraestrutura",
+      "highlight": true
+    },
+    "interview": {
+      "pt": "entrevista"
+    },
+    "intrusion": {
+      "pt": "invasão"
+    },
+    "italy": {
+      "pt": "Itália"
+    },
+    "kind": {
+      "pt": "tipo"
+    },
+    "major": {
+      "pt": "grande, importante"
+    },
+    "medium": {
+      "pt": "médio"
+    },
+    "method": {
+      "pt": "método"
+    },
+    "methods": {
+      "pt": "métodos"
+    },
+    "national": {
+      "pt": "nacional"
+    },
+    "nearly": {
+      "pt": "quase"
+    },
+    "october": {
+      "pt": "outubro"
+    },
+    "operators": {
+      "pt": "operadores"
+    },
+    "organizations": {
+      "pt": "organizações"
+    },
+    "parallel": {
+      "pt": "em paralelo"
+    },
+    "patterns": {
+      "pt": "padrões"
+    },
+    "phone": {
+      "pt": "telefone"
+    },
+    "points": {
+      "pt": "pontos"
+    },
+    "public": {
+      "pt": "público"
+    },
+    "reachable": {
+      "pt": "acessível"
+    },
+    "reported": {
+      "pt": "informado"
+    },
+    "respond": {
+      "pt": "responder",
+      "highlight": true
+    },
+    "scan": {
+      "pt": "varrer, procurar"
+    },
+    "secret": {
+      "pt": "secreto"
+    },
+    "security": {
+      "pt": "segurança"
+    },
+    "services": {
+      "pt": "serviços"
+    },
+    "similar": {
+      "pt": "parecido"
+    },
+    "sized": {
+      "pt": "de tamanho"
+    },
+    "srf": {
+      "pt": "SRF, emissora pública da Suíça"
+    },
+    "succeeded": {
+      "pt": "teve sucesso",
+      "highlight": true
+    },
+    "swiss": {
+      "pt": "suíço"
+    },
+    "switch": {
+      "pt": "trocar"
+    },
+    "switzerland": {
+      "pt": "Suíça"
+    },
+    "systems": {
+      "pt": "sistemas"
+    },
+    "targeted": {
+      "pt": "teve como alvo",
+      "highlight": true
+    },
+    "three": {
+      "pt": "três"
+    },
+    "tools": {
+      "pt": "ferramentas"
+    },
+    "unpatched": {
+      "pt": "sem correção de segurança"
+    },
+    "victims": {
+      "pt": "vítimas",
+      "highlight": true
+    },
+    "voluntarily": {
+      "pt": "por vontade própria"
+    },
+    "water": {
+      "pt": "água"
+    },
+    "weak": {
+      "pt": "fraco"
+    },
+    "weaknesses": {
+      "pt": "falhas, pontos fracos",
+      "highlight": true
+    },
+    "assisted": {
+      "pt": "ajudado, auxiliado"
+    },
+    "sch": {
+      "pt": "parte do nome Schütz"
+    },
+    "tz": {
+      "pt": "parte do nome Schütz"
+    }
+  }
+}

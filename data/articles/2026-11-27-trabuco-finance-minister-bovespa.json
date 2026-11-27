@@ -1,0 +1,265 @@
+{
+  "id": "2026-11-27-trabuco-finance-minister-bovespa",
+  "date": "2026-11-27",
+  "topic": "bolsa",
+  "source": {
+    "name": "MercoPress",
+    "url": "https://en.mercopress.com/2026/11/27/lula-picks-banker-luiz-carlos-trabuco-to-run-the-finance-ministry-in-his-fourth-term",
+    "publishedAt": "2026-11-27T04:30:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Lula picks a banker for Finance",
+      "text": "President Lula chose a new finance minister. He is Luiz Carlos Trabuco, 75. He is the chairman of Bradesco. Magazine Veja says he said yes on Thursday night. The news is not official yet. The stock market rose 6% on Thursday. It was the biggest rise since the election."
+    },
+    "2": {
+      "title": "Lula picks banker Trabuco as finance minister",
+      "text": "President Lula has chosen Luiz Carlos Trabuco, 75, chairman of Bradesco, to be finance minister in his fourth term. The term begins on January 5. According to the magazine Veja, Trabuco accepted on Thursday night, but the news is not official yet.\n\nMarkets liked the news. The São Paulo stock exchange rose 6% on Thursday, its biggest gain since Lula won the election on October 25. In the last month, the index had lost 18% and the real had fallen 15% against the dollar, because investors do not trust the public accounts.\n\nTrabuco will have to work on the fiscal adjustment. The deficit is around 9% of GDP and the interest rate is 13.75%."
+    },
+    "3": {
+      "title": "Lula picks banker Luiz Carlos Trabuco as finance minister",
+      "text": "President Luiz Inácio Lula da Silva has chosen Luiz Carlos Trabuco, 75, chairman of Banco Bradesco, as finance minister for his fourth term, which begins on January 5. According to the magazine Veja, Trabuco accepted the post on Thursday night, although the appointment has not been officially announced. He is a longtime friend of Lula and has worked at Bradesco since he was 17.\n\nMarkets welcomed the news. The São Paulo stock exchange rose 6% on Thursday, its biggest gain since the October 25 election. Over the past month the index had lost 18% and the real had fallen 15% against the dollar, amid investor distrust over public finances. Last week the Central Bank sold US$1 billion from its reserves to slow the rise of the dollar.\n\nThe new minister faces a heavy task. The fiscal deficit is around 9% of GDP, the benchmark interest rate is 13.75%, and the Finance Ministry has cut its 2027 growth forecast to 1.8%. Haddad led the ministry for almost all of the current term."
+    }
+  },
+  "glossary": {
+    "accepted": {
+      "pt": "aceitou",
+      "highlight": true
+    },
+    "according": {
+      "pt": "segundo, de acordo com"
+    },
+    "accounts": {
+      "pt": "contas"
+    },
+    "adjustment": {
+      "pt": "ajuste"
+    },
+    "amid": {
+      "pt": "em meio a"
+    },
+    "announced": {
+      "pt": "anunciado, anunciou"
+    },
+    "appointment": {
+      "pt": "nomeação"
+    },
+    "banco": {
+      "pt": "banco"
+    },
+    "bank": {
+      "pt": "banco"
+    },
+    "banker": {
+      "pt": "banqueiro",
+      "highlight": true
+    },
+    "benchmark": {
+      "pt": "de referência"
+    },
+    "bradesco": {
+      "pt": "Bradesco, grande banco brasileiro"
+    },
+    "carlos": {
+      "pt": "Carlos (nome)"
+    },
+    "central": {
+      "pt": "central"
+    },
+    "chairman": {
+      "pt": "presidente do conselho",
+      "highlight": true
+    },
+    "chose": {
+      "pt": "escolheu"
+    },
+    "chosen": {
+      "pt": "escolhido"
+    },
+    "current": {
+      "pt": "atual"
+    },
+    "cut": {
+      "pt": "cortou, cortar"
+    },
+    "da": {
+      "pt": "da (parte do nome de Lula)"
+    },
+    "deficit": {
+      "pt": "déficit",
+      "highlight": true
+    },
+    "distrust": {
+      "pt": "desconfiança",
+      "highlight": true
+    },
+    "dollar": {
+      "pt": "dólar"
+    },
+    "election": {
+      "pt": "eleição"
+    },
+    "exchange": {
+      "pt": "bolsa de valores",
+      "highlight": true
+    },
+    "faces": {
+      "pt": "enfrenta"
+    },
+    "finance": {
+      "pt": "finanças"
+    },
+    "finances": {
+      "pt": "finanças, contas"
+    },
+    "fiscal": {
+      "pt": "fiscal, das contas públicas",
+      "highlight": true
+    },
+    "forecast": {
+      "pt": "previsão"
+    },
+    "fourth": {
+      "pt": "quarto"
+    },
+    "gain": {
+      "pt": "ganho, alta"
+    },
+    "gdp": {
+      "pt": "PIB, produto interno bruto"
+    },
+    "growth": {
+      "pt": "crescimento"
+    },
+    "haddad": {
+      "pt": "Haddad, ex-ministro da Fazenda do Brasil"
+    },
+    "heavy": {
+      "pt": "pesado"
+    },
+    "index": {
+      "pt": "índice"
+    },
+    "interest": {
+      "pt": "juros"
+    },
+    "investor": {
+      "pt": "investidor"
+    },
+    "investors": {
+      "pt": "investidores",
+      "highlight": true
+    },
+    "january": {
+      "pt": "janeiro"
+    },
+    "longtime": {
+      "pt": "de muito tempo"
+    },
+    "luiz": {
+      "pt": "Luiz (nome)"
+    },
+    "lula": {
+      "pt": "Lula, presidente do Brasil"
+    },
+    "magazine": {
+      "pt": "revista"
+    },
+    "market": {
+      "pt": "mercado"
+    },
+    "markets": {
+      "pt": "mercados"
+    },
+    "minister": {
+      "pt": "ministro"
+    },
+    "ministry": {
+      "pt": "ministério"
+    },
+    "night": {
+      "pt": "noite"
+    },
+    "october": {
+      "pt": "outubro"
+    },
+    "official": {
+      "pt": "oficial"
+    },
+    "officially": {
+      "pt": "oficialmente"
+    },
+    "past": {
+      "pt": "passado"
+    },
+    "paulo": {
+      "pt": "Paulo (parte de São Paulo)"
+    },
+    "picks": {
+      "pt": "escolhe"
+    },
+    "post": {
+      "pt": "cargo, publicar"
+    },
+    "public": {
+      "pt": "público"
+    },
+    "rate": {
+      "pt": "taxa"
+    },
+    "reserves": {
+      "pt": "reservas"
+    },
+    "rise": {
+      "pt": "alta, subida"
+    },
+    "rose": {
+      "pt": "subiu"
+    },
+    "silva": {
+      "pt": "Silva (sobrenome de Lula)"
+    },
+    "slow": {
+      "pt": "reduzir, frear"
+    },
+    "stock": {
+      "pt": "ações, bolsa"
+    },
+    "task": {
+      "pt": "tarefa"
+    },
+    "term": {
+      "pt": "mandato"
+    },
+    "thursday": {
+      "pt": "quinta-feira"
+    },
+    "trabuco": {
+      "pt": "Trabuco, banqueiro brasileiro"
+    },
+    "trust": {
+      "pt": "confiar"
+    },
+    "veja": {
+      "pt": "Veja, revista brasileira"
+    },
+    "welcomed": {
+      "pt": "recebeu bem"
+    },
+    "won": {
+      "pt": "ganhou"
+    },
+    "yes": {
+      "pt": "sim"
+    },
+    "s": {
+      "pt": "parte de São Paulo"
+    },
+    "o": {
+      "pt": "parte de São Paulo"
+    },
+    "cio": {
+      "pt": "parte do nome Inácio"
+    }
+  }
+}

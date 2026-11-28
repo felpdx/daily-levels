@@ -1,0 +1,361 @@
+{
+  "id": "2026-11-28-nvidia-asia-ai-bet",
+  "date": "2026-11-28",
+  "topic": "bolsa",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-11-26T23:08:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Asia depends on Nvidia",
+      "text": "Jensen Huang came back as boss of Nvidia. Stock markets in Asia went up and then down. Asian countries depend on Nvidia for chips, data centres and money. Taiwan makes many of its chips. Experts say this is a risk. Huang will speak to US lawmakers next week."
+    },
+    "2": {
+      "title": "Asia made a big bet on Nvidia",
+      "text": "The return of Jensen Huang as boss of Nvidia shook markets in New York and across Asia. Tech stocks in Japan, South Korea and Taiwan went up and then fell, as investors worried about political and legal checks in the US.\n\nMany Asian economies now depend on Nvidia. Taiwan's TSMC makes most of its chips, and Samsung and SK Hynix supply key parts. Dylan Loh, a university lecturer, called Nvidia a \"symbolic bellwether\" of the AI trade.\n\nThe US also announced new rules on data centres in countries such as Singapore and Malaysia. Huang is due to speak to Congress next week."
+    },
+    "3": {
+      "title": "Asia has made a big AI bet on Nvidia, and the risks are growing",
+      "text": "The return of Jensen Huang as Nvidia's chief executive caused a sharp swing in markets. Tech-heavy indexes in Japan, South Korea and Taiwan jumped after a near-trillion-dollar rise in Nvidia's share price, then fell as worries about political and regulatory scrutiny hit investor confidence.\n\nThe episode showed how exposed Asia is to the company. Nvidia contracts most of its chip production to Taiwan's TSMC, while South Korean firms such as Samsung and SK Hynix supply memory chips. Dylan Loh, a lecturer at Nanyang Technological University, called Nvidia a \"symbolic bellwether\" of the AI trade. CBRE says data centre investment in the Asia-Pacific region reached a record $11.6bn in 2025.\n\nThere are risks, too. Washington has announced new rules that increase scrutiny of data centre operators in Singapore, Malaysia, Thailand, Indonesia and Brazil, and Nvidia has reportedly paused shipments to the region. Huang is due to testify before Congress next week. Charu Chanana of Saxo Bank said his return does not resolve the legal and political questions."
+    }
+  },
+  "glossary": {
+    "asia": {
+      "pt": "Ásia"
+    },
+    "depends": {
+      "pt": "depende"
+    },
+    "nvidia": {
+      "pt": "Nvidia, fabricante de chips"
+    },
+    "jensen": {
+      "pt": "Jensen, nome do chefe da Nvidia"
+    },
+    "huang": {
+      "pt": "Huang, sobrenome de Jensen, chefe da Nvidia"
+    },
+    "boss": {
+      "pt": "chefe"
+    },
+    "stock": {
+      "pt": "ação, bolsa"
+    },
+    "markets": {
+      "pt": "mercados"
+    },
+    "asian": {
+      "pt": "asiático"
+    },
+    "depend": {
+      "pt": "depender"
+    },
+    "chips": {
+      "pt": "chips"
+    },
+    "data": {
+      "pt": "dados"
+    },
+    "centres": {
+      "pt": "centros"
+    },
+    "taiwan": {
+      "pt": "Taiwan"
+    },
+    "experts": {
+      "pt": "especialistas"
+    },
+    "risk": {
+      "pt": "risco"
+    },
+    "speak": {
+      "pt": "falar"
+    },
+    "lawmakers": {
+      "pt": "parlamentares"
+    },
+    "bet": {
+      "pt": "aposta",
+      "highlight": true
+    },
+    "return": {
+      "pt": "volta"
+    },
+    "shook": {
+      "pt": "sacudiu"
+    },
+    "york": {
+      "pt": "York (New York, Nova York)"
+    },
+    "across": {
+      "pt": "em todo, por"
+    },
+    "tech": {
+      "pt": "tecnologia"
+    },
+    "stocks": {
+      "pt": "ações"
+    },
+    "japan": {
+      "pt": "Japão"
+    },
+    "south": {
+      "pt": "sul"
+    },
+    "korea": {
+      "pt": "Coreia"
+    },
+    "investors": {
+      "pt": "investidores",
+      "highlight": true
+    },
+    "worried": {
+      "pt": "preocupado"
+    },
+    "political": {
+      "pt": "político"
+    },
+    "legal": {
+      "pt": "legal, jurídico"
+    },
+    "checks": {
+      "pt": "verificações"
+    },
+    "economies": {
+      "pt": "economias"
+    },
+    "taiwan's": {
+      "pt": "de Taiwan"
+    },
+    "tsmc": {
+      "pt": "TSMC, grande fabricante de chips de Taiwan"
+    },
+    "samsung": {
+      "pt": "Samsung, empresa sul-coreana"
+    },
+    "sk": {
+      "pt": "SK (parte do nome SK Hynix)"
+    },
+    "hynix": {
+      "pt": "Hynix (parte do nome SK Hynix, fabricante sul-coreana de chips)"
+    },
+    "supply": {
+      "pt": "fornecer, cadeia de fornecimento",
+      "highlight": true
+    },
+    "key": {
+      "pt": "importante, chave"
+    },
+    "dylan": {
+      "pt": "Dylan, nome de um professor de Singapura"
+    },
+    "loh": {
+      "pt": "Loh, sobrenome de Dylan, professor"
+    },
+    "university": {
+      "pt": "universidade"
+    },
+    "lecturer": {
+      "pt": "professor universitário"
+    },
+    "symbolic": {
+      "pt": "simbólico"
+    },
+    "bellwether": {
+      "pt": "termômetro, indicador que mostra a tendência",
+      "highlight": true
+    },
+    "ai": {
+      "pt": "IA, inteligência artificial"
+    },
+    "trade": {
+      "pt": "comércio, negociação"
+    },
+    "announced": {
+      "pt": "anunciou"
+    },
+    "rules": {
+      "pt": "regras"
+    },
+    "singapore": {
+      "pt": "Singapura"
+    },
+    "malaysia": {
+      "pt": "Malásia"
+    },
+    "due": {
+      "pt": "previsto para"
+    },
+    "congress": {
+      "pt": "Congresso dos EUA"
+    },
+    "risks": {
+      "pt": "riscos"
+    },
+    "nvidia's": {
+      "pt": "da Nvidia"
+    },
+    "chief": {
+      "pt": "chefe"
+    },
+    "executive": {
+      "pt": "executivo"
+    },
+    "caused": {
+      "pt": "causou"
+    },
+    "sharp": {
+      "pt": "forte"
+    },
+    "swing": {
+      "pt": "oscilação forte"
+    },
+    "heavy": {
+      "pt": "pesado"
+    },
+    "indexes": {
+      "pt": "índices"
+    },
+    "jumped": {
+      "pt": "subiu forte"
+    },
+    "near": {
+      "pt": "perto de"
+    },
+    "trillion": {
+      "pt": "trilhão"
+    },
+    "dollar": {
+      "pt": "dólar"
+    },
+    "rise": {
+      "pt": "alta"
+    },
+    "share": {
+      "pt": "ação (de empresa)"
+    },
+    "worries": {
+      "pt": "preocupações"
+    },
+    "regulatory": {
+      "pt": "de regulação"
+    },
+    "scrutiny": {
+      "pt": "fiscalização",
+      "highlight": true
+    },
+    "hit": {
+      "pt": "atingir"
+    },
+    "investor": {
+      "pt": "investidor"
+    },
+    "confidence": {
+      "pt": "confiança"
+    },
+    "episode": {
+      "pt": "episódio"
+    },
+    "exposed": {
+      "pt": "exposto",
+      "highlight": true
+    },
+    "contracts": {
+      "pt": "contrata"
+    },
+    "chip": {
+      "pt": "chip"
+    },
+    "production": {
+      "pt": "produção"
+    },
+    "korean": {
+      "pt": "coreano"
+    },
+    "firms": {
+      "pt": "empresas"
+    },
+    "memory": {
+      "pt": "memória"
+    },
+    "nanyang": {
+      "pt": "Nanyang, universidade de Singapura"
+    },
+    "technological": {
+      "pt": "tecnológico"
+    },
+    "cbre": {
+      "pt": "CBRE, empresa de serviços imobiliários"
+    },
+    "centre": {
+      "pt": "centro"
+    },
+    "investment": {
+      "pt": "investimento"
+    },
+    "pacific": {
+      "pt": "Pacífico"
+    },
+    "region": {
+      "pt": "região"
+    },
+    "reached": {
+      "pt": "chegou a"
+    },
+    "record": {
+      "pt": "recorde"
+    },
+    "washington": {
+      "pt": "Washington, governo dos EUA"
+    },
+    "increase": {
+      "pt": "aumentar"
+    },
+    "operators": {
+      "pt": "operadores"
+    },
+    "thailand": {
+      "pt": "Tailândia"
+    },
+    "indonesia": {
+      "pt": "Indonésia"
+    },
+    "brazil": {
+      "pt": "Brasil"
+    },
+    "reportedly": {
+      "pt": "segundo relatos"
+    },
+    "paused": {
+      "pt": "pausou"
+    },
+    "shipments": {
+      "pt": "remessas",
+      "highlight": true
+    },
+    "testify": {
+      "pt": "depor, testemunhar",
+      "highlight": true
+    },
+    "charu": {
+      "pt": "Charu, nome de um estrategista do Saxo Bank"
+    },
+    "chanana": {
+      "pt": "Chanana, sobrenome de Charu, estrategista do Saxo Bank"
+    },
+    "saxo": {
+      "pt": "Saxo (Saxo Bank, banco)"
+    },
+    "bank": {
+      "pt": "banco"
+    },
+    "resolve": {
+      "pt": "resolver"
+    },
+    "questions": {
+      "pt": "perguntas"
+    }
+  }
+}

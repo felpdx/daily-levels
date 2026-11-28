@@ -1,0 +1,253 @@
+{
+  "id": "2026-11-28-pcloud-pass-cyber-attack",
+  "date": "2026-11-28",
+  "topic": "hacking",
+  "source": {
+    "name": "The Hacker News",
+    "url": "https://thehackernews.com/2026/11/pcloud-password-manager-hit-by-cyber.html",
+    "publishedAt": "2026-11-28T08:08:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "pCloud Pass was attacked",
+      "text": "pCloud Pass is a password app. Hackers attacked it. Some users got emails about new devices on their accounts. The company said a small number of email addresses were exposed. It said passwords are safe. They are locked with a Master Password. Users should watch for fake emails."
+    },
+    "2": {
+      "title": "Password app pCloud Pass confirms an attack",
+      "text": "pCloud Pass, a password manager from a Swiss company, said it was the target of a cyber attack. Some users on Reddit saw emails about unknown devices connecting to their accounts.\n\nThe company said it stopped the attack quickly. It said a small number of email addresses were exposed and that someone tried to log in. It also said passwords and notes are encrypted and need a Master Password, so user data was not taken.\n\npCloud asked users to watch for phishing emails that ask for a Master Password or recovery words."
+    },
+    "3": {
+      "title": "pCloud Pass confirms cyber attack after users report strange logins",
+      "text": "The Swiss password manager pCloud Pass has confirmed that it was targeted by a cyber attack, after users reported unknown devices being linked to their accounts. Several people on Reddit said they received alerts about a new sign-in, even though they had two-factor authentication turned on.\n\nThe company said the attack was contained and that a small number of email addresses were exposed, with some login attempts made. It insisted that stored passwords and notes stay encrypted and can only be opened with a Master Password. It also said its cloud storage service was not affected.\n\nStill, it is unclear whether any sign-in attempt worked. pCloud has not said how the attackers got in, when it happened or how long they had access. The company urged users to watch out for phishing attempts. The report adds that this is the third incident involving password software this month, after mSeven Software and 1Password."
+    }
+  },
+  "glossary": {
+    "pcloud": {
+      "pt": "pCloud, empresa suíça de armazenamento"
+    },
+    "pass": {
+      "pt": "Pass (parte do nome pCloud Pass)"
+    },
+    "attacked": {
+      "pt": "atacou"
+    },
+    "password": {
+      "pt": "senha",
+      "highlight": true
+    },
+    "app": {
+      "pt": "aplicativo"
+    },
+    "hackers": {
+      "pt": "hackers"
+    },
+    "users": {
+      "pt": "usuários"
+    },
+    "emails": {
+      "pt": "e-mails"
+    },
+    "devices": {
+      "pt": "dispositivos"
+    },
+    "accounts": {
+      "pt": "contas"
+    },
+    "email": {
+      "pt": "e-mail"
+    },
+    "addresses": {
+      "pt": "endereços"
+    },
+    "exposed": {
+      "pt": "exposto",
+      "highlight": true
+    },
+    "passwords": {
+      "pt": "senhas"
+    },
+    "safe": {
+      "pt": "seguro"
+    },
+    "locked": {
+      "pt": "trancado"
+    },
+    "master": {
+      "pt": "mestre (Master Password: senha mestra)"
+    },
+    "watch": {
+      "pt": "ficar atento"
+    },
+    "fake": {
+      "pt": "falso"
+    },
+    "confirms": {
+      "pt": "confirma"
+    },
+    "attack": {
+      "pt": "ataque",
+      "highlight": true
+    },
+    "manager": {
+      "pt": "gerenciador"
+    },
+    "swiss": {
+      "pt": "suíço"
+    },
+    "target": {
+      "pt": "alvo"
+    },
+    "cyber": {
+      "pt": "cibernético"
+    },
+    "reddit": {
+      "pt": "Reddit, site de discussão"
+    },
+    "unknown": {
+      "pt": "desconhecido",
+      "highlight": true
+    },
+    "connecting": {
+      "pt": "conectando"
+    },
+    "quickly": {
+      "pt": "rapidamente"
+    },
+    "someone": {
+      "pt": "alguém"
+    },
+    "log": {
+      "pt": "entrar (log in: fazer login)"
+    },
+    "notes": {
+      "pt": "anotações"
+    },
+    "encrypted": {
+      "pt": "criptografado",
+      "highlight": true
+    },
+    "user": {
+      "pt": "usuário"
+    },
+    "data": {
+      "pt": "dados"
+    },
+    "phishing": {
+      "pt": "golpe por mensagem falsa",
+      "highlight": true
+    },
+    "recovery": {
+      "pt": "recuperação"
+    },
+    "report": {
+      "pt": "relatório, reportagem"
+    },
+    "strange": {
+      "pt": "estranho"
+    },
+    "logins": {
+      "pt": "logins"
+    },
+    "confirmed": {
+      "pt": "confirmou"
+    },
+    "targeted": {
+      "pt": "visado",
+      "highlight": true
+    },
+    "reported": {
+      "pt": "relatou"
+    },
+    "linked": {
+      "pt": "ligado"
+    },
+    "several": {
+      "pt": "vários"
+    },
+    "received": {
+      "pt": "recebeu"
+    },
+    "alerts": {
+      "pt": "alertas"
+    },
+    "sign": {
+      "pt": "entrar (sign-in: login)"
+    },
+    "though": {
+      "pt": "embora"
+    },
+    "factor": {
+      "pt": "fator"
+    },
+    "authentication": {
+      "pt": "autenticação"
+    },
+    "contained": {
+      "pt": "contido, controlado",
+      "highlight": true
+    },
+    "login": {
+      "pt": "login, entrada"
+    },
+    "attempts": {
+      "pt": "tentativas"
+    },
+    "insisted": {
+      "pt": "insistiu"
+    },
+    "stored": {
+      "pt": "guardado"
+    },
+    "stay": {
+      "pt": "ficar"
+    },
+    "opened": {
+      "pt": "aberto"
+    },
+    "cloud": {
+      "pt": "nuvem"
+    },
+    "storage": {
+      "pt": "armazenamento"
+    },
+    "service": {
+      "pt": "serviço"
+    },
+    "affected": {
+      "pt": "afetado"
+    },
+    "unclear": {
+      "pt": "pouco claro"
+    },
+    "whether": {
+      "pt": "se"
+    },
+    "attempt": {
+      "pt": "tentativa"
+    },
+    "attackers": {
+      "pt": "atacantes"
+    },
+    "access": {
+      "pt": "acesso"
+    },
+    "urged": {
+      "pt": "pediu com força"
+    },
+    "adds": {
+      "pt": "acrescenta"
+    },
+    "incident": {
+      "pt": "incidente"
+    },
+    "involving": {
+      "pt": "envolvendo"
+    },
+    "software": {
+      "pt": "software"
+    },
+    "mseven": {
+      "pt": "mSeven, empresa de software"
+    }
+  }
+}

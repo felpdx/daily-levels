@@ -1,0 +1,250 @@
+{
+  "id": "2026-11-28-norse-atlantic-suspends-flights",
+  "date": "2026-11-28",
+  "topic": "bolsa",
+  "source": {
+    "name": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/c9kgmd0ldy0lo?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-11-26T14:28:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "An airline stops all flights",
+      "text": "Norse Atlantic Airways stopped all its flights. The company is in a very bad money situation. It uses 12 Boeing 787 planes. It says it will go bankrupt if it cannot find money soon. Fuel became very expensive because of the war in Iran. Passengers now have to buy new tickets."
+    },
+    "2": {
+      "title": "Norse Atlantic stops flying",
+      "text": "The Norwegian airline Norse Atlantic Airways has suspended all of its flights because of a critical money problem. It says it will file for bankruptcy if it cannot find a solution.\n\nThe airline has 12 Boeing 787 planes and flies long routes from London, Rome and Oslo. Pakistan International Airlines, which rented planes from Norse, also had to cancel flights.\n\nFuel prices went up a lot because of the war in Iran, and Norse does not buy fuel in advance at fixed prices. In the first half of the year it lost $94.6m. Passengers had to pay more for new tickets."
+    },
+    "3": {
+      "title": "Low-cost airline Norse Atlantic suspends all flights as collapse looms",
+      "text": "Norse Atlantic Airways, the Norwegian low-cost carrier, has suspended all flights as it tries to resolve what it called a critical financial situation. The company said that if no solution can be found, its board intends to file for bankruptcy.\n\nThe airline uses 12 Boeing 787 aircraft on long-haul routes from European airports including London Gatwick, Rome and Oslo. The suspension also hit Pakistan International Airlines, which leased aircraft and crews from Norse and cancelled flights from London and Manchester.\n\nNorse was hurt this year when fuel prices rose sharply because of the war in Iran. Unlike many European rivals, it does not hedge its fuel costs, and it made a loss of $94.6m in the first half of the year. It has been looking for a buyer since July and is now talking to investors about a takeover. Consumer group Which? told customers not to cancel their flights, because that could remove their right to a refund."
+    }
+  },
+  "glossary": {
+    "airline": {
+      "pt": "companhia aérea"
+    },
+    "flights": {
+      "pt": "voos"
+    },
+    "norse": {
+      "pt": "Norse, companhia aérea norueguesa"
+    },
+    "atlantic": {
+      "pt": "Atlântico (parte do nome da Norse Atlantic)"
+    },
+    "airways": {
+      "pt": "Airways (parte do nome de uma companhia aérea)"
+    },
+    "situation": {
+      "pt": "situação"
+    },
+    "boeing": {
+      "pt": "Boeing, fabricante de aviões"
+    },
+    "planes": {
+      "pt": "aviões"
+    },
+    "bankrupt": {
+      "pt": "falido"
+    },
+    "fuel": {
+      "pt": "combustível",
+      "highlight": true
+    },
+    "expensive": {
+      "pt": "caro"
+    },
+    "war": {
+      "pt": "guerra"
+    },
+    "iran": {
+      "pt": "Irã"
+    },
+    "passengers": {
+      "pt": "passageiros"
+    },
+    "tickets": {
+      "pt": "passagens"
+    },
+    "flying": {
+      "pt": "voando"
+    },
+    "norwegian": {
+      "pt": "norueguês"
+    },
+    "suspended": {
+      "pt": "suspendeu",
+      "highlight": true
+    },
+    "critical": {
+      "pt": "crítico, muito grave",
+      "highlight": true
+    },
+    "file": {
+      "pt": "abrir (pedido de falência)"
+    },
+    "bankruptcy": {
+      "pt": "falência",
+      "highlight": true
+    },
+    "solution": {
+      "pt": "solução"
+    },
+    "flies": {
+      "pt": "voa"
+    },
+    "routes": {
+      "pt": "rotas"
+    },
+    "london": {
+      "pt": "Londres"
+    },
+    "rome": {
+      "pt": "Roma"
+    },
+    "oslo": {
+      "pt": "Oslo, capital da Noruega"
+    },
+    "pakistan": {
+      "pt": "Paquistão"
+    },
+    "international": {
+      "pt": "internacional"
+    },
+    "airlines": {
+      "pt": "companhias aéreas"
+    },
+    "rented": {
+      "pt": "alugou"
+    },
+    "cancel": {
+      "pt": "cancelar"
+    },
+    "advance": {
+      "pt": "adiantado (em advance: com antecedência)"
+    },
+    "fixed": {
+      "pt": "fixo"
+    },
+    "half": {
+      "pt": "metade"
+    },
+    "cost": {
+      "pt": "custar"
+    },
+    "suspends": {
+      "pt": "suspende"
+    },
+    "collapse": {
+      "pt": "colapso, quebra",
+      "highlight": true
+    },
+    "looms": {
+      "pt": "ameaça, se aproxima"
+    },
+    "carrier": {
+      "pt": "companhia aérea"
+    },
+    "resolve": {
+      "pt": "resolver"
+    },
+    "financial": {
+      "pt": "financeiro"
+    },
+    "board": {
+      "pt": "conselho de administração"
+    },
+    "intends": {
+      "pt": "pretende"
+    },
+    "aircraft": {
+      "pt": "aeronave, avião"
+    },
+    "haul": {
+      "pt": "percurso longo (long-haul: voo longo)"
+    },
+    "european": {
+      "pt": "europeu"
+    },
+    "airports": {
+      "pt": "aeroportos"
+    },
+    "including": {
+      "pt": "incluindo"
+    },
+    "gatwick": {
+      "pt": "Gatwick, aeroporto de Londres"
+    },
+    "suspension": {
+      "pt": "suspensão"
+    },
+    "hit": {
+      "pt": "atingir"
+    },
+    "leased": {
+      "pt": "alugou"
+    },
+    "crews": {
+      "pt": "tripulações"
+    },
+    "cancelled": {
+      "pt": "cancelado"
+    },
+    "manchester": {
+      "pt": "Manchester, cidade da Inglaterra"
+    },
+    "hurt": {
+      "pt": "prejudicou"
+    },
+    "rose": {
+      "pt": "subiu"
+    },
+    "sharply": {
+      "pt": "de forma forte"
+    },
+    "unlike": {
+      "pt": "diferente de"
+    },
+    "rivals": {
+      "pt": "rivais"
+    },
+    "hedge": {
+      "pt": "proteger-se contra variação de preço",
+      "highlight": true
+    },
+    "costs": {
+      "pt": "custos"
+    },
+    "loss": {
+      "pt": "prejuízo"
+    },
+    "buyer": {
+      "pt": "comprador"
+    },
+    "july": {
+      "pt": "julho"
+    },
+    "investors": {
+      "pt": "investidores"
+    },
+    "takeover": {
+      "pt": "compra de uma empresa",
+      "highlight": true
+    },
+    "consumer": {
+      "pt": "consumidor"
+    },
+    "customers": {
+      "pt": "clientes"
+    },
+    "remove": {
+      "pt": "remover"
+    },
+    "refund": {
+      "pt": "reembolso",
+      "highlight": true
+    }
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "id": "2026-11-28-qdir-desktopok-trojanized",
+  "date": "2026-11-28",
+  "topic": "hacking",
+  "source": {
+    "name": "The Hacker News",
+    "url": "https://thehackernews.com/2026/11/hackers-trojanize-official-q-dir-and.html",
+    "publishedAt": "2026-11-27T09:29:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "Bad files on a real download site",
+      "text": "Hackers changed the install files of two free Windows tools. The tools are Q-Dir and DesktopOK. People got the bad files from the official website. The files also came with updates. The bad files install a remote control program. It can run commands and take screenshots. Experts say users should check their computers."
+    },
+    "2": {
+      "title": "Hackers poison two popular Windows tools",
+      "text": "Researchers say hackers changed the install files of two free Windows programs, Q-Dir and DesktopOK. The bad files came from the official SoftwareOK website, and also appeared when users updated the programs.\n\nThe bad installer opens the real program so that users do not get suspicious. At the same time, it downloads a remote control program written in Python. The attacker can use it to run commands, move files and take screenshots.\n\nThe security company AhnLab said it is not known how the files were replaced. It also said that removing the program may not remove the malware. Users should check their computers carefully."
+    },
+    "3": {
+      "title": "Official downloads of Q-Dir and DesktopOK were turned into malware",
+      "text": "Researchers have described a supply chain attack in which the installation files of Q-Dir and DesktopOK, two free Windows utilities, were tampered with on the official SoftwareOK website. The South Korean company AhnLab said the bad files appeared both in new downloads and in updates of programs that were already installed.\n\nThe modified installer launches the real program to avoid suspicion, while quietly downloading a Python-based remote access trojan from an outside server. The malware can run commands, transfer files and take screenshots. It also checks for security products from many companies and sends the list to the attackers, which may help them plan the next step. For persistence, it creates a scheduled task that pretends to belong to Microsoft Edge.\n\nAhnLab does not know how the files were replaced and has not linked the attack to a known group, although the code has Chinese-language comments. It warned that uninstalling the program may not remove the malware, so users should check hashes, scheduled tasks and network traffic."
+    }
+  },
+  "glossary": {
+    "files": {
+      "pt": "arquivos"
+    },
+    "download": {
+      "pt": "baixar, download"
+    },
+    "site": {
+      "pt": "site"
+    },
+    "hackers": {
+      "pt": "hackers"
+    },
+    "install": {
+      "pt": "instalar",
+      "highlight": true
+    },
+    "free": {
+      "pt": "gratuito"
+    },
+    "windows": {
+      "pt": "Windows, sistema da Microsoft"
+    },
+    "tools": {
+      "pt": "ferramentas"
+    },
+    "q": {
+      "pt": "Q (parte do nome Q-Dir)"
+    },
+    "dir": {
+      "pt": "Dir (parte do nome Q-Dir)"
+    },
+    "desktopok": {
+      "pt": "DesktopOK, programa gratuito para Windows"
+    },
+    "official": {
+      "pt": "oficial"
+    },
+    "website": {
+      "pt": "site"
+    },
+    "updates": {
+      "pt": "atualizações"
+    },
+    "remote": {
+      "pt": "remoto",
+      "highlight": true
+    },
+    "program": {
+      "pt": "programa"
+    },
+    "commands": {
+      "pt": "comandos"
+    },
+    "screenshots": {
+      "pt": "capturas de tela"
+    },
+    "experts": {
+      "pt": "especialistas"
+    },
+    "users": {
+      "pt": "usuários"
+    },
+    "check": {
+      "pt": "verificar"
+    },
+    "computers": {
+      "pt": "computadores"
+    },
+    "poison": {
+      "pt": "envenenar"
+    },
+    "popular": {
+      "pt": "popular"
+    },
+    "researchers": {
+      "pt": "pesquisadores"
+    },
+    "programs": {
+      "pt": "programas"
+    },
+    "softwareok": {
+      "pt": "SoftwareOK, empresa que faz programas gratuitos"
+    },
+    "appeared": {
+      "pt": "apareceu"
+    },
+    "updated": {
+      "pt": "atualizado"
+    },
+    "installer": {
+      "pt": "instalador"
+    },
+    "opens": {
+      "pt": "abre"
+    },
+    "suspicious": {
+      "pt": "suspeito"
+    },
+    "downloads": {
+      "pt": "downloads"
+    },
+    "python": {
+      "pt": "Python, linguagem de programação"
+    },
+    "attacker": {
+      "pt": "atacante"
+    },
+    "security": {
+      "pt": "segurança"
+    },
+    "ahnlab": {
+      "pt": "AhnLab, empresa sul-coreana de segurança digital"
+    },
+    "replaced": {
+      "pt": "substituído",
+      "highlight": true
+    },
+    "removing": {
+      "pt": "removendo"
+    },
+    "remove": {
+      "pt": "remover"
+    },
+    "malware": {
+      "pt": "software malicioso",
+      "highlight": true
+    },
+    "carefully": {
+      "pt": "com cuidado"
+    },
+    "described": {
+      "pt": "descreveu"
+    },
+    "supply": {
+      "pt": "fornecer, cadeia de fornecimento"
+    },
+    "chain": {
+      "pt": "cadeia"
+    },
+    "attack": {
+      "pt": "ataque"
+    },
+    "installation": {
+      "pt": "instalação"
+    },
+    "utilities": {
+      "pt": "utilitários, programas de apoio"
+    },
+    "tampered": {
+      "pt": "adulterado",
+      "highlight": true
+    },
+    "south": {
+      "pt": "sul"
+    },
+    "korean": {
+      "pt": "coreano"
+    },
+    "installed": {
+      "pt": "instalado"
+    },
+    "modified": {
+      "pt": "modificado"
+    },
+    "launches": {
+      "pt": "abre, inicia"
+    },
+    "avoid": {
+      "pt": "evitar"
+    },
+    "suspicion": {
+      "pt": "suspeita",
+      "highlight": true
+    },
+    "quietly": {
+      "pt": "em silêncio"
+    },
+    "downloading": {
+      "pt": "baixando"
+    },
+    "based": {
+      "pt": "baseado"
+    },
+    "access": {
+      "pt": "acesso"
+    },
+    "trojan": {
+      "pt": "cavalo de Troia, programa malicioso disfarçado",
+      "highlight": true
+    },
+    "outside": {
+      "pt": "externo"
+    },
+    "server": {
+      "pt": "servidor"
+    },
+    "transfer": {
+      "pt": "transferir"
+    },
+    "checks": {
+      "pt": "verificações"
+    },
+    "products": {
+      "pt": "produtos"
+    },
+    "list": {
+      "pt": "lista"
+    },
+    "attackers": {
+      "pt": "atacantes"
+    },
+    "step": {
+      "pt": "passo"
+    },
+    "persistence": {
+      "pt": "persistência (ficar no computador)",
+      "highlight": true
+    },
+    "creates": {
+      "pt": "cria"
+    },
+    "scheduled": {
+      "pt": "agendado"
+    },
+    "task": {
+      "pt": "tarefa"
+    },
+    "pretends": {
+      "pt": "finge"
+    },
+    "belong": {
+      "pt": "pertencer"
+    },
+    "microsoft": {
+      "pt": "Microsoft, empresa de tecnologia"
+    },
+    "edge": {
+      "pt": "Edge, navegador da Microsoft"
+    },
+    "linked": {
+      "pt": "ligado"
+    },
+    "code": {
+      "pt": "código"
+    },
+    "chinese": {
+      "pt": "chinês"
+    },
+    "language": {
+      "pt": "idioma"
+    },
+    "comments": {
+      "pt": "comentários"
+    },
+    "warned": {
+      "pt": "alertou"
+    },
+    "uninstalling": {
+      "pt": "desinstalando"
+    },
+    "hashes": {
+      "pt": "hashes (código que identifica um arquivo)"
+    },
+    "tasks": {
+      "pt": "tarefas"
+    },
+    "network": {
+      "pt": "rede"
+    },
+    "traffic": {
+      "pt": "tráfego"
+    }
+  }
+}

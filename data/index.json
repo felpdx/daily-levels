@@ -1,6 +1,41 @@
 {
   "articles": [
     {
+      "id": "2026-11-28-pcloud-pass-cyber-attack",
+      "date": "2026-11-28",
+      "topic": "hacking",
+      "title": "pCloud Pass was attacked",
+      "source": "The Hacker News"
+    },
+    {
+      "id": "2026-11-28-qdir-desktopok-trojanized",
+      "date": "2026-11-28",
+      "topic": "hacking",
+      "title": "Bad files on a real download site",
+      "source": "The Hacker News"
+    },
+    {
+      "id": "2026-11-28-norse-atlantic-suspends-flights",
+      "date": "2026-11-28",
+      "topic": "bolsa",
+      "title": "An airline stops all flights",
+      "source": "BBC News"
+    },
+    {
+      "id": "2026-11-28-nvidia-asia-ai-bet",
+      "date": "2026-11-28",
+      "topic": "bolsa",
+      "title": "Asia depends on Nvidia",
+      "source": "BBC News"
+    },
+    {
+      "id": "2026-11-28-earth-two-degrees-seven-days",
+      "date": "2026-11-28",
+      "topic": "mundo",
+      "title": "The Earth was very hot for a week",
+      "source": "MercoPress"
+    },
+    {
       "id": "2026-11-27-polinrider-github-malware",
       "date": "2026-11-27",
       "topic": "hacking",

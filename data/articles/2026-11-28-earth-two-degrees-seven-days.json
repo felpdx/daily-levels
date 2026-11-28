@@ -1,0 +1,274 @@
+{
+  "id": "2026-11-28-earth-two-degrees-seven-days",
+  "date": "2026-11-28",
+  "topic": "mundo",
+  "source": {
+    "name": "MercoPress",
+    "url": "https://en.mercopress.com/2026/11/27/earth-exceeds-2c-of-warming-for-seven-consecutive-days-for-the-first-time?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+    "publishedAt": "2026-11-27T04:35:00Z"
+  },
+  "levels": {
+    "1": {
+      "title": "The Earth was very hot for a week",
+      "text": "For seven days in a row, the Earth was more than 2C warmer than in pre-industrial times. This never happened before. The European service Copernicus says so. The data are early. This does not break the Paris Agreement. But a scientist says it shows where the climate is going."
+    },
+    "2": {
+      "title": "Earth passes 2C of warming for seven days in a row",
+      "text": "The Copernicus Climate Change Service says the planet's average temperature was more than 2C above pre-industrial levels for seven days in a row. This had never happened before. On November 23, the biggest daily difference ever measured was recorded: 2.25C.\n\nThis does not break the Paris Agreement, which looks at the average over many years. Still, Samantha Burgess, a climate expert, said it is a clear preview of where our climate is going. El Nino is temporary, she said, but warming from greenhouse gases will stay unless emissions fall.\n\nCopernicus expects 2026 to be the second-warmest year on record. The report also notes that the COP31 climate summit ended without a main agreement."
+    },
+    "3": {
+      "title": "Earth exceeds 2C of warming for seven consecutive days for the first time",
+      "text": "The Copernicus Climate Change Service has confirmed that the planet's average temperature was more than 2C above pre-industrial levels for seven consecutive days, something that had never happened before. On November 23, the largest daily anomaly ever measured was recorded, at 2.25C above the 1850-1900 period. The threshold was crossed on ten days in November, seven of them in a row.\n\nExceeding the level for a few days is not the same as breaching the Paris Agreement, which is measured as an average over many years. Samantha Burgess, a climate specialist at the European Centre for Medium-Range Weather Forecasts, called it a clear preview of where the climate is heading. She said El Nino is temporary, but warming caused by greenhouse gases will persist unless emissions fall.\n\nCopernicus considers it very likely that 2026 will end as the second-warmest year on record. Its director, Carlo Buontempo, warned there is a fairly high chance that at least one year will exceed 2C before 2030. The record came as the COP31 summit in Antalya ended without a main political agreement."
+    }
+  },
+  "glossary": {
+    "earth": {
+      "pt": "Terra"
+    },
+    "hot": {
+      "pt": "quente"
+    },
+    "seven": {
+      "pt": "sete"
+    },
+    "row": {
+      "pt": "fila (in a row: seguidos)"
+    },
+    "warmer": {
+      "pt": "mais quente"
+    },
+    "pre": {
+      "pt": "pré (pré-industrial)"
+    },
+    "industrial": {
+      "pt": "industrial"
+    },
+    "european": {
+      "pt": "europeu"
+    },
+    "service": {
+      "pt": "serviço"
+    },
+    "copernicus": {
+      "pt": "Copernicus, serviço europeu de observação da Terra"
+    },
+    "data": {
+      "pt": "dados"
+    },
+    "break": {
+      "pt": "quebrar, violar"
+    },
+    "paris": {
+      "pt": "Paris"
+    },
+    "agreement": {
+      "pt": "acordo"
+    },
+    "scientist": {
+      "pt": "cientista"
+    },
+    "climate": {
+      "pt": "clima"
+    },
+    "passes": {
+      "pt": "passa de"
+    },
+    "warming": {
+      "pt": "aquecimento",
+      "highlight": true
+    },
+    "planet's": {
+      "pt": "do planeta"
+    },
+    "average": {
+      "pt": "média",
+      "highlight": true
+    },
+    "temperature": {
+      "pt": "temperatura"
+    },
+    "above": {
+      "pt": "acima de"
+    },
+    "levels": {
+      "pt": "níveis"
+    },
+    "november": {
+      "pt": "novembro"
+    },
+    "daily": {
+      "pt": "diário"
+    },
+    "difference": {
+      "pt": "diferença"
+    },
+    "ever": {
+      "pt": "já, alguma vez"
+    },
+    "measured": {
+      "pt": "medido"
+    },
+    "recorded": {
+      "pt": "registrado"
+    },
+    "samantha": {
+      "pt": "Samantha, nome de uma especialista em clima"
+    },
+    "burgess": {
+      "pt": "Burgess, sobrenome de Samantha, especialista em clima"
+    },
+    "expert": {
+      "pt": "especialista"
+    },
+    "preview": {
+      "pt": "prévia"
+    },
+    "el": {
+      "pt": "El (parte de El Nino)"
+    },
+    "nino": {
+      "pt": "Nino (El Nino: fenômeno climático)"
+    },
+    "temporary": {
+      "pt": "temporário",
+      "highlight": true
+    },
+    "greenhouse": {
+      "pt": "estufa (efeito estufa)",
+      "highlight": true
+    },
+    "gases": {
+      "pt": "gases"
+    },
+    "stay": {
+      "pt": "ficar"
+    },
+    "unless": {
+      "pt": "a menos que"
+    },
+    "emissions": {
+      "pt": "emissões",
+      "highlight": true
+    },
+    "expects": {
+      "pt": "espera"
+    },
+    "warmest": {
+      "pt": "mais quente"
+    },
+    "record": {
+      "pt": "recorde"
+    },
+    "report": {
+      "pt": "relatório, reportagem"
+    },
+    "notes": {
+      "pt": "anotações"
+    },
+    "summit": {
+      "pt": "cúpula, encontro de líderes"
+    },
+    "exceeds": {
+      "pt": "passa de"
+    },
+    "consecutive": {
+      "pt": "seguidos",
+      "highlight": true
+    },
+    "confirmed": {
+      "pt": "confirmou"
+    },
+    "something": {
+      "pt": "algo"
+    },
+    "anomaly": {
+      "pt": "anomalia, desvio fora do normal",
+      "highlight": true
+    },
+    "period": {
+      "pt": "período"
+    },
+    "threshold": {
+      "pt": "limite",
+      "highlight": true
+    },
+    "crossed": {
+      "pt": "cruzou"
+    },
+    "ten": {
+      "pt": "dez"
+    },
+    "exceeding": {
+      "pt": "passando de"
+    },
+    "level": {
+      "pt": "nível"
+    },
+    "breaching": {
+      "pt": "violar, romper"
+    },
+    "specialist": {
+      "pt": "especialista"
+    },
+    "centre": {
+      "pt": "centro"
+    },
+    "medium": {
+      "pt": "médio"
+    },
+    "range": {
+      "pt": "alcance (Medium-Range: médio prazo)"
+    },
+    "weather": {
+      "pt": "tempo, clima do dia a dia"
+    },
+    "forecasts": {
+      "pt": "previsões"
+    },
+    "heading": {
+      "pt": "indo em direção a"
+    },
+    "caused": {
+      "pt": "causou"
+    },
+    "persist": {
+      "pt": "continuar"
+    },
+    "considers": {
+      "pt": "considera"
+    },
+    "likely": {
+      "pt": "provável"
+    },
+    "director": {
+      "pt": "diretor"
+    },
+    "carlo": {
+      "pt": "Carlo, nome do diretor do Copernicus"
+    },
+    "buontempo": {
+      "pt": "Buontempo, sobrenome de Carlo, diretor do Copernicus"
+    },
+    "warned": {
+      "pt": "alertou"
+    },
+    "fairly": {
+      "pt": "bastante"
+    },
+    "chance": {
+      "pt": "chance"
+    },
+    "least": {
+      "pt": "pelo menos"
+    },
+    "exceed": {
+      "pt": "passar de, superar"
+    },
+    "antalya": {
+      "pt": "Antalya, cidade da Turquia"
+    },
+    "political": {
+      "pt": "político"
+    }
+  }
+}
